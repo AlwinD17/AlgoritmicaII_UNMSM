@@ -1,0 +1,158 @@
+I. OBJETIVOS
+Este trabajo final tiene por finalidad que el alumno desarrolle e implemente un sistema 
+de información de nivel empresarial aplicando los conocimientos adquiridos en el
+curso y el trabajo en equipo. Esto permitirá al participante:
+
+● Aplicar los conceptos y técnicas asimilados en el curso y/o resultado de la
+investigación, para diseñar e implementar unas bases de datos relacionales de nivel
+profesional, que responda a los estándares de exigencia de los entornos
+empresariales actuales.
+
+● Mejorar su habilidad de trabajar en equipo, preparándolo así para formar parte de
+entornos laborales diversos.
+
+● Trabajar en base a objetivos y plazos, desarrollando así su capacidad para trabajar
+bajo presión.
+
+● Preparar presentaciones ejecutivas y técnicas, incrementando su capacidad de
+comunicación orientadas al público de nivel corporativo, al igual que exposiciones
+frente a público especializado.
+
+● Someter a prueba su capacidad de elaboración de entregas y/o informes escritos de
+nivel profesional, que sirvan de marco adecuado para trabajos y productos de alta calidad.
+
+● Todo proyecto que tenga un enfoque de medio ambiente y/o de responsabilidad
+social tendrá una consideración mayor en la calificación final.
+
+II. SOBRE EL EQUIPO DE TRABAJO
+● El equipo de trabajo estará conformado por cinco (5) integrantes como máximo y de
+cuatro (4) como mínimo, de los cuales uno será elegido coordinador de grupo.
+
+●  Al presentar la relación de integrantes y tema elegido, el profesor del curso entregará
+un Código de 2 dígitos que indicará el número de grupo. Dicho código será utilizado
+en todos los documentos entregados por el Equipo de Trabajo.
+
+●  En cada Fase, el coordinador incluirá un informe escrito dirigido al profesor,
+indicando el desempeño y participación de los integrantes del grupo durante la
+elaboración de la fase correspondiente.
+
+III. TEMA DEL TRABAJO FINAL
+                            JUEZ CACHIMBO
+Uno de los puntos más fuertes en un examen de admisión son las preguntas de
+comprensión de lectura. Es por eso por lo que un grupo de estudiantes de la Facultad de
+Educación de la Universidad Nacional Mayor de San Marcos tuvo la idea de crear una
+plataforma para practicar ejercicios de comprensión de lectura al mismo estilo de las
+plataformas de programación competitiva (Por ejemplo, Hackerrank o Codeforces). El
+problema es que ellos no tienen habilidades de programación para desarrollar este tipo de
+plataformas. De esta manera, ellos han solicitado al profesor del curso de Algorítmica II
+de la Facultad de Ingeniería de Sistemas e Informática que sus alumnos puedan desarrollar
+esta plataforma ya que ellos confían mucho en sus capacidades. Las especificaciones de la
+plataforma son las siguientes:
+●  Existen dos tipos de usuarios: los profesores, que verifican el progreso general de
+los estudiantes, y los estudiantes, que practican ejercicios de comprensión de lectura.
+
+●  Un ESTUDIANTE puede registrarse en el sistema. Para esto, el estudiante necesi-
+tará llenar un formulario con la siguiente información:
+    - nombre de usuario (único entre los usuarios del sistema, pueden usarse letras,
+     números y los símbolos ".", "_ " y "-").
+    - contraseña (mínimo 6 caracteres)
+    - nombres y apellidos (por separado)
+    - fecha de nacimiento
+
+●  Adicionalmente, el ESTUDIANTE debe seleccionar al GRUPO al que pertenece
+de los disponibles. No debe ingresar textualmente sino seleccionar (ver sección
+PROFESOR)
+
+●El ESTUDIANTE puede buscar un texto que quiera practicar usando palabras
+claves. Por ejemplo, si coloca la palabra “guerra del pacífico”, el sistema debería
+retornar todos los textos que contengan esa expresión o sus derivados (por ejemplo, 
+“guerra”, “pacífico”, “guerrero”). Por otro lado, el sistema no debería retornar
+textos que contengan la palabra “del” porque no contiene ningún significado.
+
+● El ESTUDIANTE puede seleccionar un texto para practicar. Al seleccionar un
+texto, se debería mostrar el texto y las preguntas y alternativas correspondientes.
+Luego, debe resolver todas las preguntas de ese texto y enviar sus respuestas al sis-
+tema. Una vez resuelto, el sistema debe mostrar cuáles fueron las preguntas correc-
+ta e incorrectamente respondidas, la alternativa correcta y una explicación sobre el
+raciocínio usado para su respuesta. Después de esto, el ESTUDIANTE NO debe
+de volver a ver este texto en sus búsquedas.
+
+● El ESTUDIANTE también debe ser capaz de ver sus propias estadísticas:
+    - Cantidad de textos leídos
+    - Porcentaje de preguntas correctamente respondidas en total
+    - Porcentaje promedio de preguntas correctamente respondidas por texto
+    - Porcentaje de textos en los que el estudiante falló todas las preguntas
+    - Porcentaje de textos en los que el estudiante acertó todas las preguntas
+
+● Un PROFESOR también puede registrarse en el sistema. Los datos son los mismos
+que un ESTUDIANTE registra, pero, además, debe agregar la carrera profe-
+sional.
+
+● Un PROFESOR debe poder crear un GRUPO, el cual le servirá para poder moni-
+torear a sus alumnos. Un GRUPO debe contener la siguiente información:
+    - Código de grupo
+    - Nombre del grupo
+
+● Un PROFESOR puede crear un ejercicio para todos los grupos del sistema. Para
+esto, el profesor deberá ingresar la siguiente información:
+    - Texto
+    - Pregunta
+    - Alternativas
+    - Respuesta correcta
+    - Razonamiento
+    
+● Un PROFESOR debe poder ver las estadísticas generales de su GRUPO. Por
+ejemplo:
+    - Cantidad de textos resueltos por todos sus alumnos
+    - Porcentaje de preguntas correctamente respondidas por alumnos de su
+    GRUPO
+    - Porcentaje promedio de preguntas correctamente respondidas por texto por
+    alumnos de su GRUPO
+    - Textos más leídos
+    - Textos más fáciles de resolver por sus alumnos (ordenados por cantidad de
+    preguntas correctamente respondidas)
+    - Textos más difíciles de resolver por sus alumnos (ordenados por cantidad
+    de preguntas correctamente respondidas)
+
+● Con relación a los textos, cuando un PROFESOR ingresa un texto nuevo, este de-
+be tener un código automáticamente generado. Se puede usar, por ejemplo, solo un id
+de cantidad de documentos (id: 1, id: 2, etc).
+
+● Cualquier usuario debe poder hacer login y logout en la plataforma.
+
+● Toda información sobre el PROFESOR, GRUPO y ESTUDIANTE debe ser
+guardada en archivos (pudiendo ser binario o de texto).
+
+● Los textos deben ser guardados en archivos de texto. Cada texto debe ser guardado
+en un archivo. Cada archivo debe seguir el siguiente patrón:
+
+ID: <Id del texto>
+=====================TEXTO======================
+<Texto>
+=====================PREGUNTA 1======================
+<Pregunta>
+=====================ALTERNATIVAS======================
+A.
+B.
+C . ..
+=====================ALTERNATIVA CORRECTA======================
+<respuesta>
+=====================RAZONAMIENTO======================
+<razonamiento>
+=====================PREGUNTA 2======================
+<Pregunta>
+=====================ALTERNATIVAS======================
+A.
+B.
+C . ..
+=====================ALTERNATIVA CORRECTA======================
+<respuesta>
+=====================RAZONAMIENTO======================
+<razonamiento>
+... <hasta completar todas las preguntas>
+
+Finalmente, para su buena suerte, los estudiantes de Educación tienen un conjunto de
+textos iniciales. Así, ustedes no tendrán que buscarlos por su cuenta. El único
+inconveniente es que no están limpios, por lo tanto, como equipo de desarrollo, tendrán
+que realizar la etapa de limpieza de manera manual y construir los primeros archivos de
+esta forma.
