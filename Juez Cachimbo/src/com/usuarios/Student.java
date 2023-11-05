@@ -1,6 +1,6 @@
-package Usuarios;
+package com.usuarios;
 
-import Ejercicios.AvailableTexts;
+import com.ejercicios.AvailableTexts;
 import java.util.ArrayList;
 import java.util.Date;
 
