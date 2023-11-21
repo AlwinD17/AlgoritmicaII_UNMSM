@@ -1,0 +1,71 @@
+&&usuario&&contraseña
+-ruta
+----------------------
+-> ruta
+	objeto(usuario) la info
+----------------------
+
+.com
+|
+|_Userlist
+|	|userlist.txt
+|		|&&usuario&&contraseña
+|		|-ruta 
+|
+|
+|_Userinfo
+|	|objeto(usuario)
+|
+|
+|_Groupinfo
+|	|
+|	|objeto(grupo)
+|
+|
+|_Texts
+
+----------------------
+
+ALUMNO
+se crea objeto(alumno)
+Recorre carpetas
+	/textos/ciclo/semana/id
+	Se itera con las rutas guardadas en la array del alumno
+	objeto(Texto)
+		objeto(pregunta)
+
+	Se muestran los textos
+
+	Alumno lee --> texto 
+			|
+			|_alumno guarda la ruta del texto --> array
+			|
+			|_alumno guarda #preguntas correctas e incorrectas --> actualiza informacion del grupo
+
+	Iterar objetos(texto) <-> se elimina objeto
+	Se sobreescribe info del alumno en el archivo txt
+	
+
+PROFESOR
+se crea objeto(profesor)
+Recorre carpetas
+	/textos/ciclo/semana/id.txt
+	objeto(Texto)
+		objeto(pregunta)
+Recorre carpetas
+	/grouplist/group
+	objeto(group)
+
+crear/editar grupos
+	|
+	|_se crea o sobreescribe una linea en grouplist.txt
+crear textos
+	|
+	|_se crea un fichero
+			|
+			| /textos/semana/ciclo/id.txt
+		
+
+
+guerra del pacifico
+shamir es un cabro y es chato
