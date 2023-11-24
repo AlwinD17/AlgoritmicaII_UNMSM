@@ -7,8 +7,11 @@ package InterfazPanelesProfesor;
 
 import com.usuarios.Group;
 import java.awt.BorderLayout;
+import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
+import javax.swing.JTextField;
 
 /**
  *
@@ -33,91 +36,175 @@ public class GrupoCreado extends CrearGrupo {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jButton1 = new javax.swing.JButton();
-        jButton2 = new javax.swing.JButton();
-        jButton3 = new javax.swing.JButton();
+        jPanel2 = new javax.swing.JPanel();
         jLabelCodigo = new javax.swing.JLabel();
         jLabelGrupo = new javax.swing.JLabel();
         jLabelIntegrantes = new javax.swing.JLabel();
+        jButtonEditarPanel = new javax.swing.JButton();
+        jButton2 = new javax.swing.JButton();
+        jButton3 = new javax.swing.JButton();
 
-        jButton1.setText("EDITAR");
-        jButton1.addActionListener(new java.awt.event.ActionListener() {
+        setBackground(new java.awt.Color(204, 255, 204));
+        setPreferredSize(new java.awt.Dimension(320, 110));
+
+        jLabelCodigo.setText("Codigo");
+
+        jLabelGrupo.setText("Grupo N");
+
+        jLabelIntegrantes.setText("N Estudiantes");
+
+        jButtonEditarPanel.setText("EDITAR");
+        jButtonEditarPanel.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
+                jButtonEditarPanelActionPerformed(evt);
             }
         });
 
         jButton2.setText("ESTADISTICAS");
+        jButton2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton2ActionPerformed(evt);
+            }
+        });
 
         jButton3.setText("VER MAS");
+        jButton3.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton3ActionPerformed(evt);
+            }
+        });
 
-        jLabelCodigo.setText("Codigo");
-
-        jLabelGrupo.setText("jLabel2");
-
-        jLabelIntegrantes.setText("jLabel3");
+        javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
+        jPanel2.setLayout(jPanel2Layout);
+        jPanel2Layout.setHorizontalGroup(
+            jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel2Layout.createSequentialGroup()
+                .addGap(22, 22, 22)
+                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel2Layout.createSequentialGroup()
+                        .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jLabelIntegrantes)
+                            .addComponent(jLabelGrupo))
+                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                    .addGroup(jPanel2Layout.createSequentialGroup()
+                        .addComponent(jLabelCodigo)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jButtonEditarPanel)
+                        .addGap(40, 40, 40))))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel2Layout.createSequentialGroup()
+                .addContainerGap(98, Short.MAX_VALUE)
+                .addComponent(jButton2)
+                .addGap(18, 18, 18)
+                .addComponent(jButton3)
+                .addGap(18, 18, 18))
+        );
+        jPanel2Layout.setVerticalGroup(
+            jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel2Layout.createSequentialGroup()
+                .addGap(14, 14, 14)
+                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabelCodigo, javax.swing.GroupLayout.PREFERRED_SIZE, 19, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jButtonEditarPanel))
+                .addGap(18, 18, 18)
+                .addComponent(jLabelGrupo)
+                .addGap(18, 18, 18)
+                .addComponent(jLabelIntegrantes)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jButton2)
+                    .addComponent(jButton3))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+        );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
         this.setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addGap(36, 36, 36)
-                .addComponent(jLabelGrupo)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-            .addGroup(layout.createSequentialGroup()
-                .addGap(22, 22, 22)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(layout.createSequentialGroup()
-                        .addComponent(jLabelIntegrantes)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 132, Short.MAX_VALUE)
-                        .addComponent(jButton2)
-                        .addGap(18, 18, 18)
-                        .addComponent(jButton3)
-                        .addGap(34, 34, 34))
-                    .addGroup(layout.createSequentialGroup()
-                        .addComponent(jLabelCodigo)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(jButton1)
-                        .addGap(31, 31, 31))))
+            .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addContainerGap()
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jButton1)
-                    .addGroup(layout.createSequentialGroup()
-                        .addComponent(jLabelCodigo, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addGap(4, 4, 4)))
-                .addGap(18, 18, 18)
-                .addComponent(jLabelGrupo)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(layout.createSequentialGroup()
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                            .addComponent(jButton2)
-                            .addComponent(jButton3))
-                        .addContainerGap())
-                    .addGroup(layout.createSequentialGroup()
-                        .addGap(18, 18, 18)
-                        .addComponent(jLabelIntegrantes)
-                        .addContainerGap(23, Short.MAX_VALUE))))
+            .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
         );
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jButton1ActionPerformed
+    private void jButtonEditarPanelActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonEditarPanelActionPerformed
+        JTextField codigoField = new JTextField();
+        JTextField grupoField = new JTextField();
+        JTextField integrantesField = new JTextField();
+
+        Object[] message = {
+                "Código:", codigoField,
+                "Grupo:", grupoField,
+                "Integrantes:", integrantesField
+        };
+
+        int option = JOptionPane.showConfirmDialog(this, message, "Editar Panel", JOptionPane.OK_CANCEL_OPTION);
+
+        if (option == JOptionPane.OK_OPTION) {
+            // Obtener los valores ingresados por el usuario
+            String nuevoCodigo = codigoField.getText();
+            String nuevoGrupo = grupoField.getText();
+            String nuevosIntegrantes = integrantesField.getText();
+
+            // Actualizar los JLabel con los nuevos valores
+            actualizarJLabel(jLabelCodigo, "Código: " + nuevoCodigo);
+            actualizarJLabel(jLabelGrupo, "Grupo: " + nuevoGrupo);
+            actualizarJLabel(jLabelIntegrantes, "Integrantes: " + nuevosIntegrantes);
+        }
+    }//GEN-LAST:event_jButtonEditarPanelActionPerformed
+    
+    private void actualizarJLabel(JLabel label, String nuevoTexto) {
+        label.getAccessibleContext().setAccessibleDescription(nuevoTexto);
+}
+
+
+
+    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
+        JFrame frame = new JFrame("Grupo Estadísticas");
+
+        // Crea una instancia del JPanel
+        Grupo_Estadisticas panelEstadistica = new Grupo_Estadisticas();
+
+        // Añade el panel al JFrame
+        frame.getContentPane().add(panelEstadistica);
+
+        // Configura la operación de cierre del JFrame
+        frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+
+        // Ajusta el tamaño y hace visible el JFrame
+        frame.setSize(647, 645);
+        frame.setLocationRelativeTo(null); // Centra la ventana en la pantalla
+        frame.setVisible(true);   
+    }//GEN-LAST:event_jButton2ActionPerformed
+
+    private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
+        JFrame frame = new JFrame("Grupo Integrantes");
+
+        // Crea una instancia del JPanel
+        Grupo_VerIntegrantes panelIntegrantes = new Grupo_VerIntegrantes();
+
+        // Añade el panel al JFrame
+        frame.getContentPane().add(panelIntegrantes);
+
+        // Configura la operación de cierre del JFrame
+        frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+
+        // Ajusta el tamaño y hace visible el JFrame
+        frame.setSize(647, 645);
+        frame.setLocationRelativeTo(null); // Centra la ventana en la pantalla
+        frame.setVisible(true);   
+    }//GEN-LAST:event_jButton3ActionPerformed
 
     
     
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;
     private javax.swing.JButton jButton3;
+    private javax.swing.JButton jButtonEditarPanel;
     private javax.swing.JLabel jLabelCodigo;
     private javax.swing.JLabel jLabelGrupo;
     private javax.swing.JLabel jLabelIntegrantes;
+    private javax.swing.JPanel jPanel2;
     // End of variables declaration//GEN-END:variables
 }

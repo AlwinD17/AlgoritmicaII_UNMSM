@@ -28,7 +28,6 @@ public class MenuProfesores extends javax.swing.JFrame {
      */
     public MenuProfesores() {
         initComponents();
-        
         imagen();
 
     }
@@ -56,16 +55,19 @@ public class MenuProfesores extends javax.swing.JFrame {
         jPanel2 = new javax.swing.JPanel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setMinimumSize(new java.awt.Dimension(1020, 620));
 
         jPanel1.setBackground(new java.awt.Color(0, 204, 204));
 
         jLabel1.setBackground(new java.awt.Color(0, 204, 204));
+        jLabel1.setFont(new java.awt.Font("Arial Black", 0, 18)); // NOI18N
         jLabel1.setText("MENU PROFESORES");
 
         jPanelGrupo.setBackground(new java.awt.Color(0, 204, 204));
         jPanelGrupo.setPreferredSize(new java.awt.Dimension(300, 170));
 
         jButtonGrupo.setBackground(new java.awt.Color(0, 204, 204));
+        jButtonGrupo.setFont(new java.awt.Font("Arial Black", 0, 14)); // NOI18N
         jButtonGrupo.setText("GRUPO");
         jButtonGrupo.setMaximumSize(new java.awt.Dimension(80, 80));
         jButtonGrupo.addActionListener(new java.awt.event.ActionListener() {
@@ -98,6 +100,7 @@ public class MenuProfesores extends javax.swing.JFrame {
         jPanelEjercicio.setBackground(new java.awt.Color(0, 204, 204));
 
         jButtonEjercicio.setBackground(new java.awt.Color(0, 204, 204));
+        jButtonEjercicio.setFont(new java.awt.Font("Arial Black", 0, 14)); // NOI18N
         jButtonEjercicio.setText("EJERCICIO");
         jButtonEjercicio.setMaximumSize(new java.awt.Dimension(80, 80));
         jButtonEjercicio.addActionListener(new java.awt.event.ActionListener() {
@@ -130,6 +133,7 @@ public class MenuProfesores extends javax.swing.JFrame {
         jPanelPerfil.setPreferredSize(new java.awt.Dimension(300, 170));
 
         jButtonPerfil.setBackground(new java.awt.Color(0, 204, 204));
+        jButtonPerfil.setFont(new java.awt.Font("Arial Black", 0, 14)); // NOI18N
         jButtonPerfil.setText("PERFIL");
         jButtonPerfil.setMaximumSize(new java.awt.Dimension(80, 80));
         jButtonPerfil.addActionListener(new java.awt.event.ActionListener() {
@@ -163,19 +167,19 @@ public class MenuProfesores extends javax.swing.JFrame {
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(130, 130, 130)
-                .addComponent(jLabel1))
             .addComponent(jPanelPerfil, javax.swing.GroupLayout.PREFERRED_SIZE, 367, javax.swing.GroupLayout.PREFERRED_SIZE)
             .addComponent(jPanelGrupo, javax.swing.GroupLayout.PREFERRED_SIZE, 367, javax.swing.GroupLayout.PREFERRED_SIZE)
             .addComponent(jPanelEjercicio, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+            .addGroup(jPanel1Layout.createSequentialGroup()
+                .addGap(64, 64, 64)
+                .addComponent(jLabel1))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(20, 20, 20)
+                .addGap(14, 14, 14)
                 .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 0, 0)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jPanelPerfil, javax.swing.GroupLayout.PREFERRED_SIZE, 190, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(0, 0, 0)
                 .addComponent(jPanelGrupo, javax.swing.GroupLayout.PREFERRED_SIZE, 190, javax.swing.GroupLayout.PREFERRED_SIZE)

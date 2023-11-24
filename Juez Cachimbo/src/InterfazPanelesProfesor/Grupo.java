@@ -5,6 +5,8 @@
 package InterfazPanelesProfesor;
 
 import java.awt.BorderLayout;
+import java.util.ArrayList;
+import java.util.List;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
@@ -15,14 +17,17 @@ import javax.swing.JPanel;
  * @author USUARIO
  */
 public class Grupo extends javax.swing.JPanel{
-
+    private List<JPanel> Paneles; 
+    private int indice;
     /**
      * Creates new form Grupo
      */
     public Grupo() {
         initComponents();
+        Paneles= new ArrayList<>();
+        indice=0;
     }
-    
+ /*      
     private void ShowJPanel(JPanel p){
         p.setSize(647,645);
         p.setLocation(0, 0);
@@ -32,6 +37,8 @@ public class Grupo extends javax.swing.JPanel{
         jPanel1.revalidate();
         jPanel1.repaint();
     }
+    
+ 
     private void Agregar(JPanel p){
         p.setSize(430,120);
         p.setLocation(0, 0);
@@ -52,7 +59,12 @@ public class Grupo extends javax.swing.JPanel{
     } 
        public void AñadirGrupoCreado(){
            Agregar(new GrupoCreado());
-       }
+       }*/
+    
+    
+    
+    
+    
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
@@ -65,6 +77,8 @@ public class Grupo extends javax.swing.JPanel{
         jPanel1 = new javax.swing.JPanel();
         jButtonCrearGrupo = new javax.swing.JButton();
         jTextFieldBuscarGrupo = new javax.swing.JTextField();
+        jScrollPaneGrupodePaneles = new javax.swing.JScrollPane();
+        jPanel2 = new javax.swing.JPanel();
 
         setPreferredSize(new java.awt.Dimension(647, 645));
 
@@ -78,6 +92,15 @@ public class Grupo extends javax.swing.JPanel{
             }
         });
 
+        jTextFieldBuscarGrupo.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextFieldBuscarGrupoActionPerformed(evt);
+            }
+        });
+
+        jPanel2.setLayout(new java.awt.GridLayout(3, 0));
+        jScrollPaneGrupodePaneles.setViewportView(jPanel2);
+
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
@@ -88,6 +111,10 @@ public class Grupo extends javax.swing.JPanel{
                 .addGap(53, 53, 53)
                 .addComponent(jButtonCrearGrupo, javax.swing.GroupLayout.PREFERRED_SIZE, 130, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(207, Short.MAX_VALUE))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
+                .addGap(28, 28, 28)
+                .addComponent(jScrollPaneGrupodePaneles)
+                .addGap(39, 39, 39))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -96,7 +123,9 @@ public class Grupo extends javax.swing.JPanel{
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jTextFieldBuscarGrupo, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jButtonCrearGrupo))
-                .addContainerGap(603, Short.MAX_VALUE))
+                .addGap(33, 33, 33)
+                .addComponent(jScrollPaneGrupodePaneles)
+                .addGap(41, 41, 41))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
@@ -113,15 +142,25 @@ public class Grupo extends javax.swing.JPanel{
 
     private void jButtonCrearGrupoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonCrearGrupoActionPerformed
  
-    ShowJPanel(new CrearGrupo());
-    //ShowJPanel(new GrupoCreado());
-    
+   // ShowJPanel(new CrearGrupo());
+        GrupoCreado crearGrupoPanel= new GrupoCreado();
+        jPanel2.add(crearGrupoPanel);
+        Paneles.add(crearGrupoPanel);
+        indice++;
+        jPanel2.updateUI();
+        
     }//GEN-LAST:event_jButtonCrearGrupoActionPerformed
+
+    private void jTextFieldBuscarGrupoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextFieldBuscarGrupoActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextFieldBuscarGrupoActionPerformed
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButtonCrearGrupo;
     private javax.swing.JPanel jPanel1;
+    private javax.swing.JPanel jPanel2;
+    private javax.swing.JScrollPane jScrollPaneGrupodePaneles;
     private javax.swing.JTextField jTextFieldBuscarGrupo;
     // End of variables declaration//GEN-END:variables
 }
