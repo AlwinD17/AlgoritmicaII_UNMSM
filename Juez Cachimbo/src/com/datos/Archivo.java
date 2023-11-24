@@ -26,5 +26,7 @@ public class Archivo {
 
   public boolean userExists(String userToSearch) {
     
+      return false;
+ 
   }
 }

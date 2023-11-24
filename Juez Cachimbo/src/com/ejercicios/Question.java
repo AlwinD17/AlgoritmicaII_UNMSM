@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 
 public class Question {
-     private String content;
+    private String content;
     private ArrayList<String> alternatives;
     private String rightAlternative;
     private boolean answered;

@@ -18,10 +18,8 @@ public class teacher extends User{
         this.career = career;
     }
     
-    public Group createGroup(String id, String name){
-        Group group = new Group(id,name);
+    public Group createGroup(String id, String name, int numEstudiantes){
+        Group group = new Group(id,name,numEstudiantes);
         return group;
-    }
-    
-    
+    }    
 }
