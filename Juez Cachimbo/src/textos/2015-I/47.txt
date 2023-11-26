@@ -1,0 +1,65 @@
+ID: 47
+=====================TEXTO======================
+Si un médico creyera que sus razonamientos tienen el mismo valor que los de un matemático, estaría muy equivocado y eso lo llevaría a consecuencias muy falsas. Por desgracia, es lo que le ha ocurrido y le ocurre todavía a los hombres que yo denominaría sistemáticos. De hecho, esos hombres parten de una idea fundada más o menos en la observación y que consideran como una verdad absoluta. Cuando razonan de manera lógica y sin experimentar, y llegan, de consecuencia en consecuencia, a construir un sistema lógico, pero sin realidad científica alguna. Con frecuencia, las personas superficiales se dejan fascinar por esta apariencia lógica, y así es como en ocasiones se renuevan actualmente las discusiones dignas de la antigua escolástica. Esa fe demasiado grande en el razonamiento, que conduce a un fisiólogo a una falsa simplificación de las cosas proviene, por un lado, de la ignorancia de la ciencia de la que habla y, por otro, de la ausencia de sentimiento de complejidad de los fenómenos naturales. Por esta razón, vemos en ocasiones a mate máticos puros, grandes mentes además, caer en errores de esta clase; simplifican demasiado y razonan sobre fenómenos tal y como los crean en su mente, pero no como son en la naturaleza.
+El gran principio experimental es, por lo tanto, la duda, la duda filo sófica que deja al espíritu su libertad y su iniciativa, y de donde provienen las cualidades más preciadas para un investigador en fisiología y medicina. No hay que creer en nuestras observaciones, en nuestras teorías, salvo en caso de comprobación experimental.
+Bernard, C. (1994) [1865] Introducción al estudio de la medicina experimental. México: UNAM.
+=====================PREGUNTA 1======================
+Centralmente, Bernard argumenta entorno
+=====================ALTERNATIVAS======================
+A. al modelo de investigación en medicina.
+B. a la diferencia entre ciencia formal y fáctica.
+C. a las f alencias de las mentes matemáticas.
+D. al sistematismo propio de los fisiólogos.
+E. al razonamiento escolástico antiguo.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Bernard critica la postura que enfatiza en el razonamiento y en la esquematización, para formular un modelo de investigación basado en la experimentación.
+=====================PREGUNTA 2======================
+Se desprende del texto que los pensadores del periodo escolástico
+=====================ALTERNATIVAS======================
+A. consideraban a la matemática como una pseudociencia.
+B. eran optimistas respecto al progreso de la medicina.
+C. soslayaban el control e xperimental en sus reflexiones.
+D. evitaban las falacias en todos sus debates públicos.
+E. negaban que la retórica tenía el monopolio de la verdad.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Al referirse a la antigua escolástica, Bernard vincula este periodo con la argumentación lógica, vale decir, al razonamiento sin vínculo con la experimentación.
+=====================PREGUNTA 3======================
+Es compatible con el texto afirmar que Bernard propugnaba que
+=====================ALTERNATIVAS======================
+A. los fenómenos se caracterizan por su simpleza.
+B. debemos investigar partiendo de certezas.
+C. todos los tipos de razonamiento son anodinos.
+D. el criterio de cientificidad debe ser empírico.
+E. las ciencias matemáticas carecen de método.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+No hay que creer en nuestras observaciones, en nuestras teorías, salvo en caso de comprobación experimental.
+=====================PREGUNTA 4======================
+Si un filósofo considerase que la ciencia ha alcanzado la cúspide de su desarrollo, entonces Bernard
+=====================ALTERNATIVAS======================
+A. rechazaría dicha afirmación calificándola de errónea.
+B. apoyaría la teoría epistemológica de aquel filósofo.
+C. negaría la importancia de la filosofía para la ciencia.
+D. reformularía su propuesta metodológica experimental.
+E. consideraría que la verdad es inalcanzable en la ciencia.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+La verdad absoluta que plantean los sistemáticos es errónea; además, la duda filosófica es el motor de la investigación experimental.
+=====================PREGUNTA 5======================
+Según Bernard, la noción de REALIDAD CIENTÍFICA debería vincularse a la
+=====================ALTERNATIVAS======================
+A. simplificación excesiva.
+B. argumentación escolástica.
+C. pasión desenfrenada.
+D. derivación matemática.
+E. comprobación experimental.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Un sistema lógico no refleja la realidad científica; por tanto, la investigación experimental sí lo hace.

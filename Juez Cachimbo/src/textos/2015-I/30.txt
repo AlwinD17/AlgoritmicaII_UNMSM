@@ -1,0 +1,67 @@
+ID: 30
+=====================TEXTO======================
+Las proposiciones son los ladrillos con los que están hechos los argumentos. Cuando afirmamos o llegamos a una proposición ba sándonos en otras proposiciones, decimos que hemos hecho una inferencia. La inferencia es el proceso que puede ligar a un conjunto de proposiciones. Algunas inferencias son justificadas o correctas, otras no. Para determinar si una inferencia es correcta o no, el lógico examina las proposiciones con las que inicia y termina el proceso y las relaciones entre estas proposiciones. Este conjunto de proposiciones constituye un argumento. Los argumentos son el principal objeto de estudio de la lógica.Tal como lo s lógicos utilizan la palabra, un argumento es un grupo de proposiciones del cual se dice que una de ellas se sigue de las otras, consideradas como base o fundamento para la verdad de este . Evidentemente, la palabra argumento a menudo se utiliza con otros sentidos, pero en lógica se utiliza estrictamente en el sentido que se acaba de explicar.
+Para cada inferencia posible existe un argumento correspondiente. Está claro que un argumento no es meramente una colección de proposiciones; un pasaje puede contener varias proposiciones relacionadas y aun así no contener ningún argumento.
+Para que pueda decirse que existe un argumento, tiene que haber alguna estructura en ese conjunto de proposiciones, una estructura que capture o muestre alguna inferencia. Esta estructura se describe utilizando los términos premisa y conclusión. La conclusión de un argumento es la proposición que se afirma con base en otras proposiciones del argumento.
+Estas otras proposiciones, las cuales se afirma (o se asume) que son soporte de la conclusión, son las premisas del argumento. El argumento más simple consiste en una premisa y una conclusión, la cual se dice que se sigue de la primera. Cada una puede enunciarse en oraciones separadas. [Por ejemplo:] - Nadie estaba presente cuando surgió la vida por primera vez sobre la Tierra. Por lo tanto, cualquier enunciado acerca del origen de la vida tiene que ser considerado una teoría ,no un hecho.
+Copi, I. (2002). Introducción a la lógica. México: Limusa.
+=====================PREGUNTA 1======================
+¿Cuál es el tema central del texto?
+=====================ALTERNATIVAS======================
+A. El argumento como una construcción lógica.
+B. La inferencia y su relación con la lógica.
+C. Las premisas y la conclusión en el argumento.
+D. El argumento como premisas sin conclusión.
+E. La verdad en las construcciones argumentadas.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Al afirmar dicha alternativa se incluye automáticamente la inferencia y la estructuración interna.
+=====================PREGUNTA 2======================
+En el ejemplo, el término TEORÍA se puede reemplazar por
+=====================ALTERNATIVAS======================
+A. ilusión.
+B. falsedad.
+C. hipótesis.
+D. demostración.
+E. evidencia.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Teoría como hipótesis, conjunto de supuestos explicativos.
+=====================PREGUNTA 3======================
+Se puede colegir del texto que, en sentido lato, un argumento
+=====================ALTERNATIVAS======================
+A. puede no tener conclusión y solo ser un conjunto de datos.
+B. solo puede establecerse bajo los cánones de los lógicos.
+C. tendrá una calificación válida independiente del contexto.
+D. debe ser eliminado porque siempre carece de coherencia.
+E. es el principal interés de las ciencias sociales y naturales.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+El texto afirma, “evidentemente, la palabra argumento a menudo se utiliza con otros sentidos”; por ende, se puede deducir que algunos llamarán “argumento” a un conjunto de datos.
+=====================PREGUNTA 4======================
+¿Qué enunciado se condice con lo afirmado en el texto?
+=====================ALTERNATIVAS======================
+A. Los argumentos son construcciones lógicas que reposan sobre un conjunto de proposiciones vinculadas entre sí por la inferencia.
+B. La conclusión, para la lógica, no es una proposición, es una premisa que ha permutado su lugar en la construcción argumentativa.
+C. La inferencia está constituida por eslabones p roposicionales ordenados secuencialmente en un argumento.
+D. Todo argumento es complejo de por sí, por ende, requiere de más de una premisa para sostener válidamente la conclusión.
+E. Los términos inferencia y proposición son usados como sinónimos por la lógica, ello ocasiona ciertas confusiones en el argumento.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Solo dicha alternativa expresa lo afirmado por el texto y es fácilmente identificable en él.
+=====================PREGUNTA 5======================
+Si se utilizara la conceptualización lógica para estudiar y enseñar lo que es un argumento, en todos los ámbitos del saber, entonces
+=====================ALTERNATIVAS======================
+A. se eliminarían las construcciones poéticas por no ser argumentos para la lógica.
+B. entrarían en crisis las teorizaciones espiritualistas o religiosas por no ser lógicas.
+C. los campos del saber tendrían que depurar toda expresión no argumentada.
+D. acabada la confusión conceptual, el grado de exigencia comunicacional crecería.
+E. caeríamos irremediablemente en la tiranía de la lógica y del cientificismo.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Si se homogeniza el concepto lógico, todo aquel que quiera referirse a un argumento deberá procurar la estructuración lógica, lo que aumentaría la exigencia en las comunicaciones argumentadas. Nada tiene que ver con otras expresiones de la creatividad humana.

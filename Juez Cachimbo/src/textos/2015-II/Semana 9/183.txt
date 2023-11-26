@@ -1,0 +1,114 @@
+ID 183
+=====Texto 1 ======
+Hay párrafos de lectura que te caen del cielo como si fueran pianos mientras caminas pensando en instrumentos musicales. A mí me ocurrió con la página diecisiete de la novela 13.99 euros . El autor es Frédéric Beigbeder, un escritor francés que se propuso en esta novela hacer escarnio del mundo de la publicidad. El párrafo que me aplastó fue el siguiente: «Me llamo Octave y llevo ropa de APC. Soy publicista: eso es, contamino el universo. Soy el tío que os hace soñar con esas cosas que nunca tendréis. Cielo eternamente azul, tías que nunca son feas, una felicidad perfecta, retocada con el Photoshop. Os drogo con novedad, y la ventaja de lo nuevo es que nunca lo es durante mucho tiempo. Hacer que se os caiga la baba, ese es mi sacerdocio. En mi gremio, nadie desea vuestra felicidad, porque la gente feliz no consume».
+
+¿Será verdad que el mercadeo y su aliada, la publicidad, necesitan que los consumidores sean unos infelices insatisfechos? ¿Será posible que los anunciantes y los publicitarios lucren con las carencias psicológicas de la gente?
+
+Para contestar esta pregunta a mi manera, paciente lector, deberá acompañarme a una serie de entrevistas que sostuve en enero con una religiosa canadiense. Su nombre es Carmen Ménard, y es imposible no sentir la paz que ella irradia aun sin pronunciar palabra. No he conocido persona más feliz, a pesar de las desgracias de su vida, y a pesar de vivir en la más absoluta austeridad. Con su suave acento francés, la religiosa –y también psicóloga – sostiene que usted y yo cargamos desde la infancia con heridas en lo profundo del ser, que tapamos con las medidas equivocadas. Parte de estos “llenadores de carencias” son los símbolos del poder o del dinero. Tras mis entrevistas con Carmen Ménard descubrí plenamente, y no de boca para afuera ,que el hombre exitoso no es aquel que tiene un llavero de auto alemán en el bolsillo, y una chica linda muriéndose por él. El éxito no es el estereotipo que usualmente se encuentra en un afiche publicitario. No. Una persona de éxito es aquella que ha aprendido a vivir feliz con lo que es y con su realidad. Punto. Admirará la belleza de un buen auto, pero no se endeudará por tenerlo. Apreciará las curvas de una linda chica, pero no le exigirá a su esposa que se parezca a ella. No pagará el triple por una cartera, tan solo por el logotipo que aparece en ella. No verá la lógica en padecer una larga cola para entrar a una discoteca de moda. Es más: ni se le ocurrirá ir a un lugar de moda para sentir la artificial felicidad de sentirse aceptado.
+
+Obviamente, una persona así es un mal prospecto para las compañías que venden el lado errado del éxito. Sin embargo, quienes lucran con los sustitutos de la felicidad tienen suerte. Las personas con carencias afectivas, llenadas de manera equivocada, siempre serán la mayoría. Las personas como Carmen Ménard son pocas.
+
+Rodríguez, G. (2008). Traducciones peruanas . Lima: Norma.
+=====Pregunta 1======
+El término PROSPECTO alude a
+=====ALTERNATIVAS=====
+A) medio de información.
+B) programa de acción.
+C) perspectiva de negocio.
+D) público objetivo.
+E) modelo de conducta.
+=====Alternativa correcta=====
+D
+=====Razonamiento=====
+El término alude a la persona a la que se dirige el mensaje publicitario, esto es, al posible comprador o público objetivo.
+=====Pregunta 2======
+Se infiere que en la novela citada por el autor al inicio, Octave, el protagonista, adopta una actitud
+=====ALTERNATIVAS=====
+A) escéptica.
+B) esteticista.
+C) cínica.
+D) frívola.
+E) abúlica.
+=====Alternativa correcta=====
+C
+=====Razonamiento=====
+El publicista declara descaradamente sus verdaderas intenciones como publicista: lucrar de las carencias e ingenuidad de los demás.
+=====Pregunta 3======
+En el texto, la expresión DE BOCA PARA AFUERA connota
+=====ALTERNATIVAS=====
+A) hipocresía.
+B) cansancio.
+C) evidencia.
+D) seguridad.
+E) irreflexión.
+=====Alternativa correcta=====
+A
+=====Razonamiento=====
+La expresión se usa para indicar que algo se dice o manifiesta por compromiso, sin sentirlo verdaderamente.
+=====Pregunta 4======
+¿Qué enunciado se condice con lo afirmado en el texto?
+=====ALTERNATIVAS=====
+A) Las proposiciones son construcciones lógicas relacionadas entre sí, únicamente, como un conjunto de premisas.
+B) La conclusión, para la lógica, no es una proposición, es un argumento autónomo, con una estructura muy particular.
+C) La inferencia está constituida por una serie inconexa de eslabones ordenados, según aparecen en el argumento.
+D) El argumento es el conjunto de proposiciones vinculadas por la inferencia, ya sea a nivel de premisas o conclusión.
+E) Los términos inferencia y proposición son considerados como sinónimos por la lógica, ello provoca confusiones.
+=====Alternativa correcta=====
+D
+=====Razonamiento=====
+Las proposiciones son construcciones lógicas relacionadas entre sí, únicamente, como un conjunto de premisas.
+=====Pregunta 5======
+Asumiendo la necesidad de construir un argumento lógico y considerando el concepto de proposición, es posible afirmar que
+=====ALTERNATIVAS=====
+A) las preguntas y las órdenes no pueden ser la parte central de un argumento lógico.
+B) las combinaciones de símbolos lingüísticos serían infinitas, eso lo hace imposible.
+C) es evidente que no se condice con lo real, hay que pensar en un nuevo concepto.
+D) se nos ofrece un nebuloso panorama lingüístico para construir argumentaciones.
+E) si lo aceptamos caeríamos, sin remedio, en la tiranía de la lógica y el cientificismo.
+=====Alternativa correcta=====
+A
+=====Razonamiento=====
+Las preguntas y las órdenes no se pueden calificar como verdaderas o falsas, en sí mismas. Por ello, no son proposiciones ni pueden serlo central en un argumento. 
+=====Pregunta 6======
+Es incompatible con lo señalado en el texto aseverar que la publicidad
+=====ALTERNATIVAS=====
+A) apela a lo subjetivo más que a lo racional del público.
+B) desdeña las fotos artificiales retocadas con Photoshop.
+C) cala básicamente en personas que se sienten incompletas.
+D) motiva a algunos sujetos a endeudarse por un auto caro.
+E) utiliza el mercadeo como una herramienta fundamental.
+=====Alternativa correcta=====
+B
+=====Razonamiento=====
+Según la confesión de Octave, la publicidad utiliza imágenes retocadas con el Photoshop.
+=====Pregunta 7======
+La publicidad puede compararse con una droga debido
+
+=====ALTERNATIVAS=====
+A) a la expansión mundial que ha alcanzado y el sofisticado conjunto de placeres que ofrece.
+B) a la alta inestabilidad emocional y sicológica que provoca a quienes se exponen mucho a ella.
+C) a que ofrece una satisfacción efímera y que necesita variar los estímulos que la provocan.
+D) al estatus social superior que ofrece a los consumidores y que no llega a realizarse.
+E) a la imposibilidad de sustraerse a sus efectos utilizando la reflexión y el análisis crítico.
+
+=====Alternativa correcta=====
+C
+
+=====Razonamiento=====
+Se infiere que, como cualquier droga, provoca una dependencia y una tolerancia a ella.
+
+=====Pregunta 8======
+Es plausible inferir del texto que los publicistas necesitan nutrirse de conocimientos aportados por disciplinas como
+
+=====ALTERNATIVAS=====
+A) lógica y mercadotecnia.
+B) biología y medicina.
+C) literatura y teología.
+D) antropología y filosofía.
+E) psicología y sociología.
+
+=====Alternativa correcta=====
+E
+
+=====Razonamiento=====
+En el texto se sugiere que el publicista necesita conocer cuáles son las carencias sicoemocionales de la población y cómo manejarlas.

@@ -1,0 +1,24 @@
+ID: 235
+=====================TEXTO======================
+I) La cámara de Gesell es una habitación acondicionada para permitir la observación
+de las personas. II) La cámara Gesell está conformada por dos ambientes separados
+por un vidrio de visión unilateral, los cuales cuentan con equipos de audio y de video
+para la grabación de diferentes experimentos. III) La cámara Gesell fue concebida por
+el psicólogo y pediatra estadounidense Arnold Gesell. IV) La cámara Gesell sirve para
+observar la conducta en niños sin que estos sean perturbados o que la presencia de
+una persona extra ña distorsione sus respuestas. V) En las películas y en la vida real
+es común el empleo de la cámara Gesell para observar la conducta de sospechosos
+en interrogatorios o bien para preservar el anonimato de testigos.
+=====================PREGUNTA 1======================
+Elimine una oración 
+=====================ALTERNATIVAS======================
+A. II 
+B. IV 
+C. V 
+D. I 
+E. III
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Se elimina la oración III por impertinencia. El eje temático es la cámara
+Gesell y no su inventor.

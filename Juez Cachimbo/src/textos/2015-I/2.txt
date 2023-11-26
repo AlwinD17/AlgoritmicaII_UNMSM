@@ -1,0 +1,15 @@
+ID: 2
+=====================TEXTO======================
+La fuerza impulsora que mantiene la sangre en movimiento es el corazón. Está formado por un tipo especial de músculo, que nunca se cansa, llamado miocardio. Día y noche, cada latido es una contracción muscular que impulsa unos 60 mililitros de sangre hacia su destino. En reposo, el corazón de un adulto late unas 70 veces por minuto, pero puede latir el doble si está haciendo ejercicio. Al igual que cualquier músculo activo, el corazón necesita un buen abastecimiento de sangre. A veces, los vasos sanguíneos que van al corazón se estrechan o se tapan. El resultado es un ataque al corazón. Los fumadores y las personas con sobrepeso tienen más riesgo de ataque cardiaco que el resto.
+=====================PREGUNTA 1======================
+Resulta incompatible con el texto señalar que
+=====================ALTERNATIVAS======================
+A. la formación de un coágulo puede ser letal para el organismo.
+B. un corazón adulto podría llegar hasta 140 latidos por minuto.
+C. el corazón late si n cesar 24 horas al día gracias al miocardio.
+D. es imposible que una persona esbelta sufra un ataque cardiaco.
+E. el bombeo del corazón permite la circulación de la sangre.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+El enunciado niega una información implícita: si una persona con sobrepeso tiene más riesgo, una persona esbelta tendría menos riesgo, pero no sería imposible que sufriera un ataque cardiaco. Los demás enunciados, sí se infieren válidamente.

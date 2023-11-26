@@ -1,0 +1,15 @@
+ID: 34
+=====================TEXTO======================
+Una señal que delata un libro construido con imprecisión es la omisión de pasos en un argumento. A veces estos pueden omitirse sin perjuicio ni inconvenientes, porque las proposiciones que no se han incluido por lo general pueden aportarlas los conocimientos comunes y corrientes de los lectores; pero en otras ocasion es, esta omisión crea confusión, quizá precisamente el fin que se persigue. Uno de los trucos más conocidos del orador o del propagandista consiste en no decir ciertas cosas, cosas sumamente relevantes para el argumento pero que podrían ser refutadas si se expresaran explícitamente. Si bien no esperamos que alguien que desea instruir acuda a tales recursos, es sensato hacer explícitos todos los pasos de un argumento.
+=====================PREGUNTA 1======================
+Se desprende del texto que una adecuada comprensión lectora debería
+=====================ALTERNATIVAS======================
+A. considerar que nadie emplea argucias retóricas.
+B. menospreciar las técnicas de análisis de argumentos.
+C. carecer de referencias a la lógica argumentativa.
+D. reconstruir los razonamientos mostrando sus premisas.
+E. asumir que todos los libros impresos son coherentes.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Inferencia prospectiva. Una máxima sensata de la lectura sería hacer explícitos los pasos de un argumento, esto es, sus premisas.

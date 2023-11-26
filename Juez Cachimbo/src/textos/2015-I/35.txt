@@ -1,0 +1,64 @@
+ID: 35
+=====================TEXTO======================
+EJERCICIOS DE RAZONAMIENTO LÓGICO VERBAL
+=====================PREGUNTA 1======================
+Sabemos que Adriana y Sofía son hijas de Marcos; Laura y Cristina son hermanas, César es el padre de Cristina, y Mariela es la madre de Laura. ¿ Qué premisa adicional necesitamos para saber que Adriana y Laura son primas?
+=====================ALTERNATIVAS======================
+A. Mariela es la hermana de Marcos.
+B. César y Mariela son esposos.
+C. Sofía es prima de Cristina.
+D. Marcos es hermano de César.
+E. 
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Adriana es hija de Marcos. Laura es hija de Mariela. Serán primas si Mariela y Marcos son hermanos.
+=====================PREGUNTA 2======================
+Sabemos que Josefa es mayor que Estefanía, Rocío tiene 22 años y es mayor que Jazmín, y Ruth es menor que Jazmín. Para determinar quién es la mayor, es suficiente saber que :
+=====================ALTERNATIVAS======================
+A. Estefanía tiene 20 años.
+B. Jazmín es menor que Josefa.
+C. Ruth es menor que Josefa.
+D. Josefa tiene 21 años.
+E. 
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Rocío tiene 22 años. Si Josefa tiene 21 años, Rocío es mayor que Josefina y (por las condiciones del enunciado) es mayor que todas.
+=====================PREGUNTA 3======================
+En una urna oscura tenemos seis bolitas de color rojo, amarillo y azul. Sacamos cuatro bolitas, pero ninguna es de color azul. ¿Cuál de las siguientes afirmaciones es suficiente para estar totalmente seguros de que la próxima bolita que salga será azul?
+=====================ALTERNATIVAS======================
+A. El número de bolitas azules es igual al número de bolitas amarillas.
+B. El número de bolitas azules es igual al número de bolitas rojas.
+C. El número de bolitas rojas es igual al número de bolitas amarillas.
+D. El número de bolitas rojas es mayor que el número de bolitas amarillas.
+E. 
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Son 6 bolitas y 4 no son azules. En consecuencia, el número de bolitas azules puede ser 1 o 2. Mas, para estar totalmente seguros de que la próxima bolita que salga sea azul, las dos bolitas restantes deben ser azules. Esto se cumple con la afirmación de que el número de bolitas rojas es igual al número de bolitas amarillas
+(2).
+=====================PREGUNTA 4======================
+Un padre lega a sus seis hijos (Roberto, Ana, Lucio, Carmen, Miguel y Darío) un edificio de seis pisos, de tal modo que cada uno de ellos llega a vivir en un piso determinado. Si Ana vive en el cuarto piso, Darío en el segundo, Miguel vive más abajo que todos y Carmen vive más arriba que Roberto ,se puede deducir necesariamente que
+=====================ALTERNATIVAS======================
+A. Carmen no vive en el tercer piso.
+B. Lucio vive más arriba que Carmen.
+C. Darío vive más arriba que Roberto.
+D. Lucio no vive en el quinto piso.
+E. 
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+La única que se deduce necesariamente. La opción C es patentemente falsa. Las opciones B y D son posibilidades contingentes.
+=====================PREGUNTA 5======================
+Consideremos cinco ciudades: A, B, C, D y E. Sabemos que la ciudad A tiene 20 mil habitantes; la ciudad E tiene más habitantes que B, pero menos habitantes que D; la ciudad D tiene menos habitantes que C y esta tiene 18 mil habitantes. A partir de las premisas anteriores, se puede concluir que
+=====================ALTERNATIVAS======================
+A. A tiene menos habitantes que C.
+B. E tiene más habitantes que A.
+C. B tiene más habitantes que C. 
+D. C tiene menos habitantes que A.
+E. 
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Datos A = 20 mil habitantes, B =menos que E, C = 18 mil habitantes, D = menos que C, E = más que B, menos que D. Simplificando: A > C> D> E> B, esto es, C tiene menos habitantes que A.

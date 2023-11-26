@@ -1,0 +1,20 @@
+ID: 211
+=====================TEXTO======================
+I) Las flores del olivo se disponen en racimos compuestos de 10 a 40 flores, según la
+variedad. II) También se les conoce con el nombre de rapa, trama o esquimo. III) Son
+flores blanco -verduscas y con cáliz en cúpula de 4 dientes y corola de 4 pétalos
+abiertos. IV) El cáliz es de color banco verdoso y está constituido por cuatro sépalos.
+V) La corola está formada por cuatro pétalos dispuestos en cruz de color blanco o
+blanco -amarillento.
+=====================PREGUNTA 1======================
+Elimine una oración 
+=====================ALTERNATIVAS======================
+A. I 
+B. V 
+C. II 
+D. III 
+E. IV
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Se elimina por inatingencia. El tema es características de las flores del olivo.

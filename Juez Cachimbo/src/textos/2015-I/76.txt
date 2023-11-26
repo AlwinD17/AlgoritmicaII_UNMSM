@@ -1,0 +1,72 @@
+ID: 76
+=====================TEXTO 3======================
+Generalmente solemos dar por sentado que las lenguas naturales funcionan como códigos, es decir, como sistemas que emparejan signos y mensajes de una manera constante: la lengua establece una relación diádica, convencional y arbitraria entre representaciones fonológicas (significantes) y representaciones semánticas (significados).
+También habitualmente partimos de la base de que, cuando nos comunicamos por medio del lenguaje, lo que hacemos es simplemente codificar información, esto es, elegimos las representaciones fonológicas que corresponden al contenido semántico que deseamos transmitir. Estas dos ideas —la de que las lenguas son códigos, y la de que comunicarse consiste en codificar y descodificar información —, que gozan de extraordinaria popularidad y difusión, pueden resultar útiles algunos momentos y para algunos propósitos concretos, pero dibujan solo un esquema muy simplificado de la comunicación. La realidad se encarga pronto de demostrar que las cosas no son tan sencillas. Observemos el siguiente texto:
+Cuando un diplomático dice sí, quiere decir «quizá»;
+cuando dice quizá ,quiere decir «n o»;
+y cuando dice no, no es un diplomático.
+Cuando una dama dice no, quiere decir «quizá»;
+Cuando dice quizá ,quiere decir «sí»;
+Y cuando dice sí, no es una dama VOLTAIRE
+El texto representa un ataque frontal a la consideración de la lengua como código, ya que permite evidenciar que las palabras pueden tener un valor diferente al que les asigna el sistema. Esto quiere decir, en conclusión, que en la comunicación real se hacen manifiestos significados no convencionales de las palabras, los cuales, en términos pragmáticos (en el uso concreto), resultan funcionales.
+ESCANDELL VIDAL, M. Victoria (1996): Introducción a la pragmática. Barcelona, Editorial Ariel, S. A.
+=====================PREGUNTA 1======================
+El tema central del texto es
+=====================ALTERNATIVAS======================
+A) el carácter diádico de la lengua como sistema.
+B) el problema del significado no convencional.
+C) las diferentes clases de signos para Voltaire.
+D) la relación entre lo fonológico y lo semántico.
+E) el contenido semántico arbitrario al hablar.
+=====================RAZONAMIENTO======================
+A manera de conclusión, la autora se permite plantear el tema central; esto es, el significado no convencional manifiesto en el uso concreto que se hace de la lengua.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================PREGUNTA 2======================
+El término DIBUJAR, en el texto, adquiere el sentido de
+=====================ALTERNATIVAS======================
+A) trazar. 
+B) perfilar. 
+C) delinear.
+D) esbozar. 
+E) presentar.
+=====================RAZONAMIENTO======================
+El verbo en cuestión hace alusión a la forma en que los conceptos tradicionales sobre la lengua y su uso PRESENTAN el fenómeno comunicativo.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================PREGUNTA 3======================
+Resulta incompatible con el desarrollo textual afirmar que la intención de la autora es
+=====================ALTERNATIVAS======================
+A) confutar la conocida y extendida idea sobre la comunicación.
+B) evaluar un aspecto de la comunicación relativo al uso concreto.
+C) propugnar la idea extendida de que las lenguas son códigos.
+D) presentar casos en que el uso semántico es no convencional.
+E) hacer manifiesta la debilidad del enfoque tradicional de lengua.
+=====================RAZONAMIENTO======================
+La autora no defiende la idea extendida de que las lenguas son códigos que emparejan significantes con significados, más bien la refuta, esto es, la impugna.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================PREGUNTA 4======================
+Se deduce del texto que la comunicación lingüística
+=====================ALTERNATIVAS======================
+A) es opaca por cuanto el mensaje respeta siempre la relación diádica entre lo fonológico y lo semántico.
+B) transfiere significados convencionales y no convencionales que hacen inviable la interpretación de enunciados.
+C) flexibiliza significados diversos de acuerdo con la intención del emisor y las expectativas del interlocutor.
+D) se orienta por un dibujo simplificado en el que los usos estrictos prescriben significados convencionales.
+E) es un fenómeno carente de versatilidad para la autora, pues la lengua como código es un sistema estático.
+=====================RAZONAMIENTO======================
+La cita de Voltaire usada por la autora deja evidencia de que, de acuerdo con lo que el emisor quiere expresar, usará una misma palabra con un sentido diferente al convencional, y que sea acorde con el interlocutor de turno.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================PREGUNTA 5======================
+Si los significados actualizados en la comunicación real fueran siempre convencionales
+=====================ALTERNATIVAS======================
+A) la propuesta de la autora se sustentaría de manera admisible.
+B) la univocidad dejaría de ser un rasgo inherente al lenguaje.
+C) las expresiones lingüísticas serían versátiles y multívocas.
+D) casos como el de Voltaire serían imposibles de interpretarse.
+E) la dualidad significante -significado resultaría insostenible.
+=====================RAZONAMIENTO======================
+Si solo fuese posible expresar lo convencional, la comunicación tendría siempre un camino interpretativo y, por consiguiente, situaciones como la planteada por Voltaire resultarían impensables.
+=====================ALTERNATIVA CORRECTA======================
+D

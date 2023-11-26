@@ -1,0 +1,24 @@
+ID: 13
+=====================TEXTO======================
+Sí
+\uf028 \uf029 \uf028 \uf029 MCD abc,cba MCD 270,306 \uf03d y
+abc cba 1xy\uf03d
+=====================PREGUNTA 1======================
+determine el mayor valor de (a c b )
+=====================ALTERNATIVAS======================
+A. 10
+B. 8
+C. 6
+D. 12
+E. 5
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+\uf028 \uf029 MCD abc,cba 18 \uf03d
+Por propiedad:
+abc 18p, cba 18q con p, q son PESI \uf03d \uf03d
+Además:
+abc cba 1xy\uf03d
+Por propiedad: x=9, y=8
+Reemplazando: a-1-c=1, es decir a=c+2
+max( a c b) 6 4 8 10

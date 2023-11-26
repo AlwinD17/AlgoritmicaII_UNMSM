@@ -1,0 +1,69 @@
+ID 173
+=====Texto 2======
+El mapa gen ético humano identificó los 100 000 genes humanos en el ADN, pero no explicó los mecanismos que regulan el comportamiento de los genes, particularmente aquellos que provocan la diferencia entre hombres y mujeres o los que están en el origen de muchas enfermedades. Por esta razón se ha puesto en marcha un nuevo proyecto, el Epigenoma, que pretende cartografiar los cambios químicos (epigenéticos) que ocurren en la cadena de ADN y los mecanismos que activan o desactivan a los genes. Además permitirá averiguar para qué sirve cada uno de los genes que componen la arquitectura humana. Una tarea bastante compleja porque todos los genes no trabajan juntos. El proyecto se adentra en una región inexplorada: los mecanismos bioquímicos que ocurren en la cadena de ADN y en la molécula que contiene el código de la información genética. Estos mecanismos responden al nombre de metilación y uno de los procesos más conocidos de metilación es el que marca la diferencia genética entre hombres y mujeres. Esta diferenciación ocasiona que los genes se comporte n de manera distinta según provengan de la madre o del padre. Las diferencias que ocurren en el proceso de metilación entre un tejido sano y otro enfermo pueden detectarse e indicar un cambio en la actividad genética que entraña enfermedades como el cáncer, pero el conocimiento de estos mecanismos es hasta ahora bastante limitado. Lo que se trata de conocer con el proyecto Epigenoma es por qué estos cambios se producen en determinadas circunstancias y lugares. La metilación del ADN se trasmuta en el caso de numerosas enfermedades y está asociada a la respuesta a determinados medicamentos y otros factores, como la edad. El proyecto Epigenoma debe clarificar los vínculos reales que existen entre la genética, el entorno y la salud. Por ello, la integración de las informaciones genéticas y epigenéticas no so lo va a permitirnos conocer mejor cómo y cuándo se activan o desactivan los genes, sino que al mismo tiempo aumentará nuestra resistencia a las enfermedades porque perfecciona la comprensión de la base biológica de la enfermedad y permite la detección precoz de muchas patologías.Tendencias Científicas. Martínez. E. Publicado Octubre 2004. http://www.tendencias21.net/El -nuevo -mapa -genetico -humano -se-llamara - Epigenoma_a232.html
+=====Pregunta 1======
+La palabra ENTRAÑA tiene e l sentido de
+=====ALTERNATIVAS=====
+A) separa. B) acerca. C) contiene. D) condiciona. E) enlaza.
+=====Alternativa correcta=====
+D) condiciona.
+=====Razonamiento=====
+Según el texto las diferencias pueden detectarse e indicar un cambio en la
+actividad genética que entraña enfermedades como el cáncer”, es decir condiciona
+enfermedades, supone enfermedades.
+=====Pregunta 2======
+El texto trata, fundamentalmente, sobre
+=====ALTERNATIVAS=====
+A) la base biológica de las enfermedades humanas y su tratamiento.
+B) la posible activación o desactivación de la estructura del ADN.
+C) el proceso de diferenciación genética en los seres humanos.
+D) la identificación sexual a nivel bioquímico de algunos individuos .
+E) la explicación de los procesos de m etilación en el genoma humano.
+=====Alternativa correcta=====
+E) la explicación de los procesos de m etilación en el genoma humano.
+=====Razonamiento=====
+El texto se refiere a explicar cómo funciona el proceso bioquímico
+(epigenético) en la estructura del ADN
+=====Pregunta 3======
+Es incompatible con el texto sostener que
+=====ALTERNATIVAS=====
+A) los genes desarrollan funciones disímil es en el cuerpo humano.
+B) el proceso de me tilación permanece incólume ante las enfermedades.
+C) se conocer ía las diferencia s entre un gen normal y otro cancerígeno.
+D) las enfermedades se pueden producir en determinadas situaciones.
+E) el proyecto Epigenoma lograría dilucidar los cambios genéticos.
+=====Alternativa correcta=====
+B) el proceso de me tilación permanece incólume ante las enfermedades.
+=====Razonamiento=====
+Según el texto la diferencia genética que ocurre entre hombres y mujeres
+es porque los genes se comportan de manera distinta según provengan de la madre
+o del padre.
+=====Pregunta 4======
+Según las investigaciones, el proceso de metilación
+=====ALTERNATIVAS=====
+A) ha obstaculizado la identificación de la estructura del ADN .
+B) puede contener el código de la información de los genes.
+C) permite el acceso de activación o desactivación de los genes.
+D) puede modificar la actividad o funcionamiento de los genes.
+E) no permite conocer el comportamiento genético en humanos .
+=====Alternativa correcta=====
+D) puede modificar la actividad o funcionamiento de los genes.
+=====Razonamiento=====
+En el texto se menciona que “la metilación del ADN se trasmuta en el caso
+de numerosas enfermedades y está asociada a la respuesta a determinados
+medicamentos y otros factores, como la edad”. Al identificar y explicar la estructura de
+los genes se puede modificar su funcionamiento.
+=====Pregunta 5======
+Si la comprensión del proyecto epigenético resultara un fracaso, entonces
+=====ALTERNATIVAS=====
+A) de todas maneras se comprendería el origen de las enfermedades.
+B) se detectaría por otras formas el origen de las enfermedades.
+C) no se lograría interpretar la herencia genética de los humanos.
+D) ya se podría modificar la estructura de los genes humanos.
+E) el proceso de metilación habría alcanzado un mayor desarrollo.
+=====Alternativa correcta=====
+C) no se lograría interpretar la herencia genética de los humanos.
+=====Razonamiento=====
+Según el texto, si se logro identificar los genes humanos, solamente faltaría
+explicar cómo se expresan los genes, cómo funcionan. De esta manera se sabría
+interpretar los factores hereditarios y comprender mejor el origen de las enfermedades

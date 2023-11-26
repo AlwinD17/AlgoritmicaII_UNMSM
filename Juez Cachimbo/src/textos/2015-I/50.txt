@@ -1,0 +1,51 @@
+ID: 50
+=====================TEXTO======================
+ELIMINACIÓN DE ORACIONES
+=====================PREGUNTA 1======================
+I) Los bronquios son los dos conductos tubulares fibrocartilaginosos en que se bifurca la tráquea a la altura de la vértebra toráxica. II) La función de los bronquios consiste en separar el aire inhalado por los pulmones para ser utilizado. III) Los bronquios conducen el aire desde la tráquea a los bronquiolos y estos a los alvéolos. IV) Cada pulmón adulto consta de unos 750 millones de alvéolos, que estirados ocuparían alrededor de unos 75 metros cuadrados. V) Los bronquios poseen ramificaciones progresivas arboriformes (25 divisiones en el hombre) y un diámetro decreciente.
+=====================ALTERNATIVAS======================
+A. III
+B. I
+C. V
+D. IV
+E. II
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Se elimina por criterio de inatingencia la cuarta oración. El tema es «los bronquios».
+=====================PREGUNTA 2======================
+I) Una pandilla es un grupo de personas que sienten una relación cercana, íntima e intensa entre ellos. II) En algunos países como El Salvador, Honduras, y Guatemala, también se utiliza el término Mara como sinónimo de pandilla delictiva. III) Los miembros de una pandilla suelen tener una amistad o interacción cercana con ciertos ideales o, incluso, una filosofía común. IV) La coincidencia de ideales entre los miembros de una pandilla les lleva a realizar actividades en grupo, lo que puede ir desde salir de fiesta en grupo hasta cometer actos violentos o delictivos. V) Aunque en sus comienzos representaba a los obreros, especialmente en el Reino U nido, con el tiempo la pandilla ha adquirido una connotación negativa, especialmente en Iberoamérica.
+=====================ALTERNATIVAS======================
+A. II
+B. IV
+C. III
+D. V
+E. I
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Se elimina la segunda oración por criterio de inatingencia. Las oraciones brindan una caracterización de las pa ndillas.
+=====================PREGUNTA 3======================
+I) Una red de alcantarillado es un sistema de tuberías y construcciones usado para la recogida y transporte de las aguas residuales, industriales y pluviales de una población. II) El sistema de alcantarillado traslada las aguas residuales desde el lugar en que se generan hasta el sitio en que se vierten al medio natural o se tratan. III) Una estación depuradora de aguas residuales tiene la función de eliminar toda contaminación química y bacteriológica del agua que pueda ser nociva. IV) Las redes de alcantarillado son estructuras hidráulicas que funcionan a presión atmosférica, por gravedad. V) Normalmente las redes de alcantarillado están constituidas por conductos de sección circular, oval o compuesta, la mayoría de las veces enterrados bajo las vías públicas.
+=====================ALTERNATIVAS======================
+A. I
+B. IV
+C. III
+D. II
+E. V
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Se elimina por inatingencia la tercera oración. Las oraciones hablan sobre la red de alcantarillado.
+=====================PREGUNTA 4======================
+I) El narcotráfico supone el comercio de sustancias tóxicas, potencial mente dañinas para la salud. II) Las sustancias comercializadas por el narcotráfico son conocidas comúnmente por la opinión pública como drogas. III) El narcotráfico engloba la fabricación, la distribución, la venta, el control de mercados, el consumo y el reciclaje de estupefacientes, adictivos o no. IV) La mayoría de las drogas generan un efecto nocivo en la salud de sus consumidores, por lo cual diversas países han prohibido el narcotráfico. V) La mayoría de las legislaciones internaciones prohíben o limitan el narcotráfico, con penas que incluyen la ejecución por diversos medios.
+=====================ALTERNATIVAS======================
+A. V
+B. III
+C. IV
+D. I
+E. II
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Se elimina por redundancia la cuarta oración, ya que reitera información desarrollada en la primera y en la quinta.

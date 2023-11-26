@@ -1,0 +1,65 @@
+ID: 26
+=====================TEXTO======================
+El teatro medieval, tanto en España como en los otros países europeos, nada debió en sus comienzos al arte dramático de los griegos (basado en rituales paganos a Dionisio) y romanos: nació, como flor espontánea, a la sombra de los claustros monacales. El deseo de los monjes de dar mayor vida y plasticidad a las ceremonias litúrgicas, a fin de hacerlas más comprensibles al rústico y fervoroso pueblo, constituye la razón y origen del incipiente teatro, en cuyo inicial desenvolvimiento tienen notable participación las instituciones monásticas francesas establecidas en la Península. Algunas de esas ceremonias se prestaban fácilmente para ser llevad as a las tablas, en particular las de Navidad y Semana Santa. Los tropos o interpolaciones dialogadas, introducidos en los «responsorios» del oficio divino y en los «introitos» de las misas solemnes, avivaron, por otra parte, el instinto dramático de aquel los obscuros eclesiásticos, y no tardaron en surgir, primero, el drama litúrgico en latín, y enseguida, los juegos escolares, también en latín, que durante el siglo XII fueron casi la única manifestación del teatro público. El grande éxito alcanzado por estos conatos escénicos, indujo a los monjes y clérigos a componer dramas religiosos en romance vulgar, denominados misterios por los franceses y autos por los españoles. Los autos o misterios eran representados en el interior de los templos por los sacerdotes. En un principio, se inspiraron solo en la Navidad y la Pasión, pero paulatinamente am pliaron su estrecho marco hasta abarcar la vida entera de Jesús. El único monumento español que hoy conocemos de este género de representa ciones es el Auto de los R eyes Magos. No obstante, la frecuencia y popularidad de ellas se encuentran atestiguadas por las continuas referencias de que son objeto en el Fuero Juzgo, las Partidas y los cánones de los Concilios. Al margen del teatro religioso y como una derivación de él, surgieron ciertas representaciones profanas o juegos de escarnio, los cuales, a juzgar por las condenaciones de los Concilios y las leyes, parecen haber sido parodias de los oficios eclesiásticos que, a menudo, degeneraban en burlas obscenas e inmoral es. El Código de Alfonso el Sabio define con claridad ambas dramaturgias, la religiosa y la profana.
+No solamente en estos juegos de escarnio —de los cuales ninguno ha llegado hasta nosotros — se contienen gérmenes del futuro teatro español; también los hay en las fiestas y diversiones del pueblo (danzas en coro, pastorelas) y particularmente, en las contiendas o disputas tan frecuentes en la Edad Media, por ejemplo: La disputa del alma y el cuerpo, la razón de Amor con los denuestos del agua y el vino. «El juglar que recita su decir o disputa y tiene desarrollado el instinto para imitar diversas voces, para subrayar determinadas actitudes y provocar la hilaridad del público —según expresa un tratadista — se ha convertido en un actor y su poema en un drama, en algo teatral; dado el primer paso, lo demás es obra del tiempo.»
+García, J. (1972). Historia de la Literatura Española . Barcelona: Vinces
+=====================PREGUNTA 1======================
+Básicamente, el autor del texto tiene la intención de
+=====================ALTERNATIVAS======================
+A. explicar las características del teatro en la Edad Media.
+B. dilucidar el origen del teatro en la España medieval.
+C. revalorar los elementos místicos en el teatro español.
+D. parangonar el teatro religioso y pagano en el Medioevo.
+E. justificar la labor eclesiástica en las obras teatrales.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+En el primer párrafo del texto, el autor plantea el tema que abordará. En torno al entramado textual, es evidente que tiene la intención de dilucidar el origen del teatro en la España medieval.
+=====================PREGUNTA 2======================
+En el texto, el término OBSCURO puede ser r eemplazado por
+=====================ALTERNATIVAS======================
+A. prístino.
+B. enigmático.
+C. nimio.
+D. sutil.
+E. irresponsable.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Los responsorios avivaron el instinto dramático de los obscuros eclesiásticos. El término obscuro significa confuso e ininteligible.
+=====================PREGUNTA 3======================
+Es incongruente con el texto afirmar que los juegos de escarnio
+=====================ALTERNATIVAS======================
+A. dejaron remanentes en las representaciones teatrales posteriores.
+B. habrían representado a los sacerdotes en situaciones sórdidas.
+C. eran piezas teatrales hilarantes que buscaban distraer al público.
+D. deben haber sido dirigidos y representados por hombres rústicos.
+E. parodiaban los vicios y virtudes del pueblo español de la Edad Media.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Los juegos de escarnio, según el autor, parecen haber parodiado a los oficios eclesiásticos.
+=====================PREGUNTA 4======================
+Del texto se colige que el teatro religioso
+=====================ALTERNATIVAS======================
+A. motivó la creación de un teatro más allegado al pueblo.
+B. buscó criticar la falsa moral de la sociedad española
+C. tuvo la misma intención que el teatro pagano medieval.
+D. se caracterizó por en altecer la vida del hombre profano.
+E. coadyuvó la proliferación de la fe cristiana en Europa.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Como una derivación del teatro religioso surgieron las representaciones profanas o juegos de escarnio. Por tanto, el teatro religioso motivó la creación de un teatro más allegado al pueblo.
+=====================PREGUNTA 5======================
+Si el teatro medieval de España se hubiese originado en el arte dramático grecolatino,
+=====================ALTERNATIVAS======================
+A. las ceremonias litúrgicas habrían prescindido representaciones bíblicas.
+B. de igual manera, los clérigos habrían sido víctima de personificaciones viles.
+C. carecería de originalidad ;asimismo ,habría perdido su esencia cristiana.
+D. no habría recibido las condenaciones y prohibiciones de los Concilios.
+E. ciertamente habría estado signado por un espíritu y sentimiento paganos.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+El arte dramático grecolatino se origina en rituales paganos a Dionisio. Entonces si el teatro medieval de España se hubiera originado del arte dramático grecolatino, ciertamente, habría estado signado por un espíritu y sentimiento pagano.

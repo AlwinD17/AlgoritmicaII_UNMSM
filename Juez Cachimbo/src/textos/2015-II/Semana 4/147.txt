@@ -1,0 +1,106 @@
+ID: 147
+=====================TEXTO======================
+Entre las ciencias básicas, la física fue la última en desarrollarse en el Perú. El estudio
+de las relatividades presuponía el conocimiento del cálculo tensorial y de la mecánica
+cuántica, del cálculo de matrices. El hecho de que Godofredo García llegara a ser un
+experto en el cálculo tensorial llevó, en la década de 1920, a muchos ingenieros de la
+Escuela de Ingenieros a seguirlo. Pero García solo distribuyó problemas sencillos como
+temas de tesis.
+La invención de la mecánica cuántica tuvo efectos más rápidos en el Cusco. Ántero
+Bueno y Oswaldo Baca aprendieron los desarrollos elementales de esa mecánica. A
+comienzos de 1930, Baca decidió aplicar lo entendido al estudio de la estructura atómica.
+Bueno se fue a la Universidad Nacional de La Plata, en Argentina. Aprendió los aspectos
+básicos de la espectroscopia atómica con el físico argentino Ramón Godofredo Loyarte, y
+luego recaló en San Marcos, donde intentó poner en marcha una carrera de física. Al poner
+el presidente Eissenhower los secretos atómicos al servicio del mundo –con el programa
+Átomos para la Paz –, Estados Unidos impulsó un programa de educación sobre el uso de
+la energía atómica para países en desarrollo y dio incentivos para la búsqueda de
+yacimientos de uranio. Esta oferta captó el interés de los geólogos de la UNI y de los
+ingenieros preocupados por las necesidades energéticas del país.
+En 1968, la UNI alcanzó a tener más de una docena de profesores con doctorado
+internacional en física, y se orientó hacia la física de sólidos, empezando por la
+espectroscopia de resonancia magnética, y hacia la física nuclear, con el apoyo incipiente
+de Francia. La física teórica quedaría como una opción solo mientras fuera cultivada en
+buen nivel. En San Marcos, por otro lado, Bueno no pudo crear la carrera de física sino
+hasta 1966. En 1967, se invitó al profesor franco -brasileño Jacques Danon (1924 -1989),
+del Centro Brasileiro de Pesquisas Físicas, especialista en el Efecto Mossbauer, para
+solicitarle consejo y apoyo. La conexión Danon tuvo su efecto des pués.
+=====================PREGUNTA 1======================
+El texto rememora fundamentalmente
+=====================ALTERNATIVAS======================
+A. las condiciones para que germine la física.
+B. las dificultades para el inicio de la física en Perú.
+C. el nacimiento de la física peruana en el Cuzco.
+D. la tardía introducción de la física en América.
+E. los momentos iniciales de la física en el Perú.
+=====================ALTERNATIVA
+CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+El texto es la historia de la época en que la física comenzó a ser cultivada
+en el Perú.
+=====================PREGUNTA 2======================
+En el texto, el término PRESUPONÍA se puede reemplazar por
+=====================ALTERNATIVAS======================
+A. encauzaba.
+B. encaminaba.
+C. necesitaba.
+D. especulaba.
+E. condecoraría.
+=====================ALTERNATIVA
+CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+El estudio de las relatividades presuponía otros conocimientos, o sea, se
+necesitaba de esos conocimientos para comenzar a cultivar ese quehacer científico.
+=====================PREGUNTA 3======================
+Resulta incompatible con el texto afirmar que, en 1968 en la UNI, la física
+=====================ALTERNATIVAS======================
+A. tanto teórica como práctica tuvieron el mismo privilegio.
+B. se benefició de la obra de más de doce físicos doctorados.
+C. se decantó por el desarrollo práctico de la física de sólidos.
+D. de tipo nuclear conoció del apoyo inicial de los franceses.
+E. empezó con la espectroscopia de resonancia magnética.
+=====================ALTERNATIVA
+CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+En la UNI, en 1968, se privilegió el desarrollo de la física práctica, y se
+postergó la física teórica, que debía tener un elevado nivel académico para ser
+cultivada.
+=====================PREGUNTA 4======================
+Se colige del texto que la física como ciencia teórica y práctica en Suramérica
+=====================ALTERNATIVAS======================
+A. prosperó solo en Argentina.
+B. no necesitó de saberes previos.
+C. ha tenido un desarrollo dispar.
+D. floreció con creces en EE. UU.
+E. se ha utilizado con fines bélicos.
+=====================ALTERNATIVA
+CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+El autor del texto expone que la física teórica o práctica ha sido impartida
+como materia de enseñanza universitaria antes que en Perú, en Brasil y Argentina, en
+consecuencia, en uno y otro país, el desarrollo de la física no ha sido homogéneo.
+=====================PREGUNTA 5======================
+Si Godofredo García, Ántero Bueno y Oswaldo Baca se hubieran dedicado solo a la
+matemática, entonces,
+=====================ALTERNATIVAS======================
+A. se demostraría que no hay relación entre espíritu científico y la creación de
+centros de enseñanza y capacitación científica.
+B. Eissenhower, expresidente de EE. UU., hubiera decidido mantener los
+conocimientos científicos de la física bajo siete llaves.
+C. ni Brasil ni Argentina serían considerados la meca de la ciencia física en
+Suramérica, entonces, Perú seguiría a la zaga científica.
+D. no serían los líderes y precursores de la física en Perú, con ello, el desarrollo de
+esta ciencia hubiera tardado más en este país.
+E. a física como ciencia teórica nunca se hubiera introducido en el Perú, ya que
+nadie más se interesó en practicar la ciencia física.
+=====================ALTERNATIVA
+CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+El autor del texto hace un recuento de los líderes y precursores de la ciencia
+física en el Perú (García, Bueno y Baca) quienes tardíamente introdujeron esa ciencia
+en este país.

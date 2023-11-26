@@ -1,0 +1,15 @@
+ID: 1
+=====================TEXTO====================== 
+Para estar sanos y en buena forma se debe comer una variedad de alimentos, mezclando correctamente carbohidratos, grasas y proteínas, además de vitaminas y minerales. Hay que tener una dieta equilibrada. En la mayoría de los países europeos y en Estados Unidos, casi todos tienen suficientes alimentos. Un adulto promedio necesita unos 20 kilojulios de energía por hora para una actividad normal, lo que corresponde aproximadamente a un vaso pequeño de leche. Cuando hacemos ejercicios vigorosos, esa energía debe aumentar a 200 kilojulios, por lo que las personas con poca actividad física necesitan mucha menos comida.
+=====================PREGUNTA 1======================
+Es incompatible con el texto aseverar que
+=====================ALTERNATIVAS======================
+A. las vitaminas y los carbohidratos son cruciales en la dieta.
+B. una dieta equilibrada se define por hacer una mezcla correcta.
+C. la exigua actividad física requiere de mucha alimentación.
+D. si alguien ejecuta ejercicios vigorosos, necesita más energía.
+E. en la mayoría de países europeos existe suficientes alimentos.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+El enunciado niega la información explícita de que las personas con poca actividad física necesitan mucha menos comida.

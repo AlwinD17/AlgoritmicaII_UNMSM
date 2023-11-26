@@ -1,0 +1,192 @@
+ID 181
+=====Texto 5  ======
+Aparte de la astronomía, las matemáticas son quizá la rama del pensamiento humano más antigua y con más persistencia cultivada. Por otro lado, a diferencia de las ciencias físicas, la filosofía y las ciencias sociales, en el campo de las matemáticas muy poco es lo que se ha creado y luego descartado. El desarrollo de las matemáticas es acumulativo; esto es, las creaciones más recientes se fundan, lógicamente hablando, en las anteriores. De ahí que por lo común deba uno entender los resultados antiguos para dominar los nuevos. Estos hechos nos aconsejan que nos remontemos a los orígenes mismos de las matemáticas.
+
+Al examinar las primeras civilizaciones, inmediatamente salta a la vista un hecho notable. No obstante que han existido cientos de sociedades humanas, muchas de ellas con gran arte, literatura, filosofía, religión e instituciones sociales complejas, fueron muy pocas las que poseyeron conceptos matemáticos de los que valga la pena hablar. Muchas de ellas apenas si rebasaron la etapa de saber contar hasta cinco o diez. En algunas de esas remotas sociedades se dieron unos cuantos pasos en el terreno de las matemáticas. En tiempos prehistóricos, lo que más o menos significa antes del año 4000 a. C., hubo civilizaciones que ya pensaban en los números como conceptos abstractos. Esto significa que reconocían que tres ovejas y tres flechas poseían algo en común, el número llamado tres, en el que podía ponerse desligado de cualquier objeto físico. Cada uno de nosotros, en los primeros años de escuela, pasa por el mismo proceso de separar los números de los objetos físicos. La apreciación del “número” como idea abstracta es un gran paso, quizás el primero, en el largo camino de fundar las matemáticas.
+
+Otro adelanto fue la introducción de las operaciones aritméticas. Es toda una proeza sumar los números que representan dos colecciones de objetos y obtener el total, en lugar de contar uno por uno los objetos de las colecciones combinadas. Y lo mismo sucede con la resta, la multiplicación y la división. Los primeros procedimientos para realizar estas operaciones fueron burdos y enredados en comparación con los nuestros, pero las ideas y sus aplicaciones ya estaban allí.
+
+Kline, M. (2009) Matemática para estudiantes de humanidades . México: Fondo de Cultura Económica
+
+=====Pregunta 1======
+Centralmente, el texto trata sobre
+
+=====ALTERNATIVAS=====
+A) el origen de las matemáticas y sus saberes acumulativos.
+B) las matemáticas y la astronomía, sus leyes y aplicaciones.
+C) el número como idea abstracta en operaciones prelógicas.
+D) la matemática comparada con otros saberes civilizadores.
+E) la evolución de las ciencias y los saberes lógicos comunes.
+
+=====Alternativa correcta=====
+A
+
+=====Razonamiento=====
+El texto aborda centralmente la aparición de las matemáticas y el tipo particular de saber que posee, acumulativo.
+
+=====Pregunta 2======
+En el texto, el sentido de la expresión SALTAR A LA VISTA es
+
+=====ALTERNATIVAS=====
+A) aparecer.
+B) enrarecer.
+C) ocultarse.
+D) surgir.
+E) sobresalir.
+
+=====Alternativa correcta=====
+E
+
+=====Razonamiento=====
+salta a la vista porque llama la atención de entre todo lo que hay, es decir,
+sobresale.
+
+=====Pregunta 3======
+Resulta incompatible con el texto aseverar que
+
+=====ALTERNATIVAS=====
+A) las nociones matemáticas nacen con las civilizaciones de nuestra era.
+B) la abstracción matemática implica separar cantidad de representación.
+C) los procedimientos aritméticos fueron en principio rústicos y enredados.
+D) en las matemáticas no hubo grandes revoluciones, el saber se acumula.
+E) se considera la abstracción del número como el origen de la matemática.
+
+=====Alternativa correcta=====
+A
+
+=====Razonamiento=====
+“En tiempos prehistóricos, […] antes del año 4000 a. C., hubo civilizaciones
+que ya pensaban en los números como…” a. C. equivale a nuestra era.
+
+
+=====Pregunta 4======
+Del texto se infiere que la matemática
+
+=====ALTERNATIVAS=====
+A) buscó contribuir y apoyar a otros saberes para construir civilizaciones.
+B) tuvo como pretensión inicial y permanente la complejidad y el enredo.
+C) incentivó en sociedades antiguas el surgimiento de la religión y el arte.
+D) fue desde su origen un saber de desarrollo autosuficiente y autónomo.
+E) justifica su existencia en la necesidad insoslayable que se tenía de ella.
+
+=====Alternativa correcta=====
+D
+
+=====Razonamiento=====
+Autosuficiente porque no necesitó del auxilio de otros saberes para avanzar, y autónomo porque se construyó sin interrelación aparente con otros conocimientos.
+
+=====Pregunta 5======
+Si las matemáticas fueran equiparables a la f ísica o a las ciencias sociales, entonces
+
+=====ALTERNATIVAS=====
+A) el momento y la cultura en que aparece la matemática sería de vital importancia para entender su evolución.
+B) los objetos de estudio de la matemática no se habrían podido abstraer de la realidad, como el número.
+C) no tendríamos necesidad de estudiar la geometría euclidiana para entender las ecuaciones de Newton.
+D) muchas civilizaciones no habrían tenido necesidad de ella, como no la tuvieron de las CC.SS. o de la física.
+E) su desarrollo habría sido autosuficiente, pues habría estado interconectada con el saber de otras ciencias.
+
+=====Alternativa correcta=====
+C
+
+=====Razonamiento=====
+Al ser equiparables, la matemática habría sufrido revoluciones y habría descartado muchos de los saberes más antiguos, como la geometría de Euclides.
+
+
+ID 182
+===== Texto 6 ======
+Las proposiciones son los ladrillos con los que están hechos los argumentos. De ahí la importancia de saber qué es una proposición, consideremos como tal la siguiente: “conjunto finito de símbolos lingüísticos que, con pleno sentido, pueden ser calificados como verdaderos o falsos” (Piscoya, 2007). Cuando afirmamos o llegamos a una proposición basándonos en otras proposiciones, decimos que hemos hecho una inferencia. La inferencia es el proceso que puede ligar a un conjunto de proposiciones. Algunas inferencias son justificadas o correctas, otras no. Para determinar si una inferencia es correcta o no, el lógico examina las proposiciones con las que inicia y termina el proceso y las relaciones entre estas proposiciones. Este conjunto de proposiciones constituye un argumento. Los argumentos son el principal objeto de estudio de la lógica.
+
+Tal como los lógicos utilizan la palabra, un argumento es un grupo de proposiciones del cual se dice que una de ellas se sigue de las otras, consideradas como base o fundamento para la verdad de este. Evidentemente, la palabra argumento a menudo se utiliza con otros sentidos, pero en lógica se utiliza estrictamente en el sentido que se acaba de explicar. Para cada inferencia posible existe un argumento correspondiente.
+
+Está claro que un argumento no es meramente una colección de proposiciones; un pasaje puede contener varias proposiciones relacionadas y aun así no contener ningún argumento. Para que pueda decirse que existe un argumento, tiene que haber alguna estructura en ese conjunto de proposiciones, una estructura que capture o muestre alguna inferencia. Esta estructura se describe utilizando los términos premisa y conclusión. La conclusión de un argumento es la proposición que se afirma con base en otras proposiciones del argumento. Estas otras proposiciones, las cuales se afirma (o se asume) que son soporte de la conclusión, son las premisas del argumento.
+
+El argumento más simple consiste en una premisa y una conclusión, la cual se dice que se sigue de la primera. Cada una puede enunciarse en oraciones separadas. Por ejemplo: Nadie estaba presente cuando surgió la vida por primera vez sobre la Tierra. Por lo tanto, cualquier enunciado acerca del origen de la vida tiene que ser considerado una teoría ,no un hecho.
+
+Copi, I. (2002). Introducción a la lógica. México: Limusa. Adaptado: Ortiz, W.
+
+=====Pregunta #======
+¿Cuál es el tema central del texto?
+
+=====ALTERNATIVAS=====
+A. Definición de las premisas proposicionales
+B. Los argumentos y su estructuración lógica
+C. Las premisas proposicionales en la lógica
+D. La inferencia relacionada a la proposición
+E. Los argumentos verdaderos y los inválidos
+
+=====Alternativa correcta=====
+B. Los argumentos y su estructuración lógica
+
+=====Razonamiento=====
+Al afirmar dicha alternativa se incluye automáticamente toda la estructura interna del argumento, desde el punto de vista de la lógica proposicional.
+
+=====Pregunta #======
+En el ejemplo, el término TEORÍA se puede reemplazar por
+
+=====ALTERNATIVAS=====
+A) ilusión.
+B) falsedad
+C) premisa.
+D) conjetura.
+E) evidencia.
+
+=====Alternativa correcta=====
+D) conjetura.
+
+=====Razonamiento=====
+Teoría como hipótesis, conjetura, conjunto de supuestos explicativos.
+
+=====Pregunta #======
+Se puede colegir del texto que, para la mayoría, un “argumento”
+
+=====ALTERNATIVAS=====
+A) tiene estructura lógica y parte de afirmaciones inferenciales.
+B) es cualquier afirmación basada en un sentido lógico estricto.
+C) solo se considera verdadero si tiene premisas y conclusión.
+D) es de gran interés para las ciencias sociales y la matemática.
+E) puede no tener conclusión y solo ser un conjunto de datos.
+
+=====Alternativa correcta=====
+E) puede no tener conclusión y solo ser un conjunto de datos.
+
+=====Razonamiento=====
+“evidentemente, la palabra argumento se utiliza con otros sentidos”; se infiere que muchos llamarán “argumento” a un conjunto de datos sin conclusión.
+
+=====Pregunta 4======
+¿Qué enunciado se condice con lo afirmado en el texto?
+
+=====ALTERNATIVAS=====
+A) Las proposiciones son construcciones lógicas relacionadas entre sí, únicamente, como un conjunto de premisas.
+B) La conclusión, para la lógica, no es una proposición, es un argumento autónomo, con una estructura muy particular.
+C) La inferencia está constituida por una serie inconexa de eslabones ordenados, según aparecen en el argumento.
+D) El argumento es el conjunto de proposiciones vinculadas por la inferencia, ya sea a nivel de premisas o conclusión.
+E) Los términos inferencia y proposición son considerados como sinónimos por la lógica, ello provoca confusiones.
+
+=====Alternativa correcta=====
+D
+
+=====Razonamiento=====
+Tanto las premisas como la conclusión son aseveraciones, es decir, son proposiciones vinculadas por inferencia. Son evidentes los errores de las otras claves.
+
+=====Pregunta 5======
+Asumiendo la necesidad de construir un argumento lógico y considerando el concepto de proposición, es posible afirmar que
+
+=====ALTERNATIVAS=====
+A) las preguntas y las órdenes no pueden ser la parte central de un argumento lógico.
+B) las combinaciones de símbolos lingüísticos serían infinitas, eso lo hace imposible.
+C) es evidente que no se condice con lo real, hay que pensar en un nuevo concepto.
+D) se nos ofrece un nebuloso panorama lingüístico para construir argumentaciones.
+E) si lo aceptamos caeríamos, sin remedio, en la tiranía de la lógica y el cientificismo.
+
+=====Alternativa correcta=====
+A
+
+=====Razonamiento=====
+Preguntas y órdenes no se pueden calificar como verdaderas o falsas, en sí mismas. Por ello, no son proposiciones ni pueden serlo central en un argumento.
+
+
+
+
+
+
+

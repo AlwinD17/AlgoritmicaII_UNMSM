@@ -1,0 +1,99 @@
+ID: 250
+=====================TEXTO======================
+Explicar qué es el tiempo y cómo medirlo jamás fue cosa fácil. Ya en el siglo IV de nuestra
+era Agustín de Hipona se hizo esa pregunta « ¿Qué es, pues el tiempo? Si nadie me lo
+pregunta, lo sé; pero si quiero explicárselo a quien me lo pregunta, no lo sé». Galileo Galilei,
+1300 años después, se las ingenió para medirlo contando el número de oscilaciones de la
+gran lámpara que colgaba del techo de la catedral de Pisa y comparó ese ir y venir con las
+pulsaciones de su corazón, una observación que resultó esencial para inventar los relojes
+modernos.
+Gracias a un reciente estudio realizado por el grupo de la División de Neurociencias
+de la Universidad Pablo de Olavide de Sevilla y dirigido por el José María Delgado y Agnès
+Gruart, publicado en la revista The Journal of Neuroscience ,podemos también saber cómo
+miden el tiempo las neuronas. Una importante función que cumplen esas células
+especializadas del cerebro, encargadas de recibir y emitir los estímulos nerviosos
+esenciales para que el ser humano y el resto de animales realicen sus funciones vitales, es
+la medida del tiempo entre dos señales sucesivas. De ello se encargan, en particular,
+aquellas que se encuentran en la porción más anterior, o frontal del cerebro (especialmente
+importantes en los primeros años cuando los niños comienzan a educarse). Los
+investigadores han chequeado la actividad cerebral que permite calcular el tiempo entre
+dos estímulos sucesivos, registrando los pequeñísimos cambios en la actividad eléctrica de
+neuronas prefrontales durante una prueba de aprendizaje.
+Lo que han averiguado es que esas neuronas se activan mediante un oscilador, una
+especie de reloj interno que realiza una pulsación cada 100 milisegundos
+aproximadamente . O lo que es lo mismo: unas diez veces por segundo. Un «reloj» que
+sirve especialmente para medir tiempos muy cortos, de menos de un segundo de duración.
+Gracias a ese patrón de oscilaciones del tiempo, somos capaces de desarrollar tareas que,
+de otro modo, no podríamos coordinar. Un oscilador que recuerda al que inspiró a Galileo las primeras medidas del tiempo y que direccionó la construcción del primer reloj pendular
+que Christiaan Huygens llevó a cabo en 1656. Un sistema similar, aunque mucho más
+preciso, encapsulado dentro de neuronas. Qué maravilla.
+VAN DEN BERG, Eva. (2015). «¿Cómo miden el tiempo las neuronas?». De: National
+Geographic . Recuperado el 07 de diciembre de 2015 de
+http://www.nationalgeographic.com.es/articulo/ng_magazine/actualidad/10877/como_mide
+n_tiempo_las_neuronas.html.
+=====================PREGUNTA 1======================
+El tema central del texto es
+=====================ALTERNATIVAS======================
+A. Cambios en la actividad de neuronas prefrontales.
+B. El importante estudio sobre la actividad cerebral.
+C. El primer reloj neuronal de Christiann Huygens.
+D. La forma en que las neuronas miden el tiempo.
+E. El oscilador neuronal basado en el de Galileo.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+A propósito de una investigación, el texto desarrolla los mecanismos neuronales que
+permiten medir el tiempo.
+=====================PREGUNTA 2======================
+En el texto, el término DIRECCIONAR adquiere el sentido de
+=====================ALTERNATIVAS======================
+A. Rematar. 
+B. Perfilar. 
+C. Enrumbar.
+D. Conducir. 
+E. Posibilitar.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+El término se refiere a la forma en que el oscilador de Galileo hizo posible, esto es,
+POSIBILITÓ la creación del primer reloj pendular.
+=====================PREGUNTA 3======================
+Es incompatible con el desarrollo textual afirmar que las neuronas
+=====================ALTERNATIVAS======================
+A. Dejan evidencia de análisis mediante actividad eléctrica.
+B. Prefrontales fueron analizadas durante la investigación.
+C. Se activan a través de una especie de oscilador interno.
+D. Permiten que hagamos tareas mediante tiempos largos.
+E. Ubicadas en la parte frontal del cerebro miden el tiempo.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+La coordinación de tareas involucra actividad de medición neuronal de breves lapsos
+de tiempo.
+=====================PREGUNTA 4======================
+Se deduce del texto que las células de la zona más anterior del cerebro
+=====================ALTERNATIVAS======================
+A. Funcionan de manera muy marginal respecto de otras zonas.
+B. Permiten que la actividad cardiaca aumente cuando dormimos.
+C. Se comportan de forma muy similar a los latidos del corazón.
+D. Están involucradas en el proceso de adiestramiento escolar.
+E. Son las encargadas de procesar datos sobre lo sentimental.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+En el texto se mencionan que son especialmente importantes cuando inicia el proceso
+educativo. Por lo tanto, estas células están relacionadas con las actividades de
+aprendizaje.
+=====================PREGUNTA 5======================
+Si fuese imposible que la actividad neuronal cuente con mecanismos de medición
+temporal tan precisos, probablemente
+=====================ALTERNATIVAS======================
+A. Los estudios acerca de la red neuronal humana decrezcan.
+B. Nuestra coordinación para realizar tareas sea implausible.
+C. Los datos sobre la actividad eléctrica carezcan de precisión.
+D. Las investigaciones sobre el cerebro puedan ser objetivas.
+E. El carácter rápido de nuestras acciones pueda aumentar.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+La gran velocidad para medir tiempos sumamente cortos hace posible la coordinación.

@@ -1,0 +1,39 @@
+ID: 62
+=====================TEXTO======================
+SERIES VERBALES
+=====================PREGUNTA 1======================
+I) Un nuevo estudio concluye que el simple gesto de cruzar los dedos disminuye el dolor. II) La disminución del dolor al cruzar los dedos se produciría, según un reciente estudio, por la interacción de tres vías nerviosas que conducen al cerebro información sobre el frío, el calor y el dolor. III) El equipo de investigación señala que se neutralizaría el dolor al cruzar los dedos debido a que la temperatura cálida que se produce al cruzarlos bloquea dicha información. IV) Según los investigadores, la postura y la disposición espacial de los dedos también es clave en la disminución del dolor. V) El estudio, que ha sido publicado en la revista Current Biology , podría contribuir con el establecimiento de un nuevo enfoque sobre el dolor.
+=====================ALTERNATIVAS======================
+A. II
+B. III
+C. I
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Se elimina el enunciado I por el criterio de redundancia. Se desprende de las demás.
+=====================PREGUNTA 2======================
+I) Un estudio concluyó que la escasez de alimentos durante los primeros tres meses de embarazo puede ocasionar riesgos para el futuro bebé. II) Los investigador es analizaron la alimentación deficitaria (menos de 900 calorías al día) de un grupo de gestantes durante el período comprendido entre 1944 y 1945. III) El seguimiento se realizó durante 63 años a 22 952 personas que habían nacido en el momento de la ‘Hamb runa Holandesa’ (1944 -1945) registrándose 5011 muertes. IV) La hambruna del invierno holandés, motivada por la Segunda Guerra Mundial, fue un periodo en el que murieron más de 20 000 personas. V) Según el estudio, el 39% de muertes fueron por cáncer, el 2 1% por enfermedades del corazón, el 29% de otras causas naturales y el 1 1% por causas externas.
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Se elimina la oración IV por impertinencia. Las oraciones se articulan en torno a un estudio que relaciona la falta de alimentos en los primeros meses de gestación y sus consecuencias nocivas para el futuro bebé.
+=====================PREGUNTA 3======================
+I) Pedro Weiss Harvey fue un destacado médico y antropólogo considerado el Padre de la Patología en el Perú. II) P. Weiss Harvey alternó con personajes como Haya de la Torre, José Carlos Mariátegui, Max Uhle y Julio C. Tello. III) Weiss Harvey fue el primero en señalar que el Síndrome de Inmuno Deficiencia Adquirida y la verruga peruana tenían cierto parecido inmunológico. IV) El eminente médico Weiss Harvey viajó a Alemania para ampliar sus conocimientos sobre patología, y a Francia con el objeto de profundizar sus conocimientos en dermatología clínica. V) P. Weiss Harvey optó el grado de Doctor en Medicina en la Universidad San Marcos gracias a sus estudios sobre la verruga peruana.
+=====================ALTERNATIVAS======================
+A. III
+B. II
+C. IV
+D. I
+E. V
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Se aplica el criterio de impertinencia.

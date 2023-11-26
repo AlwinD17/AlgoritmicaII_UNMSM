@@ -1,0 +1,147 @@
+ID: <71>
+
+LAS FALACIAS: ERRORES EN LA ARGUMENTACIÓN
+
+Podemos definir una falacia como una argumentación que transgrede un principio o
+una regla de razonamiento, pero que, en el contexto propicio, puede ser crucial para ganar
+la adhesión del auditorio.
+Las falacias son de dos grandes tipos: de atingencia o de ambigüedad. Las falacias
+de atingencia son extra dictione ,es decir, manipulan información referida a los hechos, no
+al lenguaje. Las falacias de ambigüedad son in diccione ,por cuanto dependen de la
+estructura del lenguaje ,no de la realidad.
+
+Principales falacias de atingencia
+
+1. Argumentum ad baculum (apelación a la fuerza)
+Se trata de un razonamiento que recurre a medios de coacción o de intimidación . Por
+ejemplo: «Si no apoyas la moción que voy a plantear en la asamblea, debes atenerte a las
+consecuencias».
+
+2. Argumentum ad hominem (contra el hombre) Ciclo 2015 -I
+
+Semana Nº 14 Pág. 19 Es un razonamiento que ataca a la persona, no a la tesis que es objeto de
+controversia. Por ejemplo: «No puede ser plausible lo que dice Nietzsche de la religión
+cristiana porque, cuando escribió El Anticristo ,estaba completamente loco».
+
+3. Argumentum ad ignorantiam (ignorancia)
+Se comete esta falacia cuando se sostiene que una proposición es verdadera porque
+nadie ha demostrado que es falsa, o bien que es falsa dado que nadie ha demostrado su
+verdad. Por ejemplo: «Es indudable que existen los fantasmas porque nadie ha demostrado
+que no existen».
+
+4. Argumentum ad misericordiam (porla piedad)
+Se trata de establecer una conclusión sobre la base de suscitar un sentimiento de
+piedad o compasión. Por ejemplo: «Eugenio merece la beca porque no cuenta con recursos
+económicos para estudiar».
+5. Argumentum ad verecundiam (de autoridad)
+Es un razonamiento que busca apoyar una idea o tesis sobre la base de la opinión de
+una autoridad, que no tiene pertinencia en el tema tratado. Por ejemplo: «La mejor doctrina
+religiosa es el panteísmo naturalista porque fue una tesis que defendió el gran físico Albert
+Einstein».
+
+6. Argumento de la causa falsa.
+Es un razonamiento que establece una relación causal sobre la única base de la
+precedencia temporal. Por ejemplo: «José sufrió un terrible accidente porque un gato negro
+se cruzó en su camino».
+
+Principales falacias de ambigüedad
+
+1. El equívoco
+Esta falacia se produce cuando en un razonamiento se emplea una palabra con dos
+acepciones diferentes, pero se considera que se ha usado bajo una sola acepción. Por
+ejemplo: «Los problemas son esenciales para la ciencia. De acuerdo, soy un verdadero
+problema en tu vida. Luego, soy esencial para tu vida».
+
+2. La anfibología
+Esta falacia se produce cuando las premisas empleadas presentan una ambigüedad
+en virtud de su estructura gramatical. Un enunciado es anfi bológico cuando su comprensión
+se ve obstruida no por el significado individual de las palabras, sino por la combinación de
+ellas. Por ejemplo, «María fue a la playa con su prima vestida de rojo» es una oración
+anfibológica porque no resulta claro quién es taba vestida de rojo (¿María o su prima?).
+
+3. El énfasis
+La falacia del énfasis consiste en una manera especial de jugar con los significados
+de las palabras. Debido a un énfasis particular, el significado de la palabra puede variar y
+en esta inflexión observamos el núcleo del error en el razonamiento. Así, cuando alguien
+dice «Los peruanos merecemos la libertad», no hay problema sino hay ningún énfasis que
+pueda producir un sentido especial. En cambio, si hay un énfasis en ‘peruanos’ se daría un
+sentido especial al enunciado (‘Los PERUANOS merecemos la libertad’) y se podría
+concluir que no merecen la libertad los bolivianos, los chilenos, los argentinos, etc., lo cual
+constituye una conclusión inadmisible.
+
+
+
+ACTIVIDAD
+
+Determine qué falacia se ha cometido en los siguientes razonamientos.
+
+1. Creso, rey de Lidia, planeaba una guerra contra el reino de Persia. Como era un
+hombre prudente, no quería arriesgarse a emprender una guerra sin tener la seguridad
+de ganarla. Al consultar al oráculo de Delfos sobre la cuestión, recibió la siguiente
+respuesta: «Si Creso emprende la guerra contra Persia, destruirá un reino poderoso».
+Encantado con esta predicción, Creso inició la guerra y fue rápidamente derrotado por
+Ciro, rey de los persas. Como se le perdonó la vida, después escribió al oráculo una
+carta en la que se quejaba amargamente. Los sacerdotes de Delfos respondieron que
+el oráculo había hecho una predicción correcta. Al desencadenar la guerra, Creso
+destruyó un reino poderoso: ¡El suyo propio!
+
+Solución: Anfibología.
+
+2. Casi a punto de partir cierto barco, hubo una disputa entre el capitán y su primer oficial.
+La disensión se agravaba por la tendencia a beber del primer oficial, pues el capitán
+era un fanático de la abstinencia y raramente perdía oportunidad de regañarlo por su
+defecto. Inútil decir que sus sermones sólo conseguían que el primer oficial bebiera
+aún más. Después de repetidas advertencias, un día que el primer oficial había bebido
+más que de costumbre, el capitán registró el hecho en e l cuaderno de bitácora y
+escribió: «Hoy, el primer oficial estaba borracho». Cuando le tocó al primer oficial
+hacer los registros en el libro, se horrorizó al ver esta constancia oficial de su mala
+conducta. El propietario del barco iba a leer el diario y su reacción, probablemente,
+sería despedir al primer oficial, con malas referencias además. Suplicó al capitán que
+eliminara la constancia, pero el capitán se negó. El primer oficial no sabía qué hacer,
+hasta que, finalmente, dio con la manera de vengarse. Al final de los registros
+regulares que había hecho en el diario ese día, agregó: « Hoy, el capitán estaba
+sobrio».
+
+Solución : Falacia de énfasis.
+
+3. Sostengo que la inflación es un mal necesario cuando se quiere, sobre todo, dinamizar
+la economía. Me apoyo para sostener esa idea en las brillantes apreciaciones de José
+Saramago, Premio Nobel de Literatura.
+
+Solución : Argumento ad verecundiam .
+
+4. Se ha cometido un crimen y el fiscal sospecha de X, un personaje bastante impopular.
+El fiscal dice que X no puede explicar dónde estuvo a la hora del crimen, de donde
+deduce que es el culpable.
+
+Solución : Argumento ad Ignorantiam.
+
+5. Estimado gerente: Tengo tres hijos en edad escolar. Mi esposa ha perdido su empleo.
+En realidad, soy un padre atribulado. Creo que merezco un mejor pago, ¿no es cierto?
+
+Solución : Argumento ad misericordiam .
+
+6. En la ciudad de Nueva York se han construido más iglesias que en cualquier otra
+ciudad de los Estados Unidos. En Nueva York se cometen más crímenes que en
+cualquier otro lado. Gracias a estas consideraciones, resulta evidente que para
+eliminar los crímenes, debemos derruir las iglesias neoyorquinas.
+
+Solución : Argumento de causa falsa.
+Ciclo 2015 -I
+
+Semana Nº 14 Pág. 21 7. Es un pianista consumado. Todo lo consumado está acabado. Por lo tanto, es un
+pianista acabado.
+
+Solución : Falacia de equívoco.
+
+8. Debes elogiar el libro que he escrito. Recuerda que todavía me debes una fuerte suma
+de dinero.
+
+Solución : Argumento ad baculum .
+
+9. Se puede decir, sin temor a cometer yerro alguno, que su obra carece de valor
+filosófico: es un beodo redomado y vive acosando a las jovencitas.
+
+Solución : Argumento ad hominem .
+
+

@@ -1,0 +1,88 @@
+ID: 214
+=====================TEXTO======================
+SERIES VERBALES
+=====================PREGUNTA 1======================
+En la siguiente serie indique cuál es el término que comprende a los demás.
+=====================ALTERNATIVAS======================
+A. Bicicleta 
+B. Coche 
+C. Vehículo
+D. Camión 
+E. Motocicleta
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Vehículo es el hiperónimo de las demás palabras.
+=====================PREGUNTA 2======================
+Pueblerino, aldeano, campesino,
+=====================ALTERNATIVAS======================
+A. Dicaz. 
+B. Gañán. 
+C. Paleto.
+D. Alimaña. 
+E. Sabandija.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Gañán significa campesino, labriego.
+=====================PREGUNTA 3======================
+Desgracia do, dichoso; impetuoso, sereno;
+=====================ALTERNATIVAS======================
+A) Iinsólito, habitual. 
+B) Miedo, infortunio.
+C) Fastidioso, impaciencia.
+ D) Calamidad, confrontar.
+E) Ocasional, constante.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Serie analógica de antónimos.
+=====================PREGUNTA 4======================
+Señale qué palabra no corresponde a la serie.
+=====================ALTERNATIVAS======================
+A. Inficionar 
+B. Contaminar 
+C. Contagiar
+D. Infectar 
+E. Emplazar
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Emplazar significa colocar, situar.
+=====================PREGUNTA 5======================
+Mustio, melancólico; imperecedero, caduco; resuelto, intrépido;
+=====================ALTERNATIVAS======================
+A. Álgido, abrasador. 
+B. Símbolo, alegoría.
+C. Similar, simpatía. 
+D. Insignia, sacramento.
+E. Bandera, signo.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Serie alternada de sinónimos y antónimos, corresponde un par de
+antónimos.
+=====================PREGUNTA 6======================
+Garbozo, gallardo, elegante,
+=====================ALTERNATIVAS======================
+A) Azorado 
+B) Bardo 
+C) Airoso
+D) Jovial 
+E) Ceñoso
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Serie verbal sinonímica basada en la idea de elegancia.
+=====================PREGUNTA 7======================
+Piropo, galantería, lisonja,
+=====================ALTERNATIVAS======================
+A) Requiebro 
+B) Cabriola 
+C) Holgura
+D) Coloquio 
+E) Desdoro
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Serie de sinónimos centrada en la idea de elogio.

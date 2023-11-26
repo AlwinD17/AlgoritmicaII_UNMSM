@@ -1,0 +1,75 @@
+ID: 19
+=====================TEXTO======================
+ELIMINACIÓN DE ORACIONES
+=====================PREGUNTA 1======================
+I) Nicolás Maquiavelo ejerció cargos como diplomático y funcionario público, además de ser considerado como filósofo y escritor II) Maquiavelo es central para entender el pensamiento durante el Renacimiento italiano, movimiento cultural que se produjo en Europa Occidental dura nte los siglos XV y XVI. III) Maquiavelo nació y murió en Florencia en mayo de 1469; a los 44 años se consagra como filósofo político al escribir El Príncipe. IV) Maquiavelo fue hijo de Bernardo Maquiavelo y de Bartolomea di Stefano Nelli, cuando niño vivi ó con cierta modestia pese al origen nobiliario del padre, debido a las deudas de este último. V) Maquiavelo tuvo la oportunidad de visitar varias cortes como la francesa, alemana y ciudades estado italianas, sus viajes fueron misiones diplomáticas, concluidas las mismas y de regreso en Florencia, fue arrestado y exiliado.
+=====================ALTERNATIVAS======================
+A. II
+B. IV
+C. V
+D. I
+E. III
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Se elimina II por impertinencia. El eje temático son datos sobre la vida de Maquiavelo y no la influencia o importancia para entender el pensamiento durante el Renacimiento.
+=====================PREGUNTA 2======================
+I) Existen demasiados enfoques como para tratar de determinar un enfoque unitario en la conceptualización del conocimiento. II) Se asume el conocimiento como una construcción basada en insumos informativos. III) Hay ,pues ,quienes soslayan los saberes mítico -religiosos por considerarlos falsos conocimientos. IV) En el fondo despreciar el conocimiento alternativo, por no tener su origen en la ciencia, solo evidencia una postura cientificista. V) El positivismo lógico vio fracasar su proyecto de ciencia unificada en la imposibilidad de articular un solo lenguaje científico.
+=====================ALTERNATIVAS======================
+A. II
+B. III
+C. II
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Se elimina la oración V por impertinencia. El tema es el conocimiento y sus enfoques, no el éxito o fracaso del po sitivismo lógico.
+=====================PREGUNTA 3======================
+I) Convencer con argumentos toma más tiempo que hacerlo con reflexiones retóricas o falacias. II) Existen argumentos deductivos e inductivos, teniendo en cuenta la relación de necesidad de los primeros (entre premisas y conclusión) y la relación de contingencia en los segundos. III) Los argumentos son conjuntos de proposiciones en cuya relación o fundamento reposa la posible verdad de los mismos. IV) El argumento no válido no puede confundirse con el no argumento, responden a naturalezas, estructuras y propósitos distintos. V) El argumento es una construcción que debe incluir: premisas, conclusión, un mismo contexto y una ineludible relación inferencial o relación lógica.
+=====================ALTERNATIVAS======================
+A. I
+B. III
+C. II
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Se elimina la oración I por impertinencia. El tema gira entorno a lo que el argumento es y no sobre si es más o menos efectivo en relación a la retórica olas falacias.
+=====================PREGUNTA 4======================
+I) Brad Dourif, actor de cine, es conocido por haber puesto su voz al personaje Chucky de la película de terror llamada El muñeco diabólico . II) Robert Englund es un actor que obtuvo reconocimiento por haber interpretado el papel de Freddy Krueger en la película de terror llamada Pesadilla en Elm Street . III) William Henry Platt, conocido como Boris Karloff, es un actor que alcanzó fama por haber representado a Frankestein en diversas películas de terror como La novia de Frankestein o El hijo de Frankestein . IV) Tyler Man, nacido con el nombre de Daryl Karolat, es un actor que alcanzó renombre por haber actuado como Michael Myers en la película de terror titulada Halloween . V) Derek Mears es un actor de cine conocido por haber personificado a Jason Voorhees en la película de terror llamada Viernes 13 .
+=====================ALTERNATIVAS======================
+A. I
+B. IV
+C. III
+D. V
+E. II
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Se elimina la oración I según el criterio de impertinencia, puesto que no refiere a un actor.
+=====================PREGUNTA 5======================
+I) El 30 de octubre de 1974 se disputó una de las peleas más memorables de la historia del boxeo entre los pesos pesados Mohamed Alí y George Foreman. II) Con la asistencia de cerca de sesenta mil personas en el estadio de 20 Mai, en Kinshasa, Zaire, Rumble in the jungle fue la primera pelea por el título de los pesos pesados que se disputó en África. III) Foreman, de 25 años, era el favorito de apostadores y entendidos, pues estaba invicto después de 40 combates; el retador fue Al í, de 32 años. IV) Mohamed Ali salió airoso de la contienda tras ocho rondas, con un puñetazo de derecha con el cual mandó a la lona a su contrincante. V) Tras agotar a su rival, la oportunidad de Al í llegó en los instantes finales del octavo asalto mediante una combinación de izquierda y derecha que estalló en el rostro de Foreman, quien cayó a la lona y el árbitro contó hasta diez .
+=====================ALTERNATIVAS======================
+A. I
+B. IV
+C. II
+D. V
+E. III
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Por redundancia con la V, se elimina la oración IV.
+=====================PREGUNTA 6======================
+I) Dormir con el celular encendido puede provocar trastornos en el sueño, según un estudio publicado en la revista PNAS . II) La luminiscencia de las pantallas de los celulares reduce la melatonina (la hormona reguladora del sueño) y prolonga el tiempo que tardamos en dormirnos. III) El brillo de las pantallas de los móviles retrasa y reduce el sueño REM, por lo que el estado de alerta aumenta por la noche. IV) El que antes de dormir hayamos echado un vistazo a nuestro celular sobreexcita el cerebro, lo que dificulta el conciliar el sueño. V) Deberíamos apagar nuestros móviles y nunca encenderlos mientras dormimos, puesto que cualquier vibración, sonido o destello puede despertarnos e interrumpir nuestros ciclos de sueño.
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Las oraciones tienen como tema los peligros de dormir con el celular encendido. La oración V es una recomendación o prescripción dirigida al lector sobre lo que debe hacer antes de dormir en relación con el celular. Es impertinente.

@@ -1,0 +1,87 @@
+ID: 28
+=====================TEXTO======================
+ELIMINACIÓN DE ORACIONES
+=====================PREGUNTA 1======================
+I) Virginia Woolf fue una novelista, ensayista, escritora de cartas, editora, feminista y cuentista británica, considerada una de las más destacadas figuras del modernismo literario del siglo XX. II) Durante su vida, Virginia Woolf sufrió una enfermedad mental hoy conocida como trastorno bipolar. III) Después de acabar el manuscrito de una última novela (publicada póstumamente), Virginia Woolf padeció una severa depresión. IV) El estallido de la Segunda Guerra Mundial, la destrucción de su casa de Londres dura nte el Blitz y la fría acogida que tuvo su biografía sobre su amigo Roger Fry empeoraron su condición mental hasta que se vio incapaz de trabajar. V) El 28 de marzo de 1941, Virginia Woolf se puso su abrigo, llenó sus bolsillos con piedras y se lanzó al río Ouse cerca de su casa y se ahogó.
+=====================ALTERNATIVAS======================
+A. II
+B. V
+C. III
+D. IV
+E. I
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Se elimina por inatingencia el conjunto de oraciones trata del trastorno bipolar padecido por Woolf y su degeneración que la lleva al suicidio.
+=====================PREGUNTA 2======================
+I) Los sistemas de ap areamiento en los murciélagos varían de una especie a otra. II) Algunos murciélagos tienen un comportamiento promiscuo y se unen en grupos numerosos en uno o varios árboles y copulan con varios compañeros cercanos. III) Muchas especies de murciélagos mantienen y defienden pequeños «harenes» de hembras. IV) Aunque la mayoría de las especies de murciélagos son poliginias o promiscuas, algunas, son monógamas y, en estos casos, el macho, la hembra y su descendencia viven juntos en grupos familiares. V) El comportamiento durante el cortejo es complejo en algunas especies de murciélagos, mientras en otras puede ser casi inexistente.
+=====================ALTERNATIVAS======================
+A. I
+B. IV
+C. II
+D. V
+E. III
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Se elimina por redundancia. La información se repite en las demás oraciones.
+=====================PREGUNTA 3======================
+I) Los zorros que viven en la ciudad de Londres son notablemente más audaces que sus primos del campo, comparten acera con los peatones y se reproducen en los patios traseros de los londinenses. II) Una encuesta realizada en 2001 por La Sociedad de los Mamí feros reveló que al 80% de los londinenses les gustaba tenerlos cerca. III) Incluso los zorros se han colado en el Parlamento británico, donde se encontró uno durmiendo dentro de un archivador. IV) Otro zorro penetró en los jardines del Palacio de Buckingham y dio muerte a algunos de los apreciados flamencos rosas de la reina Isabel II. V) Sin embargo, en general, estos zorros conviven en paz con los londinenses.
+=====================ALTERNATIVAS======================
+A. III
+B. II
+C. I
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Se elimina por inatingencia. El tema es actitud y com portamiento de los zorros en Londres, no la actitud de los londinenses respecto de ellos.
+=====================PREGUNTA 4======================
+I) La hibernación o sueño de invierno es uno de los grandes enigmas del mundo animal y algo más que un profundo sueño. II) Cuando la temperatura atmosférica decrece a un cierto nivel, el individuo se duerme, provocando que la frecuencia cardíaca baje radicalmente; el número de respiraciones disminuye de modo equiparado y la temperatura orgánica desciende excesivamente. III) En esta situación el animal pareciera que estuviese muerto, hasta el punto que la piel resulta fría al tacto, y en algunos casos se puede manipular al individuo, incluso con brusquedad, sin que este se despierte. IV) El animal baja sus pulsaciones y su respiración, y consume sus reservas de lípidos en la hibernación. V) Al empezar el invierno, el animal debe haber aumentado sus reservas de lípidos, que se van consumiendo paulatinamente para suplir las necesidades energéticas del organismo durante la hibernación.
+=====================ALTERNATIVAS======================
+A. I
+B. III
+C. IV
+D. V
+E. II
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Se elimina por redundancia. La IV oración redunda con la II, la III y la V.
+=====================PREGUNTA 5======================
+I) Giulia Tamayo ejerció la defensa de los derechos humanos en su Perú natal y en otros países como España. II) En 1998, Giulia Tamayo publicó su informe Nada personal ,a través del cual denunció el plan de esterilización quirúrgica masiva y forzada que fue practicado a miles de indígenas en el Perú de Fujimori. III) El gobierno del dictador Fujimori no logró rendir a Giulia Tamayo, quien siguió defendiendo los derechos humanos a pesar del acoso al que la sometió. IV) Giulia Tamayo tampoco fue derrotada por el terrorismo de Sendero Luminoso, que le descerrajó un tiro en la pierna por atrevida. V) Ni mucho menos Ana Botella, alcaldesa española, promotor a de decenas de desalojos forzosos de viviendas, a la que Giulia se enfrentó como investigadora de Amnistía Internacional.
+=====================ALTERNATIVAS======================
+A. V
+B. II
+C. III
+D. I
+E. IV
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Se elimina por redundancia. La I oración redunda con las demás.
+=====================PREGUNTA 6======================
+I) Existe cierta controversia entorno al sentido etimológico de las palabras que componen el término epistemología. II) Episteme contrariamente a lo que el común de las personas asume significa certeza. III) Asumir episteme como ciencia lleva tergiversar la definición de epistemología asumiéndola como “el estudio de la ciencia”. IV) Si se asume un criterio más estricto tendríamos que asumir episteme y epistemología como el estudio de las certezas. V) La intención de establecer un debate entorno al sentido etimológico de los términos busca clarificar el uso y establecer una visión más exacta de la naturaleza del concepto.
+=====================ALTERNATIVAS======================
+A. II
+B. IV
+C. V
+D. I
+E. III
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Se elimina V por impertinencia. El eje es el sentido etimológico de la palabra epistemología, de manera específica, y no el debate entorno al sentido etimológico de los términos en general.
+=====================PREGUNTA 7======================
+I) Los polímeros son macromoléculas cuya composición está basada en el conjunto de monómeros II) El almidón, la seda ola celulosa, son polímeros procesados naturalmente en los seres vivos, a través de la polimerización. III) La polimerización en cadena, es la reacción que sintetiza un polímero como el ADN. IV) En una polimerización el tamaño de la cadena dependerá de parámetros como la temperatura o el tiempo de reacción. V) En la polimerización cada cadena tiene un tamaño distinto y, por tanto, una masa molecular distinta.
+=====================ALTERNATIVAS======================
+A. I
+B. III
+C. II
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Se elimina I por impertinencia. El tema es la polimerización como proceso y no la composición de los polímeros.

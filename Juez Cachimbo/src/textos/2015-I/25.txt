@@ -1,0 +1,87 @@
+ID: 25
+=====================TEXTO======================
+SERIES VERBALES
+=====================PREGUNTA 1======================
+Oprobio, humillación, afrenta,
+=====================ALTERNATIVAS======================
+A. omisión.
+B. veteranía.
+C. ignominia.
+D. desparpajo.
+E. insolencia.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Serie sinonímica, sigue ignominia.
+=====================PREGUNTA 2======================
+Salacidad, lujuria; felonía, lealtad; despecho, resentimiento;
+=====================ALTERNATIVAS======================
+A. cielo, paraíso.
+B. zozobra, tranquilidad.
+C. ansiedad, locura.
+D. infección, deseo.
+E. vejez, adultez. 
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Serie mixta: sinónimos, antónimos, sinónimos…
+=====================PREGUNTA 3======================
+¿Cuál es el término que no corresponde al campo semántico?
+=====================ALTERNATIVAS======================
+A. Desafección.
+B. Animosidad.
+C. Animadversión.
+D. Inquina.
+E. Desaliento.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+El campo semántico es el de la animadversión y no el del desánimo.
+=====================PREGUNTA 4======================
+Desazón tristeza; barahúnda, alboroto;
+=====================ALTERNATIVAS======================
+A. perplejidad, discusión.
+B. crítica, aceptación.
+C. versatilidad, volubilidad.
+D. inconmensurabilidad, nexo.
+E. vulnerabilidad, idoneidad.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Pares de sinónimos que se completan con versatilidad, volubilidad.
+=====================PREGUNTA 5======================
+¿Qué término no corresponde al campo semántico?
+=====================ALTERNATIVAS======================
+A. Aciago.
+B. Nefasto.
+C. Funesto.
+D. Deplorable.
+E. Flamígero.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+El campo semántico es el de la desventura, flamígero es refulgente.
+=====================PREGUNTA 6======================
+Acceder, asentir, consentir,
+=====================ALTERNATIVAS======================
+A. diferir.
+B. consternar.
+C. contrariar.
+D. permitir.
+E. adherir.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Serie verbal constituida por sinónimos dentro del campo semántico del permiso o autorización, se completa con permitir.
+=====================PREGUNTA 7======================
+Conspiración, contubernio, conjura,
+=====================ALTERNATIVAS======================
+A. aspiración.
+B. fabulación.
+C. conjunción.
+D. conturbación.
+E. complot.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Serie verbal conformada por sinónimos que se completa con complot.

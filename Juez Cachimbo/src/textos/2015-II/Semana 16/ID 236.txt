@@ -1,0 +1,24 @@
+ID: 236
+=====================TEXTO======================
+I) Los autos autónomos, como los proyectados novedosamente por Google, cuentan
+con una unidad de medida inercial y codificador de posicionamiento, que determina la
+localización del vehículo y rastrea sus movimientos . II) La tecnología del auto
+autónomo de Google lo hace más atractivo en un mercado muy competitivo, pues no
+está basada en el uso del GPS sino más bien en el láser velodyne ,con él scanea la
+superficie por la que transita . III) La combinación del láser velodyne y mapas de alta
+resolución le permite al auto de Google reconocer el tráfico e incluso respetar las
+señales de tránsito . IV) El automóvil de Google dispone de sensores: cuatro radares
+instalados en los parachoques delantero y trasero . V) Sin duda, los autos autónomos
+son la nueva apuesta de Google en un m ercado cada vez más competitivo.
+=====================PREGUNTA 1======================
+Elimine una oración 
+=====================ALTERNATIVAS======================
+A. I 
+B. II 
+C. IV 
+D. V 
+E. III
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Se elimina V por redundancia con las oraciones I y II, principalmente.

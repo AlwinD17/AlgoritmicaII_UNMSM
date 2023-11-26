@@ -1,0 +1,65 @@
+ID: 49
+=====================TEXTO======================
+Si un sistema de signos constituye un lenguaje (y, en consecuencia, es neutral) o si expresa una teoría (y, en consecuencia, está comprometido), puede decidirse únicamente averiguando si hace alguna selección entre todas las posibles oraciones, o sea, si excluye algunas fórmulas del lenguaje dado. Sin embargo, la división lenguaje/teoría, aunque genuina, es relativa. En efecto, toda teoría universal, ya sea en lógica o matemática pura, puede ser utilizada como lenguaje por otra teoría más específica. Así pues, toda teoría matemática usa la lógica como lenguaje o vehículo de comunicación y la matemática es un lenguaje de la ciencia teórica.
+Hay dos maneras en que una teoría puede ser usada como lenguaje por otra teoría. Una de ellas es tomar prestados solo algunos de los conceptos de la teoría universal y sus correspondientes símbolos, sin utilizar los axiomas y teor emas de esa teoría. Así es como la mayoría de los matemáticos utilizan la lógica. También es el modo en que los biólogos moleculares usan la teoría de la información: aunque hablan de la información transportada por la molécula de ADN, nunca calculan o miden esa cantidad de información. Otra manera, más completa, de utilización de una teoría por otra se da cuando esta última utiliza algunos de los enunciados (y, por ende, algunos de los conceptos) de la primera. Así es como los físicos utilizan el análisis funcional y como los sociólogos usan la teoría de grafos: estas teorías ingresan al edificio mismo de las teorías fácticas específicas. En síntesis, la distinción entre lenguaje y teoría, aunque clara, es tan relativa como la que hay entre medios y fines.
+Bunge, M. (2008). Semántica I . Barcelona: Gedisa Editorial.
+=====================PREGUNTA 1======================
+¿Cuál es el tema central del texto?
+=====================ALTERNATIVAS======================
+A. La utilización de la teoría de información como un lenguaje.
+B. La envergadura de la lógica en la construcción de teorías.
+C. La naturaleza relativa de la división entre lenguaje y teoría.
+D. Las teorías como un conjunto de oraciones de un lenguaje.
+E. El uso de la lógica como un mero vehículo de comunicación.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+El autor concluye que la distinción entre lenguaje y teoría es relativa.
+=====================PREGUNTA 2======================
+El vocablo EDIFICIO adquiere el sentido de
+=====================ALTERNATIVAS======================
+A. creación.
+B. sustentación.
+C. sistemas.
+D. soporte.
+E. trascendencia.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Las teorías utilizadas como lenguaje llegan a formar parte de la estructura de algunas teorías fácticas específicas.
+=====================PREGUNTA 3======================
+Es incompatible aseverar que una teoría universal puede
+=====================ALTERNATIVAS======================
+A. conceder eventualmente algunos de sus conceptos.
+B. diferenciarse de una manera absoluta del lenguaje.
+C. ser usada como lenguaje por teorías más específicas.
+D. constituirse en un notable vehículo de comunicación.
+E. instalarse en la estructura misma de otras teorías.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+La distinción entre lenguaje y teoría es relativa.
+=====================PREGUNTA 4======================
+Se infiere del texto que una teoría
+=====================ALTERNATIVAS======================
+A. no podría convertirse en el medio de comunicación de otra teoría más específica.
+B. se debe enfocar en la consolidación del modelo socioeconómico que está vigente.
+C. no podría prestar sus correspondientes símbolos a alguna teoría más específica.
+D. es un subconjunto de las proposiciones formulables e n un determinado lenguaje.
+E. terminará convirtiéndose inexorablemente en conocimiento científico establecido.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+El autor señala que una teoría hace una selección entre todas las posibles oraciones de un lenguaje dado.
+=====================PREGUNTA 5======================
+Si las teorías universales no pudieran ser utilizadas como lenguaje por una teoría específica,
+=====================ALTERNATIVAS======================
+A. la matemática podría ser el medio de comunicación de la física.
+B. no podría existir ninguna distinción entre el lenguaje y la teoría.
+C. los biólogos calcularían la in formación transportada por el ADN.
+D. la sociología podría tomar prestados axiomas de la matemática.
+E. la lógica no podría ser el lenguaje de una teoría matemática.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+En el texto se señala que toda teoría universal puede ser utilizada como lenguaje por otra teoría; por ello, es posible aseverar que la lógica puede ser usada como lenguaje por la matemática.

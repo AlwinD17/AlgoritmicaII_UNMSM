@@ -1,0 +1,117 @@
+ID: 134
+=====================TEXTO======================
+ELIMINACIÓN DE ORACIONES
+=====================PREGUNTA 1======================
+I) Elon Musk es un físico y emprendedor sudafricano, más conocido por ser el fundador
+de PayPal, Tesla Motors y Solar City. II) Elon Musk, el prestigioso emprendedor
+sudafricano, es conocido por haber creado, a través de su compañía Tesla Motors, el
+primer automóvil eléctrico viable para producción en la era moderna (Tesla Roadster).
+III) También creó SolarCity, un proveedor estadounidense de servicios de energía para
+los propietarios de viviendas, empresas y organizaciones g ubernamentales/sin ánimo
+de lucro. IV) Asimismo, Musk, uno de los más importantes físicos en la actualidad, es
+reconocido por haber diseñado un sucesor privado del Transbordador Espacial (el
+F9/Dragon). V) PayPal, el sistema de pagos en línea más grande de l mundo, es otra
+de las famosas creaciones Elon Musk.
+=====================ALTERNATIVAS======================
+A. I
+B. III
+C. V
+D. IV
+E. II
+=====================ALTERNATIVA
+CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Se elimina la primera oración por criterio de redundancia. Esta oración
+repite información vertida en todas las demás.
+=====================PREGUNTA 2======================
+I) La Pascua es la fiesta central del cristianismo, en la que se conmemora la
+resurrección de Jesús al tercer día después de haber sido crucificado. II) La Pascua
+marca el final de la Semana Santa, en la que se conmemora la crucifixión y muerte de
+Jesús. III) Esta festividad religiosa también es conocida como Pascua Florida,
+Domingo de Pascua, Domingo de Resurrección o Domingo de Gloria. IV) A la Semana
+Santa le sigue un período de cincuenta días llamado Tiempo pascual, que termina con
+el Domingo de Pentecostés. V) El Domingo de Pascua es una fiesta móvil, lo que
+significa que no se fija en relación al calendario civil.
+=====================ALTERNATIVAS======================
+A. II
+B. IV
+C. I
+D. III
+E. V
+=====================ALTERNATIVA
+CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Se elimina la cuarta oración por criterio de inatingencia. El tema es la
+festividad religiosa denominada la Pascua.
+=====================PREGUNTA 3======================
+I) Las mujeres que hayan tenido cáncer de ovario, útero o del seno tienen un riesgo
+aumentado de la aparición de cáncer de colon. II) Es más probable que una persona
+que fuma muera de cáncer colorrectal que una persona no fumadora. III) El cáncer
+colorrectal, también llamado cáncer de colon, incluye cualquier tipo de neoplasias del
+colon, recto y apéndice. IV) Los individuos que previamente hayan sido diagnosticados
+y tratados por tener cáncer tienen un mayor riesgo de contraer cáncer colorrectal en
+el futuro. V) Al superar la valla de los cincuenta años, se incrementa el riesgo de
+desarrollar cáncer de colon.
+=====================ALTERNATIVAS======================
+A. IV
+B. V
+C. II
+D. I
+E. III
+=====================ALTERNATIVA
+CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Se elimina la cuarta oración por criterio de inatingencia. El tema es factores
+que aumentan el riesgo de desarrollar cáncer de colon.
+=====================PREGUNTA 4======================
+I) Juego de tronos es una novela de fantasía escrita por el autor estadounidense
+George R. R. Martin en 1996 y ganadora del premio Locus en 1997. II) La novela se
+caracteriza por su estética medieval y el uso de numerosos personajes bien
+detallados. III) La novela transcurre en un mundo fantástico con reminiscencias de la
+Europa de la Edad Media en el que la magia y las criaturas míticas del pasado han
+quedado en el olvido. IV) El riguroso desarrollo psicológico de sus personajes (en
+especial los femeninos) es un elemento ca racterístico de la novela y uno de los que
+más ha contribuido a su prestigio internacional. V) La contraposición de los puntos de
+vista de sus múltiples protagonistas, su trama con giros inesperados y su uso sutil y
+moderado de los aspectos mágicos han sido los factores que han desencadenado el
+furor por su novela.
+=====================ALTERNATIVAS======================
+A. V
+B. II
+C. IV
+D. I
+E. III
+=====================ALTERNATIVA
+CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Se elimina la segunda oración por criterio de redundancia. Esta oración
+repite información vertida en III, IV y V.
+=====================PREGUNTA 5======================
+I) La Universidad de Harvard fue fundada en 1637 con el nombre de New College o
+the college at New Towne. II) Cambió el nombre a Harvard College el 13 de marzo de
+1639, en recuerdo a su benefactor John Harvard, un joven clérigo que donó a la
+institución s u biblioteca de 400 libros y 779 Libras (que era la mitad de su patrimonio).
+III) En la nueva constitución de Massachusetts de 1780 se encuentra por primera vez
+el cambio de nombre de Harvard College a Harvard University. IV) Durante sus 40
+años de mandato como presidente de Harvard, entre 1869 y 1909, Charles William
+Eliot transformó radicalmente el modelo de universidad que había en Harvard,
+convirtiéndola en un centro de investigación moderna. V) El día de hoy es considerada
+la mejor universidad del mundo según el Academic Ranking of World Universities
+(ARWU) y el Ranking del Laboratorio de Cibermetría del Consejo Superior de
+Investigaciones Científicas (CSIC) de España.
+=====================ALTERNATIVAS======================
+A. I
+B. III
+C. IV
+D. V
+E. II
+=====================ALTERNATIVA
+CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Se elimina la quinta oración por criterio de inatingencia. El tema es historia
+de la Universidad de Harvard.

@@ -1,0 +1,72 @@
+ID: 135
+=====================TEXTO======================
+SERIES VERBALES
+=====================PREGUNTA 1======================
+Audaz, atrevido, valiente,
+=====================ALTERNATIVAS======================
+A. inocuo.
+B. laico.
+C. sagaz.
+D. bravo.
+E. fatuo.
+=====================ALTERNATIVA
+CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Serie compuesta por sinónimos de ‘valiente’. Se completa con BRAVO.
+=====================PREGUNTA 2======================
+Marque la opción que se aleje del campo semántico.
+=====================ALTERNATIVAS======================
+A. Demoler.
+B. Derribar.
+C. Debelar.
+D. Devastar.
+E. Derruir.
+=====================ALTERNATIVA
+CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Serie compuesta por sinónimos de ‘derribar’. Se elimina DEBELAR, que
+significa ‘rendir a fuerza de armas al enemigo’.
+=====================PREGUNTA 3======================
+Bellaco, párvulo; excelente, precioso; sensible, impasible;
+=====================ALTERNATIVAS======================
+A. apocado, pusilánime.
+B. infatuado, soliviantado.
+C. pletórico, longincuo.
+D. espléndido, quisquilloso.
+E. mentecato, arbitrario.
+=====================ALTERNATIVA
+CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Serie mixta (antónimos, sinónimos y antónimos). Se completa con el par
+de sinónimos APOCADO, PUSILÁNIME.
+=====================PREGUNTA 4======================
+Soberbio, orgulloso, arrogante,
+=====================ALTERNATIVAS======================
+A. munificente.
+B. pretencioso.
+C. exultante.
+D. dispendioso.
+E. vociferante.
+=====================ALTERNATIVA
+CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Serie compuesta por sinónimos de ‘arrogante’. Se completa con
+PRETENCIOSO.
+=====================PREGUNTA 5======================
+Marque la alternativa que no pertenezca al campo semántico.
+=====================ALTERNATIVAS======================
+A. Recóndito.
+B. Icástico.
+C. Abstruso.
+D. Secreto.
+E. Esotérico.
+=====================ALTERNATIVA
+CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Serie compuesta por sinónimos de ‘oculto’. Se elimina ICÁSTICO, que
+significa ‘natural, sin disfraz ni adorno’.

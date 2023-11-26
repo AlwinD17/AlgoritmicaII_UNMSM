@@ -1,0 +1,27 @@
+ID: 103
+=====================TEXTO======================
+LA LÓGICA DEL TERROR
+=====================PREGUNTA 1======================
+1. Para el autor, la lógica del terrorista entraña un razonamiento
+=====================ALTERNATIVAS======================
+A) apodíctico. 
+B) especioso. 
+C) axiomático.
+D) ecuánime. 
+E) valedero.
+=====================RAZONAMIENTO======================
+Mario Vargas Losa derruye la falacia del razonamiento terrorista.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================PREGUNTA 2======================
+2. Determine la aserción incompatible con el texto.
+=====================ALTERNATIVAS======================
+A) La violencia estructural se puede aplacar por medios pacíficos.
+B) En la lógica terrorista, un gobierno democrático es una mera ilusión.
+C) Los atentados terroristas abundan más en época de dictaduras.
+D) Ravachol es un anarquista que aplica la infausta lógica del terror.
+E) Para el terrorista, la democracia representativa es una pantomima.
+=====================RAZONAMIENTO======================
+Los ataques terroristas se dan más en gobiernos democráticos.
+=====================ALTERNATIVA CORRECTA======================
+C

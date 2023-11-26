@@ -1,0 +1,64 @@
+ID: 59
+=====================TEXTO======================
+Diversos estudios han demostrado que las estructuras sintácticas (las oraciones) que emplean los niños pequeños no se adquieren mediante un proceso de «imitación». La razón fundamental para ello parece ser que la capacidad de imitación de los niños no resulta, de hecho, demasiado notable, de modo que estos suelen limitarse a repetir aquellas estructuras que han adquirido previamente, como se pone de manifiesto habitualmente en los test de imitación destinados a evaluar el nivel de desarrollo lingüístico del niño. El análisis de los datos de habla infantil indica, asimismo, que las repeticiones exactas de los enunciados emitidos por los adultos (en el sentido de presentar las mismas palabras con contenido léxico y dispuestas en el mismo orden) son poco frecuentes, existiendo, además, una significativa variabilidad individual a este respecto; este tipo de análisis también ha confirmado la idea de que las estructuras imitadas ya estaban presentes en el habla espontánea del niño. Por lo demás, parece probado que la imitación no constituye casi nunca una mera copia pasiva de lo escuchado, sino que implica casi siempre un análisis y una reconstrucción del input . Este hecho ha llevado a sugerir, en una formulación menos restrictiva, que los niños podrían adquirir el lenguaje mediante un proceso de generalización. Ciertamente los niños generalizan, pero no lo hacen de forma indiscriminada. Además, cuando los niños proyectan nuevas oraciones sobre la base de otras que han escuchado previamente, no se limitan a colocar nuevos elementos léxicos en los huecos (slots) existentes en la estructura de la oración oída, sino que son capaces, si es necesario, de expandir dicha estructura, con objeto de incluir nuevas cláusulas, o de reemplazar determinados componentes por otros je rárquicamente equivalentes. En suma, si bien resulta evidente que determinados elementos se aprenden por imitación, como sucede paradigmáticamente con las palabras, este proceso no desempeñaría un papel causal relevante en la adquisición de la sintaxis.
+BENÍTEZ BURRACO , Antonio (2009). Genes y lenguaje. Aspectos ontogenéticos, filogenéticos y cognitivos. Barcelona, Editorial Reverté.
+=====================PREGUNTA 1======================
+El tema central del texto es
+=====================ALTERNATIVAS======================
+A. la relación simétrica entre adquisición sintáctica y abstracción.
+B. las estructuras sintácticas adquiridas por medio de la mímesis.
+C. la generalización como mecanismo de adquisición lingüística.
+D. la causalidad entre la adquisición de la sintaxis y la imitación.
+E. el papel marginal de la imitación en la adquisición de la si ntaxis.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+El autor desarrolla, sobre la base de estudios realizados al respecto, el tema del desarrollo sintáctico en los niños por mecanismos diferentes a la imitación.
+=====================PREGUNTA 2======================
+En el texto, la palabra RECONSTRUCCIÓN se puede reemplazar por
+=====================ALTERNATIVAS======================
+A. constitución.
+B. edificación.
+C. recreación.
+D. abstracción.
+E. estandarización.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+El término alude a la capacidad del niño para analizar la evidencia que recibe y recrearla, con lo cual se constata que la imitación no funcionaría como mecanismo de adquisición sintáctica.
+=====================PREGUNTA 3======================
+Resulta incompatible con el desarrollo textual afirmar que la sintaxis en los niños
+=====================ALTERNATIVAS======================
+A. se adquiere mediante mecanismos diferentes a la imitación.
+B. implica la aplicación de generalizaciones bastante específicas.
+C. supone el desarrollo endógeno de un proceso de generalización.
+D. se manifiesta de manera consistentemente heterogénea en estos.
+E. depende del estímulo lingüístico para replicarlo de m anera exacta.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+El niño no adquiere la sintaxis por imitación; por lo tanto, es incompatible afirmar que el estímulo lingüístico que recibe lo replica de forma exacta.
+=====================PREGUNTA 4======================
+Se colige del desarrollo textual que, en el procesamiento cognitivo de la sintaxis, el niño
+=====================ALTERNATIVAS======================
+A. aplica constantemente un patrón estructural adquirido tácitamente.
+B. impone procedimientos arbitrarios para generar frases y oraciones.
+C. coloca nuevos elementos léxicos en los vacíos ( slots) ya existentes.
+D. genera repeticiones consistentes de los datos recibidos del entorno.
+E. utiliza recursos simples como el llenado de espacios con palabras.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+El niño generaliza y repite no la información de los padres, sino una estructura adquirida por este de forma intuitiva. Por tal razón, se colige que tal patrón se adquiere sin adiestramiento objetivo, esto es, de forma tácita.
+=====================PREGUNTA 5======================
+Si los datos obtenidos en los estudios arrojaran una simetría entre el input que los niños reciben y sus propias estructuras explicitadas, probablemente
+=====================ALTERNATIVAS======================
+A. el desarrollo lingüístico sería un objeto de estudio inaprehensible e ignoto.
+B. las abstracciones dependerían necesariamente de la subjetividad de estos.
+C. se confirmaría el papel marginal de la imitación en el desarrollo de la sintaxis.
+D. la añeja conjetura de la imitación como mecanismo adquisitivo sería aceptable.
+E. estos podrían utilizar procesos de gen eralización frasal de mayor complejidad.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Por mucho tiempo se pensó que el lenguaje se instalaba mediante mecanismos de imitación. Si la evidencia a la que el niño está expuesto fuera similar a su propio uso, esta propuesta ya superada tendría as idero.

@@ -1,0 +1,66 @@
+ID: 57
+=====================TEXTO======================
+Si un marciano honrara a nuestro planeta con su visita, se impresionaría de una similitud extraordinaria entre las criaturas vivas de la Tierra y de una diferencia clave. En cuanto a la similitud, notaría que todos los seres vivos están diseñados en base a unos sistemas de desarrollo sumamente conservados que leen un lenguaje (casi) universal codificado en pares de bases de ADN. Como tal, la vida se organiza jerárquicamente a partir de unidades discretas que no se mezclan entre sí (codones y, en su gran mayoría, genes) capaces de combinarse para crear variedades cada vez más complejas y prácticamente ilimitadas tanto de especies como de organismos individuales. Por el contrario, notaría la ausencia de un código universal de comunicación.
+Si nuestro marciano naturalista fuese meticuloso, podría notar que la facultad que media en la comunicación humana parece ser extraordinariamente diferente a la de otros seres vivos; podría notar, además, que la facultad humana del lenguaje parece estar organizada como el código genético: jerárquico, generativo, recursivo y prácticamente ilimitado en cuanto a su alcance de expresión. Con estos elementos a la mano, este marciano podría empezar a preguntarse cómo cambió el código genético para haber generado una cantidad vasta de sistemas de comunicación mutuamente incomprensibles entre las especies y al mismo tiempo mantener claridad de comprensión dentro de una especie dada. El marciano se habría tropezado con algunos de los problemas esenciales que rodean a la pregunta de la evolución del lenguaje y de cómo los humanos han adquirido la facultad del lenguaje.
+La mayoría de los comentaristas actuales está de acuerdo con que, aunque las abejas bailan, las aves cantan y los chimpancés gruñen, estos sistemas de comunicación difieren cualitativamente del lenguaje humano. En particular, los sistemas de comunicación animal carecen del poder expresivo e ilimitado del lenguaje humano (basado en la capacidad de los humanos para la recursión, que consiste en generar expresiones infinitas (oraciones) mediante medios finitos (sonidos)). El enigma evolutivo, por lo tanto, yace en resolver cómo hemos llegado de allá para acá, dada esta disco ntinuidad aparente.
+CHOMSKY , Noam, Marc H AUSER y W. Tecumseh F ITCH (2002) «La facultad del lenguaje, ¿qué es, quién la tiene y cómo evolucionó?». En Science, Vol. 298, pp. 1569 -1579.
+=====================PREGUNTA 1======================
+El tema central del texto es
+=====================ALTERNATIVAS======================
+A. los misterios irresolubles del lenguaje humano como milagro misterioso de la biología y del universo.
+B. la resolución de los problemas esenciales del lenguaje humano desde el punto de vista de la ufología y la astrología.
+C. el problema evolutivo y de adquisición que subyace al lenguaje humano como facultad peculiar de nuestra especie.
+D. los complejos sistemas de comunicación animal y los posibles distingos respecto del lenguaje humano.
+E. las teorías que confrontan en la búsqueda de una explicación razonable acerca de la evolución del lenguaje humano.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+El texto aborda la problemática que resulta del lenguaje como facultad privativa del ser humano. Esta problemática involucra el proceso evolutivo tanto como el de desarrollo adquisitivo.
+=====================PREGUNTA 2======================
+En el texto, el vocablo CLARIDAD se puede reemplazar por
+=====================ALTERNATIVAS======================
+A. transparencia.
+B. opacidad.
+C. diafanidad.
+D. fluencia.
+E. inteligibilidad.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+El vocablo CLARIDAD es usado para referirse a la intercomprensión entre miembros de una misma especie. Por consiguiente, el sinónimo en contexto es INTELIGIBILIDAD.
+=====================PREGUNTA 3======================
+Se deduce del desarrollo textual que el lenguaje como facultad humana
+=====================ALTERNATIVAS======================
+A. involucra la búsqueda de similitudes significativas con los primates mayores.
+B. es semejante al sistema comunicativo de los primates basado en gruñidos.
+C. desencadena propuestas insostenibles como las del extraterrestre del texto.
+D. debe abordarse trascendiendo la intuición de este como medio comunicativo.
+E. es un misterio irresoluble que solo puede figurarse a través de metáforas.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+La capacidad de recursión, no detectable en otras especies, es exclusiva del lenguaje humano; por consiguiente, es posible deducir que para abordar el lenguaje es necesario ir más allá de un enfoque comunicativo .
+=====================PREGUNTA 4======================
+Resulta incompatible respecto del desarrollo textual afirmar que la figura del marciano usada por los autores
+=====================ALTERNATIVAS======================
+A. explicita de forma sugerente las similitudes y diferencias entre especies.
+B. resulta un recurso metafórico que representa la neutralidad del lingüista.
+C. sirve para definir la crucial y particular naturaleza del lenguaje humano.
+D. es usada para caricaturizar el estudio científico del lenguaje humano.
+E. permite presentar la diversa gama de medios de comunicación animal.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+La metáfora del marciano es usada metodológicamente para neutralizar la evaluación de las diferencias y similitudes entre especies, y para definir aspectos que, aunque parecieran obvios, permiten establecer una problemática que puede abordarse científicamente.
+=====================PREGUNTA 5======================
+Si se detectara una capacidad infinitamente expresiva en la comunicación animal en general, probablemente
+=====================ALTERNATIVAS======================
+A. la recursividad únicamente sería rastreable en algunos primates.
+B. sería posible plantear una conexión biológica a niveles profundos.
+C. los chimpancés pasarían de emitir gruñidos a articular palabras.
+D. la biología humana deslindaría significativamente de los primates.
+E. el engarce genético planteado en el texto tendría que reformularse.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+La recursión es privativa de la especie humana y es un rasgo exclusivo de su lenguaje. En tanto que tal, si fuese una característica de los animales en general, sería posible plantear un engarce a nivel genético entre ellos.

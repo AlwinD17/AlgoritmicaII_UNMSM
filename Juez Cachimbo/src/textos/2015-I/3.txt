@@ -1,0 +1,46 @@
+ID: 3
+=====================TEXTO======================
+La malaria o paludismo es una de las enfermedades más devastadoras del planeta. Cada año, esta afecta a unos 400 millones de individuos, con resultados de muerte para dos millones de ellos. Las víctimas principales son niños del Tercer Mundo. El agente causante de la enfermedad es el Plasmodium ,un parásito intracelular que se transmite por la picadura de mosquitos infectados. Varios intentos de erradicar esta enfermedad durante el último siglo han fracasado. Ello se explica, en buena medida, por la aparición de parásitos resistentes a los medicamentos aplicados y al desarrollo de resistencia contra insecticidas en los mosquitos vectores.
+Ante esa situación, los científicos se esfuerzan por hallar nuevas soluciones para detener el desarrollo de la enfermedad, en particular la búsqueda de una vacuna contra la malaria. Pero esa vía no ha dado los frutos esperados. Se impone, pues, volver al estudio de la biología de Plasmodium con el fin de poder diseñar otras estrategias más eficaces. El ciclo biológico del p arásito comprende varios estadios, que se desarrollan en dos huéspedes diferentes: uno vertebrado (desde reptiles hasta humanos) y otro, un insecto que actúa como vector (el mosquito Anopheles ).La malaria se transmite a través de la picadura de un mosquito infectado que porta el protozoo Plasmodium en estadio de esporozoito en las glándulas salivares. El mosquito introduce su probóscide en la piel del huésped buscando un capilar con sangre y deposita, debajo de la piel, saliva que contiene los esporozoitos del Plasmodium . Desde aquí los esporozoitos migran a la sangre en pocos minutos; el torrente sanguíneo los transporta hasta el hígado. Se desconoce por qué los esporozoitos del Plasmodium se detienen en el hígado, el único órgano que son capaces de infectar.
+=====================PREGUNTA 1======================
+¿Cuál es la aserción compatible con el texto?
+=====================ALTERNATIVAS======================
+A. El Anopheles es el agente causante de la malaria.
+B. Plasmodium ataca a muchos órganos humanos.
+C. El parásito ha causado la extinción de los mosquitos.
+D. Los insecticidas resultan ineficaces contra la malaria.
+E. La malaria es una enfermedad relativamente inocua.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Los insecticidas no pueden eliminar a los mosquitos vectores, por tanto no son la solución para la enfermedad.
+=====================PREGUNTA 2======================
+Con respecto al texto, es incoherente afirmar que
+=====================ALTERNATIVAS======================
+A. la vacuna resulta ser un medio eficaz contra la malaria.
+B. los intentos por erradicar la enfermedad han fracasado.
+C. el ciclo biológico del parásito consta de varias etapas.
+D. el Anopheles es un huésped del parásito Plasmodium.
+E. la malaria es un mal que puede atacar a los reptiles.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+La vía de la vacuna no ha dado los resultados esperados.
+=====================PREGUNTA 3======================
+Escriba C (compatible) o I (incompatible) indicando el estatus de los siguientes
+enunciados:
+Cada año, la malaria causa la muerte de dos millones de individuos.( )
+Las víctimas de la malaria viven predominantemente en el Tercer Mundo.( )
+Plasmodium es un parásito que anida exclusivamente en los vertebrados.( )
+Anopheles es el agente causal de la enfermedad de la malaria o paludismo.( )
+=====================ALTERNATIVAS======================
+A. C C I I 
+B. I C C I
+C. C C C C
+D. I I C I
+E. C I I I
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+La secuencia correcta es C, C, I, I.
+

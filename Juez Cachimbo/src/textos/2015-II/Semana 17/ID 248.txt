@@ -1,0 +1,25 @@
+ID: 248
+=====================TEXTO======================
+I) Las azoteas de muchas edificaciones norteamericanas están conformadas por
+jardines alternativos que cuentan con plantas que almacenan agua, y absorben la
+lluvia que en un techo normal pasaría a filtrarse. II) La tierra natural se vuelve
+excesivamente pesa da al saturarse de agua en los techos, así que los arquitectos de
+techos verdes utilizan tierra compuesta. III) El exceso de agua pluvial se filtra hacia
+una capa de receptáculos o piedrecillas antes de derramarse hacia un drenaje; y, en
+temporadas secas, las raíces absorben el agua acumulada. IV) La barrera de raíces
+y una membrana impermeable aíslan el sistema de tejado vivo del edificio sobre el
+que se desarrolla. V) La azotea verde de muchas edificaciones en EE. UU. está
+compuesta por un conjunto de cap as esenciales que cumplen funciones específicas
+de absorción, drenaje, entre otras.
+=====================PREGUNTA 1======================
+Elimine una oración 
+=====================ALTERNATIVAS======================
+A. III 
+B. V 
+C. II 
+D. IV 
+E. I
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Se elimina la V por redundancia. Se encuentra implicada en las demás.

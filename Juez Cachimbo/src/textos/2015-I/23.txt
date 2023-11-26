@@ -1,0 +1,39 @@
+ID: 23
+=====================TEXTO======================
+Manuel, Raúl, Pedro y Luis se van a casar con Teresa, Ana, Sofía y Carmen. Ana vive en Barranco y Carmen vive en Chorrillos. Las otras chicas viven en Surco y Miraflores. Raúl se casa con la que vive en Barranco, Pedro se casa con la que vive en Surco y Manuel no se casa con la que vive en Chorrillos.
+=====================PREGUNTA 1======================
+A partir de los datos presentados, podemos deducir que
+=====================ALTERNATIVAS======================
+A. Pedro se casa con Sofía.
+B. Manuel se casa con Teresa.
+C. Raúl se casa con Carmen.
+D. Luis se casa con Carmen.
+E.  
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Por las condiciones del enunciado, Luis se casa con la que vive en Chorrillos, es decir, con Carmen.
+=====================PREGUNTA 2======================
+Sobre la base de la información dada en el texto, ¿cuál de los siguientes enunciados es falso necesariamente?
+=====================ALTERNATIVAS======================
+A. Raúl se casa con Ana.
+B. Pedro se casa con Carmen.
+C. Manuel se casa con Sofía.
+D. Teresa vive en Surco.
+E.  
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Pedro se casa con la que vive en Surco; por tanto, no puede casarse con Carmen, quien vive en Chorrillos.
+=====================PREGUNTA 3======================
+¿Cuál de los siguientes enunciados nos da la información suficiente para conocer los cuatro emparejamientos?
+=====================ALTERNATIVAS======================
+A. Manuel se casa con Carmen.
+B. Carmen se casa con Luis.
+C. Ana se casa con Raúl.
+D. Teresa vive en Miraflores.
+E.  
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Con el dato de que Teresa vive en Miraflores, podemos conocer los cuatro emparejamientos: Manuel -Teresa, Raúl -Ana, Pedro -Sofía y Luis -Carmen.

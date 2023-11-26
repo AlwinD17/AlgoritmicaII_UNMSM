@@ -1,0 +1,66 @@
+ID: 31
+=====================TEXTO======================
+El censo de 1862, programado para un padrón electoral revisado, encontró una población de 2,461,936 habitantes. El incremento representó un alza del 23 por ciento con respecto a 1850, una tasa galopante considerando los informes de epidemias devastadoras de tifoidea, cólera y difteria en la sierra a fines de la década de 1850. Para ese entonces, en pleno clímax de la prosperidad exportadora, la población peruana había duplicado el total colonial. Se trató de un censo real, como lo evidencian las detalladas cifras desagregadas a nivel provincial por sexo y edad (pero con mujeres y niños, significativamente agrupados juntos). Hubo muchas críticas contemporáneas, como la de Paz Soldán, que ridiculizaba su pobre organización y obvios errores (utilizando tasas de error supuestas, él ofrecía una alternativa de “4,000,000 de almas”, sin duda una estimación alta). […] Las conclusiones del censo de 1862 encajan bien con las tendencias del siglo diecinueve.
+El primer censo peruano moderno, que detallaba sus preparativos y procedimientos, fue realizado en 1876, momento en el cual el boom guanero estaba colapsando y el Perú se encaminaba a su aplastante derrota con Chile. Dirigido por el estadístico francés Georges Marchand, y compilado y publicado por el experimentado M .A. Fuentes, el censo movilizó un pequeño ejército de funcionarios que por vez primera recogió minuciosos datos laborales, sociales y regionales. Esta información revela, por ejemplo, la profunda diversidad de las estructuras sociales regionales peruanas: que 1,554,678 de 2,699,106 peruanos eran considerados indios; que solo el 15 por ciento de la población vivía en pueblos (incluyendo la mayoría de los 498 “israelitas” peruanos confesos); y que las cuatro mil cuatrocientas “haciendas” del país eran el hogar de un cuarto de la población rural.
+Aunque entonces y ahora el total arrojado por el censo de 2.7 millones de peruanos quedaba expuesto a cuestionamientos, sigue siendo considerado un “esfuerzo riguroso” por la extensa literatura crítica moderna. Los datos más débiles son los referidos a ciertas estadísticas provinciales, y a ítems sociales como la ocupación y el alfabetismo. Más alarmante que las imperfecciones de este censo fue el hecho que el siguiente censo nacional no fuese realizado sino hasta 1940, tres cuartos de siglo más tarde. Este hiato ha dejado un enorme vacío para el estudio de la aparición del Perú moderno.
+Gootenberg, P. (1995). Población y etnicidad en el Perú. Lima: IEP Ediciones.
+=====================PREGUNTA 1======================
+¿Cuál es el tema central del texto?
+=====================ALTERNATIVAS======================
+A. Los principales censos del siglo XIX en el Perú.
+B. Los censos en el Perú entre el siglo XIX y el XX.
+C. Las falencias de los censos en el Perú del S. XX.
+D. La población y su estratificación en el siglo XIX.
+E. Los censos para determinar el crecimiento local.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+El texto hace hincapié en los censos llevados a cabo en el siglo XIX, la referencia al censo del siglo XX, no es desarrollada en el mismo grado.
+=====================PREGUNTA 2======================
+El término HIATO tiene el sentido contextual de
+=====================ALTERNATIVAS======================
+A. aproximación.
+B. encuentro.
+C. continuidad.
+D. precaución.
+E. distancia. 
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Al mencionarse los años, se entiende hiato como distancia temporal entre un censo y otro.
+=====================PREGUNTA 3======================
+De los datos obtenidos a partir del censo de 1862, se colige que
+=====================ALTERNATIVAS======================
+A. en el Perú todos critican, pero poco s solucionan los problemas.
+B. el censo fue apresurado, sus resultados despertaban desconfianza.
+C. Paz Soldán recurrió al mismo censo para recalcular las cifras.
+D. no se conocía ni por aproximación la cantidad de habitantes peruanos.
+E. el censo pro curó abarcar la realidad desagregada por estrato y género. 
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+La pobre organización mencionada por Paz Soldán, sumado al hecho de que no se distinguiera mujeres de niños, evidencia apresuramiento; el que Paz Soldán lanzara otra cifra connota desconfianza.
+=====================PREGUNTA 4======================
+Es incoherente con lo afirmado por el texto sostener que, en el siglo XIX,
+=====================ALTERNATIVAS======================
+A. la población peruana tuvo un ritmo de crecimiento sostenido, pese a la guerra independentista.
+B. no habían peruanos que tuviesen prestigio como experto s en la organización rigurosa de censos.
+C. la población en el sector rural todavía era mayoritaria frente a la población urbana o citadina.
+D. durante la colonia hubo censos que permitieron calcular el total poblacional, aun cuando no se detalle.
+E. cerca del 50 por ciento de la población hablaba el castellano y vivía en las haciendas.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Más del 50% se identificaba como indígena, lo que hace suponer que su lengua materna no era castellano, además solo el 15% vivía en las haciendas.
+=====================PREGUNTA 5======================
+Si los censos en el Perú se hubiesen realizado indefectiblemente cada 30 años,
+=====================ALTERNATIVAS======================
+A. las críticas a los censos, como las de Paz Soldán, habrían sido muy comunes.
+B. esto evidenciaría una política de derroche de todas las autoridades peruanas.
+C. las cifras serían tan numerosas, lo que le restaría seriedad al análisis de datos.
+D. seguiría siendo insuficiente para medir el crecimiento, los censos son anuales.
+E. el Perú evidenciaría como política estatal el control del crecimiento poblacional.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Al tener una distancia de 30 años ya se puede considerar como política de Estado llevar un control del crecimiento poblacional.

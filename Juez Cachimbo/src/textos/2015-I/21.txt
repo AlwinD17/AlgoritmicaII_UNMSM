@@ -1,0 +1,65 @@
+ID: 21
+=====================TEXTO======================
+Es un elemento cotidiano que aprendimos a utilizar (unos con más maña que otros) y que se ha convertido en parte de nuestra actividad diaria. Apenas reparamos en él, pero el teclado QWERTY lleva más de un siglo con nosotros: pasó de las máquinas de escribir a los ordenadores y de ahí a los smartphones sin sufrir apenas modificaciones. La disposición de las letras en este teclado parece una decisión caprichosa o, al menos, aleatoria. Llama la atención, por ejemplo, que algunas de las letras más utilizadas en el español, como la A, la S ola D, estén al alcance de la mano izquierda cuando la mayoría de la población es diestra. Entonces, la pregunta que nos asalta es ¿de dónde ha salido este diseño? «El teclado QWERTY nació a finales del siglo XIX y su distribución final fue una evolución fruto de varios objetivos. El primero de ellos era crear un sistema de tecleado que utilizase las dos manos de forma equilibrada», cuenta Xavier Molero, profesor de la Universidad Politécnica de Valencia y responsable del Museo de Informática que acoge la propia universidad. Antes de su desarrollo por parte del editor de periódicos e inventor, Christopher Latham Sholes, lo habitual era que las teclas estuviesen situadas en orden alfabético, sin tener en cuenta la frecuencia de uso de cada letra. Sholes estudió ese factor y dispuso el teclado con él en mente, para que la mano derecha y la izquierda interviniesen más o menos alternativamente.
+Además de equilibrar el uso de ambas manos, había detrás otra intención, relacionada con la tecnología. «Hay que tener en cuenta que lo que se utilizaba entonces eran máquinas de escribir, que funcionaban con un sistema mecánico: al pulsar una tecla, se elevaba el tipo metálico correspondiente, que apretaba la cinta tintada contra el papel y dejaba la letra impresa», explica Molero. Si se pulsaban rápidamente varias teclas próximas se atascaban los tipos, parando y entorpeciendo el trabajo. «Colocando así las teclas se intentaba conseguir un ritmo de tecleado algo más lento pero más constante». El modelo triunfó porque en definitiva hacía la escritura más ágil, y tras varios años de desarrollo, se implementó con éxito en el mercado de las máquinas de escribir y de ahí pasó a los ordenadores sin muchas variaciones. «La gente aprendía con él y una vez acostumbrados es muy dif ícil cambiar».
+Benavente, R. (2013). ¿Por qué escribimos como lo hacemos? La historia tras el teclado QWERTY. El Confidencial. Recuperado el 20 de marzo de 2015, de El Confidencial: http://www.elconfidencial.com/tecnologia/2013-12-08/por-que-escribimos-como-lo-hacemos-la-historia-trasel-teclado-qwerty_62926/
+=====================PREGUNTA 1======================
+El sentido contextual de DISPUSO es
+=====================ALTERNATIVAS======================
+A. cubrió.
+B. incrustó.
+C. deshizo.
+D. adecuó.
+E. conservó.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Según el texto, Sholes acondicionó el antiguo teclado en orden alfabético en función al uso habitual de las teclas.
+=====================PREGUNTA 2======================
+El texto desarrolla principalmente el tema del
+=====================ALTERNATIVAS======================
+A. surgimiento de los teclados de PC.
+B. origen del teclado QWERTY.
+C. aprendizaje del orden QWERTY.
+D. deterioro del teclado QWERTY.
+E. orden alfabético en el QWERTY.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+El texto tiene como tema central al teclado QWERTY, específicamente, desarrolla su origen: de las máquinas de escribir a los ordenadores y smartphones.
+=====================PREGUNTA 3======================
+Resulta incompatible con el texto sostener que en los ordenadores
+=====================ALTERNATIVAS======================
+A. se pueden usar las dos manos para pulsar el teclado QWERTY.
+B. los teclados tienen un orden casi parecido al QWERTY original.
+C. los teclados QWERTY elevan tipos metálicos al ser pulsados.
+D. los teclados QWERTY son parte de una herencia tecnológica.
+E. algunas personas serán más hábiles que otras al utilizar el teclado.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Pulsar y elevar tipos metálicos en los teclados QWERTY era virtud de las máquinas de escribir, no de los ordenadores.
+=====================PREGUNTA 4======================
+Se infiere del texto que la intención de ralentizar el ritmo de tecleado con el QWERTY
+=====================ALTERNATIVAS======================
+A. convirtió el proceso de escribir en una tarea bastante tediosa.
+B. fue una solución inapropiada por el ritmo que tenemos al escribir.
+C. se hizo cierto porque escribimos lentamente en los ordenadores.
+D. fue definitivamente la peor solución que pudo proponer Sholes.
+E. fue refutada porque la escritura se hizo ágil cuando se aprendía.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Uno de los primeros objetivos de disponer el teclado en un orden no alfabético era que la escritura se tornara lenta, pero constante; mas la experiencia rebatió esa primera intención, pues la escritura se hizo ágil una vez que los usuarios aprendían la di sposición del teclado.
+=====================PREGUNTA 5======================
+Si los ordenadores tuvieran el teclado en orden alfabético, probablemente la escritura
+=====================ALTERNATIVAS======================
+A. dejaría de presentar definitivamente errores en su producción.
+B. utilizaría solo una mano porque sería un orden muy conocido.
+C. se vería entorpecida por los constantes errores tipográficos.
+D. sería ágil y constante una vez aprendido el orden las teclas.
+E. se popularizaría y masificaría porque todos podrían practicarla. 
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+El problema con los teclados alfabéticos se daba en las máquinas de escribir las pulsaciones levantaban tipos metálicos; en cambio, los ordenadores no tienen ese inconveniente.

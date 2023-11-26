@@ -1,0 +1,97 @@
+ID 171
+
+TEXTO 3
+=====Texto 3======
+ En la oscuridad de la noche, dirigió una oración colectiva al aire libre, en un lugar desde donde se dominaba el río Sabarmati. Estaba preparado. Con su tradicional dhoti — la prenda masculina típica de la India, que se enrolla y ata en la cintura — y un chal alrededor de los hombros, agarró una vara de bambú y echó a andar hacia el portalón. Atrás dejaba el que fuera su hogar durante trece años, una comunidad consagrada a sus preceptos basados en una vida sencilla y un pensamiento elevado. Mohandas Gandhi iba solo. Cuando inició su caminata en una carretera polvorienta de las afueras de Ahmadabad, la ciudad más grande de Gujarat, su estado nativo, 78 hombres vestidos de blanco formaron tras él una columna de a dos. A su paso, decenas de miles de indios —partidarios o simples curiosos —, apelotonados en las márgenes de la carretera, encaramados a los árboles o asomados a las ventanas, exclamaban: «Gandhi ki jai». Gandhi vencedor. Era el 12 de marzo de 1930. Gandhi y su comitiva recorrieron en 25 días los 388 kilómetros que los separaban del mar de Arabia, desafiando la injusta ley británica que prohibía la extracción de sal en su colonia. Maestro en gestos dramáticos que hábilmente convertía en símbolos, Gandhi se inclinó en la orilla y recogió un puñado de lodo salino. La extracción ilegal de sal se extendió por el país y hubo detenciones y apaleamientos. Gandhi pasó casi nueve meses entre rejas. Lo que las autoridades habían subestimado como una intrascendente escenificación política con tintes de espectáculo acabó en un clamor por la independencia coreado a lo largo y ancho del país. Por primera vez el variopinto puzzle de la población india —castas altas y bajas, hombres y mujeres, hindúes y musulmanes — se unía para protestar contra el dominio británico. Las masas habían hallado un líder. Desde el día en que emprendió la Marcha de la Sal hasta que murió, dieciocho años más tarde, Gandhi logró inyectar en la India un sentimiento revolucionario combinado de política y espiritualidad. A su filosofía basada en la acción la llamó satyagraha , o fuerza de la verdad.
+O’NEILL, Tom . (2015). «Tras los pasos de Gandhi». En: National Geographic España. Recuperado el 12 de agosto de 2015 [de]
+
+=====Pregunta 1======
+Se puede afirmar que el texto pone de relieve fundamentalmente
+
+=====ALTERNATIVAS=====
+A) las decisiones tomadas por Mohandas Gandhi para liberar a todo su pueblo del
+dominio colonial británico.
+B) las injusticias cometidas por los legisladores británicos al no permitir la extracción
+de la sal del suelo de la India.
+C) la importancia que tuvo la Marcha de la sal en el ámbito social, académico y
+económico del pueblo hindú.
+D) el rol de líder desempeñado por Gandhi, que se afianzó en la Marcha de la sal y
+que consolidó la unión de la población hindú.
+E) la personalidad de Gandhi asentada en la filosofía de la vida sencilla y el
+pensamiento elevado.
+
+=====Alternativa correcta=====
+D) el rol de líder desempeñado por Gandhi, que se afianzó en la Marcha de la sal y
+que consolidó la unión de la población hindú.
+
+=====Razonamiento=====
+El texto destaca la figura de líder que desempeñó Gandhi en la Marcha de
+la sal y cómo esta acción repercutió en la unidad del pueblo hindú.
+
+=====Pregunta 2======
+El sinónimo contextual del término INYECTAR es
+
+=====ALTERNATIVAS=====
+A) ponderar. B) infundir. C) transigir.
+D) obliterar. E) deprecar.
+
+=====Alternativa correcta=====
+B) infundir.
+
+=====Razonamiento=====
+Dentro del texto, INYECTAR se entiende como ‘infundir’.
+
+=====Pregunta 3======
+Respecto a la población hindú, es compatible sostener que
+
+=====ALTERNATIVAS=====
+A) repudió por completo el estilo de vida que llevaba Gandhi, definido por la sobriedad
+y la sencillez.
+B) se abstuvo de forma absoluta de intervenir activamente en la caminata que inició
+Gandhi.
+C) vaticinó que Gandhi sabría aprovechar su capacidad histriónica para concitar la
+adhesión de todas las castas.
+D) colaboró para que Mohandas Gandhi fuera detenido y recluido en la cárcel durante
+dieciocho meses.
+E) albergaba dentro de sí el deseo de acabar con la opresión de la dominación
+británica.
+
+=====Alternativa correcta=====
+E) albergaba dentro de sí el deseo de acabar con la opresión de la dominación
+británica.
+
+=====Razonamiento=====
+El deseo de la población hindú por liberarse de la dominación britán
+
+=====Pregunta 4======
+Es posible colegir del texto que cuando Gandhi inicia la Marcha de la sal ,
+
+=====ALTERNATIVAS=====
+A) ya se habían producido otras revueltas sociales.
+B) el pueblo hindú había superado sus problemas económicos.
+C) ya era un personaje público bastante reconocido.
+D) tenía el consentimiento de las autoridades británicas.
+E) le interesaba transmitir su filosofía de vida sencilla.
+
+=====Alternativa correcta=====
+C) ya era un personaje público bastante reconocido.
+
+=====Razonamiento=====
+Se infiere de la actitud de las personas que lo siguen y la acogida que tiene
+su decisión.
+
+=====Pregunta 5======
+Si las autoridades no hubieran subestimado la Marcha de la sal, probablemente
+
+=====ALTERNATIVAS=====
+A) habrían podido llegar a ciertos acuerdos con la mayoría de jóvenes hindús.
+B) la población hindú habría acogido con beneplácito las ordenanzas británicas.
+C) la figura de Mohandas Gandhi no habría sido paradigmática para el pueblo hindú.
+D) desde el inicio habrían tomado medidas más radicales para reprimirla.
+E) habrían mostrado mayor disposición para iniciarse en la filosofía vital de Gandhi.
+
+=====Alternativa correcta=====
+D) desde el inicio habrían tomado medidas más radicales para reprimirla.
+
+=====Razonamiento=====
+La represión no se hubiera limitado a las detenciones y a las palizas.

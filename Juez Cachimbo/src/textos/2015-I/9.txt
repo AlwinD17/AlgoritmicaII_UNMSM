@@ -1,0 +1,87 @@
+ID: 9
+=====================TEXTO======================
+ELIMINACIÓN DE ORACIONES
+=====================PREGUNTA 1======================
+I) La ciudad de Alejandría fue, sin lugar a dudas, el centro económico y cultural más importante del mundo al apagarse los resplandores de la antigua Atenas. II) Apoyada en el favor munificente de los sucesores de Alejandro y en su prosperidad comercial, Alejandría desarrolló allí una sociedad refinada y culta. III) Allí se crearon las primeras grandes instituciones culturales de Occidente, que heredaron la gloria que de una manera más modesta habían alcanzado en Atenas la Academia y el Liceo. IV) Alejandría fue un foco de atracción para los judíos, y fue allí donde tuvo lugar principalmente la confrontación entre la cultura y la religión semíticas y la religión grecorromana. V) En Alejandría vivió el judío Filón, cuya vasta obra literaria pretende reinterpretar las Escrituras y la religión de los judíos, de tal suerte que incorporen los mejores logros de la civilización helenística.
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+El texto gira entorno a la ciudad de Alejandría. Se elimina la oración V, pues trata del judío Filón. Criterio impertinencia.
+=====================PREGUNTA 2======================
+I) La neurociencia nos dice que las actividades lúdicas fortalecen dos áreas de la masa gris: el cerebelo, que coordina los movimientos, y el lóbulo frontal, asociado a la toma de decisiones y el control de los impulsos. II) El juguete sirve para que los niños más pequeños aprendan la relación causa -efecto –«si empujo el cochecito, se mueve» –. III) A través del juego, los ni ños ejercitan el cálculo de probabilidades mediante el ensayo -error. IV) Para Petra María Pérez Alonso -Geta, catedrática de Teoría de la Educación de la Universidad de Valencia los juguetes son un vehículo para desarrollar habilidades como la atención, la abstracción, la memoria ,la representación ,la simbolización ola resolución de problemas. V) Los especialistas están divididos sobre las ventajas o inconvenientes de la tableta o el smartphone con respecto al juguete convencional.
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+La oración V es impertinente, pues no se ocupa de las ventajas del juego para el desarrollo.
+=====================PREGUNTA 3======================
+I) El 17 de marzo se celebra el día de san Patricio, patrón de Irlanda. II) San Patricio nació en el 387 en Kilpatrick, cerca de Dumbarton, en Escocia. III) Piratas irlandeses tomaron prisionero al joven Patricio de 16 años y lo vendieron como esclavo. IV) Pasó seis años en Irlanda, donde aprendió a hablar el idioma celta, hasta que consiguió fugarse y se marchó a Francia para prepararse para la vida monástica, y se ordenó sacerdote. V) Cuando contaba con 46 años de edad, decidió volver a Irlanda para evangelizar a sus habitantes.
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+La oración I es impertinente, pues no habla de san Patricio, sino de la celebración de este.
+=====================PREGUNTA 4======================
+I) En el Museo de El Carmen los hongos afectan a una docena de momias pertenecientes a religiosos y benefactores que vivieron hace aproximadamente 300 años. II) El profesor López y su equipo han identificado 24 hongos diferentes que están degradando los cuerpos y las vestimentas de varias momias en el Museo de El Carmen. III) Los hongos no solo suponen una amenaza para las momias del Museo de El Carmen, sino también para los visitantes que las contemplan, que pueden sufrir infecciones respiratorias y procesos alérgicos. IV) Para acabar con los hongos que atacan a las momias del Museo de El Carmen, el profesor Rubén López y su equipo decidieron poner a prueba un tratamiento antifúngico con Imazalil, una sustancia utilizada para liberar de los hongos a los Guerreros de Terracota (China). V) A la vista de la eficacia del Imazalil para acabar con los hongos de las momias del Museo de El Carmen, se piensa utilizarlo como medida de limpieza en archivos y bibliotecas .
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Se elimina la oración V por impertinencia. Habla de otras aplicaciones del Imazalil para preservar materiales históricos.
+=====================PREGUNTA 5======================
+I) Un tucán llamado Grecia convocó a cientos de personas y activistas por los derechos de los animales que se sumaron a una campaña de denuncia y recolección de fondos para salvarle la vida. II) El tucán Grecia recibió su nombre del lugar donde fue recogido en enero por las autoridades de Medio Ambiente de Costa Rica. III) Grecia permanece en cuidados intensivos en el centro de rescate animal Zoo Ave, una organización privada dedicada a la atención de especies animales en condición de riesgo. IV) Transcurridos más de 60 días de la agresión, presuntamente perpetrada por unos jóvenes a quienes no se ha logrado identificar, Grecia sobrevive ayudado por los expertos. V) Además de haber perdido la mayor parte de la pieza superior del pico, las lesiones derivaron en un proceso infeccioso y un fuerte estrés para Grecia .
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Se elimina la oración I I por impertinencia. El tema centrales la asistencia a Grecia, un tucán que fuera atacado por jóvenes, no la procedencia de su nombre.
+=====================PREGUNTA 6======================
+I) El tiburón toro vive en aguas cálidas poco profundas, llega a medir hasta 3,5 metros con 230 kg de peso. II) Con el enorme crecimiento que ha tenido la zona hotelera de Cancún, la convivencia con los tiburones toro se vuelve cada vez más peligrosa. III) Un equipo de científicos de la Universidad de Lethbridge en Australia pueden haber encontrado la solución ante el peligro que suponen los tiburones toro. IV) Ryan Kempster, partícipe del experimento sobre tiburones toro, sugiere un posible repelente de tiburón que, al emitir señales de peligro, los aleje de playas pobladas y áreas de pesca que los pongan en riesgo. V) El experimento para repeler el ataque de tiburones toro se erige como una solución más ecológica para estos depredadores que nadan en las peligrosas aguas de Cancún.
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Se elimina la oración I por impertinencia. El tema es la posible solución al problema de los tiburones.
+=====================PREGUNTA 7======================
+I) María Winkelmann nació el 25 de febrero de 1670 en la ciudad alemana de Leipzig. II) María Winkelmann se convirtió en la primera mujer de la historia en descubrir un cometa, el C/1702, aunque en un primer momento no obtuvo reconocimiento. III) Oficialmente, el hallazgo de Winkelmann recayó en su esposo y no fue hasta 8 años después cuando se supo que ella era la verdadera descubridora. IV) Winkelmann nunca consiguió reconocimiento como astrónoma, ni siquiera cuando publicó varios estudios como Las observaciones sobre la aurora boreal. V) Al morir el esposo de María Winkelmann en el año 1710, se le negó un puesto oficial en el observatorio por su condición de mujer.
+=====================ALTERNATIVAS======================
+A. III
+B. II
+C. I
+D. V
+E. IV
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Se aplica el criterio de impertinencia. El tema está relacionado con la condición de mujer de María Winkelmann.

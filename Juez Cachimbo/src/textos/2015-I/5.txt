@@ -1,0 +1,124 @@
+ID: 5
+=====================TEXTO======================
+Alguien trajo, cierto día, a mi laboratorio unos conejos procedentes del mercado. Los colocó sobre una mesa, donde se orinaron, y observé por casualidad que la orina era clara y ácida. El hecho me sorprendió, puesto que los conejos tienen una orina turbia y alcalina, como todos los herbívoros, mientras que los carnívoros, por el contrario, como todo el mundo sabe, tienen la orina clara y ácida. El observar la acidez de la orina en los conejos me hizo suponer que aquellos animales se encontraban en una condición alimenticia de carnívoros. Supuse que probablemente no habrían comido desde muchos días atrás y que, debido al ayuno, se habrían transformado en verdaderos animales carnívoros que vivirían de su propia sangre. Nada más fácil que verificar por la experiencia esta idea. Di a comer hierba a los conejos y unas horas después su orina se había vuelto turbia y alcalina. Puse inmediatamente a ayunar a aquellos conejos y, después de veinticuatro horas, su orina se había vuelto otra vez clara y muy ácida. Luego se volvía de nuevo alcalina al darles de comer otra vez hierba, y viceversa. Repetí esta experiencia tan simple gran número de veces con los mismos conejos y siempre obtuve el mismo resultado. La repetí luego con un caballo, animal también herbívoro, que tiene igualmente la orina turbia y alcalina. Hallé que el ayuno producía, igual que en los conejos, una súbita acidez de orina y un aumento relativamente considerable de la úrea, hasta el punto de que, al enfriarse la orina, cristalizaba espontáneamente. Así llegué, al final de estas experiencias a esta proposición general, desconocida hasta entonces, a saber, que en ayunas todos los animales se nutren de su carne, de modo que los herbívoros poseen, en este caso, orina semejante a la de los carnívoros.
+Se trata aquí de un hecho particular muy simple, que permite seguir fácilmente la evolución del razonamiento experimental. Cuando uno ve un fenómeno que no tiene costumbre de ver, hay que preguntarse siempre a qué se debe o bien, dicho de otra manera, cuál es su causa; entonces se hace presente al pensamiento una respuesta o una idea que es preciso someter a experiencia. Al observar la orina ácida en los conejos, me pregunté cuál podía ser la causa. La idea experimental consistía en la relación que mi mente había establecido entre la acidez de la orina en el conejo y el estado de ayunas que yo consideré como una verdadera alimentación carnívora. El razonamiento que implícitamente hice fue el siguiente: la orina de los carnívoros es ácida; ahora bien, los conejos que tengo ante mis ojos tienen orina ácida; por tanto, son carnívoros mientras están en situación de ayunas. Esto último era lo que debía establecerse por la experiencia. Pero, con el fin de probar que mis conejos en ayunas eran verdaderamente carnívoros, tuve que realizar una contraprueba. Era preciso fabricar un conejo carnívoro, alimentándolo con carne, para ver si su orina era entonces clara, ácida y relativamente cargada de úrea como durante el ayuno. Para ello, hice alimentar conejos con carne de bue y hervida fría (alimento que comen bien cuando no se les da otra cosa). Mi previsión se verificó una vez más, y mientras duró este tipo de alimentación animal los conejos tuvieron una orina clara y ácida.
+Bernard, C. (1994) [1865] Introducción al estudio de la medicina experimental. México: UNAM.
+=====================PREGUNTA 1======================
+La intención principal del autor del texto es
+=====================ALTERNATIVAS======================
+A. denunciar el caso de conejos carnívoros comprados en un mercado.
+B. presentar el modo como se desarrolla el razonamiento experimental.
+C. solucionar las dificultades para diferenciar a los animales herbívoros.
+D. valorar la facilidad con que surgen hipótesis e ideas en la mente.
+E. criticar la necesidad de realizar con trapruebas en los experimentos.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+El autor del texto busca dar a conocer cómo se desarrolla el razonamiento experimental y emplea como ejemplo varias pruebas con animales.
+=====================PREGUNTA 2======================
+En el texto, el término PREVISIÓN puede reemplazarse por
+=====================ALTERNATIVAS======================
+A. consideración.
+B. moderación.
+C. predicción.
+D. sustitución.
+E. contraprueba.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Al final del texto, el autor señala que su previsión se verificó. El término previsión hace referencia a un pronóstico o predicción.
+=====================PREGUNTA 3======================
+Resulta incompatible con el texto afirmar que
+=====================ALTERNATIVAS======================
+A. los herbívoros tienen una orina turbia y alcalina.
+B. los carnívoros poseen una orina clara y ácida.
+C. solo se utilizan los sentidos en la experimentación.
+D. la contraprueba es necesaria en la experimentación.
+E. un científico busca las causas de los fenómenos.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+En el experimento que el autor utiliza como ejemplo para mostrar el razonamiento experimental también se emplea el pensamiento.
+=====================PREGUNTA 4======================
+Se infiere del texto que la experimentación
+=====================ALTERNATIVAS======================
+A. es inaplicable en casos que no tenemos costumbre de observar.
+B. no puede contradecir, con sus resultados, las teorías aceptadas.
+C. parte de la causa de un fenómeno que califica como metafísica.
+D. hace inútil e improductiva la realización de una contraprueba.
+E. atraviesa por varias etapas que requieren un continuo control.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Esto se debe a que la prueba se repitió varias veces, según expresa el autor.
+=====================PREGUNTA 5======================
+En el texto, la expresión FABRICAR UN CONEJO CARNÍVORO se entiende como someter a ese animal a
+=====================ALTERNATIVAS======================
+A. condiciones experimentales.
+B. modificaciones evolutivas.
+C. tortuosos cruces genéticos.
+D. operaciones imaginarias.
+E. transformaciones de apariencia.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Esa expresión se utiliza para referirse a la comprobación del experimento.
+=====================PREGUNTA 6======================
+Si el experimentador quisiera corroborar su hipótesis con un conejo muerto,
+=====================ALTERNATIVAS======================
+A. tendría que analizarse la primera cría de la primera camada del conejo estudiado.
+B. buscaría, a través de una autopsia, observar los cambios en su sistema digestivo.
+C. necesitaría resucitar a ese animal para proseguir con sus estudios científicos.
+D. emplearía los datos que obtuvo para diseñar una metodología vanguardista.
+E. vería i mposibilitada su labor, pues no habría un conejo con tales características.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Solo a través del resultado de la autopsia se podría saber los cambios que sufrió el animal y corroborar la hipótesis.
+=====================PREGUNTA 7======================
+El antónimo contextual del término SÚB ITA es
+=====================ALTERNATIVAS======================
+A. vertiginosa.
+B. gradual.
+C. contundente.
+D. volátil.
+E. deliberada.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+En el primer párrafo se habla de que el ayuno produjo “una súbita acidez de orina”. El vocablo SÚBITA significa que sucedió repentinamente, su antónimo sería gradual.
+=====================PREGUNTA 8======================
+En el texto, la expresión COMO TODO EL MUNDO SABE hace referencia a
+=====================ALTERNATIVAS======================
+A. un dilema moral.
+B. un proceso científico.
+C. un conocimiento aceptado.
+D. una hipótesis técnica.
+E. un axioma lógico.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Al inicio del texto la expresión “como todo el mundo sabe” hace referencia a algo conocido por todos y aceptado: los carnívoros tiene la orina clara y ácida.
+=====================PREGUNTA 9======================
+En su trabajo científico, la acción inicial realizada por el experimentador fue la de
+=====================ALTERNATIVAS======================
+A. observar la extraña orina del conejo.
+B. comparar la alimentación del animal.
+C. comprar los conejos en el mercado.
+D. definir los diversos tipos de úrea.
+E. cambiar la nutrición de los conejos.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Lo primero que hace el experimentador es observar las características resaltantes de la orina.
+=====================PREGUNTA 10======================
+Tanto el conejo como el caballo son usados por el ex perimentador como medios =====================ALTERNATIVAS======================
+A. de comprobación de su hipótesis.
+B. de contraprueba del experimento.
+C. para la práctica experimental diaria.
+D. para la explicación de estadísticas.
+E. de comparación entre herbívoros.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+El experimentador realiza pruebas con esos animales para comprobar larepuesta inicial que le dio al problema.

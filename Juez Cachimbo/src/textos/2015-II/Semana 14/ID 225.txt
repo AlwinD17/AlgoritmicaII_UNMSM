@@ -1,0 +1,25 @@
+ID: 225
+=====================TEXTO======================
+I) El paleontólogo Brooks Britt, del Departamento de Ciencias Geológicas de la
+Universidad Brigham Young, ha anunciado el hallazgo de una nueva especie de
+pterosaurio, que vivió en el oeste de Norteamérica durante el Triásico. II) L os restos
+del nuevo pterosaurio fueron localizados en 2014, mientras se estudiaba en la citada
+institución una estructura rocosa procedente de un antiguo farallón, en lo que hoy es
+la frontera entre Utah y Colorado. I II) Este depredador probablemente habitó cerca de
+un lago rodeado de grandes dunas ,un oasis donde se congregaban
+muchos animales . IV) A diferencia de la mayoría de los restos de pterosaurio
+descubiertos hasta ahora, estos se encuentran en bastante buen estado. V) Existe un
+hueco en el registro fósil, entre los primero s pterosaurios de tamaño reducido y los
+más grandes que aparecieron más tarde que esta especie.
+=====================PREGUNTA 1======================
+Elimine una oración 
+=====================ALTERNATIVAS======================
+A. V 
+B. III 
+C. II 
+D. I 
+E. IV
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Por impertinencia se elimina la oración V.

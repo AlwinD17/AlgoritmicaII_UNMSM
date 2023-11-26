@@ -1,0 +1,30 @@
+ID: 111
+=====================TEXTO======================
+Las ilusiones ópticas —figuras, objetos o sucesos que no son lo que aparentan al ser
+percibidos — han tenido y tienen todavía importante papel en las bellas artes, en
+matemáticas, en psicología e incluso en la filosofía. Los antiguos griegos deformaron las
+columnas del Partenón con el fin de que pa recieran perfectamente rectas al ser vistas desde
+el suelo de la gente. En sus grandes obras murales, los pintores renacentistas solían
+distorsionar las figuras con objeto de que, miradas desde abajo, parecieran ser de
+proporciones normales. El interés de los matemáticos por las ilusiones ópticas se debe a
+que muchas de ellas guardan relación con la perspectiva (una rama de la geometría
+proyectiva) y con otras cuestiones geométricas. Los psicólogos estudian las ilusiones para
+saber cómo interpreta el cerebro los datos que le llegan a través de los sentidos. Y los
+filósofos de diversas escuelas de realismo directo, que mantienen que nosotros percibimos
+objetos reales externos a nuestras mentes, tienen el problema de explicar cómo pueden
+entonces presentarse errores de percepción.
+=====================PREGUNTA 1======================
+Resulta incompatible con el texto afirmar que las ilusiones ópticas.
+=====================ALTERNATIVAS======================
+A.Se relacionan con la perspectiva y por ello motiva a los matemáticos.
+B.Tienen un papel relevante en el campo artístico y en el arquitectónico.
+C.Carecen de la relevancia para ser abordado por varias disciplinas.
+D.Permiten investigar algunos aspectos del funcionamiento cerebral.
+E.Fueron aplicadas por los muralistas renacentistas en sus creaciones.
+=====================ALTERNATIVA
+CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+En el texto se indica que las ilusiones ópticas resultan intrigantes para
+especialistas de varias disciplinas. Es incompatible afirmar que no tienen tal
+relevancia.

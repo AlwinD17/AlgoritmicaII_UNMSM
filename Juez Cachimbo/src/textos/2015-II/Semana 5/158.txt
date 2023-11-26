@@ -1,0 +1,42 @@
+ID: 158
+=====================TEXTO======================
+SERIES VERBALES
+=====================PREGUNTA 1======================
+Inalterable, permanente, estable,
+=====================ALTERNATIVAS======================
+A. inanimado.
+B. cambiante.
+C. tranquilo.
+D. inmutable.
+E. deletéreo.
+=====================ALTERNATIVA
+CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Campo semántico de lo que no cambia.
+=====================PREGUNTA 2======================
+¿Qué vocablo no pertenece a la serie verbal?
+=====================ALTERNATIVAS======================
+A. taxonomía
+B. histología
+C. taxidermia
+D. virología
+E. citología
+=====================ALTERNATIVA
+CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+No es una rama de la biología.
+=====================PREGUNTA 3======================
+Glotonería, voracidad, gula,
+=====================ALTERNATIVAS======================
+A. intemperancia. 
+B. hambre.
+C. antojo.
+D. obsesión.
+E. anorexia.
+=====================ALTERNATIVA
+CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Campo semántico de la falta de templanza o moderación.

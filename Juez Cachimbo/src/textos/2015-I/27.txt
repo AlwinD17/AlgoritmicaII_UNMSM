@@ -1,0 +1,65 @@
+ID: 27
+=====================TEXTO======================
+Los aproximadamente 35 000 genes que recogen la memoria filogenética de la especie humana se agrupan en 23 pares de cromosomas. El par 23, cuando es XX, determina el sexo de mujer, y cuando es XY de varón. El cromosoma Y es el más pequeño, con 60 genes, mientras los otros cromosomas tienen miles. Un gen del cromosoma Y, el gen Sry, activa en la sexta semana de vida intrauterina el desarrollo de los testículos, que a su vez producirán hormonas andrógenas, la testosterona, que se distribuye por todo el embrión estableciendo las pautas de estructuración corporal propias del varón. La testosterona es responsable de la masculinización del cuerpo humano en los diversos sistemas, músculo - esquelético, cardiovascular, y nervioso, particularmente el cerebro. Cuando el par de cromosomas es XX, la segunda X envía instrucciones para fabricar ovarios, que producirán los estrógenos, que a su vez conformarán la estructuración corporal propia de la mujer. La feminización del cuerpo de mujer a fecta todos los sistemas, desde el sexual reproductor, hasta el nervioso central. De modo que sino está presente el cromosoma Y, no se forman los órganos genitales masculinos y lo que se desarrollan son los genitales propios de la mujer. Podemos afirmar que genéticamente Adán nace de la costilla de Eva. […] Este patrón general en el desarrollo de la mayoría de los seres humanos presenta anomalías como en el caso de personas con sexo indiferenciado o cambio de sexo. Ello puede deberse a factores varios, com o no activación del gen Sry, aunque esté presente el cromosoma Y, en el par 23 XY, lo que llevará a una conformación corporal externa propia de mujer, pero sin útero. En otros casos, embriones XX quedan afectados por suministro de hormonas andrógenas que h a tomado la madre, para prevenir un aborto por ejemplo.
+Tratamiento con testosterona, en edades posteriores, puede masculinizar el cuerpo de una mujer, con cambios manifiestos en su estructura corporal, sistema muscular, cardiovascular y lo que más nos interesa aquí, el sistema cerebral, desarrollando así modalidades mentales masculinas, con perfiles cognitivos y emocionales más propios de hombre.
+Garcia García, E. (2003). Neuropsicología y género. Revista de la Asociación Española de Neuropsiquiatría , 7-18
+=====================PREGUNTA 1======================
+El texto aborda centralmente el tema de
+=====================ALTERNATIVAS======================
+A. los cromosomas y sus principales funciones al interior del cuerpo humano.
+B. los genes asociados a la producción de hormonas andróginas y testosterona.
+C. la carga cromosomática en la conformación genética de hombres y mujeres.
+D. los problemas en la funcionalidad de los genes asociados a las hormonas XY.
+E. las posibilidades psicobiológicas de cómo se determina el sexo en el humano. 
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Es en virtud de la carga cromosomática que surgen rasgos genéticos de hombre o mujer, que es de lo que centralmente trata el texto.
+=====================PREGUNTA 2======================
+El término ANOMALIAS tiene el sentido contextual de
+=====================ALTERNATIVAS======================
+A. monstruosidad.
+B. excepción.
+C. aberración.
+D. experimento.
+E. indiferenciación.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+El sentido contextual del término es excepción, sobre todo si se menciona este tipo de desarrollo como general en nuestra especie, excepto en algunos.
+=====================PREGUNTA 3======================
+A partir de la expresión ADÁN NACE DE LA COSTILLA DE EVA, podemos establecer que
+=====================ALTERNATIVAS======================
+A. potencialmente , al tener un cromosoma Y, como constante, todos podríamos haber sido mujeres.
+B. la conjugación XX o XY tiene a X (mujer) como constante y a Y (hombre) como variable.
+C. el cromosoma Y depende de si X está o no presente por ende nace de X (la costilla de Eva).
+D. al ser los cromosomas dependientes la combinación XY refiera que Eva nace de la costilla de Adán.
+E. los cromosomas X, Y guardan relación aleatoria con las características hombre - mujer
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+El cromosoma X, que tiene potencial carga femenina, es una constante; Y que tiene potencial genético masculino es la variable, quiere decir que la combinación XX o XY evidencia que Y depende de la presencia de X, por ende, Adán nace de la costilla de Eva.
+=====================PREGUNTA 4======================
+No es compatible con el texto sostener que
+=====================ALTERNATIVAS======================
+A. la alteración psicobiológica constitutiva del cuerpo femenino solo es posible en la etapa embrionaria.
+B. en la combinación XX, la segunda X es la responsable de permitir la formación de ovarios para liberar estrógeno.
+C. el gen Sry se encuentra presente en el cromosoma Y, en una combinación XX, es imposible producir testosterona.
+D. los estrógenos no se limitan a determinar la constitución física del cuerpo, inciden en el sistema nervioso.
+E. tanto estrógenos como testosterona afectan la constitución cerebral, o mejor dicho, determinan dicha constitución.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+El texto refiere que el “ tratamiento con testosterona, en edades posteriores, puede masculinizar el cuerpo de una mujer”; por ende, no se limita a la etapa embrionaria.
+=====================PREGUNTA 5======================
+Si se presentara el caso de una persona en apariencia externa mujer, pero sin haber desarrollado útero, es posible afirmar que
+=====================ALTERNATIVAS======================
+A. durante el proceso de desarrollo genético, no tenía el par XX, sino el par XY.
+B. se activó, en el par XX, la segunda X enviando información masculina.
+C. tenía el par XX, pero el gen Sry no se activó, por lo que se produjo testosterona.
+D. los cromosomas YX permutaron a XY, lo que alteró la formación corporal.
+E. tenía el par XY, pero el gen Sry no se activó ;por ello ,no desarrolló útero.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+El cromosoma Y libera el gen Sry encargado de los rasgos masculinos. Sieste gen no se activa, el útero no se forma, aunque externamente se conserve la apariencia de mujer.

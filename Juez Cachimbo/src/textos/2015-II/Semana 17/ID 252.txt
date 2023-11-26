@@ -1,0 +1,68 @@
+ID: 252
+=====================TEXTO======================
+SERIES VERBALES
+=====================PREGUNTA 1======================
+Pietista, asceta; dad ivoso, mezquino; estulto, necio,
+=====================ALTERNATIVAS======================
+A. Imparcial, ecuánime. 
+B. Aprensivo, flatoso. 
+C. Flexuoso, ondulado.
+D. Temerario, prudente. 
+E. Gitanesco, flamenco.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+La serie verbal está formada por una secuencia de sinónimos, antónimos y sinónimos.
+Corresponde el par de antónimos TEMERARIO , ‘demasiado atrevido’, y PRUDENTE,
+‘cauteloso’.
+=====================PREGUNTA 2======================
+Agraciado, bonito, hermoso
+=====================ALTERNATIVAS======================
+A. Hercúleo. 
+B. Bellido. 
+C. Galante. 
+D. Esbelto. 
+E. Airoso.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+La serie se completa con un sinónimo de bello, hermoso; a saber, BELLIDO.
+=====================PREGUNTA 3======================
+Enojo, enfado, disgusto
+=====================ALTERNATIVAS======================
+A. Maraña. 
+B. Intriga. 
+C. Mohína. 
+D. Frenesí. 
+E. Letargo.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+La serie se completa con un sinónimo de enojo, enfado y disgusto; a saber, MOHÍNA.
+=====================PREGUNTA 4======================
+Ñu, antíl ope; mono, gibón; epeira, araña;
+=====================ALTERNATIVAS======================
+A. Ave, gerifalte. 
+B. Uro, cebú. 
+C. Mandril, nutria.
+D. Urubú, zopilote. 
+E. Ñorbo, ñandú.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+La serie está formada por pares con la relación de especie -género; género, especie;
+especie, género. El parque completa la serie debe mantener el orden género -especie.
+En este sentido, AVE, GERIFALTE (‘halcón’) cumple este requisito.
+=====================PREGUNTA 5======================
+Laudabl e, encomiable; lascivo, luju rioso; nulo
+=====================ALTERNATIVAS======================
+A. Latoso. 
+B. Írrito. 
+C. Risible.
+D. Infundado. 
+E. Irredento.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+La serie está formada por sinónimos; de esta forma, el único sinónimo de nulo es
+ÍRRITO.

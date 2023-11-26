@@ -1,0 +1,136 @@
+ID 177
+=====Texto 1======
+Las matemáticas proceden por razonamiento deductivo a partir de axiomas enunciados explícitamente. Hasta aquí, sin embargo, no hemos dicho nada de los axiomas. Esto se debe sencillamente a que los axiomas relativos a los números son propiedades tan obvias, que los aplicamos en forma automática, sin darnos cuenta de que lo estamos haciendo. Una analogía ayudará a entender. Cuando un niño arroja al aire una pelota espera que esta y cualquier otra, en realidad, golpeen el piso . Esta suposición, desde luego, está bien fundada en la experiencia. Con todo, la expectativa del niño de que la pelota caiga es deducción del supuesto que se acaba de hacer y de la premisa de que está arrojando una pelota al aire. Al reconocerse que el niño hace una suposición, se trans parenta el razonamiento, consciente o inconsciente, que está detrás del acto.
+
+Para entender el proceso deductivo de las matemáticas de los números, así como de la geometría, debemos reconocer la existencia y el empleo de axiomas. No vacilamos en afirmar que 275 + 384 = 384 + 275. De seguro que no agregamos 384 objetos a 275, los contamos para sacar el total, agregamos luego 275 objetos a 384, los contamos para saber el total, y verificamos si concuerdan ambos totales. Más bien, sabemos por experiencia que , siempre que combinamos dos grupos de objetos, vemos que obtenemos la misma colección total independientemente de que pongamos el primer grupo con el segundo o éste con aquel. Claro está que nuestra prueba de que no viene al caso el orden en que se haga la combinación se limita a un número pequeño de casos, pero en el terreno de la práctica la extendemos a todos los números. De ahí que en realidad estemos haciendo una suposición, a saber, la de que para cualesquiera dos números a y b, enteros, fraccionario s, irracionales y negativos, el orden en que sean sumados no afectará el resultado. Nuestra suposición incluye también la afirmación de que 3 5 5 3 \uf03d . Hay otra razón importante para que se reconozca que se hizo esta suposición. Los números no son ni manzanas ni vacas. Son abstracciones de situaciones físicas. Las matemáticas trabajan con estas abstracciones para deducir información sobre situaciones físicas. Por eso, sino se eligen bien los axiomas, las deducciones carecerán de validez. Consiguientemente, conviene advertir qué suposiciones se están empleando y averiguar si tienen buenos fundamentos en la experiencia.
+
+Kline, M. (2009) Matemática para estudiantes de humanidades . México: Fondo de Cultura Económica 
+
+=====Pregunta 1======
+¿Cuál es el tema central del texto?
+
+=====ALTERNATIVAS=====
+A. La matemática y su fundamento en la abstracción de n úmeros reales
+B. La matemática y sus abstracciones para afirmar axiomas sobre física
+C. El muy obvio fundamento experimental de las matemáticas: el axioma.
+D. La función de los axiomas el mundo experimental de las matemáticas
+E. Los axiomas matemáticos, una explicación de qué son y cómo operan
+
+=====Alternativa correcta=====
+E
+
+=====Razonamiento=====
+Se hace hincapié en la explicación sobre qué son y cómo operan los axiomas, incluso como un conjunto de supuestos que se relacionan con la experiencia.
+
+=====Pregunta 2======
+La expresión GOLPEEN EL PISO connota
+
+=====ALTERNATIVAS=====
+A) caída.
+B) violencia.
+C) continuidad.
+D) caución.
+E) contrariedad.
+
+=====Alternativa correcta=====
+A
+
+=====Razonamiento=====
+Al mencionarse que cuando una pelota es lanzada hacia arriba, en realidad se busca que golpee el piso, se da a entender que se asume como inevitable la caída.
+
+=====Pregunta 3======
+De los datos se colige que
+
+=====ALTERNATIVAS=====
+A) la conmutatividad opera considerando el número y la función que lo acompaña.
+B) el axioma no radica en la abstracción numérica sino en lo conmutable de la suma
+C) ha sido necesario experimentar con una gran cantidad de casos para afirmar ello.
+D) son solo conmutables las raíces cuadradas y las sumas de números racionales.
+E) las raíces, siempre que sean cuadradas, equivalen a números enteros de 3 cifras.
+
+=====Alternativa correcta=====
+B
+
+=====Razonamiento=====
+“para cualesquiera dos números a y b, (…), el orden en que sean sumados no afectará el resultado”. Por ende, son conmutables por la función de la suma.
+
+ID
+=====Pregunta 4======
+Es incompatible con el texto sostener que
+
+=====ALTERNATIVAS=====
+A) el fundamentalismo es un lastre ideológico, superado por la modernidad.
+B) el humor juega un papel importante en la transformación de los Estados.
+C) los Estados teocráticos pueden considerar ofensivos el humor y la ironía.
+D) la fusión de la política, con la religión ola ética, resulta contraproducente.
+E) hay fundamentalismo en condenar el atentado, pero justificar sus razones.
+
+=====Alternativa correcta=====
+A
+
+=====Razonamiento=====
+Si estuviera superado, no habría tenido lugar el atentado.
+
+=====Pregunta 5======
+Es compatible con el texto afirmar que
+
+=====ALTERNATIVAS=====
+A) las monarquías absolutistas buscaron reforzar la religión oficial de sus reinos más prósperos.
+B) para un Estado laico resulta imposible separar la política, y la religión es un esfuerzo inútil.
+C) «salvar el alma» no es solo un asunto de religiones, también le interesa al Estado.
+D) asumir la idea de enemistad absoluta implica entender “ética y política” como lo mismo.
+E) incluso el terrorismo es capaz de entender la contraposición entre la política y la guerra.
+
+=====Alternativa correcta=====
+D
+
+=====Razonamiento=====
+El texto refiere: “la enemistad absoluta” surge cuando se fusiona la ética con la política”; es decir, se les asume como lo mismo.
+
+=====Pregunta 6======
+Se infiere del texto que algunas religiones fundamentalistas
+
+=====ALTERNATIVAS=====
+A) pueden cambiar y aceptar otros credos.
+B) buscan combatir y erradicar a los dioses.
+C) soslayan la política y las demás herejías.
+D) erradican a quienes no respetan el humor.
+E) no deben ser caricaturizadas nunca.
+
+=====Alternativa correcta=====
+A
+
+=====Razonamiento=====
+Si el catolicismo fue “fundamentalista” y hoy convive con otros credos, se puede inferir por analogía que algunas religiones hoy radicales pueden dejar de serlo.
+
+=====Pregunta 7======
+A partir del texto es posible colegir que la aclaración a Hungtinton es útil para afirmar que
+
+=====ALTERNATIVAS=====
+A) toda civilización padece el “fundamentalismo” para confrontar.
+B) los fundamentalismos y la práctica política son inseparables.
+C) el fundamentalismo promueve espacios de clara tolerancia.
+D) el choque de fundamentalismos es igual al de civilizaciones.
+E) el fundamentalismo siempre está al margen de lo civilizado.
+
+=====Alternativa correcta=====
+E
+
+=====Razonamiento=====
+Cuando el autor aclara la expresión Hungtinton da entender que civilización y fundamentalismo no son lo mismo, de ahí que se pueda colegir la alternativa E.
+
+=====Pregunta 8======
+Si los fundamentalistas rechazaran de plano la tesis del “enemigo absoluto” de Carl Schmitt, entonces
+
+=====ALTERNATIVAS=====
+A) no habrían huido luego del atentado y asumirían la muerte como un sacrificio frente a lo sucedido.
+B) rechazarían la tesis del “enemigo real” e insistirían en la idea de matar a los enemigos absolutos.
+C) habrían demandado judicialmente a los humoristas o publicado una sátira burlándose de ellos.
+D) serían altamente peligrosos por tomar fundamentos teóricos occidentales para justificar sus actos.
+E) perseguirían también a todo aquel que rechace dicha tesis por ser considerado un traidor a su credo.
+
+=====Alternativa correcta=====
+C
+
+=====Razonamiento=====
+Para Schmitt al enemigo absoluto hay que matarlo. Si se rechaza esa tesis, se abren otras opciones como la vía legal ola respuesta política.

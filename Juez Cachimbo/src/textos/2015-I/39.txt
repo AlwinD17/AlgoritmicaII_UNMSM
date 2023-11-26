@@ -1,0 +1,65 @@
+ID: 39
+=====================TEXTO======================
+El concepto de inferencia constituye uno de los ejes fundamentales en las teorías vigentes acerca de la comprensión del discurso. Sin embargo, resulta difícil encontrar acuerdo al respecto. En principio, podríamos decir, de modo intuitivo, que las inferencias son los procesos que nos permiten «leer entre líneas». Desde el punto de vista cognitivo, la inferencia se identifica con un proceso de alto nivel, a través del cual el lector utiliza e incorpora información semántica que no está explícita en el texto, pero que es evocada a partir de las ideas expresadas en el mismo y que pasa a formar parte de la representación mental del significado dotándola de mayor sentido o coherencia.
+Asimismo, también se suele denominar inferencia a la información que resulta activada a partir de la actuación de tales procesos. Por ejemplo, tras la lectura del siguiente texto: «Gema tomó un analgésico. El dolor desapareció», la representación mental de un lector que se limita a extraer las ideas explícitas en el texto podría co rresponderse con las ideas expresadas en las dos proposiciones. Sin embargo, solo con esta información, no podría integrar ambas ideas de modo coherente y comprender el mensaje, puesto que el texto no expresa la relación semántica que las vincula. Por tanto, para comprender lo que quiere decir el autor, sería necesario que el lector activase su conocimiento previo acerca del efecto calmante de los analgésicos e incorporar a su representación mental la idea de que la acción de tomar un analgésico preparado e n un comprimido, probablemente, fue lo que ocasionó que el dolor que sufría Gema haya desaparecido. En este caso, la relación causal entre las dos proposiciones constituye la inferencia. Por tanto, un primer rasgo relevante del proceso de inferencia, y que no suele ser origen de discrepancia entre los autores, es el origen implícito de la información que aporta a la representación mental construida. La conexión entre ambos tipos de información, explícita e implícita, se vislumbra fácilmente adoptando un enfoque constructivista de la comprensión. En este sentido, el significado no es algo que venga totalmente acabado en el propio discurso, sino que ha de ser construido en el transcurso de la interacción texto - lector, y es, precisamente, en esta interacción donde tienen pleno sentido los procesos inferenciales. Por eso, podemos afirmar que, en cierta medida, la inferencia es también un proceso de generación de información semántica nueva a partir de otra dada en el texto, que no se produce al margen del contexto de comprensión.
+Vierio, P. & Gómez, I. (2004) Psicología de la lectura. Madrid: Pearson.
+=====================PREGUNTA 1======================
+Principalmente, el autor afirma que la inferencia en la comprensión lectora
+=====================ALTERNATIVAS======================
+A. es un proceso medular para las teorías contemporáneas sobre los discursos.
+B. es el resultado o el proceso de explicitar información semánticamente nueva.
+C. permite que todo tipo de lector pueda leer entre líneas de modo perfecto.
+D. facilita el acercamiento al escritor bajo el llamado enfoque constructivista.
+E. activa todos nuestros conocimientos previos aprendidos en la etapa escolar.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+El autor se propone caracterizar a la inferencia en la comprensión lectora definiéndola como resultado y proceso.
+=====================PREGUNTA 2======================
+En el texto, EVOCAR connota
+=====================ALTERNATIVAS======================
+A. invocar.
+B. recordar.
+C. llamar.
+D. conjeturar.
+E. memorizar.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Se incorpora o se evoca información que no está explícita, es decir, se trae a la mente ola imaginación a partir de indicios, esto es, se conjetura.
+=====================PREGUNTA 3======================
+Se colige que, para la concepción constructivista, la interpretación
+=====================ALTERNATIVAS======================
+A. está relacionada con la habilidad de compresión que posee el lector.
+B. mejora, en todos los casos, mientras más edad tenga el supuesto lector.
+C. es ajena a los contextos de comprensión pues es idéntica siempre.
+D. es inadecuada cuando alude a sucesos físicos entorno a la causalidad.
+E. basada en inferencias constituye un nivel básico y elemental de la lectura.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Para el enfoque constructivista, el significado de un texto no es algo que venga totalmente acabado en el propio discurso, sino que ha de ser construido en el transcurso de la interacción texto-lector, lo que involucra su habilidad de comprensión.
+=====================PREGUNTA 4======================
+Resulta inconsistente con el desarrollo del texto afirmar que la inferencia
+=====================ALTERNATIVAS======================
+A. se vincula con la activación de los denominados saberes previos.
+B. es considerada como un proceso del más alto nivel de lectura.
+C. incorpora información relevante y semánticamente novedosa.
+D. es la información que ha sido activada en el proceso de explicitar.
+E. disminuye la coherencia del significado que le otorgamos al texto.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+La inferencia genera información que pasa a formar parte de la representación mental del significado dotándola de mayor coherencia.
+=====================PREGUNTA 5======================
+Si un lector fuese incapaz de efectuar un proceso de inferencia, probablemente
+=====================ALTERNATIVAS======================
+A. anularía la relación causal entre fenómenos.
+B. únicamente comprendería textos descriptivos.
+C. leería solamente novelas en idioma español.
+D. le sería difícil dotar de sentido a los textos.
+E. obtendría información sumamente relevante.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+La inferencia posibilita construir el sentido de un texto.
