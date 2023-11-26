@@ -6,13 +6,26 @@ import java.util.ArrayList;
 public class Group {
     private String id;
     private String name;
-    private ArrayList<Student> students;
-
-    public Group(String id, String name) {
+    private int numestudiantes;
+   
+    
+    public Group(String id, String name, int numestudiantes) {
         this.id = id;
         this.name = name;
+        this.numestudiantes= numestudiantes;
         students = new ArrayList<>();
     }
+    
+    public int getNumestudiantes() {
+        return numestudiantes;
+    }
+
+    public void setNumestudiantes(int numestudiantes) {
+        this.numestudiantes = numestudiantes;
+    }
+    private ArrayList<Student> students;
+
+
 
     public String getId() {
         return id;
