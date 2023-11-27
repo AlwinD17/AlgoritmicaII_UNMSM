@@ -1,19 +1,15 @@
 
 package Interfaces.LoginUI;
 
+import com.JuezCachimbo;
 import java.awt.BorderLayout;
 import javax.swing.JPanel;
 
-/**
- *
- * @author eduda
- */
 public class frmLogin extends javax.swing.JFrame {
 
-    /**
-     * Creates new form frmLogin
-     */
-    public frmLogin() {
+    private JuezCachimbo main;
+    public frmLogin(JuezCachimbo main) {
+        this.main = main;
         initComponents();
         
     }
@@ -30,8 +26,8 @@ public class frmLogin extends javax.swing.JFrame {
         jPanel3 = new javax.swing.JPanel();
         jButtonregistrarse = new javax.swing.JButton();
         jButtonIniciarsesion = new javax.swing.JButton();
-        jTextusuario = new javax.swing.JTextField();
         jTextcontraseña = new javax.swing.JTextField();
+        jTextusuario = new javax.swing.JTextField();
         jLabel2 = new javax.swing.JLabel();
         jLabel1 = new javax.swing.JLabel();
 
@@ -65,22 +61,22 @@ public class frmLogin extends javax.swing.JFrame {
         });
         jPanel3.add(jButtonIniciarsesion, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 520, 250, 50));
 
-        jTextusuario.setText("Contraseña");
-        jTextusuario.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextusuarioActionPerformed(evt);
-            }
-        });
-        jPanel3.add(jTextusuario, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 460, 300, 40));
-
-        jTextcontraseña.setText("Usuario");
-        jTextcontraseña.setFocusCycleRoot(true);
+        jTextcontraseña.setText("Contraseña");
         jTextcontraseña.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextcontraseñaActionPerformed(evt);
             }
         });
-        jPanel3.add(jTextcontraseña, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 390, 300, 40));
+        jPanel3.add(jTextcontraseña, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 460, 300, 40));
+
+        jTextusuario.setText("Usuario");
+        jTextusuario.setFocusCycleRoot(true);
+        jTextusuario.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextusuarioActionPerformed(evt);
+            }
+        });
+        jPanel3.add(jTextusuario, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 390, 300, 40));
 
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/images/Group 7.png"))); // NOI18N
         jPanel3.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(730, 140, 190, 230));
@@ -94,15 +90,26 @@ public class frmLogin extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jTextcontraseñaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextcontraseñaActionPerformed
+    private void jTextusuarioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextusuarioActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextcontraseñaActionPerformed
+    }//GEN-LAST:event_jTextusuarioActionPerformed
 
+    private void jTextcontraseñaActionPerformed(java.awt.event.ActionEvent evt) {                                             
+        // TODO add your handling code here:
+    }
+     
     private void jButtonregistrarseActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonregistrarseActionPerformed
                 frmRegistro fr=new frmRegistro();
         fr.setVisible(true);// TODO add your handling code here:
     }//GEN-LAST:event_jButtonregistrarseActionPerformed
-private void ShowJPanel(JPanel p){
+
+    private void jButtonIniciarsesionActionPerformed(java.awt.event.ActionEvent evt) {                                                   
+        String username = jTextusuario.getText();
+        String password = jTextcontraseña.getText();
+        main.handleLogin(username,password);
+    }
+    
+    private void ShowJPanel(JPanel p){
         p.setSize(647,645);
         p.setLocation(0, 0);
         
@@ -115,11 +122,7 @@ private void ShowJPanel(JPanel p){
      * @param args the command line arguments
      */
     public static void main(String args[]) {
-        /* Set the Nimbus look and feel */
-        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
-        /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
-         * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
-         */
+        
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
                 if ("Nimbus".equals(info.getName())) {
@@ -136,9 +139,7 @@ private void ShowJPanel(JPanel p){
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(frmLogin.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
-        //</editor-fold>
-
-        /* Create and display the form */
+       
         
     }
 

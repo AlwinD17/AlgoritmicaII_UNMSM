@@ -1,7 +1,10 @@
+package com;
+
 import java.io.*;
 import Interfaces.LoginUI.frmLogin;
+import Interfaces.ProfesorUI.InterfazProfesor.MenuProfesores;
 import Interfaces.StudentUI.StudentMenu;
-import Interfaz.MenuProfesores;
+
 import com.usuarios.Student;
 import com.usuarios.teacher;
 import data.Manage;
@@ -13,7 +16,7 @@ public class JuezCachimbo{
     private Student alumno;
     
      public JuezCachimbo() {
-        this.loginView = new frmLogin();
+        this.loginView = new frmLogin(this);
         this.manage = new Manage();
     }
      

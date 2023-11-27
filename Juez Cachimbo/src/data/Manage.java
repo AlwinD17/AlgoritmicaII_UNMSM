@@ -1,16 +1,10 @@
 package data;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.ObjectInputStream;
+import java.io.*;
 
 
 public class Manage {
     public String buscarUsuario(String username, String password) {
-        // Lógica para buscar el usuario en el archivo y obtener la ruta
-        // Retorna la ruta del archivo asociado al usuario si existe, o null si no se encuentra
-        // Implementa esta lógica según tus necesidades específicas
-        // Puedes usar FileReader y BufferedReader para leer el archivo línea por línea
+        
         return null;
     }
 
