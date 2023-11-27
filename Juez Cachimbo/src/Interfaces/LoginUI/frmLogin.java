@@ -58,9 +58,19 @@ public class frmLogin extends javax.swing.JFrame {
         jButtonIniciarsesion.setText("Iniciar sesión");
         jButtonIniciarsesion.setBorder(null);
         jButtonIniciarsesion.setBorderPainted(false);
+        jButtonIniciarsesion.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButtonIniciarsesionActionPerformed(evt);
+            }
+        });
         jPanel3.add(jButtonIniciarsesion, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 520, 250, 50));
 
         jTextusuario.setText("Contraseña");
+        jTextusuario.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextusuarioActionPerformed(evt);
+            }
+        });
         jPanel3.add(jTextusuario, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 460, 300, 40));
 
         jTextcontraseña.setText("Usuario");
@@ -129,11 +139,7 @@ private void ShowJPanel(JPanel p){
         //</editor-fold>
 
         /* Create and display the form */
-        java.awt.EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                new frmLogin().setVisible(true);
-            }
-        });
+        
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
