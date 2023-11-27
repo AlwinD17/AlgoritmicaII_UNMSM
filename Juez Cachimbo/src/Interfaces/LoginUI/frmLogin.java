@@ -1,8 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-package com.login;
+
+package Interfaces.LoginUI;
 
 /**
  *
@@ -26,34 +23,62 @@ public class frmLogin extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jPanel1 = new javax.swing.JPanel();
+        jPanel3 = new javax.swing.JPanel();
+        jButtonregistrarse = new javax.swing.JButton();
+        jButtonIniciarsesion = new javax.swing.JButton();
+        jTextusuario = new javax.swing.JTextField();
+        jTextcontraseña = new javax.swing.JTextField();
+        jLabel2 = new javax.swing.JLabel();
+        jLabel1 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setMaximumSize(new java.awt.Dimension(1080, 720));
+        setPreferredSize(new java.awt.Dimension(1080, 720));
+        getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
-        jPanel1.setLayout(jPanel1Layout);
-        jPanel1Layout.setHorizontalGroup(
-            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 720, Short.MAX_VALUE)
-        );
-        jPanel1Layout.setVerticalGroup(
-            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 480, Short.MAX_VALUE)
-        );
+        jPanel3.setMaximumSize(new java.awt.Dimension(1080, 720));
+        jPanel3.setMinimumSize(new java.awt.Dimension(1080, 720));
+        jPanel3.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
-        getContentPane().setLayout(layout);
-        layout.setHorizontalGroup(
-            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
-        layout.setVerticalGroup(
-            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-        );
+        jButtonregistrarse.setBackground(new java.awt.Color(90, 113, 126));
+        jButtonregistrarse.setForeground(new java.awt.Color(255, 255, 255));
+        jButtonregistrarse.setText("Registrarse");
+        jButtonregistrarse.setBorderPainted(false);
+        jPanel3.add(jButtonregistrarse, new org.netbeans.lib.awtextra.AbsoluteConstraints(750, 590, 130, 30));
+
+        jButtonIniciarsesion.setBackground(new java.awt.Color(3, 25, 38));
+        jButtonIniciarsesion.setForeground(new java.awt.Color(255, 255, 255));
+        jButtonIniciarsesion.setText("Iniciar sesión");
+        jButtonIniciarsesion.setBorderPainted(false);
+        jPanel3.add(jButtonIniciarsesion, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 520, 250, 50));
+
+        jTextusuario.setText("Contraseña");
+        jPanel3.add(jTextusuario, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 460, 300, 40));
+
+        jTextcontraseña.setText("Usuario");
+        jTextcontraseña.setFocusCycleRoot(true);
+        jTextcontraseña.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextcontraseñaActionPerformed(evt);
+            }
+        });
+        jPanel3.add(jTextcontraseña, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 390, 300, 40));
+
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/images/Group 7.png"))); // NOI18N
+        jPanel3.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(730, 140, 190, 230));
+
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/images/Iniciar sesión.png"))); // NOI18N
+        jLabel1.setText("jLabel1");
+        jPanel3.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1090, 720));
+
+        getContentPane().add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1080, 720));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+
+    private void jTextcontraseñaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextcontraseñaActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextcontraseñaActionPerformed
 
     /**
      * @param args the command line arguments
@@ -91,6 +116,12 @@ public class frmLogin extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JPanel jPanel1;
+    private javax.swing.JButton jButtonIniciarsesion;
+    private javax.swing.JButton jButtonregistrarse;
+    private javax.swing.JLabel jLabel1;
+    private javax.swing.JLabel jLabel2;
+    private javax.swing.JPanel jPanel3;
+    private javax.swing.JTextField jTextcontraseña;
+    private javax.swing.JTextField jTextusuario;
     // End of variables declaration//GEN-END:variables
 }
