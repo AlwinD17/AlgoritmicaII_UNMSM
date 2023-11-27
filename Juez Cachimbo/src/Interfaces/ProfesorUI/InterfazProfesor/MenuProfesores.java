@@ -1,8 +1,10 @@
-package Interfaz;
+package Interfaces.ProfesorUI.InterfazProfesor;
 
-import InterfazPanelesProfesor.*;
-import com.usuarios.User;
+import Interfaces.ProfesorUI.InterfazPanelesProfesor.Ejercicio;
+import Interfaces.ProfesorUI.InterfazPanelesProfesor.Grupo;
+import Interfaces.ProfesorUI.InterfazPanelesProfesor.PERFILES;
 import java.awt.BorderLayout;
+
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
@@ -13,6 +15,7 @@ import rsscalelabel.RSScaleLabel;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
+
 
 /**
  *
@@ -228,7 +231,9 @@ public class MenuProfesores extends javax.swing.JFrame {
     
     
     private void jButtonPerfilActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonPerfilActionPerformed
-        ShowJPanel(new Perfil()); 
+        
+        ShowJPanel(new PERFILES());
+
     }//GEN-LAST:event_jButtonPerfilActionPerformed
 
     private void jButtonEjercicioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonEjercicioActionPerformed
@@ -243,9 +248,9 @@ public class MenuProfesores extends javax.swing.JFrame {
 
     public void imagen(){
         this.setLocationRelativeTo(this);
-        rsscalelabel.RSScaleLabel.setScaleLabel(jLabel2,"src/IMAGENES/USUARIO.png");
-        rsscalelabel.RSScaleLabel.setScaleLabel(jLabel3,"src/IMAGENES/GRUPO.png");
-        rsscalelabel.RSScaleLabel.setScaleLabel(jLabel4,"src/IMAGENES/EJERCICIO.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(jLabel2,"src/images/IMAGENES/USUARIO.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(jLabel3,"src/images/IMAGENES/GRUPO.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(jLabel4,"src/images/IMAGENES/EJERCICIO.png");
     }
     /**
      * @param args the command line arguments
