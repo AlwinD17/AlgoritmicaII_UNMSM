@@ -32,8 +32,6 @@ public class frmLogin extends javax.swing.JFrame {
         jLabel1 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setMaximumSize(new java.awt.Dimension(1080, 720));
-        setPreferredSize(new java.awt.Dimension(1080, 720));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jPanel3.setMaximumSize(new java.awt.Dimension(1080, 720));
@@ -50,9 +48,19 @@ public class frmLogin extends javax.swing.JFrame {
         jButtonIniciarsesion.setForeground(new java.awt.Color(255, 255, 255));
         jButtonIniciarsesion.setText("Iniciar sesión");
         jButtonIniciarsesion.setBorderPainted(false);
+        jButtonIniciarsesion.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButtonIniciarsesionActionPerformed(evt);
+            }
+        });
         jPanel3.add(jButtonIniciarsesion, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 520, 250, 50));
 
         jTextusuario.setText("Contraseña");
+        jTextusuario.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextusuarioActionPerformed(evt);
+            }
+        });
         jPanel3.add(jTextusuario, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 460, 300, 40));
 
         jTextcontraseña.setText("Usuario");
@@ -64,10 +72,10 @@ public class frmLogin extends javax.swing.JFrame {
         });
         jPanel3.add(jTextcontraseña, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 390, 300, 40));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/images/Group 7.png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\eduda\\workspace\\algoritmicaII\\Juez Cachimbo\\src\\images\\images\\Group 7.png")); // NOI18N
         jPanel3.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(730, 140, 190, 230));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/images/Iniciar sesión.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\eduda\\workspace\\algoritmicaII\\Juez Cachimbo\\src\\images\\images\\Iniciar sesión.png")); // NOI18N
         jLabel1.setText("jLabel1");
         jPanel3.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1090, 720));
 
@@ -79,6 +87,14 @@ public class frmLogin extends javax.swing.JFrame {
     private void jTextcontraseñaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextcontraseñaActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextcontraseñaActionPerformed
+
+    private void jTextusuarioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextusuarioActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextusuarioActionPerformed
+
+    private void jButtonIniciarsesionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonIniciarsesionActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jButtonIniciarsesionActionPerformed
 
     /**
      * @param args the command line arguments
@@ -108,11 +124,7 @@ public class frmLogin extends javax.swing.JFrame {
         //</editor-fold>
 
         /* Create and display the form */
-        java.awt.EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                new frmLogin().setVisible(true);
-            }
-        });
+        
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
