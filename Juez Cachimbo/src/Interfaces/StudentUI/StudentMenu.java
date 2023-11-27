@@ -65,7 +65,6 @@ public class StudentMenu extends javax.swing.JFrame {
         panelPrincipal = new javax.swing.JPanel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setPreferredSize(new java.awt.Dimension(1221, 770));
 
         jPanel2.setBackground(new java.awt.Color(241, 248, 255));
         jPanel2.setPreferredSize(new java.awt.Dimension(1221, 770));
@@ -77,7 +76,7 @@ public class StudentMenu extends javax.swing.JFrame {
         jToggleButton1.setBackground(new java.awt.Color(26, 40, 51));
         jToggleButton1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         jToggleButton1.setForeground(new java.awt.Color(255, 255, 255));
-        jToggleButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Perfil.png"))); // NOI18N
+        jToggleButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/resources/Perfil.png"))); // NOI18N
         jToggleButton1.setText("Perfil");
         jToggleButton1.setBorder(null);
         jToggleButton1.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -112,7 +111,7 @@ public class StudentMenu extends javax.swing.JFrame {
         jToggleButton3.setBackground(new java.awt.Color(26, 40, 51));
         jToggleButton3.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         jToggleButton3.setForeground(new java.awt.Color(255, 255, 255));
-        jToggleButton3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Grupos.png"))); // NOI18N
+        jToggleButton3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/resources/Grupos.png"))); // NOI18N
         jToggleButton3.setText("Grupos");
         jToggleButton3.setBorder(null);
         jToggleButton3.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -147,7 +146,7 @@ public class StudentMenu extends javax.swing.JFrame {
         jToggleButton2.setBackground(new java.awt.Color(26, 40, 51));
         jToggleButton2.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         jToggleButton2.setForeground(new java.awt.Color(255, 255, 255));
-        jToggleButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Ejercicios.png"))); // NOI18N
+        jToggleButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/resources/Ejercicios.png"))); // NOI18N
         jToggleButton2.setText("Ejercicios");
         jToggleButton2.setBorder(null);
         jToggleButton2.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
