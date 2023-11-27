@@ -1,6 +1,9 @@
 
 package Interfaces.LoginUI;
 
+import java.awt.BorderLayout;
+import javax.swing.JPanel;
+
 /**
  *
  * @author eduda
@@ -12,6 +15,7 @@ public class frmLogin extends javax.swing.JFrame {
      */
     public frmLogin() {
         initComponents();
+        
     }
 
     /**
@@ -32,8 +36,6 @@ public class frmLogin extends javax.swing.JFrame {
         jLabel1 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setMaximumSize(new java.awt.Dimension(1080, 720));
-        setPreferredSize(new java.awt.Dimension(1080, 720));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jPanel3.setMaximumSize(new java.awt.Dimension(1080, 720));
@@ -44,11 +46,17 @@ public class frmLogin extends javax.swing.JFrame {
         jButtonregistrarse.setForeground(new java.awt.Color(255, 255, 255));
         jButtonregistrarse.setText("Registrarse");
         jButtonregistrarse.setBorderPainted(false);
+        jButtonregistrarse.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButtonregistrarseActionPerformed(evt);
+            }
+        });
         jPanel3.add(jButtonregistrarse, new org.netbeans.lib.awtextra.AbsoluteConstraints(750, 590, 130, 30));
 
         jButtonIniciarsesion.setBackground(new java.awt.Color(3, 25, 38));
         jButtonIniciarsesion.setForeground(new java.awt.Color(255, 255, 255));
         jButtonIniciarsesion.setText("Iniciar sesión");
+        jButtonIniciarsesion.setBorder(null);
         jButtonIniciarsesion.setBorderPainted(false);
         jPanel3.add(jButtonIniciarsesion, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 520, 250, 50));
 
@@ -64,10 +72,10 @@ public class frmLogin extends javax.swing.JFrame {
         });
         jPanel3.add(jTextcontraseña, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 390, 300, 40));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/images/Group 7.png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/images/Group 7.png"))); // NOI18N
         jPanel3.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(730, 140, 190, 230));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/images/Iniciar sesión.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/images/Iniciar sesión.png"))); // NOI18N
         jLabel1.setText("jLabel1");
         jPanel3.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1090, 720));
 
@@ -80,6 +88,19 @@ public class frmLogin extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextcontraseñaActionPerformed
 
+    private void jButtonregistrarseActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonregistrarseActionPerformed
+                frmRegistro fr=new frmRegistro();
+        fr.setVisible(true);// TODO add your handling code here:
+    }//GEN-LAST:event_jButtonregistrarseActionPerformed
+private void ShowJPanel(JPanel p){
+        p.setSize(647,645);
+        p.setLocation(0, 0);
+        
+        jPanel3.removeAll();
+        jPanel3.add(p, BorderLayout.CENTER);
+        jPanel3.revalidate();
+        jPanel3.repaint();
+    }
     /**
      * @param args the command line arguments
      */
