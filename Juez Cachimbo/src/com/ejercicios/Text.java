@@ -1,16 +1,17 @@
 package com.ejercicios;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 
-public class Text {
+public class Text implements Serializable{
     private String content;
     private String id;
     private ArrayList<Question> questions;
 
-    public Text(String content, ArrayList<Question> questions, String id) {
-        this.content = content;
-        this.id = id;
+    public Text() {
+        this.content = null;
+        this.id = null;
         questions = new ArrayList<>();
     }
 

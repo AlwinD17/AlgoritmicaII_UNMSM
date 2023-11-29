@@ -1,22 +1,21 @@
 package com.usuarios;
 
-import com.ejercicios.AvailableTexts;
 import java.io.Serializable;
 import java.util.ArrayList;
 
 
 public class Student extends User implements Serializable{
     private String groupId;
-    private ArrayList<AvailableTexts> availableTexts;
-    private int readTexts;
+    public ArrayList<String> readTexts;
+    public int numReadTexts;
     private int correctQuestions;
     private int incorrectQuestions;
 
     public Student() {
         super();
         groupId = null;
-        availableTexts = new ArrayList<>();
-        readTexts = 0;
+        readTexts = new ArrayList<>();
+        numReadTexts = 0;
         correctQuestions = 0;
         incorrectQuestions = 0;
     }
@@ -31,20 +30,20 @@ public class Student extends User implements Serializable{
         this.groupId = groupId;
     }
 
-    public ArrayList<AvailableTexts> getAvailableTexts() {
-        return availableTexts;
-    }
-
-    public void setAvailableTexts(ArrayList<AvailableTexts> availableTexts) {
-        this.availableTexts = availableTexts;
-    }
-
-    public int getReadTexts() {
+    public ArrayList<String> getReadTexts() {
         return readTexts;
     }
 
-    public void setReadTexts(int readTexts) {
+    public void setReadTexts(ArrayList<String> readTexts) {
         this.readTexts = readTexts;
+    }
+
+    public int getNumReadTexts() {
+        return numReadTexts;
+    }
+
+    public void setNumReadTexts(int numReadTexts) {
+        this.numReadTexts = numReadTexts;
     }
 
     public int getCorrectQuestions() {

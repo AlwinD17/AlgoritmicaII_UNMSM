@@ -1,5 +1,6 @@
 package Interfaces.StudentUI;
 
+import Interfaces.Conexion;
 import java.awt.BorderLayout;
 import javax.swing.JDialog;
 import javax.swing.JLabel;
@@ -7,10 +8,9 @@ import javax.swing.JLabel;
 
 public class StudentMenu extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Student
-     */
-    public StudentMenu() {
+    private Conexion conexion;
+    public StudentMenu(Conexion conexion) {
+        this.conexion = conexion;
         initComponents();
         Exercises p1 = new Exercises();
         p1.setSize(1005, 764);
@@ -290,7 +290,7 @@ public class StudentMenu extends javax.swing.JFrame {
     }//GEN-LAST:event_jToggleButton2ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        
+        conexion.cerrarSesionStudent();
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jToggleButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton3ActionPerformed
@@ -307,11 +307,11 @@ public class StudentMenu extends javax.swing.JFrame {
     /**
      * @param args the command line arguments
      */
-    public static void main(String args[]) {
+    public void main(String args[]) {
         
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new StudentMenu().setVisible(true);
+                new StudentMenu(conexion).setVisible(true);
             }
         });
     }

@@ -1,21 +1,32 @@
 package com.ejercicios;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 
-public class Question {
+public class Question implements Serializable {
     private String content;
     private ArrayList<String> alternatives;
     private String rightAlternative;
+    private String reasoning;
     private boolean answered;
 
-    public Question(String content, ArrayList<String> alternatives, String rightAlternative) {
-        this.content = content;
-        alternatives = new ArrayList<>();
-        this.rightAlternative = rightAlternative;
-        answered = false;
+    public Question() {
+        this.content = null;
+        this.alternatives = new ArrayList<>();
+        this.rightAlternative = null;
+        this.answered = false;
+        this.reasoning = null;
     }
 
+    public String getReasoning() {
+        return reasoning;
+    }
+
+    public void setReasoning(String reasoning) {
+        this.reasoning = reasoning;
+    }
+    
     public String getContent() {
         return content;
     }

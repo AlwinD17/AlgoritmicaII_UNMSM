@@ -1,5 +1,6 @@
 package Interfaces.ProfesorUI.InterfazProfesor;
 
+import Interfaces.Conexion;
 import Interfaces.ProfesorUI.InterfazPanelesProfesor.Ejercicio;
 import Interfaces.ProfesorUI.InterfazPanelesProfesor.Grupo;
 import Interfaces.ProfesorUI.InterfazPanelesProfesor.PERFILES;
@@ -23,10 +24,9 @@ import javax.swing.JTextField;
  */
 public class MenuProfesores extends javax.swing.JFrame {
 
-    /**
-     * Creates new form PERFIL
-     */
-    public MenuProfesores() {
+    private Conexion conexion;
+    public MenuProfesores(Conexion conexion) {
+        this.conexion = conexion;
         initComponents();
         imagen();
 
@@ -255,7 +255,7 @@ public class MenuProfesores extends javax.swing.JFrame {
     /**
      * @param args the command line arguments
      */
-    public static void main(String args[]) {
+    public void main(String args[]) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
         /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
@@ -285,7 +285,7 @@ public class MenuProfesores extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new MenuProfesores().setVisible(true);
+                new MenuProfesores(conexion).setVisible(true);
             }
         });
         

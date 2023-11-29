@@ -232,7 +232,7 @@ public class frmRegistro extends javax.swing.JFrame {
         String fecha = jTextdia.getText() + "/" + jTextmes.getText() + "/" + jTextaño.getText();
         String carrera = jTextcarreraprof.getText();
         String tipo = "";
-        String nombreArchivo = generarNombreAleatorio() + ".txt";
+        String nombreArchivo = generarNombreAleatorio() + ".ser";
         String rutaCompleta = "src/data/Usuarios/" + nombreArchivo;
 
         Object user;

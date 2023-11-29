@@ -1,8 +1,14 @@
 package data;
+import com.ejercicios.Question;
+import com.ejercicios.Text;
+import com.usuarios.Student;
+import com.usuarios.Teacher;
 import java.io.*;
+import java.util.ArrayList;
 
 
 public class Manage {
+    
     public String[] buscarUsuario(String username, String password) {
         String linea = username+","+password+",";
         String ruta = "src/data/Listas/userList.txt";
@@ -49,5 +55,36 @@ public class Manage {
         return null;
     }
     
+    public void serializarObjeto(Object objeto, String rutaArchivo) {
+        try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(rutaArchivo))) {
+            // Serializar el objeto y escribirlo en el archivo
+            oos.writeObject(objeto);
+            System.out.println("Objeto serializado y guardado en: " + rutaArchivo);
+        } catch (IOException e) {
+            System.out.println("Error durante la serialización");
+            e.printStackTrace();
+        }
+    }
     
+    public void actualizarObjeto(String rutaFichero, Student alumno)
+            throws IOException, ClassNotFoundException {
+        try (ObjectOutputStream outputStream = new ObjectOutputStream(new FileOutputStream(rutaFichero))) {
+            outputStream.writeObject(alumno);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    
+    public void actualizarObjeto(String rutaFichero, Teacher profesor)
+            throws IOException, ClassNotFoundException {
+        try (ObjectOutputStream outputStream = new ObjectOutputStream(new FileOutputStream(rutaFichero))) {
+            outputStream.writeObject(profesor);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    
+
+
 }
+
