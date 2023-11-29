@@ -1,0 +1,6 @@
+estudiante,password,student
+src/data/Usuarios/usuario_18445.txt
+
+profe,password,teacher
+src/data/Usuarios/usuario_28628.txt
+

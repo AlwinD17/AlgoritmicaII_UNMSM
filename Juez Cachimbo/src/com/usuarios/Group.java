@@ -1,9 +1,10 @@
 package com.usuarios;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 
-public class Group {
+public class Group implements Serializable{
     private String id;
     private String name;
     private int numestudiantes;

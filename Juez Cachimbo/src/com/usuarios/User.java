@@ -5,16 +5,14 @@ import java.util.Date;
 public class User {
     private String userName;
     private String password;
-    private String firstName;
-    private String lastName;
-    private Date birthdate;
+    private String name;
+    private String birthdate;
 
-    public User(String userName, String password, String firstName, String lastName, Date birthdate) {
-        this.userName = userName;
-        this.password = password;
-        this.firstName = firstName;
-        this.lastName = lastName;
-        this.birthdate = birthdate;
+    public User() {
+        userName="";
+        password="";
+        name="";
+        birthdate="";
     }
 
     public String getUserName() {
@@ -33,27 +31,19 @@ public class User {
         this.password = password;
     }
 
-    public String getFirstName() {
-        return firstName;
+    public String getName() {
+        return name;
     }
 
-    public void setFirstName(String firstName) {
-        this.firstName = firstName;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public String getLastName() {
-        return lastName;
-    }
-
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
-
-    public Date getBirthdate() {
+    public String getBirthdate() {
         return birthdate;
     }
 
-    public void setBirthdate(Date birthdate) {
+    public void setBirthdate(String birthdate) {
         this.birthdate = birthdate;
     }
     

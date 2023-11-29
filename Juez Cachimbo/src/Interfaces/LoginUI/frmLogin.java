@@ -10,8 +10,7 @@ public class frmLogin extends javax.swing.JFrame {
     private JuezCachimbo main;
     public frmLogin(JuezCachimbo main) {
         this.main = main;
-        initComponents();
-        
+        initComponents();    
     }
 
     /**
@@ -26,8 +25,10 @@ public class frmLogin extends javax.swing.JFrame {
         jPanel3 = new javax.swing.JPanel();
         jButtonregistrarse = new javax.swing.JButton();
         jButtonIniciarsesion = new javax.swing.JButton();
-        jTextcontraseña = new javax.swing.JTextField();
+        jLabel3 = new javax.swing.JLabel();
+        jLabel4 = new javax.swing.JLabel();
         jTextusuario = new javax.swing.JTextField();
+        contraseñaField = new javax.swing.JPasswordField();
         jLabel2 = new javax.swing.JLabel();
         jLabel1 = new javax.swing.JLabel();
 
@@ -61,25 +62,36 @@ public class frmLogin extends javax.swing.JFrame {
         });
         jPanel3.add(jButtonIniciarsesion, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 520, 250, 50));
 
-        jTextcontraseña.setText("Contraseña");
-        jTextcontraseña.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextcontraseñaActionPerformed(evt);
+        jLabel3.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        jLabel3.setText("USUARIO:");
+        jPanel3.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 380, 150, 20));
+
+        jLabel4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        jLabel4.setText("CONTRASEÑA:");
+        jPanel3.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 450, 110, 20));
+
+        jTextusuario.setFocusCycleRoot(true);
+        jTextusuario.addFocusListener(new java.awt.event.FocusAdapter() {
+            public void focusGained(java.awt.event.FocusEvent evt) {
+                jTextusuarioFocusGained(evt);
             }
         });
-        jPanel3.add(jTextcontraseña, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 460, 300, 40));
-
-        jTextusuario.setText("Usuario");
-        jTextusuario.setFocusCycleRoot(true);
         jTextusuario.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextusuarioActionPerformed(evt);
             }
         });
-        jPanel3.add(jTextusuario, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 390, 300, 40));
+        jPanel3.add(jTextusuario, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 400, 300, 40));
+
+        contraseñaField.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                contraseñaFieldActionPerformed(evt);
+            }
+        });
+        jPanel3.add(contraseñaField, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 470, 300, 40));
 
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/images/Group 7.png"))); // NOI18N
-        jPanel3.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(730, 140, 190, 230));
+        jPanel3.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(720, 130, 190, 230));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/images/Iniciar sesión.png"))); // NOI18N
         jLabel1.setText("jLabel1");
@@ -93,19 +105,25 @@ public class frmLogin extends javax.swing.JFrame {
     private void jTextusuarioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextusuarioActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextusuarioActionPerformed
-
-    private void jTextcontraseñaActionPerformed(java.awt.event.ActionEvent evt) {                                             
-        // TODO add your handling code here:
-    }
-     
+ 
     private void jButtonregistrarseActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonregistrarseActionPerformed
                 frmRegistro fr=new frmRegistro();
         fr.setVisible(true);// TODO add your handling code here:
     }//GEN-LAST:event_jButtonregistrarseActionPerformed
 
+    private void contraseñaFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_contraseñaFieldActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_contraseñaFieldActionPerformed
+
+    private void jTextusuarioFocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_jTextusuarioFocusGained
+
+    }//GEN-LAST:event_jTextusuarioFocusGained
+
+    
     private void jButtonIniciarsesionActionPerformed(java.awt.event.ActionEvent evt) {                                                   
         String username = jTextusuario.getText();
-        String password = jTextcontraseña.getText();
+        char[] passwordChars = contraseñaField.getPassword();
+        String password = new String(passwordChars);
         main.handleLogin(username,password);
     }
     
@@ -144,12 +162,14 @@ public class frmLogin extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JPasswordField contraseñaField;
     private javax.swing.JButton jButtonIniciarsesion;
     private javax.swing.JButton jButtonregistrarse;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel4;
     private javax.swing.JPanel jPanel3;
-    private javax.swing.JTextField jTextcontraseña;
     private javax.swing.JTextField jTextusuario;
     // End of variables declaration//GEN-END:variables
 }

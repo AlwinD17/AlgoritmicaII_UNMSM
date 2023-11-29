@@ -1,13 +1,14 @@
 package com.usuarios;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class teacher extends User{
+public class Teacher extends User implements Serializable{
     private String career;
 
-    public teacher(String userName, String password, String firstName, String lastName, Date birthdate, String career) {
-        super(userName, password, firstName, lastName, birthdate);
-        this.career = career;
+    public Teacher() {
+        super();
+        career="";
     }
 
     public String getCareer() {

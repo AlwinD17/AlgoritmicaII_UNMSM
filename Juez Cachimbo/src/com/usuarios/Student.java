@@ -1,24 +1,27 @@
 package com.usuarios;
 
 import com.ejercicios.AvailableTexts;
+import java.io.Serializable;
 import java.util.ArrayList;
-import java.util.Date;
 
-public class Student extends User {
+
+public class Student extends User implements Serializable{
     private String groupId;
     private ArrayList<AvailableTexts> availableTexts;
     private int readTexts;
     private int correctQuestions;
     private int incorrectQuestions;
 
-    public Student(String userName, String password, String firstName, String lastName, Date birthdate, String groupId) {
-        super(userName, password, firstName, lastName, birthdate);
-        this.groupId = groupId;
+    public Student() {
+        super();
+        groupId = null;
         availableTexts = new ArrayList<>();
         readTexts = 0;
         correctQuestions = 0;
         incorrectQuestions = 0;
     }
+    
+
 
     public String getGroupId() {
         return groupId;

@@ -155,16 +155,19 @@ public class PERFILES extends javax.swing.JPanel {
         // TODO add your handling code here:
     }//GEN-LAST:event_textousernameActionPerformed
 private void MostrarDatos(){
-        User userInstance = new User("username", "password", "John", "Doe", new java.util.Date());
-
+        User userInstance = new User();
+        userInstance.setName("John Doe");
+        userInstance.setUserName("username");
+        userInstance.setPassword("password");
+        userInstance.setBirthdate("17/09/1998");
         // Obtener los valores de los atributos de la instancia de User
         String userNameValue = userInstance.getUserName();
         String passwordValue = userInstance.getPassword();
-        String firstNameValue = userInstance.getFirstName();
-        String lastNameValue = userInstance.getLastName();
-        String birthdateValue = String.valueOf(userInstance.getBirthdate()); // Convertir la fecha a una cadena
+        String nameValue = userInstance.getName();
+        String birthdateValue = userInstance.getBirthdate(); // Convertir la fecha a una cadena
       
     }
+
     private void MostrarIcono(){
          //Logo de usuario
         JLabel ImagenUSUARIO= new JLabel();

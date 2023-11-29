@@ -6,13 +6,13 @@ import Interfaces.ProfesorUI.InterfazProfesor.MenuProfesores;
 import Interfaces.StudentUI.StudentMenu;
 
 import com.usuarios.Student;
-import com.usuarios.teacher;
+import com.usuarios.Teacher;
 import data.Manage;
 
 public class JuezCachimbo{
     private frmLogin loginView;
     private Manage manage;
-    private teacher profesor;
+    private Teacher profesor;
     private Student alumno;
     
      public JuezCachimbo() {
@@ -21,24 +21,41 @@ public class JuezCachimbo{
     }
      
      public void handleLogin(String username, String password) {
-        String rutaUsuario = manage.buscarUsuario(username, password);
+        try {
+        String[] datos = manage.buscarUsuario(username, password);
+        if (datos != null) {
+            String rutaUsuario = datos[0];
+            String tipo = datos[1];
 
-        if (rutaUsuario != null) {
-            Object usuario = manage.deserializarObjeto(rutaUsuario);
+            if ("teacher".equals(tipo)) {
+                Object usuarioObj = manage.deserializarObjeto(rutaUsuario);
 
-            if (usuario instanceof teacher) {
-                this.profesor = (teacher) usuario;
-                new MenuProfesores().setVisible(true);
-            } else if (usuario instanceof Student) {
-                this.alumno = (Student) usuario;
+                if (usuarioObj instanceof Teacher) {
+                    Teacher usuario = (Teacher) usuarioObj;
+                    new MenuProfesores().setVisible(true);
+                } else {
+                    throw new ClassNotFoundException("Error: Objeto deserializado no es de tipo Teacher");
+                }
+            } else if ("student".equals(tipo)) {
+                Object usuarioObj = manage.deserializarObjeto(rutaUsuario);
+
+                if (usuarioObj instanceof Student) {
+                    Student usuario = (Student) usuarioObj;
                     new StudentMenu().setVisible(true);
+                } else {
+                    throw new ClassNotFoundException("Error: Objeto deserializado no es de tipo Student");
+                }
             } else {
                 System.out.println("Error: Tipo de usuario no reconocido");
             }
         } else {
-            System.out.println("Error: Usuario no encontrado");
+            System.out.println("Error: Datos de usuario no encontrados");
         }
-    }
+    } catch (IOException | ClassNotFoundException e) {
+        System.out.println("Error durante el manejo del login");
+        e.printStackTrace();
+        }   
+    } 
      
     public void startApplication() {
         loginView.setVisible(true);

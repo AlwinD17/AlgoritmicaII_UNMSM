@@ -1,9 +1,15 @@
 
 package Interfaces.LoginUI;
 
+import com.JuezCachimbo;
+import com.usuarios.Student;
+import com.usuarios.Teacher;
 import java.awt.BorderLayout;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
+import java.io.*;
+import java.util.Random;
+
 
 /**
  *
@@ -11,13 +17,10 @@ import javax.swing.JTextField;
  */
 public class frmRegistro extends javax.swing.JFrame {
 
-    /**
-     * Creates new form frmLogin
-     */
     public frmRegistro() {
-        initComponents();
-         jLabel3.setVisible(false);
-    jTextcarreraprof.setVisible(false);
+        initComponents();    
+        jLabel3.setVisible(false);
+        jTextcarreraprof.setVisible(false);
     }
 
     /**
@@ -30,6 +33,7 @@ public class frmRegistro extends javax.swing.JFrame {
     private void initComponents() {
 
         jTextField2 = new javax.swing.JTextField();
+        buttonGroup1 = new javax.swing.ButtonGroup();
         jPanel3 = new javax.swing.JPanel();
         jPanel1 = new javax.swing.JPanel();
         jTextaño = new javax.swing.JTextField();
@@ -72,6 +76,12 @@ public class frmRegistro extends javax.swing.JFrame {
             }
         });
         jPanel1.add(jTextaño, new org.netbeans.lib.awtextra.AbsoluteConstraints(530, 370, 70, 40));
+
+        jTextNomyApelli.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextNomyApelliActionPerformed(evt);
+            }
+        });
         jPanel1.add(jTextNomyApelli, new org.netbeans.lib.awtextra.AbsoluteConstraints(250, 280, 300, 30));
 
         jButtonguardarregistro.setBackground(new java.awt.Color(90, 113, 126));
@@ -85,6 +95,7 @@ public class frmRegistro extends javax.swing.JFrame {
         });
         jPanel1.add(jButtonguardarregistro, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 450, 290, 40));
 
+        buttonGroup1.add(jRadioProfesoregister);
         jRadioProfesoregister.setFont(new java.awt.Font("Times New Roman", 0, 24)); // NOI18N
         jRadioProfesoregister.setText("Profesor");
         jRadioProfesoregister.addActionListener(new java.awt.event.ActionListener() {
@@ -94,7 +105,9 @@ public class frmRegistro extends javax.swing.JFrame {
         });
         jPanel1.add(jRadioProfesoregister, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 60, -1, -1));
 
+        buttonGroup1.add(jRadioEstudianteregister);
         jRadioEstudianteregister.setFont(new java.awt.Font("Times New Roman", 0, 24)); // NOI18N
+        jRadioEstudianteregister.setSelected(true);
         jRadioEstudianteregister.setText("Estudiante");
         jRadioEstudianteregister.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(204, 0, 204), 0));
         jRadioEstudianteregister.addActionListener(new java.awt.event.ActionListener() {
@@ -103,6 +116,12 @@ public class frmRegistro extends javax.swing.JFrame {
             }
         });
         jPanel1.add(jRadioEstudianteregister, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 60, -1, -1));
+
+        jTextcontraseñaregistro.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextcontraseñaregistroActionPerformed(evt);
+            }
+        });
         jPanel1.add(jTextcontraseñaregistro, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 220, 300, 30));
 
         jLabel2.setFont(new java.awt.Font("Times New Roman", 0, 24)); // NOI18N
@@ -181,14 +200,68 @@ public class frmRegistro extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     
+    public void guardarUsuario(String username, String password, String rutaObjeto, String tipo) {
+        String linea = username+","+"password"+","+tipo;
+        String ruta = "src/data/Listas/userList.txt";
+        
+        try (BufferedReader br = new BufferedReader(new FileReader(ruta));
+            BufferedWriter bw = new BufferedWriter(new FileWriter(ruta, true))) {
+            bw.write(linea);
+            bw.newLine();
+            bw.write(rutaObjeto);
+            bw.newLine();
+            bw.newLine();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
     
     private void jTextañoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextañoActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextañoActionPerformed
-
+    private static String generarNombreAleatorio() {
+            Random random = new Random();
+            int num = random.nextInt(100000); 
+            return "usuario_" + num; 
+    }
+    
     private void jButtonguardarregistroActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonguardarregistroActionPerformed
-   // Cerrar el frame actual
-    this.dispose();
+        String usuario = jTextnameuserregister.getText();
+        String contraseña = jTextcontraseñaregistro.getText();
+        String nombre = jTextNomyApelli.getText();
+        String fecha = jTextdia.getText() + "/" + jTextmes.getText() + "/" + jTextaño.getText();
+        String carrera = jTextcarreraprof.getText();
+        String tipo = "";
+        String nombreArchivo = generarNombreAleatorio() + ".txt";
+        String rutaCompleta = "src/data/Usuarios/" + nombreArchivo;
+
+        Object user;
+        if (jRadioEstudianteregister.isSelected()) {
+            user = new Student();
+            ((Student) user).setUserName(usuario);
+            ((Student) user).setPassword(contraseña);
+            ((Student) user).setName(nombre);
+            ((Student) user).setBirthdate(fecha);
+            tipo = "student";
+        } else {
+            user = new Teacher();
+            ((Teacher) user).setUserName(usuario);
+            ((Teacher) user).setPassword(contraseña);
+            ((Teacher) user).setName(nombre);
+            ((Teacher) user).setBirthdate(fecha);
+            ((Teacher) user).setCareer(carrera);
+            tipo = "teacher";
+        }
+
+        try (ObjectOutputStream outputStream = new ObjectOutputStream(new FileOutputStream(rutaCompleta))) {
+            outputStream.writeObject(user);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        guardarUsuario(usuario, contraseña, rutaCompleta, tipo);
+
+        this.dispose();
     }//GEN-LAST:event_jButtonguardarregistroActionPerformed
 
     private void jRadioProfesoregisterActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jRadioProfesoregisterActionPerformed
@@ -225,44 +298,16 @@ public class frmRegistro extends javax.swing.JFrame {
     jTextcarreraprof.setVisible(false);        // TODO add your handling code here:
     }//GEN-LAST:event_jRadioEstudianteregisterActionPerformed
 
-    
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String args[]) {
-        /* Set the Nimbus look and feel */
-        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
-        /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
-         * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
-         */
-        try {
-            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
-                if ("Nimbus".equals(info.getName())) {
-                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
-                    break;
-                }
-            }
-        } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(frmRegistro.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(frmRegistro.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(frmRegistro.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(frmRegistro.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        }
-        //</editor-fold>
-        //</editor-fold>
+    private void jTextcontraseñaregistroActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextcontraseñaregistroActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextcontraseñaregistroActionPerformed
 
-        /* Create and display the form */
-        java.awt.EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                new frmRegistro().setVisible(true);
-            }
-        });
-    }
+    private void jTextNomyApelliActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextNomyApelliActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextNomyApelliActionPerformed
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.ButtonGroup buttonGroup1;
     private javax.swing.JButton jButtonguardarregistro;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
