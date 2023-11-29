@@ -125,6 +125,7 @@ public class frmLogin extends javax.swing.JFrame {
         char[] passwordChars = contraseñaField.getPassword();
         String password = new String(passwordChars);
         main.handleLogin(username,password);
+        this.dispose();
     }
     
     private void ShowJPanel(JPanel p){
