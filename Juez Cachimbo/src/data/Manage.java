@@ -4,7 +4,7 @@ import java.io.*;
 
 public class Manage {
     public String[] buscarUsuario(String username, String password) {
-        String linea = username+","+"password"+",";
+        String linea = username+","+password+",";
         String ruta = "src/data/Listas/userList.txt";
         String tipo = null;
         String rutaObjeto = null;
@@ -16,8 +16,7 @@ public class Manage {
                 if (currentLine.startsWith(linea)) {
 
                     String[] partes = currentLine.split(",");
-                    
-                    // Obtener el tipo y la rutaObjeto
+
                     if (partes.length == 3) {
                         tipo = partes[2];
                         rutaObjeto = br.readLine();

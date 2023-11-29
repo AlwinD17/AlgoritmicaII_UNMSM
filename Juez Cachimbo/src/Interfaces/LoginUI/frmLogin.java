@@ -1,6 +1,7 @@
 
 package Interfaces.LoginUI;
 
+
 import com.JuezCachimbo;
 import java.awt.BorderLayout;
 import javax.swing.JPanel;
@@ -125,7 +126,6 @@ public class frmLogin extends javax.swing.JFrame {
         char[] passwordChars = contraseñaField.getPassword();
         String password = new String(passwordChars);
         main.handleLogin(username,password);
-        this.dispose();
     }
     
     private void ShowJPanel(JPanel p){

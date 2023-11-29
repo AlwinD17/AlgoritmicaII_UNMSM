@@ -201,7 +201,7 @@ public class frmRegistro extends javax.swing.JFrame {
 
     
     public void guardarUsuario(String username, String password, String rutaObjeto, String tipo) {
-        String linea = username+","+"password"+","+tipo;
+        String linea = username+","+password+","+tipo;
         String ruta = "src/data/Listas/userList.txt";
         
         try (BufferedReader br = new BufferedReader(new FileReader(ruta));
