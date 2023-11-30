@@ -10,10 +10,10 @@ public class Group implements Serializable{
     private int numestudiantes;
    
     
-    public Group(String id, String name, int numestudiantes) {
-        this.id = id;
-        this.name = name;
-        this.numestudiantes= numestudiantes;
+    public Group() {
+        this.id = null;
+        this.name = null;
+        this.numestudiantes= 0;
         students = new ArrayList<>();
     }
     

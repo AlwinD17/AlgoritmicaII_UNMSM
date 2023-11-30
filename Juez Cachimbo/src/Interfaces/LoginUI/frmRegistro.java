@@ -4,20 +4,21 @@ package Interfaces.LoginUI;
 import com.JuezCachimbo;
 import com.usuarios.Student;
 import com.usuarios.Teacher;
+import com.usuarios.User;
 import java.awt.BorderLayout;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import java.io.*;
 import java.util.Random;
+import data.Manage;
 
 
-/**
- *
- * @author eduda
- */
 public class frmRegistro extends javax.swing.JFrame {
-
+    
+    private Manage manage;
+    
     public frmRegistro() {
+        manage = new Manage();
         initComponents();    
         jLabel3.setVisible(false);
         jTextcarreraprof.setVisible(false);
@@ -232,36 +233,34 @@ public class frmRegistro extends javax.swing.JFrame {
         String fecha = jTextdia.getText() + "/" + jTextmes.getText() + "/" + jTextaño.getText();
         String carrera = jTextcarreraprof.getText();
         String tipo = "";
-        String nombreArchivo = generarNombreAleatorio() + ".ser";
+        String nombreArchivo = generarNombreAleatorio() + ".bin";
         String rutaCompleta = "src/data/Usuarios/" + nombreArchivo;
 
-        Object user;
-        if (jRadioEstudianteregister.isSelected()) {
-            user = new Student();
-            ((Student) user).setUserName(usuario);
-            ((Student) user).setPassword(contraseña);
-            ((Student) user).setName(nombre);
-            ((Student) user).setBirthdate(fecha);
-            tipo = "student";
-        } else {
-            user = new Teacher();
-            ((Teacher) user).setUserName(usuario);
-            ((Teacher) user).setPassword(contraseña);
-            ((Teacher) user).setName(nombre);
-            ((Teacher) user).setBirthdate(fecha);
-            ((Teacher) user).setCareer(carrera);
-            tipo = "teacher";
-        }
+    User user;
+    if (jRadioEstudianteregister.isSelected()) {
+        Student student = new Student();
+        student.setUserName(usuario);
+        student.setPassword(contraseña);
+        student.setName(nombre);
+        student.setBirthdate(fecha);
+        user = student;
+        tipo = "student";
+    } else {
+        Teacher teacher = new Teacher();
+        teacher.setUserName(usuario);
+        teacher.setPassword(contraseña);
+        teacher.setName(nombre);
+        teacher.setBirthdate(fecha);
+        teacher.setCareer(carrera);
+        user = teacher;
+        tipo = "teacher";
+    }
 
-        try (ObjectOutputStream outputStream = new ObjectOutputStream(new FileOutputStream(rutaCompleta))) {
-            outputStream.writeObject(user);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+    Manage.serializarObjeto(rutaCompleta,user);
 
-        guardarUsuario(usuario, contraseña, rutaCompleta, tipo);
+    guardarUsuario(usuario, contraseña, rutaCompleta, tipo);
+    this.dispose();
 
-        this.dispose();
     }//GEN-LAST:event_jButtonguardarregistroActionPerformed
 
     private void jRadioProfesoregisterActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jRadioProfesoregisterActionPerformed

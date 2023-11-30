@@ -1,18 +1,16 @@
 package com.usuarios;
 
-import java.util.Date;
+import java.io.Serializable;
 
-public class User {
-    private String userName;
-    private String password;
-    private String name;
-    private String birthdate;
+
+public class User implements Serializable{
+    public String userName;
+    public String password;
+    public String name;
+    public String birthdate;
 
     public User() {
-        userName="";
-        password="";
-        name="";
-        birthdate="";
+        
     }
 
     public String getUserName() {

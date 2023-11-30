@@ -4,6 +4,7 @@ import Interfaces.Conexion;
 import java.awt.BorderLayout;
 import javax.swing.JDialog;
 import javax.swing.JLabel;
+import javax.swing.JPanel;
 
 
 public class StudentMenu extends javax.swing.JFrame {
@@ -268,45 +269,22 @@ public class StudentMenu extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jToggleButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton1ActionPerformed
-        Profile p3 = new Profile();
-        p3.setSize(1005, 764);
-        p3.setLocation(0,0);
-        
-        panelPrincipal.removeAll();
-        panelPrincipal.add(p3,BorderLayout.CENTER);
-        panelPrincipal.revalidate();
-        panelPrincipal.repaint();
+         conexion.cambiarPanel("Profile");
     }//GEN-LAST:event_jToggleButton1ActionPerformed
 
     private void jToggleButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton2ActionPerformed
-        Exercises p1 = new Exercises();
-        p1.setSize(1005, 764);
-        p1.setLocation(0,0);
-        
-        panelPrincipal.removeAll();
-        panelPrincipal.add(p1,BorderLayout.CENTER);
-        panelPrincipal.revalidate();
-        panelPrincipal.repaint();
+        conexion.cambiarPanel("Exercises");
     }//GEN-LAST:event_jToggleButton2ActionPerformed
-
+    
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         conexion.cerrarSesionStudent();
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jToggleButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jToggleButton3ActionPerformed
-        Groups p2 = new Groups();
-        p2.setSize(1005, 764);
-        p2.setLocation(0,0);
-        
-        panelPrincipal.removeAll();
-        panelPrincipal.add(p2,BorderLayout.CENTER);
-        panelPrincipal.revalidate();
-        panelPrincipal.repaint();
+        conexion.cambiarPanel("Groups");
     }//GEN-LAST:event_jToggleButton3ActionPerformed
-
-    /**
-     * @param args the command line arguments
-     */
+    
+    
     public void main(String args[]) {
         
         java.awt.EventQueue.invokeLater(new Runnable() {

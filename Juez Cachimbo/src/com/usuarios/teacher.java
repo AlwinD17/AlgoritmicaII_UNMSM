@@ -1,14 +1,13 @@
 package com.usuarios;
 
 import java.io.Serializable;
-import java.util.Date;
 
 public class Teacher extends User implements Serializable{
     private String career;
 
     public Teacher() {
         super();
-        career="";
+        career=null;
     }
 
     public String getCareer() {
@@ -20,7 +19,10 @@ public class Teacher extends User implements Serializable{
     }
     
     public Group createGroup(String id, String name, int numEstudiantes){
-        Group group = new Group(id,name,numEstudiantes);
+        Group group = new Group();
+        group.setId(id);
+        group.setId(name);
+        group.setNumestudiantes(numEstudiantes);
         return group;
     }    
 }

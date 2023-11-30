@@ -4,13 +4,18 @@ import Interfaces.Conexion;
 import java.io.*;
 import Interfaces.LoginUI.frmLogin;
 import Interfaces.ProfesorUI.InterfazProfesor.MenuProfesores;
+import Interfaces.StudentUI.Exercises;
+import Interfaces.StudentUI.Groups;
+import Interfaces.StudentUI.Profile;
 import Interfaces.StudentUI.StudentMenu;
+import static Interfaces.StudentUI.StudentMenu.panelPrincipal;
 import com.ejercicios.Question;
 import com.ejercicios.Text;
 
 import com.usuarios.Student;
 import com.usuarios.Teacher;
 import data.Manage;
+import java.awt.BorderLayout;
 import javax.swing.JOptionPane;
 
 import javax.swing.JOptionPane;
@@ -18,6 +23,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.swing.JPanel;
+import javax.swing.SwingUtilities;
 
 public class JuezCachimbo implements Conexion{
     private frmLogin loginView;
@@ -35,48 +42,58 @@ public class JuezCachimbo implements Conexion{
     }
 
     public void handleLogin(String username, String password) {
-        try {
-            String[] datos = manage.buscarUsuario(username, password);
-            if (datos != null && !"".equals(datos[0]) && !"".equals(datos[1])) {
-                rutaUsuario = datos[0];
-                tipo = datos[1];
+    try {
+        String[] datos = manage.buscarUsuario(username, password);
+        if (datos != null && !"".equals(datos[0]) && !"".equals(datos[1])) {
+            rutaUsuario = datos[0];
+            tipo = datos[1];
+            if ("teacher".equals(tipo)) {
+                Object usuarioObj = Manage.deserializarObjeto(rutaUsuario,Teacher.class);
 
-                if ("teacher".equals(tipo)) {
-                    Object usuarioObj = manage.deserializarObjeto(rutaUsuario);
+                if (usuarioObj instanceof Teacher) {
+                    profesor = (Teacher) usuarioObj;
 
-                    if (usuarioObj instanceof Teacher) {
-                        profesor = (Teacher) usuarioObj;
-                        procesarTextos();
-                        loginView.dispose();
-                        new MenuProfesores(this).setVisible(true);
-                        return;
-                    } else {
-                        throw new ClassNotFoundException("Error: Objeto deserializado no es de tipo Teacher");
-                    }
-                } else if ("student".equals(tipo)) {
-                    Object usuarioObj = manage.deserializarObjeto(rutaUsuario);
+                    // Agrega impresiones para depurar
+                    System.out.println("Profesor deserializado: " + profesor);
+                    System.out.println("Nombre del profesor: " + profesor.getName());
 
-                    if (usuarioObj instanceof Student) {
-                        alumno = (Student) usuarioObj;
-                        procesarTextosStudent();
-                        loginView.dispose();
-                        new StudentMenu(this).setVisible(true);
-                        return;
-                    } else {
-                        throw new ClassNotFoundException("Error: Objeto deserializado no es de tipo Student");
-                    }
+                    procesarTextos();
+                    loginView.dispose();
+                    new MenuProfesores(this).setVisible(true);
+                    return;
                 } else {
-                    System.out.println("Error: Tipo de usuario no reconocido");
-                    JOptionPane.showMessageDialog(loginView, "Credenciales incorrectas. Por favor, inténtelo de nuevo.", "Error de inicio de sesión", JOptionPane.ERROR_MESSAGE);
+                    throw new ClassNotFoundException("Error: Objeto deserializado no es de tipo Teacher");
+                }
+            } else if ("student".equals(tipo)) {
+                Object usuarioObj = Manage.deserializarObjeto(rutaUsuario,Student.class);
+
+                if (usuarioObj instanceof Student) {
+                    alumno = (Student) usuarioObj;
+
+                    // Agrega impresiones para depurar
+                    System.out.println("Estudiante deserializado: " + alumno);
+                    System.out.println("Nombre del estudiante: " + alumno.getUserName());
+
+                    procesarTextosStudent();
+                    loginView.dispose();
+                    new StudentMenu(this).setVisible(true);
+                    return;
+                } else {
+                    throw new ClassNotFoundException("Error: Objeto deserializado no es de tipo Student");
                 }
             } else {
+                System.out.println("Error: Tipo de usuario no reconocido");
                 JOptionPane.showMessageDialog(loginView, "Credenciales incorrectas. Por favor, inténtelo de nuevo.", "Error de inicio de sesión", JOptionPane.ERROR_MESSAGE);
             }
-        } catch (IOException | ClassNotFoundException e) {
-            System.out.println("Error durante el manejo del login");
-            e.printStackTrace();
+        } else {
+            JOptionPane.showMessageDialog(loginView, "Credenciales incorrectas. Por favor, inténtelo de nuevo.", "Error de inicio de sesión", JOptionPane.ERROR_MESSAGE);
         }
+    } catch (ClassNotFoundException e) {
+        System.out.println("Error durante el manejo del login");
+        e.printStackTrace();
     }
+}
+
 
     public void startApplication() {
         loginView.setVisible(true);
@@ -103,10 +120,6 @@ public class JuezCachimbo implements Conexion{
         }));}
         
         
-        
-        
-    
-    
     @Override
     public void cerrarSesionStudent() {
         try {
@@ -325,6 +338,39 @@ public class JuezCachimbo implements Conexion{
             textosActivos.add(text);
         }
         System.out.println(textosActivos.size());
+    }
+    
+    @Override
+    public void cambiarPanel(String panel) {
+        switch (panel) {
+            case "Profile":
+                Profile profilePanel = new Profile();
+                
+                SwingUtilities.invokeLater(() -> {
+                    profilePanel.setDatos(alumno.getUserName(),alumno.getName(),alumno.getBirthdate(),alumno.getGroupId());
+                    System.out.println("Setting nombre: " + alumno.getUserName());
+                    mostrarPanel(profilePanel);
+            });
+                break;
+            case "Exercises":
+                mostrarPanel(new Exercises());
+                break;
+            case "Groups":
+                mostrarPanel(new Groups());
+                break;
+
+        }
+    }
+    
+    
+    private void mostrarPanel(JPanel panel) {
+        panel.setSize(1005, 764);
+        panel.setLocation(0, 0);
+
+        panelPrincipal.removeAll();
+        panelPrincipal.add(panel, BorderLayout.CENTER);
+        panelPrincipal.revalidate();
+        panelPrincipal.repaint();
     }
 }
 

@@ -5,19 +5,14 @@ import java.util.ArrayList;
 
 
 public class Student extends User implements Serializable{
-    private String groupId;
+    public String groupId;
     public ArrayList<String> readTexts;
     public int numReadTexts;
-    private int correctQuestions;
-    private int incorrectQuestions;
+    public int correctQuestions;
+    public int incorrectQuestions;
 
     public Student() {
-        super();
-        groupId = null;
-        readTexts = new ArrayList<>();
-        numReadTexts = 0;
-        correctQuestions = 0;
-        incorrectQuestions = 0;
+
     }
     
 
@@ -61,6 +56,18 @@ public class Student extends User implements Serializable{
     public void setIncorrectQuestions(int incorrectQuestions) {
         this.incorrectQuestions = incorrectQuestions;
     }
-    
+    public String imprimir() {
+        return "Student{" +
+                "userName=" + userName + "/" +
+                ", password=" + password + "/" +
+                ", name=" + name + "/" +
+                ", birthdate=" + birthdate + "/" +
+                ", groupId='" + groupId + "/" +
+                ", readTexts=" + readTexts +
+                ", numReadTexts=" + numReadTexts +
+                ", correctQuestions=" + correctQuestions +
+                ", incorrectQuestions=" + incorrectQuestions +
+                '}';
+    }
     
 }

@@ -40,31 +40,30 @@ public class Manage {
     
 
     
-    public Object deserializarObjeto(String rutaArchivo) throws IOException, ClassNotFoundException {
-        try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(rutaArchivo))) {
-            // Deserializar el objeto y retornarlo
-            return ois.readObject();
-        } catch (FileNotFoundException e) {
-            System.out.println("Error: Archivo no encontrado");
-            e.printStackTrace();
-        } catch (IOException | ClassNotFoundException e) {
-            System.out.println("Error durante la deserialización");
+    public static <E> E deserializarObjeto(String direccionArchivo, Class<E> claseObjetivo) {
+        E objeto = null;
+        try (FileInputStream fis = new FileInputStream(direccionArchivo);
+                ObjectInputStream entrada = new ObjectInputStream(fis);) {
+            objeto = (E) entrada.readObject();
+        } catch (Exception e) {
             e.printStackTrace();
         }
+        return objeto;
+    }
 
-        return null;
-    }
     
-    public void serializarObjeto(Object objeto, String rutaArchivo) {
-        try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(rutaArchivo))) {
-            // Serializar el objeto y escribirlo en el archivo
-            oos.writeObject(objeto);
-            System.out.println("Objeto serializado y guardado en: " + rutaArchivo);
-        } catch (IOException e) {
-            System.out.println("Error durante la serialización");
+    public static boolean serializarObjeto(String direccionArchivo, Serializable objeto) {
+        boolean sw = false;
+        try (FileOutputStream fos = new FileOutputStream(direccionArchivo);
+                ObjectOutputStream salida = new ObjectOutputStream(fos);) {
+            salida.writeObject(objeto);
+            sw = true;
+        } catch (Exception e) {
             e.printStackTrace();
         }
+        return sw;
     }
+
     
     public void actualizarObjeto(String rutaFichero, Student alumno)
             throws IOException, ClassNotFoundException {
