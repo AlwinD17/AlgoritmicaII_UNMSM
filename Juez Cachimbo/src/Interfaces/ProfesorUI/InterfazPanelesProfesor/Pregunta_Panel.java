@@ -26,6 +26,8 @@ public class Pregunta_Panel extends javax.swing.JInternalFrame {
         initComponents();
         PanelesPreguntas= new ArrayList<>();
         indice=0;
+        this.setSize(590, 500);
+        this.setTitle("Pregunta");
     
     }
 
@@ -42,6 +44,11 @@ public class Pregunta_Panel extends javax.swing.JInternalFrame {
         jScrollPane1 = new javax.swing.JScrollPane();
         jPanel1 = new javax.swing.JPanel();
         jButtonAñadirPregunta = new javax.swing.JButton();
+
+        setClosable(true);
+        setIconifiable(true);
+        setMaximizable(true);
+        setResizable(true);
 
         jLabel1.setFont(new java.awt.Font("Arial Black", 0, 24)); // NOI18N
         jLabel1.setText("PREGUNTA");
