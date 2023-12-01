@@ -5,7 +5,13 @@
 package Interfaces.ProfesorUI.InterfazPanelesProfesor;
 
 import java.awt.BorderLayout;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.URL;
 import java.util.ArrayList;
+import java.util.Enumeration;
 import java.util.List;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -79,6 +85,7 @@ public class Grupo extends javax.swing.JPanel{
         jTextFieldBuscarGrupo = new javax.swing.JTextField();
         jScrollPaneGrupodePaneles = new javax.swing.JScrollPane();
         jPanel2 = new javax.swing.JPanel();
+        jButtonBuscarTXT = new javax.swing.JButton();
 
         setPreferredSize(new java.awt.Dimension(647, 645));
 
@@ -101,20 +108,29 @@ public class Grupo extends javax.swing.JPanel{
         jPanel2.setLayout(new java.awt.GridLayout(3, 0));
         jScrollPaneGrupodePaneles.setViewportView(jPanel2);
 
+        jButtonBuscarTXT.setText("Buscar");
+        jButtonBuscarTXT.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButtonBuscarTXTActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(104, 104, 104)
-                .addComponent(jTextFieldBuscarGrupo, javax.swing.GroupLayout.PREFERRED_SIZE, 153, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(53, 53, 53)
-                .addComponent(jButtonCrearGrupo, javax.swing.GroupLayout.PREFERRED_SIZE, 130, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(207, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
                 .addGap(28, 28, 28)
                 .addComponent(jScrollPaneGrupodePaneles)
                 .addGap(39, 39, 39))
+            .addGroup(jPanel1Layout.createSequentialGroup()
+                .addGap(14, 14, 14)
+                .addComponent(jButtonBuscarTXT)
+                .addGap(18, 18, 18)
+                .addComponent(jTextFieldBuscarGrupo, javax.swing.GroupLayout.PREFERRED_SIZE, 153, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(53, 53, 53)
+                .addComponent(jButtonCrearGrupo, javax.swing.GroupLayout.PREFERRED_SIZE, 130, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(207, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -122,9 +138,10 @@ public class Grupo extends javax.swing.JPanel{
                 .addGap(19, 19, 19)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jTextFieldBuscarGrupo, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jButtonCrearGrupo))
+                    .addComponent(jButtonCrearGrupo)
+                    .addComponent(jButtonBuscarTXT))
                 .addGap(33, 33, 33)
-                .addComponent(jScrollPaneGrupodePaneles)
+                .addComponent(jScrollPaneGrupodePaneles, javax.swing.GroupLayout.DEFAULT_SIZE, 529, Short.MAX_VALUE)
                 .addGap(41, 41, 41))
         );
 
@@ -148,15 +165,83 @@ public class Grupo extends javax.swing.JPanel{
         Paneles.add(crearGrupoPanel);
         indice++;
         jPanel2.updateUI();
-        
+         JOptionPane.showMessageDialog(this, "¡Grupo creado exitosamente!", "Mensaje", JOptionPane.INFORMATION_MESSAGE);
+       
     }//GEN-LAST:event_jButtonCrearGrupoActionPerformed
 
     private void jTextFieldBuscarGrupoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextFieldBuscarGrupoActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextFieldBuscarGrupoActionPerformed
 
+    private void jButtonBuscarTXTActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonBuscarTXTActionPerformed
+        // Obtener la palabra a buscar desde el JTextField
+        String palabraABuscar = jTextFieldBuscarGrupo.getText();
+        // Llamamos a la función para buscar la palabra en el paquete
+        // Verificar si la palabra a buscar no está vacía o compuesta solo por espacios en blanco
+        if (palabraABuscar.trim().isEmpty()) {
+            // Mostrar un mensaje de error si la palabra está vacía
+            JOptionPane.showMessageDialog(null, "Por favor, ingrese una palabra para buscar.", "Error", JOptionPane.ERROR_MESSAGE);
+        } else {
+            // Llamamos a la función para buscar la palabra en el paquete
+            buscarPalabraEnPaquete(palabraABuscar, "data.textos");
+        }
+    }//GEN-LAST:event_jButtonBuscarTXTActionPerformed
+
+    
+     private void buscarPalabraEnPaquete(String palabra, String paquete) {
+        try {
+            // Obtener el ClassLoader y la URL del paquete
+            ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
+            String rutaPaquete = paquete.replace('.', '/');
+            Enumeration<URL> resources = classLoader.getResources(rutaPaquete);
+
+            // Recorrer las URLs y buscar en cada archivo
+            while (resources.hasMoreElements()) {
+                URL url = resources.nextElement();
+                System.out.println("Buscando en: " + url.getFile());
+
+                // Realizar la búsqueda en el archivo
+                try {
+                    buscarPalabraEnArchivo(url, palabra);
+                } catch (IOException e) {
+                    // Manejar la excepción específica del archivo
+                    System.err.println("Error al buscar en el archivo " + url.getFile());
+                    e.printStackTrace();
+                }
+            }
+        } catch (IOException e) {
+            // Manejar la excepción del paquete
+            e.printStackTrace();
+        }
+    }
+ 
+        private void buscarPalabraEnArchivo(URL url, String palabra) throws IOException {
+            try (InputStream inputStream = url.openStream();
+                 InputStreamReader isr = new InputStreamReader(inputStream);
+                 BufferedReader reader = new BufferedReader(isr)) {
+
+                String linea;
+                while ((linea = reader.readLine()) != null) {
+                    // Puedes ajustar la lógica según tus necesidades específicas
+                    if (linea.contains(palabra)) {
+                         String mensajeEncontrado = "Palabra encontrada en: " + url.getFile();
+                        System.out.println(mensajeEncontrado);
+                        JOptionPane.showMessageDialog(null, mensajeEncontrado, "Palabra Encontrada", JOptionPane.INFORMATION_MESSAGE);
+
+                        System.out.println("Palabra encontrada en: " + url.getFile());
+                        // Puedes realizar acciones adicionales si se encuentra la palabra
+                    }
+                }
+
+            } catch (IOException e) {
+                // Vuelve a lanzar la excepción para que pueda ser manejada en el nivel superior
+                throw new IOException("Error al leer el archivo " + url.getFile(), e);
+            }
+        }
+
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton jButtonBuscarTXT;
     private javax.swing.JButton jButtonCrearGrupo;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;

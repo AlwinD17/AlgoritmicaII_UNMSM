@@ -129,34 +129,54 @@ public class GrupoCreado extends CrearGrupo {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButtonEditarPanelActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonEditarPanelActionPerformed
-        JTextField codigoField = new JTextField();
-        JTextField grupoField = new JTextField();
-        JTextField integrantesField = new JTextField();
+           String nuevoCodigo = JOptionPane.showInputDialog("Código:");
+            if (nuevoCodigo == null) {
+                // Se canceló la operación
+                return;
+            }
 
-        Object[] message = {
-                "Código:", codigoField,
-                "Grupo:", grupoField,
-                "Integrantes:", integrantesField
-        };
+            // Obtener el nuevo grupo
+            String nuevoGrupo = obtenerNumero("Grupo:");
+            if (nuevoGrupo == null) {
+                // Se canceló la operación
+                return;
+            }
 
-        int option = JOptionPane.showConfirmDialog(this, message, "Editar Panel", JOptionPane.OK_CANCEL_OPTION);
+            // Obtener el nuevo número de integrantes
+            String nuevosIntegrantes = obtenerNumero("Integrantes:");
+            if (nuevosIntegrantes == null) {
+                // Se canceló la operación
+                return;
+            }
 
-        if (option == JOptionPane.OK_OPTION) {
-            // Obtener los valores ingresados por el usuario
-            String nuevoCodigo = codigoField.getText();
-            String nuevoGrupo = grupoField.getText();
-            String nuevosIntegrantes = integrantesField.getText();
+            // Actualizar los JLabels con los nuevos valores
+            jLabelCodigo.setText("Código: " + nuevoCodigo);
+            jLabelGrupo.setText("Grupo: " + nuevoGrupo);
+            jLabelIntegrantes.setText("Integrantes: " + nuevosIntegrantes);
+            }
+    
+    
+            private String obtenerNumero(String mensaje) {
+                while (true) {
+                    try {
+                        String valor = JOptionPane.showInputDialog(mensaje);
+                        if (valor == null) {
+                            // Se canceló la operación
+                            return null;
+                        }
 
-            // Actualizar los JLabel con los nuevos valores
-            actualizarJLabel(jLabelCodigo, "Código: " + nuevoCodigo);
-            actualizarJLabel(jLabelGrupo, "Grupo: " + nuevoGrupo);
-            actualizarJLabel(jLabelIntegrantes, "Integrantes: " + nuevosIntegrantes);
-        }
+                        // Intentar convertir el valor a un número
+                        Double.parseDouble(valor);
+                        return valor;  // Si la conversión fue exitosa, devolver el valor
+
+                    } catch (NumberFormatException e) {
+                        // El valor no es un número válido
+                        JOptionPane.showMessageDialog(this, "Por favor, ingrese un valor numérico válido.", "Error", JOptionPane.ERROR_MESSAGE);
+                    }
+                }
     }//GEN-LAST:event_jButtonEditarPanelActionPerformed
     
-    private void actualizarJLabel(JLabel label, String nuevoTexto) {
-        label.getAccessibleContext().setAccessibleDescription(nuevoTexto);
-}
+
 
 
 

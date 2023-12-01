@@ -20,3 +20,6 @@ asd,asd,student
 src/data/Usuarios/usuario_79383.bin
 
 
+BRUNOOMAR,BRUNOOMAR,teacher
+src/data/Usuarios/usuario_74615.bin
+
