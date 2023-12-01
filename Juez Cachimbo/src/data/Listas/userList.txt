@@ -19,10 +19,13 @@ src/data/Usuarios/usuario_47465.bin
 asd,asd,student
 src/data/Usuarios/usuario_79383.bin
 
-
 BRUNOOMAR,BRUNOOMAR,teacher
 src/data/Usuarios/usuario_74615.bin
 
 123,123123,teacher
 src/data/Usuarios/usuario_42271.bin
+
+profe,profe,teacher
+src/data/Usuarios/usuario_20990.bin
+
 

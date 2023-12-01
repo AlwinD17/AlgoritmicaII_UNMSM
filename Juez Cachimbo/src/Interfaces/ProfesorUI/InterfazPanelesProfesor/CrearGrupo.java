@@ -1,7 +1,11 @@
 package Interfaces.ProfesorUI.InterfazPanelesProfesor;
 
 import com.usuarios.Group;
+import data.Manage;
 import java.awt.BorderLayout;
+import java.io.File;
+import java.util.HashSet;
+import java.util.Random;
 import javax.swing.JPanel;
 
 /**
@@ -158,16 +162,28 @@ public class CrearGrupo extends javax.swing.JPanel {
     }//GEN-LAST:event_jButtonCancelarActionPerformed
 
     private void jButtonAgregarGrupoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonAgregarGrupoActionPerformed
- 
-        String textoCantIntegrantes = jTextFieldCantIntegrantes.getText();
-        String textoCodigoGrupo = jTextFieldCodigoGrupo.getText();
-        String textoNomGrupo = jTextFieldNomGrupo.getText();
-        int numCantIntegrantes= Integer.parseInt(textoCantIntegrantes);
-
-        ShowJPanel(new GrupoCreado());
         
-    }//GEN-LAST:event_jButtonAgregarGrupoActionPerformed
+        String ruta = "src/data/Grupos/";
+        String rutaCompleta = ruta + generarNombre()+".bin";
+        int cantIntegrantes = Integer.parseInt(jTextFieldCantIntegrantes.getText());
+        String codigoGrupo = jTextFieldCodigoGrupo.getText();
+        String nomGrupo = jTextFieldNomGrupo.getText();
 
+        Group grupo = new Group();
+        grupo.setId(codigoGrupo);
+        grupo.setName(nomGrupo);
+        grupo.setNumestudiantes(cantIntegrantes);
+        ShowJPanel(new GrupoCreado());
+        Manage.serializarObjeto(rutaCompleta, grupo);
+    }//GEN-LAST:event_jButtonAgregarGrupoActionPerformed
+    
+    private static String generarNombre() {
+        String ruta = "src/data/Grupos";
+        File carpeta = new File(ruta);
+        File[] archivos = carpeta.listFiles();
+        int numGrupos = archivos.length;
+        return "grupo_" + (numGrupos+1); 
+    }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButtonAgregarGrupo;
