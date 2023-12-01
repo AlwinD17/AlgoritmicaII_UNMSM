@@ -34,11 +34,13 @@ public class JuezCachimbo implements Conexion{
     private String rutaUsuario;
     private String tipo;
     private ArrayList<Text> textosActivos;
+    private final Exercises exercisesPanel;
 
     public JuezCachimbo() {
         this.loginView = new frmLogin(this);
         textosActivos = new ArrayList<>();
         this.manage = new Manage();
+        this.exercisesPanel = new Exercises();
     }
 
     public void handleLogin(String username, String password) {
@@ -354,6 +356,11 @@ public class JuezCachimbo implements Conexion{
                 break;
             case "Exercises":
                 mostrarPanel(new Exercises());
+                SwingUtilities.invokeLater(() -> {
+                    // Mostrar los textos activos en el panel de ejercicios
+                    exercisesPanel.mostrarTextosActivos(textosActivos);
+                    mostrarPanel(exercisesPanel);
+                });
                 break;
             case "Groups":
                 mostrarPanel(new Groups());
