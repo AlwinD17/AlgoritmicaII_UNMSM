@@ -3,12 +3,17 @@ package com;
 import Interfaces.Conexion;
 import java.io.*;
 import Interfaces.LoginUI.frmLogin;
+import Interfaces.ProfesorUI.InterfazPanelesProfesor.Ejercicio;
+import Interfaces.ProfesorUI.InterfazPanelesProfesor.Grupo;
+import Interfaces.ProfesorUI.InterfazPanelesProfesor.PERFILES;
 import Interfaces.ProfesorUI.InterfazProfesor.MenuProfesores;
+import static Interfaces.ProfesorUI.InterfazProfesor.MenuProfesores.jPanel2;
 import Interfaces.StudentUI.Exercises;
 import Interfaces.StudentUI.Groups;
 import Interfaces.StudentUI.Profile;
 import Interfaces.StudentUI.StudentMenu;
 import static Interfaces.StudentUI.StudentMenu.panelPrincipal;
+
 import com.ejercicios.Question;
 import com.ejercicios.Text;
 
@@ -354,6 +359,9 @@ public class JuezCachimbo implements Conexion{
                 break;
             case "Exercises":
                 mostrarPanel(new Exercises());
+                SwingUtilities.invokeLater(() -> {
+                   
+                });
                 break;
             case "Groups":
                 mostrarPanel(new Groups());
@@ -362,6 +370,39 @@ public class JuezCachimbo implements Conexion{
         }
     }
     
+    @Override
+    public void cambiarPanelTeacher(String panel) {
+    switch (panel) {
+        case "PERFILES":
+            PERFILES perfilesPanel = new PERFILES();
+            
+            SwingUtilities.invokeLater(() -> {
+                perfilesPanel.setDatosTeacher(profesor.getUserName(), profesor.getName(), profesor.getBirthdate(), profesor.getCareer());
+                System.out.println("Setting user: user");
+                mostrarPanelTeacher(perfilesPanel);
+            });
+            break;
+        case "Ejercicios":
+            mostrarPanelTeacher(new Ejercicio());
+            SwingUtilities.invokeLater(() -> {
+                
+            });
+            break;
+        case "Grupo":
+            mostrarPanelTeacher(new Grupo());
+            break;
+    }
+}
+
+    private void mostrarPanelTeacher(JPanel panel) {
+        panel.setSize(647, 645);
+        panel.setLocation(0, 0);
+
+        jPanel2.removeAll();
+        jPanel2.add(panel, BorderLayout.CENTER);
+        jPanel2.revalidate();
+        jPanel2.repaint();
+    }
     
     private void mostrarPanel(JPanel panel) {
         panel.setSize(1005, 764);

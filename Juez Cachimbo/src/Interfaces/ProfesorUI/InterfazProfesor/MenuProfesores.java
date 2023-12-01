@@ -102,8 +102,8 @@ public class MenuProfesores extends javax.swing.JFrame {
         jPanelGrupoLayout.setVerticalGroup(
             jPanelGrupoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanelGrupoLayout.createSequentialGroup()
-                .addComponent(jButtonGrupo, javax.swing.GroupLayout.DEFAULT_SIZE, 81, Short.MAX_VALUE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 28, Short.MAX_VALUE)
+                .addComponent(jButtonGrupo, javax.swing.GroupLayout.DEFAULT_SIZE, 77, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 25, Short.MAX_VALUE)
                 .addComponent(jButtonEjercicio, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addContainerGap())
         );
@@ -113,7 +113,7 @@ public class MenuProfesores extends javax.swing.JFrame {
         jButton1.setText("Cerrar Sesión");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
+                
             }
         });
 
@@ -176,14 +176,14 @@ public class MenuProfesores extends javax.swing.JFrame {
                 .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(38, 38, 38)
                 .addComponent(jButtonPerfil, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addContainerGap(41, Short.MAX_VALUE))
+                .addContainerGap(34, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanelPerfil, javax.swing.GroupLayout.DEFAULT_SIZE, 367, Short.MAX_VALUE)
+            .addComponent(jPanelPerfil, javax.swing.GroupLayout.DEFAULT_SIZE, 371, Short.MAX_VALUE)
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jPanelGrupo, javax.swing.GroupLayout.PREFERRED_SIZE, 367, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -230,40 +230,40 @@ public class MenuProfesores extends javax.swing.JFrame {
             .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
 
+        jPanel2.getAccessibleContext().setAccessibleParent(jPanel2);
+
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
     
-    private void ShowJPanel(JPanel p){
-        p.setSize(647,645);
+    private void ShowJPanel(JPanel p) {
+        p.setSize(647, 645);
         p.setLocation(0, 0);
-        
+
         jPanel2.removeAll();
         jPanel2.add(p, BorderLayout.CENTER);
         jPanel2.revalidate();
         jPanel2.repaint();
     }
-    
-    
-    private void jButtonPerfilActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonPerfilActionPerformed
+
+    private void jButtonPerfilActionPerformed(java.awt.event.ActionEvent evt) {                                              
         
-        ShowJPanel(new PERFILES());
+        conexion.cambiarPanelTeacher("PERFILES");
+    }
 
-    }//GEN-LAST:event_jButtonPerfilActionPerformed
+    private void jButtonEjercicioActionPerformed(java.awt.event.ActionEvent evt) {                                                 
+       conexion.cambiarPanelTeacher("Ejercicio");
+    }
 
-    private void jButtonEjercicioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonEjercicioActionPerformed
-        //jPanel2.setBackground(Color.BLACK);
-        ShowJPanel(new Ejercicio()); 
-    }//GEN-LAST:event_jButtonEjercicioActionPerformed
+    private void jButtonGrupoActionPerformed(java.awt.event.ActionEvent evt) {                                             
+        conexion.cambiarPanelTeacher("Grupo");
+    }
 
-    private void jButtonGrupoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonGrupoActionPerformed
-        //jPanel2.setBackground(Color.BLACK);
-        ShowJPanel(new Grupo());
-    }//GEN-LAST:event_jButtonGrupoActionPerformed
-
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        conexion.cerrarSesionStudent();
-    }//GEN-LAST:event_jButton1ActionPerformed
+    private void jButtonCerrarSesionActionPerformed(java.awt.event.ActionEvent evt) {                                                    
+        
+            conexion.cerrarSesionTeacher();  
+        
+    }                                        
 
    
     /**
@@ -313,7 +313,7 @@ public class MenuProfesores extends javax.swing.JFrame {
     private javax.swing.JButton jButtonPerfil;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JPanel jPanel1;
-    private javax.swing.JPanel jPanel2;
+    public static javax.swing.JPanel jPanel2;
     private javax.swing.JPanel jPanelEjercicio;
     private javax.swing.JPanel jPanelGrupo;
     private javax.swing.JPanel jPanelPerfil;

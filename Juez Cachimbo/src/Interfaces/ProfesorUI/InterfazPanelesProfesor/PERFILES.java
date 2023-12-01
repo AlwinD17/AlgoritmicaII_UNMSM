@@ -28,7 +28,7 @@ public class PERFILES extends javax.swing.JPanel {
         userLabel.setText("");
         nameLabel.setText("");
         fechaLabel.setText("");
-        groupLabel.setText("");
+        careerLabel.setText("");
     }
 
     /**
@@ -50,7 +50,7 @@ public class PERFILES extends javax.swing.JPanel {
         jLabel10 = new javax.swing.JLabel();
         jLabel11 = new javax.swing.JLabel();
         fechaLabel = new javax.swing.JLabel();
-        groupLabel = new javax.swing.JLabel();
+        careerLabel = new javax.swing.JLabel();
 
         setBackground(new java.awt.Color(241, 248, 255));
         setPreferredSize(new java.awt.Dimension(830, 720));
@@ -70,18 +70,18 @@ public class PERFILES extends javax.swing.JPanel {
         jLabel4.setText("Nombres y apellidos:");
 
         jLabel6.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel6.setText("Fecha de Nacimiento");
+        jLabel6.setText("Fecha de Nacimiento:");
 
         userLabel.setText("{user}");
 
         nameLabel.setText("{name}");
 
         jLabel11.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel11.setText("Grupo:");
+        jLabel11.setText("Carrera Profesional:");
 
         fechaLabel.setText("{fecha}");
 
-        groupLabel.setText("{group}");
+        careerLabel.setText("{career}");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
@@ -102,7 +102,7 @@ public class PERFILES extends javax.swing.JPanel {
                         .addContainerGap(71, Short.MAX_VALUE))
                     .addGroup(jPanel2Layout.createSequentialGroup()
                         .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(groupLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 47, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(careerLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 47, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(nameLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 86, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(jLabel6)
                             .addComponent(jLabel4))
@@ -134,7 +134,7 @@ public class PERFILES extends javax.swing.JPanel {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabel11)
                 .addGap(18, 18, 18)
-                .addComponent(groupLabel)
+                .addComponent(careerLabel)
                 .addGap(0, 110, Short.MAX_VALUE))
         );
 
@@ -158,15 +158,15 @@ public class PERFILES extends javax.swing.JPanel {
 
     
     
-    public void setDatos(String user,String lastname, String name, String fecha, String group,String Career) {
+    public void setDatosTeacher(String user, String name, String fecha, String career) {
         userLabel.setText(user);
         nameLabel.setText(name);
         fechaLabel.setText(fecha);
-        groupLabel.setText(group);
+        careerLabel.setText(career);
     }
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JLabel careerLabel;
     private javax.swing.JLabel fechaLabel;
-    private javax.swing.JLabel groupLabel;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;
     private javax.swing.JLabel jLabel2;
