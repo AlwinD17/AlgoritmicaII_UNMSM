@@ -13,3 +13,6 @@ src/data/Usuarios/usuario_39789.bin
 jelo,jelo,student
 src/data/Usuarios/usuario_39373.bin
 
+Estudiante,Estudiante,student
+src/data/Usuarios/usuario_47465.bin
+
