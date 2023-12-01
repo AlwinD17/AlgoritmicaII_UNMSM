@@ -15,6 +15,8 @@ public class Texto_Panel extends javax.swing.JInternalFrame {
      */
     public Texto_Panel() {
         initComponents();
+         this.setSize(590, 500);
+        this.setTitle("Texto");
     }
 
     /**
@@ -33,6 +35,11 @@ public class Texto_Panel extends javax.swing.JInternalFrame {
         jTextField2 = new javax.swing.JTextField();
         jScrollPane1 = new javax.swing.JScrollPane();
         jTextArea1 = new javax.swing.JTextArea();
+
+        setClosable(true);
+        setIconifiable(true);
+        setMaximizable(true);
+        setResizable(true);
 
         jLabel1.setFont(new java.awt.Font("Arial Black", 0, 24)); // NOI18N
         jLabel1.setText("TEXTO");
