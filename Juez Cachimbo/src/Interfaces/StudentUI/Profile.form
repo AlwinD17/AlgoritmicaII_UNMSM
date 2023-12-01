@@ -45,11 +45,7 @@
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
                   <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
-<<<<<<< HEAD
-                  <EmptySpace min="-2" pref="59" max="-2" attributes="0"/>
-=======
                   <EmptySpace max="32767" attributes="0"/>
->>>>>>> 37a140c3b53e8f1d8f5fb87e4a41f254278f418a
                   <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
                   <EmptySpace pref="102" max="32767" attributes="0"/>
               </Group>
@@ -68,11 +64,9 @@
                           <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
                       </Group>
                   </Group>
-<<<<<<< HEAD
-                  <EmptySpace pref="76" max="32767" attributes="0"/>
-=======
+
                   <EmptySpace max="32767" attributes="0"/>
->>>>>>> 37a140c3b53e8f1d8f5fb87e4a41f254278f418a
+
               </Group>
           </Group>
         </DimensionLayout>
@@ -247,11 +241,7 @@
                       </Group>
                       <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
                   </Group>
-<<<<<<< HEAD
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="-2" pref="162" max="-2" attributes="0"/>
-                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
-=======
+
                   <Group type="102" attributes="0">
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Group type="102" attributes="0">
@@ -265,7 +255,7 @@
                               <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
                           </Group>
                       </Group>
->>>>>>> 37a140c3b53e8f1d8f5fb87e4a41f254278f418a
+
                       <EmptySpace max="32767" attributes="0"/>
                   </Group>
               </Group>
