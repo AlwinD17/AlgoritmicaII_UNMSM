@@ -39,40 +39,7 @@ public class Grupo extends javax.swing.JPanel{
         Paneles= new ArrayList<>();
         indice=0;
     }
- /*      
-    private void ShowJPanel(JPanel p){
-        p.setSize(647,645);
-        p.setLocation(0, 0);
-        
-        jPanel1.removeAll();
-        jPanel1.add(p, BorderLayout.CENTER);
-        jPanel1.revalidate();
-        jPanel1.repaint();
-    }
-    
- 
-    private void Agregar(JPanel p){
-        p.setSize(430,120);
-        p.setLocation(0, 0);
-        
-        jPanel1.removeAll();
-        jPanel1.add(p, BorderLayout.CENTER);
-        jPanel1.revalidate();
-        jPanel1.repaint();
-    }
-    public void NombreGrupo(String textoNomGrupo){
-        
-    } 
-     public void CodigoGrupo(String textoCodigoGrupo){
-        
-    } 
-       public void ParticipantesGrupo(String numCantIntegrantes){
-        
-    } 
-       public void AñadirGrupoCreado(){
-           Agregar(new GrupoCreado());
-       }*/
-    
+
     
     
     
@@ -171,7 +138,6 @@ public class Grupo extends javax.swing.JPanel{
 
     private void jButtonCrearGrupoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonCrearGrupoActionPerformed
  
-   // ShowJPanel(new CrearGrupo());
         GrupoCreado crearGrupoPanel= new GrupoCreado();
         jPanel2.add(crearGrupoPanel);
         Paneles.add(crearGrupoPanel);
