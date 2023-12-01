@@ -23,3 +23,6 @@ src/data/Usuarios/usuario_79383.bin
 BRUNOOMAR,BRUNOOMAR,teacher
 src/data/Usuarios/usuario_74615.bin
 
+123,123123,teacher
+src/data/Usuarios/usuario_42271.bin
+
