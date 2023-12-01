@@ -247,15 +247,19 @@ public class MenuProfesores extends javax.swing.JFrame {
     }
 
     private void jButtonPerfilActionPerformed(java.awt.event.ActionEvent evt) {                                              
-        
+        ShowJPanel(new PERFILES());
         conexion.cambiarPanelTeacher("PERFILES");
     }
 
-    private void jButtonEjercicioActionPerformed(java.awt.event.ActionEvent evt) {                                                 
+    private void jButtonEjercicioActionPerformed(java.awt.event.ActionEvent evt) {  
+                ShowJPanel(new Ejercicio());
+
        conexion.cambiarPanelTeacher("Ejercicio");
     }
 
-    private void jButtonGrupoActionPerformed(java.awt.event.ActionEvent evt) {                                             
+    private void jButtonGrupoActionPerformed(java.awt.event.ActionEvent evt) {    
+         ShowJPanel(new Grupo());
+
         conexion.cambiarPanelTeacher("Grupo");
     }
 
