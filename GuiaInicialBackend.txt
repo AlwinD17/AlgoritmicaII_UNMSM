@@ -66,6 +66,3 @@ crear textos
 			| /textos/semana/ciclo/id.txt
 		
 
-
-guerra del pacifico
-shamir es un cabro y es chato
