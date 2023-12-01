@@ -1,47 +1,18 @@
 ID: 159
 =====================TEXTO======================
-
-¡El ser humano es todo un caso! Al menos, todos están de acuerdo en eso. Pero, ¿qué
-exactamente distingue al Homo sapiens del resto de los animales, sobre todo los simios, y
-cuándo y cómo fue que nuestros antepasados adquirieron ese cierto algo? En el último siglo
-se han propuesto un sinnúmero de teorías. Y algunas revelan mucho, tanto de la época en
-que vivían sus proponentes como de la evolución humana. A continuación, presentaremos
-dos de las más difundidas. La primera de ellas considera que la fabricación de herramientas
-fue fundamental para nuestra constitución humana: «La fabricación de herramientas es una
-particularidad del hombre», escribió el antropólogo Kenneth Oakley en un artículo de 1944.
-Explicó que los simios usan los objetos que encuentran, «pero modelar palos y piedras para
-un uso específico fue la primera actividad humana reconocida». A principios de la década
-de 1960, Louis Leakey atribuyó el inicio de la fabricación de herramientas y
-consiguientemente, el origen de la humanidad, a una especie que llamó Homo
-habilis (Hombre hábil), la cual vivió en África Oriental hace unos 2.8 millones de años. Sin
-embargo, como han demostrado Jane Goodall y otros investigadores, los chimpancés
-también modifican ramas para usos particulares. Por ejemplo, arrancan las hojas para
-«pescar» insectos ocultos bajo el suelo. Incluso los cuervos, que carecen de manos, son
-bastante habilidosos.
-Según el antropólogo Raymond Da rt, sin embargo, la razón es otra: nuestros antepasados
-diferían de los simios en cuanto a que eran asesinos despiadados, seres carnívoros que
-«capturaban presas vivas con violencia, las mataban a golpes, destazaban sus cuerpos
-maltrechos y los desmembraba n, extremidad por extremidad, saciando su voraz sed con la
-sangre caliente de las víctimas, devorando con ansiedad la carne aún palpitante». Tal vez
-ahora nos parezca una lectura sensacionalista, pero tras la espantosa masacre de la
-Segunda Guerra Mundial, el artículo de 1953 donde Dart detalla esta teoría del «simio
-asesino», tocó fibras muy sensibles.
+¡El ser humano es todo un caso! Al menos, todos están de acuerdo en eso. Pero, ¿qué exactamente distingue al Homo sapiens del resto de los animales, sobre todo los simios, y cuándo y cómo fue que nuestros antepasados adquirieron ese cierto algo? En el último siglo se han propuesto un sinnúmero de teorías. Y algunas revelan mucho, tanto de la época en que vivían sus proponentes como de la evolución humana. A continuación, presentaremos dos de las más difundidas. La primera de ellas considera que la fabricación de herramientas fue fundamental para nuestra constitución humana: «La fabricación de herramientas es una particularidad del hombre», escribió el antropólogo Kenneth Oakley en un artículo de 1944. Explicó que los simios usan los objetos que encuentran, «pero modelar palos y piedras para un uso específico fue la primera actividad humana reconocida». A principios de la década de 1960, Louis Leakey atribuyó el inicio de la fabricación de herramientas y consiguientemente, el origen de la humanidad, a una especie que llamó Homo habilis (Hombre hábil), la cual vivió en África Oriental hace unos 2.8 millones de años. Sin embargo, como han demostrado Jane Goodall y otros investigadores, los chimpancés también modifican ramas para usos particulares. Por ejemplo, arrancan las hojas para «pescar» insectos ocultos bajo el suelo. Incluso los cuervos, que carecen de manos, son bastante habilidosos. Según el antropólogo Raymond Da rt, sin embargo, la razón es otra: nuestros antepasados diferían de los simios en cuanto a que eran asesinos despiadados, seres carnívoros que «capturaban presas vivas con violencia, las mataban a golpes, destazaban sus cuerpos maltrechos y los desmembraba n, extremidad por extremidad, saciando su voraz sed con la sangre caliente de las víctimas, devorando con ansiedad la carne aún palpitante». Tal vez ahora nos parezca una lectura sensacionalista, pero tras la espantosa masacre de la Segunda Guerra Mundial, el artículo de 1953 donde Dart detalla esta teoría del «simio asesino», tocó fibras muy sensibles.
 =====================PREGUNTA 1======================
 El texto gira centralmente entorno
-
 =====================ALTERNATIVAS======================
 A. al simio asesino que definió el devenir violento de los hombres.
 B. al origen de la humanidad a partir del denominado Homo habilis.
 C. al antropólogo Raymond Dart y su propuesta sobre la evolución.
 D. a dos teorías acerca de la constitución de la especie humana.
 E. a la confrontación entre hipótesis sobre la naturaleza humana.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-Centralmente, el texto desarrolla dos propuestas sobre la constitución de
-la especie humana: la constitución de herramientas como factor y la naturaleza
-violenta .
+Centralmente, el texto desarrolla dos propuestas sobre la constitución de la especie humana: la constitución de herramientas como factor y la naturaleza violenta .
 =====================PREGUNTA 2======================
 En el texto, la palabra ALGO connota
 =====================ALTERNATIVAS======================
@@ -50,26 +21,22 @@ B. solipsismo.
 C. particularidad.
 D. claridad.
 E. opacidad.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
 El término está referido a lo particular de nuestra especie.
 =====================PREGUNTA 3======================
-Resulta incompatible con el desarrollo textual afirmar que , en la explicación del origen
-de la especie humana basada en procedimientos pragmáticos,
+Resulta incompatible con el desarrollo textual afirmar que , en la explicación del origen de la especie humana basada en procedimientos pragmáticos,
 =====================ALTERNATIVAS======================
 A. se considera la creación de herramientas como actividad prístina.
 B. es posible su detección en un ancestro denominado Homo habilis.
 C. se defiende el carácter violento y despiadado de nuestros ancestros.
 D. la ocurrencia de esta práctica en los simios aparece como escollo.
 E. la creación de herramientas en primates con stituye contraevidencia.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-La hipótesis del origen de la especie humana basada en la creación de
-herramientas (procedimiento pragmático) no se focaliza en el carácter agresivo.
+La hipótesis del origen de la especie humana basada en la creación de herramientas (procedimiento pragmático) no se focaliza en el carácter agresivo.
 =====================PREGUNTA 4======================
 Es posible deducir del desarrollo textual que el uso de objetos como herramientas
 =====================ALTERNATIVAS======================
@@ -78,27 +45,19 @@ B. posee un sinnúmero de cuestionamientos por idealizar al hombre.
 C. carece del carácter exclusivo de los humanos que se le atribuye.
 D. pudo ser una habilidad de homínidos ancestros del Homo habilis.
 E. fue rápidamente aprendida por grandes simios como el orangután.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-La propuesta del uso de objetos como herramientas como rasgo excluyente
-y privativo del ser humano es cuestionable por detectarse en otras especies; en
-consecuencia, no es exclusivamente humana tal habilidad.
+La propuesta del uso de objetos como herramientas como rasgo excluyente y privativo del ser humano es cuestionable por detectarse en otras especies; en consecuencia, no es exclusivamente humana tal habilidad.
 =====================PREGUNTA 5======================
-Si se tomara en cuenta que ciertos chimpancés organizan hordas para capturar
-enemigos de otros grupos y darles muerte violenta, posiblemente
+Si se tomara en cuenta que ciertos chimpancés organizan hordas para capturar enemigos de otros grupos y darles muerte violenta, posiblemente
 =====================ALTERNATIVAS======================
 A. los alcances sobre la evolución de la especie humana se an inexplicables.
 B. nuestros ancestros tengan que ser detectados con herramientas más finas.
 C. los cuervos constituyan una especie que validaría la hipótesis de la violencia.
 D. se postule una propuesta híbrida para definir el rasgo particular del hombre.
 E. se debilite la hipótesis de la violencia como rasgo particular del ser humano.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-La hipótesis alternativa considera que la violencia es el rasgo que nos
-define como especie. Si se tomara en cuenta el comportamiento animal en general, y
-el caso de primates en la actualidad, y la violencia con que operan, la propuesta
-presentaría abundantes contraejemplos.
+La hipótesis alternativa considera que la violencia es el rasgo que nos define como especie. Si se tomara en cuenta el comportamiento animal en general, y el caso de primates en la actualidad, y la violencia con que operan, la propuesta presentaría abundantes contraejemplos.

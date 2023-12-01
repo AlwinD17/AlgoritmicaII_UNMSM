@@ -1,58 +1,16 @@
 ID: 66
 =====================TEXTO======================
-TEXTO 3
-El 22 de junio de 2001 se estrenó Fast & Furious ,primer capítulo de la franquicia de
-coches y vidas al límite . Hoy su fama es planetaria y la historia ha llegado a su séptima
-entrega. Básicamente, una cada dos años. En estos días, lejos de estancarse, Fast &
-Furious 7 marca nuevos récords: el capítulo más taquillero de esta serie, el filme que con
-mayor rapidez ha recaudado 1 000 millones de dólares (894,5 millones de euros) y el quinto
-con más ingresos de toda la historia. Más aún, se ha anunciado que la saga tendrá un
-octavo capítulo.
-¿Demasiados déjà vu en las salas? ¿Pocas propuestas nuevas? Tal vez, aunque
-tanto los fans como el mercado parecen pedirlo a gritos. En 10 de los 14 años que han
-pasado desde el estreno de ese primer Fast & Furious la taquilla ha dictado la misma
-sentencia: el filme con más ingresos del año ha sido una secuela, de Harry Potter a
-Transformers, de Piratas del Caribe a El Señor de los Anillos .
-«Fast & Furious 7 rompe una regla de oro. Una secuela suele recaudar menos que el
-original y cuenta con una inversión menor», asevera Casimiro Torreiro, profesor de Historia
-del Cine en la Universidad Carlos III de Madrid. Y seguramente aspiren a quebrar las
-normas las nuevas entregas de este año: habrá más Star Wars, Jurassic Park, The Hunger
-Games o Terminator, por solo citar cuatro casos de una larguísima lista de etcéteras.
-«A lo mejor en Europa se tiene la idea del cine como arte. En Hollywood es una
-industria: se trata de hacer filmes con valor creativo, pero que tengan, sobre todo, viabilidad
-comercial», defiende Ignacio Redondo Bellón, profesor universitario y autor del libro
-Marketing del cine. Redondo imagina una reunión tipo en una productora: sobre la mesa
-lucen una decena de proyectos, pero hay que apostar todas las fichas a una sola carta.
-«Cuando la situación es mala, la gente tiende a decidir sobre seguro. ¿Qué es lo que
-convence? Un guion realmente novedoso, un tema que pueda funcionar por la coyuntura o
-una nueva versión de una saga», zanja Redondo. «Hay pánico a fracasar. Una película de
-éxito te asegura que buena parte de la gente vaya a verla segunda», tercia el reconocido
-guionista Borja Cobeaga.
-Si bien el fenómeno suma millones, también es cierto que tiene algunos detractores.
-«El cine se está serializando. Se le dice al espectador: ‘Estos son los personajes con los
-que ya estás familiarizado; aquí va otro episodio’», apuntó hace ya dos años el prestigioso
-director Danny Boyle.
-
-KOCH, Tommaso. (01 de mayo de 2015). «Hollywood, el infalible más de lo mismo». En:
-El país . Recupe rado el 04 de mayo de 2015 de
-http://cultura.elpais.com/cultura/2015/04/29/actualidad/1430307011_400388.html
-
+El 22 de junio de 2001 se estrenó Fast & Furious ,primer capítulo de la franquicia de coches y vidas al límite . Hoy su fama es planetaria y la historia ha llegado a su séptima entrega. Básicamente, una cada dos años. En estos días, lejos de estancarse, Fast & Furious 7 marca nuevos récords: el capítulo más taquillero de esta serie, el filme que con mayor rapidez ha recaudado 1 000 millones de dólares (894,5 millones de euros) y el quinto con más ingresos de toda la historia. Más aún, se ha anunciado que la saga tendrá un octavo capítulo. ¿Demasiados déjà vu en las salas? ¿Pocas propuestas nuevas? Tal vez, aunque tanto los fans como el mercado parecen pedirlo a gritos. En 10 de los 14 años que han pasado desde el estreno de ese primer Fast & Furious la taquilla ha dictado la misma sentencia: el filme con más ingresos del año ha sido una secuela, de Harry Potter a Transformers, de Piratas del Caribe a El Señor de los Anillos . «Fast & Furious 7 rompe una regla de oro. Una secuela suele recaudar menos que el original y cuenta con una inversión menor», asevera Casimiro Torreiro, profesor de Historia del Cine en la Universidad Carlos III de Madrid. Y seguramente aspiren a quebrar las normas las nuevas entregas de este año: habrá más Star Wars, Jurassic Park, The Hunger Games o Terminator, por solo citar cuatro casos de una larguísima lista de etcéteras. «A lo mejor en Europa se tiene la idea del cine como arte. En Hollywood es una industria: se trata de hacer filmes con valor creativo, pero que tengan, sobre todo, viabilidad comercial», defiende Ignacio Redondo Bellón, profesor universitario y autor del libro Marketing del cine. Redondo imagina una reunión tipo en una productora: sobre la mesa lucen una decena de proyectos, pero hay que apostar todas las fichas a una sola carta. «Cuando la situación es mala, la gente tiende a decidir sobre seguro. ¿Qué es lo que convence? Un guion realmente novedoso, un tema que pueda funcionar por la coyuntura o una nueva versión de una saga», zanja Redondo. «Hay pánico a fracasar. Una película de éxito te asegura que buena parte de la gente vaya a verla segunda», tercia el reconocido guionista Borja Cobeaga. Si bien el fenómeno suma millones, también es cierto que tiene algunos detractores. «El cine se está serializando. Se le dice al espectador: ‘Estos son los personajes con los que ya estás familiarizado; aquí va otro episodio’», apuntó hace ya dos años el prestigioso director Danny Boyle. KOCH, Tommaso. (01 de mayo de 2015). «Hollywood, el infalible más de lo mismo». En: El país . Recupe rado el 04 de mayo de 2015 de http://cultura.elpais.com/cultura/2015/04/29/actualidad/1430307011_400388.html
 =====================PREGUNTA 1======================
 1. En esencia, el texto incide en que
 =====================ALTERNATIVAS======================
-A) Fast & Furious es merecidamente una de las películas más taquilleras de la historia
-del cine hollywoodense.
-B) en Hollywood, desde hace más de una década, existe una clara tendencia por
-producir secuelas de películas exitosas.
-C) el conjunto de las cintas producidas e n Hollywood, en la última década, está en
-gran medida integrado por remakes .
-D) el cine en la época actual ya no aspira al arte, sino se ha convertido en una industria
-para producir dinero.
-E) en los últimos catorce años, la industria del cine hollywoodense ha privilegiado las
-películas de elevado nivel artístico.
+A) Fast & Furious es merecidamente una de las películas más taquilleras de la historia del cine hollywoodense.
+B) en Hollywood, desde hace más de una década, existe una clara tendencia por producir secuelas de películas exitosas.
+C) el conjunto de las cintas producidas e n Hollywood, en la última década, está en gran medida integrado por remakes .
+D) el cine en la época actual ya no aspira al arte, sino se ha convertido en una industria para producir dinero.
+E) en los últimos catorce años, la industria del cine hollywoodense ha privilegiado las películas de elevado nivel artístico.
 =====================RAZONAMIENTO======================
-El texto describe la preminencia de secuelas en el cine hollywoodense
-desde hace más de una década.
+El texto describe la preminencia de secuelas en el cine hollywoodense desde hace más de una década.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================PREGUNTA 2======================
@@ -64,51 +22,35 @@ C) trance.
 D) temor. 
 E) riesgo.
 =====================RAZONAMIENTO======================
-La expresión AL LIMITE connota riesgo, ya que trata de remarcar que tanto
-los vehículos como los personajes afrontan sucesos que pueden llegar a dañarlos.
+La expresión AL LIMITE connota riesgo, ya que trata de remarcar que tanto los vehículos como los personajes afrontan sucesos que pueden llegar a dañarlos.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================PREGUNTA 3======================
 3. Es incompatible sostener sobre las secuelas que
 =====================ALTERNATIVAS======================
-A) tradicionalmente no lograban superar la taquilla de la película original y su
-presupuesto era mucho menor.
-B) en la actualidad se han convertido en una estrategia para maximizar las ganancias
-de la industria del cine.
-C) implican una reelaboración profunda de los personajes principales, al punto de
-modificarlos por completo.
-D) tienen como punto de partida una película que ha obtenido una respuesta positiva
-por parte de los espectadores.
-E) desde hace catorce años se han impuesto en el gusto de la mayor ía de los
-asistentes a las salas de cine. Ciclo 2015 -I
+A) tradicionalmente no lograban superar la taquilla de la película original y su presupuesto era mucho menor.
+B) en la actualidad se han convertido en una estrategia para maximizar las ganancias de la industria del cine.
+C) implican una reelaboración profunda de los personajes principales, al punto de modificarlos por completo.
+D) tienen como punto de partida una película que ha obtenido una respuesta positiva por parte de los espectadores.
+E) desde hace catorce años se han impuesto en el gusto de la mayor ía de los asistentes a las salas de cine. Ciclo 2015 -I
 =====================RAZONAMIENTO======================
-Las secuelas conservan a los personajes. Así, puede decirse que son los
-mismos personajes en nuevas aventuras. Resulta contradictorio, entonces, sostener
-que los personajes son modificados por completo.
+Las secuelas conservan a los personajes. Así, puede decirse que son los mismos personajes en nuevas aventuras. Resulta contradictorio, entonces, sostener que los personajes son modificados por completo.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================PREGUNTA 4======================
 4. De la reunión tipo que imagina Ignacio Redondo Bellón se puede inferir que
 =====================ALTERNATIVAS======================
-A) un proyecto fílmico cuyo único atributo sea su apuesta por la experimentación no
-tendría buena acogida en Hollywood.
-B) las cintas elaboradas en Europa siempre tienen mejor acogida entre los
-espectadores por su alto nivel estético.
-C) la audacia creativa es una variable determinante en las cintas producidas en
-Estados Unidos durante la época actual.
-D) el nivel técnico de una película es un elemento crucial al momento de elegir un
-proyecto para su próxima realización.
-E) los temas coyunturales siempre serán la mejor opción para cualquier productora
-cinematográfica en Estados Unidos.
+A) un proyecto fílmico cuyo único atributo sea su apuesta por la experimentación no tendría buena acogida en Hollywood.
+B) las cintas elaboradas en Europa siempre tienen mejor acogida entre los espectadores por su alto nivel estético.
+C) la audacia creativa es una variable determinante en las cintas producidas en Estados Unidos durante la época actual.
+D) el nivel técnico de una película es un elemento crucial al momento de elegir un proyecto para su próxima realización.
+E) los temas coyunturales siempre serán la mejor opción para cualquier productora cinematográfica en Estados Unidos.
 =====================RAZONAMIENTO======================
-Según Redondo Bellón, en Hollywood «se decide sobre seguro». Así, se
-prefieren las secuelas antes que un guion novedoso. Lo cual nos permite suponer que
-un proyecto que solo se caracterice por la experimentación no tendría acogida.
+Según Redondo Bellón, en Hollywood «se decide sobre seguro». Así, se prefieren las secuelas antes que un guion novedoso. Lo cual nos permite suponer que un proyecto que solo se caracterice por la experimentación no tendría acogida.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================PREGUNTA 5======================
-5. Si los productores de Fast & Furious hubieran decidido cambiar radicalmente la
-fórmula y los protagonistas de su última secuela,
+5. Si los productores de Fast & Furious hubieran decidido cambiar radicalmente la fórmula y los protagonistas de su última secuela,
 =====================ALTERNATIVAS======================
 A) el largometraje tendría una acogida masiva en los países de Latinoamérica.
 B) los espectadores manifestarían fidelidad incondicional a los nuevos héroes.
@@ -116,9 +58,6 @@ C) la mayoría de directores europeos considerarían realizar cintas de este tip
 D) el film no habría alcanzado el alto nivel de popularidad que logró realmente.
 E) la recepción de esta película rebasaría las cifras anteriores de toda la saga.
 =====================RAZONAMIENTO======================
-En vista de que tanto el público como el mercado están predispuestos a la
-repetición de fórmulas cinematográficas, si Fast Furious 7 hubiera alterado su
-configuración habitual, no habría generado el gran impacto que causó entre los
-espectadores.
+En vista de que tanto el público como el mercado están predispuestos a la repetición de fórmulas cinematográficas, si Fast Furious 7 hubiera alterado su configuración habitual, no habría generado el gran impacto que causó entre los espectadores.
 =====================ALTERNATIVA CORRECTA======================
 D

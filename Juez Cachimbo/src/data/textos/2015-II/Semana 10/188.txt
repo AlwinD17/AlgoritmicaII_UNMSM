@@ -1,99 +1,63 @@
 ID 188
-=====Texto 1======
-
-Después de haber recibido por vía telefónica la noticia sobre el hallazgo de algunos lobos marinos mutilados en el sitio turístico «La lobería», en Puerto Baquerizo Moreno, un equipo de la estación científica Charles Darwin se dirigió al lugar de los hechos para recolectar información técnica y científica sobre los animales afectados. 
-
-En total quince lobos marinos (once machos y cuatro hembras) fueron reportados muertos en esta zona, de los cuales solo nueve pudieron ser analizados debido al avanzado estado de descomposición del resto. Los científicos de la estación Darwin junto con los guardaparques del Servicio Parque Nacional Galápagos y el veterinario de la Fundación Araucaria procedieron a evaluar la situación. 
-
-Las conclusiones, según el reporte técnico elaborado el día de hoy por la Bióloga Sandie Salazar de la estación Científica Charles Darwin, son las siguientes: todos los machos carecían de la zona reproductiva; la causa de la muerte de todos los individuos fue una contusión cráneo -cefálica; se utilizaron objetos posiblemente metálicos para propiciar su muerte; se utilizó un cuchillo para extirpar los órganos reproductores externos de los lobos machos. Asimismo, quedó claro que se trató de un ataque nocturno en simultáneo (varios animales fueron agredidos al mismo tiempo). Posiblemente las hembras fueron víctimas azarosas debido a la falta de luz cuando se produjo el atentado.
-
-Se desconoce el motivo por el cual se cometió esta atrocidad, pero se tiene conocimiento de que existe un mercado para comercializar, con fines afrodisíacos, productos como los órganos reproductores de los lobos marinos. En el reporte técnico de la Bióloga Sandie Salazar se indica que, según sostiene un artículo publicado por S. L. Malik (1997), «Comercio de órganos de pinnípedos», se ha realizado el rastreo genético de veintiún miembros reproductores comercializados en distintas ciudades del mundo, de los cuales catorce pertenecían a diferentes especies de pinnípedos. Estos miembros son comercializados en forma de polvo, disecados en cápsulas, mezclados con otras sustancias herbales, con bebidas alcohólicas, entre otros. Los usos, de acuerdo al análisis de Malik, están relacionados con la fetichería, tratamientos para la impotencia sexual, afrodisíacos y amuletos. Los precios varían de acuerdo al producto.
-
-Este es el primer registro comprobado de este tipo de hechos sangrientos —que sin duda merecen un rechazo indignado de la sociedad civil — en el que una población importante de lobos marinos de las Islas Galápagos se ve afectada por un ataque de esta magnitud.
-
-USMP. (Setiembre 2004). Boletín informativo . Lima, Nro. 2.
-
-
-Aquí tienes el texto con el formato solicitado:
-
-
-=====Pregunta 1======
+=====================TEXTO======================
+Después de haber recibido por vía telefónica la noticia sobre el hallazgo de algunos lobos marinos mutilados en el sitio turístico «La lobería», en Puerto Baquerizo Moreno, un equipo de la estación científica Charles Darwin se dirigió al lugar de los hechos para recolectar información técnica y científica sobre los animales afectados. En total quince lobos marinos (once machos y cuatro hembras) fueron reportados muertos en esta zona, de los cuales solo nueve pudieron ser analizados debido al avanzado estado de descomposición del resto. Los científicos de la estación Darwin junto con los guardaparques del Servicio Parque Nacional Galápagos y el veterinario de la Fundación Araucaria procedieron a evaluar la situación. Las conclusiones, según el reporte técnico elaborado el día de hoy por la Bióloga Sandie Salazar de la estación Científica Charles Darwin, son las siguientes: todos los machos carecían de la zona reproductiva; la causa de la muerte de todos los individuos fue una contusión cráneo -cefálica; se utilizaron objetos posiblemente metálicos para propiciar su muerte; se utilizó un cuchillo para extirpar los órganos reproductores externos de los lobos machos. Asimismo, quedó claro que se trató de un ataque nocturno en simultáneo (varios animales fueron agredidos al mismo tiempo). Posiblemente las hembras fueron víctimas azarosas debido a la falta de luz cuando se produjo el atentado. Se desconoce el motivo por el cual se cometió esta atrocidad, pero se tiene conocimiento de que existe un mercado para comercializar, con fines afrodisíacos, productos como los órganos reproductores de los lobos marinos. En el reporte técnico de la Bióloga Sandie Salazar se indica que, según sostiene un artículo publicado por S. L. Malik (1997), «Comercio de órganos de pinnípedos», se ha realizado el rastreo genético de veintiún miembros reproductores comercializados en distintas ciudades del mundo, de los cuales catorce pertenecían a diferentes especies de pinnípedos. Estos miembros son comercializados en forma de polvo, disecados en cápsulas, mezclados con otras sustancias herbales, con bebidas alcohólicas, entre otros. Los usos, de acuerdo al análisis de Malik, están relacionados con la fetichería, tratamientos para la impotencia sexual, afrodisíacos y amuletos. Los precios varían de acuerdo al producto. Este es el primer registro comprobado de este tipo de hechos sangrientos —que sin duda merecen un rechazo indignado de la sociedad civil — en el que una población importante de lobos marinos de las Islas Galápagos se ve afectada por un ataque de esta magnitud. USMP. (Setiembre 2004). Boletín informativo . Lima, Nro. 2. Aquí tienes el texto con el formato solicitado:
+=====================PREGUNTA 1======================
 ¿Cuál es el tema principal del texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. la comercialización de productos elaborados a base de miembros reproductores de lobos marinos.
 B. los resultados del reporte técnico sobre la mutilación de un grupo de lobos marinos y la posible causa que habría motivado el crimen.
 C. la investigación que los científicos de la estación Darwin realizaron a propósito de ciertas anomalías genéticas en los lo bos marinos.
 D. la evaluación y las conclusiones a la que llegaron el veterinario y el guardaparques sobre el ataque a los lobos marinos.
 E. los estudios que realizó Malik sobre las catorce especies de pinípedos en las Islas Galápagos.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 B
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El texto da cuenta del informe técnico realizado por la Bióloga Sandie Salazar donde se describe la mutilación de un grupo de lobos marinos motivada por la comercialización de sus órganos reproductores.
-
-
-=====Pregunta 2======
+=====================PREGUNTA 2======================
 ¿Qué significa "RECOLECTAR" en el contexto del texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. cultivar.
 B. resinar.
 C. fusionar.
 D. agostar.
 E. reunir.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 En el texto, RECOLECTAR adquiere el sentido preciso de «reunir».
-
-=====Pregunta 3======
+=====================PREGUNTA 3======================
 ¿Cuál de las siguientes afirmaciones es incongruente con respecto a la matanza de lobos marinos en Puerto Baquerizo Moreno?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. el autor está seguro de que quienes mutilaron a los lobos marinos lo hicieron con fines utilitarios.
 B. según asegura la Bióloga Sandie Salazar el ataque a los lobos marinos se realizó durante la noche.
 C. la mayoría de los lobos marinos atacados eran machos, mientras que las hembras fueron víctimas fortuitas.
 D. los órganos reproductores de los lobos marinos se comercializan en distintas partes del mundo.
 E. los científicos de la estación Charles Darwin solo pudieron analizar a nueve lobos marinos.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 A
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 En el texto se señala que «se desconoce el motivo por el cual se cometió esta atrocidad»; en otras palabras, el autor no está totalmente seguro de cuáles han sido las razones del crimen.
-
-=====Pregunta 4======
+=====================PREGUNTA 4======================
 ¿Qué se puede inferir del texto sobre el ataque a los lobos marinos?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. fue respaldado por los guardaparques.
 B. no preocupó demasiado a los científicos.
 C. fue perpetrado por más de una persona.
 D. alentó la evacuación de otras especies.
 E. propició la extinción de los pinnípedos.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 C
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 En el texto se afirma que el ataque fue en simultáneo, esto es, que varios lobos marinos fueron atacados al mismo tiempo. En sentido, un solo atacante no pudo haberlo realizado.
-
-=====Pregunta 5======
+=====================PREGUNTA 5======================
 ¿Qué habría sucedido si la Bióloga Sandie Salazar no hubiera revisado los estudios de Malik?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. se habrían tomado mayores precauciones y, de esta forma, se habría podido evitar el ataque.
 B. no habría tenido indicios para formular sus conclusiones sobre los posibles móviles de la matanza.
 C. los órganos reproductores de los pinípedos se comercializarían con mayor facilidad.
 D. no habrían podido ser analizados, estudiados y evaluados el total de lobos marinos.
 E. los científicos de la estación Darwin no habrían podido llegar a ningún tipo de conclusión.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 B
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 En su informe técnico la Bióloga Salazar señala que Malik ha realizado un rastreo sobre la comercialización de órganos reproductores de los pinípedos. Lo que brinda una posible causa del sacrificio de los lobos marinos.

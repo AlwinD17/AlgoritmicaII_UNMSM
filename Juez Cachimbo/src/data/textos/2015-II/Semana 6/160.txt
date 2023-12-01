@@ -2,113 +2,62 @@ ID: 160
 =====================TEXTO======================
 ELIMINACIÓN DE ORACIONES
 =====================PREGUNTA 1======================
-I) La espectacular ruta costera de la Calzada dispone desde el pasado mes de agosto
-de un recorrido de 3 kilómetros que transcurre entre las rocas y que en muchos tramos
-deambula por encima del mar como nueva atracción . II) El tren Glacier Express
-en Suiza, reina de las rutas en tren, atraviesa 91 túneles y 291 puentes y el paso del
-Oberalp de 2033 metros de altitud, en un viaje panorámico de 7 horas y 30 minutos.
-III) Uno de los trayectos m ás impresionantes de Noruega y de Europa es el que realiza
-el Tren de Flåm, que discurre por un tramo del fiordo más largo y alto de Europa,
-el Sognefjorden . IV) La línea ferroviaria Selva Negra de Alemania, que une las
-localidades de Offenburg y Constanza ,permite contemplar los paisajes del valle
-superior del Rin hasta el lago Constanza. V) El trayecto que cubre el tren El
-Inlandsbanan tiene una longitud de 1300 kilómetros, y es una de las mejores formas
-de descubrir el territorio escandinavo.
+I) La espectacular ruta costera de la Calzada dispone desde el pasado mes de agosto de un recorrido de 3 kilómetros que transcurre entre las rocas y que en muchos tramos deambula por encima del mar como nueva atracción . II) El tren Glacier Express en Suiza, reina de las rutas en tren, atraviesa 91 túneles y 291 puentes y el paso del Oberalp de 2033 metros de altitud, en un viaje panorámico de 7 horas y 30 minutos. III) Uno de los trayectos m ás impresionantes de Noruega y de Europa es el que realiza el Tren de Flåm, que discurre por un tramo del fiordo más largo y alto de Europa, el Sognefjorden . IV) La línea ferroviaria Selva Negra de Alemania, que une las localidades de Offenburg y Constanza ,permite contemplar los paisajes del valle superior del Rin hasta el lago Constanza. V) El trayecto que cubre el tren El Inlandsbanan tiene una longitud de 1300 kilómetros, y es una de las mejores formas de descubrir el territorio escandinavo.
 =====================ALTERNATIVAS======================
 A. II
 B. III
 C. I
 D. IV
 E. V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-Se aplica el criterio de impertinencia. El tema está vinculado con rutas en
-tren.
+Se aplica el criterio de impertinencia. El tema está vinculado con rutas en tren.
 =====================PREGUNTA 2======================
-I) Omán fue siempre un lugar de comercio para las civilizaciones antiguas. II) Hace
-miles de años formidables caravanas de camellos transportaban incienso por Omán.
-III) El cobre y los minerales eran trasladados por mar a bordo de naves a través de
-Omán. IV) Aquel pasado de intercambio económico en Omán ha dejado joyas
-arquitectónicas invaluables en las montañas de Al -Hajar as h-Sharqiyah. V) En Omán,
-la minería de cobre y su procesado se practicó en Omán en épocas antiguas, por ello
-ostentó un comercio dinámico.
+I) Omán fue siempre un lugar de comercio para las civilizaciones antiguas. II) Hace miles de años formidables caravanas de camellos transportaban incienso por Omán. III) El cobre y los minerales eran trasladados por mar a bordo de naves a través de Omán. IV) Aquel pasado de intercambio económico en Omán ha dejado joyas arquitectónicas invaluables en las montañas de Al -Hajar as h-Sharqiyah. V) En Omán, la minería de cobre y su procesado se practicó en Omán en épocas antiguas, por ello ostentó un comercio dinámico.
 =====================ALTERNATIVAS======================
 A. V
 B. II
 C. III
 D. I
 E. IV
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-Se aplica el criterio de redundancia. El tema está vinculado con Omán, las
-razones por las que fue un país de activa actividad comercial y cultural en la
-antigüedad.
+Se aplica el criterio de redundancia. El tema está vinculado con Omán, las razones por las que fue un país de activa actividad comercial y cultural en la antigüedad.
 =====================PREGUNTA 3======================
-I) El Sátiro Danzante es una escultura griega que ha sido fechada entorno al siglo IV
-a.C. II) La escultura El Sátiro Danzante ha sido atribuida a la escuela del gran
-Praxíteles. III) El Sátiro Danzante representa a un sátiro, uno de los alegres y
-lujuriosos acompañantes de D ioniso, mientras realiza una danza orgiástica. IV) El
-Sátiro Danzante tiene las orejas puntiagudas, la boca entreabierta y la cabeza
-flexionada en un movimiento antinatural, de puro delirio, mientras efectúa un baile
-desenfrenado. V) El pesquero Capitán Ciccio encontró la pierna izquierda de El Sátiro
-Danzante en la primavera de 1997.
-
+I) El Sátiro Danzante es una escultura griega que ha sido fechada entorno al siglo IV a.C. II) La escultura El Sátiro Danzante ha sido atribuida a la escuela del gran Praxíteles. III) El Sátiro Danzante representa a un sátiro, uno de los alegres y lujuriosos acompañantes de D ioniso, mientras realiza una danza orgiástica. IV) El Sátiro Danzante tiene las orejas puntiagudas, la boca entreabierta y la cabeza flexionada en un movimiento antinatural, de puro delirio, mientras efectúa un baile desenfrenado. V) El pesquero Capitán Ciccio encontró la pierna izquierda de El Sátiro Danzante en la primavera de 1997. 
 =====================ALTERNATIVAS======================
 A. II
 B. III
 C. I
 D. IV
 E. V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
 Se aplica el criterio de impertinencia.
 =====================PREGUNTA 4======================
-I) Cuando, en 1977, el arqueólogo Manolis Andronikos excavó en el Gran Túmulo de
-Vergina descubrió tres tumbas, dos de ellas con elegantes fachadas clásicas. II) La
-más pequeña excavada por Andronikos, que recibió el nombre de Tumba 1, había
-sido saqueada. III) La Tumba 2 era más grande y estaba intacta: contenía una
-espléndida panoplia guerrera. IV) La tumba 2 también contenía un lárnax o caja
-funeraria con las cenizas de un hombre que el arqueólogo griego identificó con el rey
-Filipo II de Macedonia. V) Filipo II, rey de Macedonia desde 359 a. C. hasta su muerte,
-fue el padre de Alejandro Magno, y sus hazañas allanaron el camino de la gloria
-recorrido por su hijo.
+I) Cuando, en 1977, el arqueólogo Manolis Andronikos excavó en el Gran Túmulo de Vergina descubrió tres tumbas, dos de ellas con elegantes fachadas clásicas. II) La más pequeña excavada por Andronikos, que recibió el nombre de Tumba 1, había sido saqueada. III) La Tumba 2 era más grande y estaba intacta: contenía una espléndida panoplia guerrera. IV) La tumba 2 también contenía un lárnax o caja funeraria con las cenizas de un hombre que el arqueólogo griego identificó con el rey Filipo II de Macedonia. V) Filipo II, rey de Macedonia desde 359 a. C. hasta su muerte, fue el padre de Alejandro Magno, y sus hazañas allanaron el camino de la gloria recorrido por su hijo.
 =====================ALTERNATIVAS======================
 A. II
 B. V
 C. III
 D. I
 E. IV
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-Se elimina por inatingencia. La s oraciones giran entorno a una excavación
-ejecutada por el arqueólogo Andronikos.
+Se elimina por inatingencia. La s oraciones giran entorno a una excavación ejecutada por el arqueólogo Andronikos.
 =====================PREGUNTA 5======================
- I) Los lémures proceden de una de las ramas más antiguas del árbol filogenético de
-los primates: sus antepasados se remontan al eoceno, hasta 55 millones de años
-atrás . II) Aunque el matriarcado es raro entre los pr imates, el dominio de la hembra es
-la norma en la mayoría de las especies de lémur . III) Las lémures hembras saca n la
-comida de la boca de un macho , y si él está tomando el S ol en el sitio que a ella le
-apetece, simplemente se le acerca y él se quita de en medio con un chillido de
-sumisión . IV) Si un lémur macho contraría a una hembra, esta puede abofetearlo,
-empujarlo o arrancarle el pelo. V) Durante el breve período anual en que se aparean,
-las hembras son unas auténticas frescas ,pues ellas deciden qué machos quieren y
-cuántos .
+ I) Los lémures proceden de una de las ramas más antiguas del árbol filogenético de los primates: sus antepasados se remontan al eoceno, hasta 55 millones de años atrás . II) Aunque el matriarcado es raro entre los pr imates, el dominio de la hembra es la norma en la mayoría de las especies de lémur . III) Las lémures hembras saca n la comida de la boca de un macho , y si él está tomando el S ol en el sitio que a ella le apetece, simplemente se le acerca y él se quita de en medio con un chillido de sumisión . IV) Si un lémur macho contraría a una hembra, esta puede abofetearlo, empujarlo o arrancarle el pelo. V) Durante el breve período anual en que se aparean, las hembras son unas auténticas frescas ,pues ellas deciden qué machos quieren y cuántos .
 =====================ALTERNATIVAS======================
 A. I
 B. II
 C. III
 D. IV
 E. V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
 El tema es el matriarcado de los lémures. La I es impertinente.

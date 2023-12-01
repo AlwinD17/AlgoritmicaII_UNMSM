@@ -1,15 +1,6 @@
 ID: 238
 =====================TEXTO======================
-I) En un régimen presidencial la figura del “primer ministro” no es central, de hecho es
-anexa y limitada a lo que la Constitución y el propio presidente le conceden como
-atributos II) En un régimen parlamentarista el premier es el jefe de gobierno, en cambio
-la del “presidente” puede como no existir, no es central, de hecho se considera
-protocolar o simbólica III) Israel y Alemania son ejemplos donde la figura del
-presidente es solo simbólica, cumple funciones de representación y protocolo. IV) En
-regímenes parlamentarios, el primer ministro puede salir de las distintas coaliciones
-políticas, donde pesan los partidos mayoritarios. V) En un régimen de gobierno mixto,
-el presidente designa al primer ministro, pero es el Parlamento quien lo inviste, es
-decir, lo ratifica en el cargo.
+I) En un régimen presidencial la figura del “primer ministro” no es central, de hecho es anexa y limitada a lo que la Constitución y el propio presidente le conceden como atributos II) En un régimen parlamentarista el premier es el jefe de gobierno, en cambio la del “presidente” puede como no existir, no es central, de hecho se considera protocolar o simbólica III) Israel y Alemania son ejemplos donde la figura del presidente es solo simbólica, cumple funciones de representación y protocolo. IV) En regímenes parlamentarios, el primer ministro puede salir de las distintas coaliciones políticas, donde pesan los partidos mayoritarios. V) En un régimen de gobierno mixto, el presidente designa al primer ministro, pero es el Parlamento quien lo inviste, es decir, lo ratifica en el cargo.
 =====================PREGUNTA 1======================
 Elimine una oración 
 =====================ALTERNATIVAS======================
@@ -21,5 +12,4 @@ E. V
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-Se elimina III por impertinencia. El eje centrales la figura del primer ministro
-y no el papel protocolar de algunas presidencias.
+Se elimina III por impertinencia. El eje centrales la figura del primer ministro y no el papel protocolar de algunas presidencias.

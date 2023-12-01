@@ -1,83 +1,63 @@
 ID 176
-=====Texto 5======
+=====================TEXTO======================
 Y puestos en el terreno de los conocimientos, es oportuno referirse al viejo conflicto que enfrenta al mito con la razón. Para los defensores del método analítico como único camino a seguir para alcanzar la realidad, es obvio que la mitología carece de los mínimos fundamentos para ser tenida en cuenta a la hora de “comprender”. Así, y según Platón," discordias, combates, reconciliaciones, matrimonios y pr ocreaciones; todo está puesto en escena en la narración mítica. Puede seducir, en efecto, a los espíritus pueriles; mas no aporta nada a quien trata de comprender, en el sentido propio de este término, ya que el entendimiento se refiere a una forma de inteligibilidad que el mito no entraña y que solo el discurso explicativo posee". En tiempos de la Grecia clásica, la defensa a ultranza de la razón, su exaltación, propició la proliferación de manifestaciones críticas contra todos aquellos que veían en la mitología algo más que la recopilación de simples relatos. Aristóteles, discípulo de Platón durante 20 años, siguió los pasos de su maestro en lo que a la valoración de los mitos se refiere:" Las sutilezas mitológicas no merecen ser sometidas a un examen serio. Volvamos más bien al lado de aquellos que razonan por la vía de la demostración". Con todo, es necesario recordar que el mismo Aristóteles señaló que la razón y el mito griego de la creación comparten puntos de encuentro. La Ilustración y el Romanticismo se acercaron a la mitología sin mayores problemas. Los ilustrados, a pesar de desenvolverse en los ámbitos propios de la racionalidad, se abstuvieron de condenar a los mitos y, por el contrario, se propusieron encontrar sentido a los relatos míticos aparentemente fantásticos. La tradición romántica, en confrontación directa con todo aquello que surgiera del radicalismo intelectual, defendió los contenidos que no estaban al alcance de la razón y, por lo tanto, les atribuyó un valor añadido. Es más, desacr editaron a la razón como vía adecuada para ofrecer explicaciones sobre el mito. Palao, P. Roig, O. (2006). Diccionario de Mitología . Madrid: Edimat Libro
-
-=====Pregunta 1======
+=====================PREGUNTA 1======================
 ¿Cuál es la idea principal del texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. El relato mitológico es contraproducente para el conocimiento humano.
 B. La narración mítica resulta irrelevante en los procesos cognitivos.
 C. La controversia entre mito y razón contribuyó al desarrollo intelectual.
 D. A través del tiempo, la valoración del mito se justificó según posturas.
 E. El análisis racional ha confrontado a la explicación mitológica.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 D
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El autor del texto explica la valoración del mito según el periodo histórico que lo aborda.
-
-=====Pregunta 2======
+=====================PREGUNTA 2======================
 En el texto, el antónimo contextual del término ABSTENER es
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. convencer 
 B. conmover 
 C. inhibir 
 D. imponer 
 E. atrever 
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 En el texto, abstener hace alusión a contenerse, entonces su antónimo en el contexto planteado es atrever.
-
-=====Pregunta 3======
+=====================PREGUNTA 3======================
 Resulta congruente con el texto asegurar que los mitos
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) se hallan circunscritos dentro al método analítico.
 B) eran pasibles de ser demostrados para Aristóteles.
 C) fueron desestimados por los racionales ilustrados.
 D) seducían al hombre ingenuo según los románticos.
 E) sustentan relatos que no se sujetan a la razón humana.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Según el autor, quienes han criticado los mitos parten del presupuesto de que estos relatos deberían ser demostrados. Sin embargo, esta forma de explicar hechos muy antiguos tiene otro camino ajeno a la racionalidad.
-
-=====Pregunta 4======
+=====================PREGUNTA 4======================
 Es posible inferir que, para el autor del texto, el filósofo Aristóteles
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) contradijo a su maestro Platón entorno a valoraciones de la mitología.
 B) admitió la presencia de la razón en relatos mitológicos sobre la creación.
 C) se abstuvo de emitir una posición acerca de la veracidad de los mitos.
 D) propuso someter a las narraciones míticas a una evaluación rigurosa.
 E) habría formulado un juicio ecléctico entre la racionalidad y la mitología.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 B
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Según el autor, el filósofo Aristóteles señaló que la razón y el mito griego de la creación comparten puntos de encuentro. Entonces, habría admitido la presencia de la razón en ellos.
-
-=====Pregunta 5======
+=====================PREGUNTA 5======================
 Si los ilustrados no se hubiesen abstenido de condenar los mitos, entonces
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) la ilustración habría reconsiderado la importancia cultural de la mitología.
 B) la apreciación de Platón entorno estas narraciones se vería confirmada.
 C) ellos habrían desestimado la posibilidad de encontrarles sentido a estos relatos.
 D) estas historias poseerían un valor in conmensurable para todos los románticos.
 E) la mitología habría quedado rezagada por la imponente racionalidad.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 C
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Según el autor los ilustrados se abstuvieron de condenar a los mitos y, por el contrario, se propusieron encontrar sentido a los relatos míticos aparentemente fantásticos. Si los hubieran condenado, entonces no les habría interesado encontrarles sentido.

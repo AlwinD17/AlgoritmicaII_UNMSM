@@ -1,104 +1,63 @@
 ID 170
-
-TEXTO 1
-=====Texto 1======
-
- El universo puede haber existido desde siempre, de acuerdo con un nuevo modelo que aplica términos de corrección cuántica para complementar la Teoría de la relatividad general de Einstein. El modelo también permite resolver otros inconvenientes teóricos a la vez. A partir del siglo XX, se pensó que todo lo que existe en la actualidad debe de haber ocupado un único punto infinitamente denso. Solo después, este punto comenzó a expandirse debido a una gran explosión (‘Big Bang’), que hizo que el universo comen zase oficialmente. No obstante, aunque la singularidad del ‘Big Bang’ surge directa e inevitablemente como un corolario de las matemáticas de los postulados de Einstein, algunos científicos han visto en esta una limitación, porque las matemáticas solo pueden explicar lo que sucedió inmediatamente después, no antes ni mientras se dio la explosión. «La singularidad del Big Bang es el problema más grave de la teoría de la relatividad general, porque las leyes de la Física parecen romperse ahí», sostiene el cos mólogo egipcio Ahmed Farag Ali, principal gestor de esta nueva teoría. Él, en colaboración con su colega Saurya Das, ha mostrado, en un artículo publicado recientemente, que las falencias teóricas del Big Bang pueden ser resueltas por un nuevo modelo, en e l que el universo no tiene principio ni fin. Asimismo, estos físicos enfatizan que sus términos de corrección cuántica no tenían como objetivo primero eliminar específicamente la singularidad del ‘Big Bang’. Su trabajo se basa en las ideas del físico teórico David Bohm, quien a partir de la década de 1950 comenzó a reemplazar geodesias clásicas (el camino más corto entre dos puntos de una superficie curva) con trayectorias cuánticas. En su artículo, Ali y Das aplican estas trayectorias de Bohm a una ecuación desarrollada durante la misma época por el físico hindú Amal Kumar Raychaudhuri. A través del uso de la ecuación de Raychaudhuri cuánticamente corregida, Ali y Das derivan ecuaciones de Friedmann —revisadas también bajo los postulados de la teoría cuánti ca— que describen la expansión y evolución del universo (incluyendo el Big Bang) en el contexto de la relatividad general. En términos cosmológicos, los científicos explican que las correcciones cuánticas pueden ser consideradas como una constante cosmol ógica (sin la necesidad del concepto de energía oscura) y un plazo de radiación. Estos términos mantienen el universo en un tamaño finito y, por lo tanto, le dan una edad infinita. Los términos también hacen predicciones que coinciden estrechamente con las observaciones actuales de la constante cosmológica y la densidad del universo.
-
-Europapres . (13de febrero de 2015). «¿Y sino hubo ‘Big Bang’? Una ecuación cuántica predice que el Universo no tiene principio». Recuperado el 03 de marzo de 2015 
-
-=====Pregunta 1======
+=====================TEXTO======================
+El universo puede haber existido desde siempre, de acuerdo con un nuevo modelo que aplica términos de corrección cuántica para complementar la Teoría de la relatividad general de Einstein. El modelo también permite resolver otros inconvenientes teóricos a la vez. A partir del siglo XX, se pensó que todo lo que existe en la actualidad debe de haber ocupado un único punto infinitamente denso. Solo después, este punto comenzó a expandirse debido a una gran explosión (‘Big Bang’), que hizo que el universo comen zase oficialmente. No obstante, aunque la singularidad del ‘Big Bang’ surge directa e inevitablemente como un corolario de las matemáticas de los postulados de Einstein, algunos científicos han visto en esta una limitación, porque las matemáticas solo pueden explicar lo que sucedió inmediatamente después, no antes ni mientras se dio la explosión. «La singularidad del Big Bang es el problema más grave de la teoría de la relatividad general, porque las leyes de la Física parecen romperse ahí», sostiene el cos mólogo egipcio Ahmed Farag Ali, principal gestor de esta nueva teoría. Él, en colaboración con su colega Saurya Das, ha mostrado, en un artículo publicado recientemente, que las falencias teóricas del Big Bang pueden ser resueltas por un nuevo modelo, en e l que el universo no tiene principio ni fin. Asimismo, estos físicos enfatizan que sus términos de corrección cuántica no tenían como objetivo primero eliminar específicamente la singularidad del ‘Big Bang’. Su trabajo se basa en las ideas del físico teórico David Bohm, quien a partir de la década de 1950 comenzó a reemplazar geodesias clásicas (el camino más corto entre dos puntos de una superficie curva) con trayectorias cuánticas. En su artículo, Ali y Das aplican estas trayectorias de Bohm a una ecuación desarrollada durante la misma época por el físico hindú Amal Kumar Raychaudhuri. A través del uso de la ecuación de Raychaudhuri cuánticamente corregida, Ali y Das derivan ecuaciones de Friedmann —revisadas también bajo los postulados de la teoría cuánti ca— que describen la expansión y evolución del universo (incluyendo el Big Bang) en el contexto de la relatividad general. En términos cosmológicos, los científicos explican que las correcciones cuánticas pueden ser consideradas como una constante cosmol ógica (sin la necesidad del concepto de energía oscura) y un plazo de radiación. Estos términos mantienen el universo en un tamaño finito y, por lo tanto, le dan una edad infinita. Los términos también hacen predicciones que coinciden estrechamente con las observaciones actuales de la constante cosmológica y la densidad del universo. Europapres . (13de febrero de 2015). «¿Y sino hubo ‘Big Bang’? Una ecuación cuántica predice que el Universo no tiene principio». Recuperado el 03 de marzo de 2015 
+=====================PREGUNTA 1======================
 El texto sostiene fundamentalmente que un nuevo modelo teórico
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) reflexiona entorno a la complejidad de los postulados de la Física moderna.
 B) únicamente se dedica a cuestionar los cimientos de la teoría del Big Bang.
 C) de índole cuántica postula que el universo no surgió de una gran explosión.
 D) complementa acertadamente la teoría de la relatividad g eneral de Einstein.
 E) del científico egipcio Farag Ali propone una descripción inédita del universo.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 C) de índole cuántica postula que el universo no surgió de una gran explosión.
-
-=====Razonamiento=====
-El texto se centra en esclarecer el nuevo modelo teórico que, embebido de
-la teoría cuántica, provee de una nueva explicación del universo sin considerar que
-este tuvo un comienzo.
-
-=====Pregunta 2======
+=====================RAZONAMIENTO======================
+El texto se centra en esclarecer el nuevo modelo teórico que, embebido de la teoría cuántica, provee de una nueva explicación del universo sin considerar que este tuvo un comienzo.
+=====================PREGUNTA 2======================
 El término INCONVENIENTES puede ser reemplazado por
-
-=====ALTERNATIVAS=====
-A) contratiempos. B) accidentes.
-C) impedimentos. D) incidentes.
+=====================ALTERNATIVAS======================
+A) contratiempos. 
+B) accidentes.
+C) impedimentos. 
+D) incidentes.
 E) problemas.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E) problemas.
-
-=====Razonamiento=====
-Esta palabra se emplea para aludir a los problemas de naturaleza teórica
-de la Física contemporánea.
-
-=====Pregunta 3======
+=====================RAZONAMIENTO======================
+Esta palabra se emplea para aludir a los problemas de naturaleza teórica de la Física contemporánea.
+=====================PREGUNTA 3======================
 Respecto a la Teoría del Big Bang ,es incompatible sostener que
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) se infiere con sencillez de las matemáticas propuestas por Albert Einstein.
 B) induce a pensar que el universo actual tal como lo conocemos se expande.
 C) permite describir el cosmos solo después de acontecida la gran explosión.
 D) asume que antes de que el universo exista no había absolutamente nada.
 E) según Farag Ali, es uno de los mayores obstáculos de la teoría de Einstein.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 D) asume que antes de que el universo exista no había absolutamente nada.
-
-=====Razonamiento=====
-La Teoría del Big Bang postula que, al inicio, todo lo que existe en la
-actualidad debió de «haber ocupado un único punto infinitamente denso».
-
-=====Pregunta 4======
-Respecto a las ideas que sirvieron de base para el modelo del científico Farag Alí ,se
-desprende que
-
-=====ALTERNATIVAS=====
-A) sin haber sido corregidas , difícilmente hubieran sido de utilidad para solucionar los
-inconvenientes de la Teoría del Big Bang.
-B) presumiblemente las investigaciones del físico teórico David Bohm tenían como
-objetivo principal refutar la Teoría de la relatividad.
-C) la ecuación desarrollada por el físico Amal Kumar Raychaudhuri demostró ser
-fundamental para establecer el movimiento cósmico.
-D) las geodesias clásicas debieron ser retomadas posteriormente en las
-especulaciones cosmológicas de Farag Ali y Saurya Das.
-E) las ecuaciones de Friedmann terminaron siendo deleznables para el cálculo final
-que mostraba que el universo no tuvo origen.
-
-=====Alternativa correcta=====
-A) sin haber sido corregidas , difícilmente hubieran sido de utilidad para solucionar los
-inconvenientes de la Teoría del Big Bang.
-
-=====Razonamiento=====
-En texto, se reitera que cada una de las ideas tomadas en préstamo fueron
-«corregidas» a partir de los postulados de la teoría cuántica para ser reutilizadas por
-Farag Ali. Este factor fue decisivo para conseguir una teoría que salve los vacíos de
-la Teoría del Big Bang.
-
-
-=====Pregunta 5======
-Si las correcciones cuánticas no pudieran ser formuladas como una constante
-cosmológica y un plazo de radiación,
-
-=====ALTERNATIVAS=====
+=====================RAZONAMIENTO======================
+La Teoría del Big Bang postula que, al inicio, todo lo que existe en la actualidad debió de «haber ocupado un único punto infinitamente denso».
+=====================PREGUNTA 4======================
+Respecto a las ideas que sirvieron de base para el modelo del científico Farag Alí ,se desprende que
+=====================ALTERNATIVAS======================
+A) sin haber sido corregidas , difícilmente hubieran sido de utilidad para solucionar los inconvenientes de la Teoría del Big Bang.
+B) presumiblemente las investigaciones del físico teórico David Bohm tenían como objetivo principal refutar la Teoría de la relatividad.
+C) la ecuación desarrollada por el físico Amal Kumar Raychaudhuri demostró ser fundamental para establecer el movimiento cósmico.
+D) las geodesias clásicas debieron ser retomadas posteriormente en las especulaciones cosmológicas de Farag Ali y Saurya Das.
+E) las ecuaciones de Friedmann terminaron siendo deleznables para el cálculo final que mostraba que el universo no tuvo origen.
+=====================ALTERNATIVA CORRECTA======================
+A) sin haber sido corregidas , difícilmente hubieran sido de utilidad para solucionar los inconvenientes de la Teoría del Big Bang.
+=====================RAZONAMIENTO======================
+En texto, se reitera que cada una de las ideas tomadas en préstamo fueron «corregidas» a partir de los postulados de la teoría cuántica para ser reutilizadas por Farag Ali. Este factor fue decisivo para conseguir una teoría que salve los vacíos de la Teoría del Big Bang.
+=====================PREGUNTA 5======================
+Si las correcciones cuánticas no pudieran ser formuladas como una constante cosmológica y un plazo de radiación,
+=====================ALTERNATIVAS======================
 A) el nuevo modelo propuesto habría sido admitido por todos los científicos.
 B) la hipótesis de que el universo no tuvo un principio carecería de asidero.
 C) la Teoría del Big Bang sería refutada rotundamente sin ninguna objeción.
 D) la ecuación de Amal Raychaudhuri habría de adquirir prestigio universal.
 E) los postulados creados por Einstein serían reivindicados como infalibles.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 B) la hipótesis de que el universo no tuvo un principio carecería de asidero.
-
-=====Razonamiento=====
-Las correcciones cuánticas permitieron postular una constante cosmológica
-y un plazo de radiación, que brindan la posibilidad de pensar un universo finito y de
-duración infinita. Con lo cual se prescinde de la hipótesis de un inicio del cosmos.
+=====================RAZONAMIENTO======================
+Las correcciones cuánticas permitieron postular una constante cosmológica y un plazo de radiación, que brindan la posibilidad de pensar un universo finito y de duración infinita. Con lo cual se prescinde de la hipótesis de un inicio del cosmos.

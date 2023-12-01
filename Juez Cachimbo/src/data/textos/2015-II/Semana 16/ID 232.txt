@@ -1,38 +1,6 @@
 ID: 232
 =====================TEXTO======================
-Así, la incertidumbre de la filosofía es, en una gran medida, más aparente que real; los
-problemas que son susceptibles de una respuesta precisa se han colocado en las ciencias,
-mientras que so lo los que no la consienten actualmente quedan formando el residuo que
-denominamos filosofía. […] Hay muchos problemas —y entre ellos los que tienen un interés
-más profundo para nuestra vida espiritual — que, en los límites de lo que podemos ver,
-permanecerán necesariamente insolubles para el intelecto humano, salvo si su poder llega
-a ser de un orden totalmente diferente de lo que es hoy ¿Tiene el Universo una unidad de
-plano designio, o es una fortuita conjunción de átomos? ¿Es la conciencia una parte del
-Universo que da la esperanza de un crecimiento indefinido de la sabiduría, o es un
-accidente transitorio en un pequeño planeta en el cual la vida acabará por hacerse
-imposible? ¿El bien y el mal son de alguna importancia para el Universo, o solamente para
-el hombre? La filosofía plantea problemas de este género, y los diversos filósofos contestan
-a ellos de diversas maneras. Pero parece que, sea o no posible hallarles por otro lado una
-respuesta, las que propone la filosofía no pueden ser demostradas como verdaderas. Sin
-embargo, por muy débil que sea la esperanza de hallar una respuesta, es una parte de la
-tarea de la filosofía continuar la consideración de estos problemas, haciéndonos
-conscientes de su importancia, examinando todo lo que nos aproxima a ellos, y
-manteniendo vivo este interés especulativo por el Un iverso, que nos expondríamos a matar
-si nos limitáramos al conocimiento de lo que puede ser establecido mediante un
-conocimiento definitivo. […] De hecho, el valor de la filosofía debe ser buscado en una larga
-medida en su real incertidumbre.
-El hombre que no tiene ningún barniz de filosofía, vapor la vida prisionero de los prejuicios
-que derivan del sentido común, de las creencias habituales en su tiempo y en su país, y de
-las que se han desarrollado en su espíritu sin la cooperación ni el consentimiento deliberado
-de su razón. Para este hombre el mundo tiende a hacerse preciso, definido, obvio; los
-objetos habituales no le suscitan problema alguno, y las posibilidades no familiares son
-desdeñosamente rechazadas. Desde el momento en que empezamos a filos ofar, hallamos,
-por el contrario, […], que aun los objetos más ordinarios conducen a problemas a los cuales
-solo podemos dar respuestas muy incompletas. La filosofía, aunque incapaz de decirnos con certeza cuál es la verdadera respuesta a las dudas que sus cita, es capaz de sugerir
-diversas posibilidades que amplían nuestros pensamientos y nos liberan de la tiranía de la
-costumbre.
-Russell, B. (1970) Los problemas de la filosofía. Editorial Labor. Rescatado de
-http://www.enxarxa.com/biblioteca/RUSSELL%20Los%20problemas%20de%20la%20filosofia.pdf . Pág. 99.
+Así, la incertidumbre de la filosofía es, en una gran medida, más aparente que real; los problemas que son susceptibles de una respuesta precisa se han colocado en las ciencias, mientras que so lo los que no la consienten actualmente quedan formando el residuo que denominamos filosofía. […] Hay muchos problemas —y entre ellos los que tienen un interés más profundo para nuestra vida espiritual — que, en los límites de lo que podemos ver, permanecerán necesariamente insolubles para el intelecto humano, salvo si su poder llega a ser de un orden totalmente diferente de lo que es hoy ¿Tiene el Universo una unidad de plano designio, o es una fortuita conjunción de átomos? ¿Es la conciencia una parte del Universo que da la esperanza de un crecimiento indefinido de la sabiduría, o es un accidente transitorio en un pequeño planeta en el cual la vida acabará por hacerse imposible? ¿El bien y el mal son de alguna importancia para el Universo, o solamente para el hombre? La filosofía plantea problemas de este género, y los diversos filósofos contestan a ellos de diversas maneras. Pero parece que, sea o no posible hallarles por otro lado una respuesta, las que propone la filosofía no pueden ser demostradas como verdaderas. Sin embargo, por muy débil que sea la esperanza de hallar una respuesta, es una parte de la tarea de la filosofía continuar la consideración de estos problemas, haciéndonos conscientes de su importancia, examinando todo lo que nos aproxima a ellos, y manteniendo vivo este interés especulativo por el Un iverso, que nos expondríamos a matar si nos limitáramos al conocimiento de lo que puede ser establecido mediante un conocimiento definitivo. […] De hecho, el valor de la filosofía debe ser buscado en una larga medida en su real incertidumbre. El hombre que no tiene ningún barniz de filosofía, vapor la vida prisionero de los prejuicios que derivan del sentido común, de las creencias habituales en su tiempo y en su país, y de las que se han desarrollado en su espíritu sin la cooperación ni el consentimiento deliberado de su razón. Para este hombre el mundo tiende a hacerse preciso, definido, obvio; los objetos habituales no le suscitan problema alguno, y las posibilidades no familiares son desdeñosamente rechazadas. Desde el momento en que empezamos a filos ofar, hallamos, por el contrario, […], que aun los objetos más ordinarios conducen a problemas a los cuales solo podemos dar respuestas muy incompletas. La filosofía, aunque incapaz de decirnos con certeza cuál es la verdadera respuesta a las dudas que sus cita, es capaz de sugerir diversas posibilidades que amplían nuestros pensamientos y nos liberan de la tiranía de la costumbre. Russell, B. (1970) Los problemas de la filosofía. Editorial Labor. Rescatado de http://www.enxarxa.com/biblioteca/RUSSELL%20Los%20problemas%20de%20la%20filosofia.pdf . Pág. 99.
 =====================PREGUNTA 1======================
 La idea principal del texto gira entorno
 =====================ALTERNATIVAS======================
@@ -44,8 +12,7 @@ E. A la filosofía y su vocación pseudoproblematizadora de la sabiduría.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-El texto incide en el papel que desempeña la filosofía y su real valor como
-aquella que nos libera de la tiranía de la costumbre.
+El texto incide en el papel que desempeña la filosofía y su real valor como aquella que nos libera de la tiranía de la costumbre.
 =====================PREGUNTA 2======================
 El autor estaría de acuerdo en afirmar que
 =====================ALTERNATIVAS======================
@@ -57,8 +24,8 @@ E. Lo filosófico terminará cediendo frente a la ciencia.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-“El hombre que no tiene ningún barniz de filosofía, vapor la vida prisionero
-de los prejuicios […] Para este hombre el mundo tiende a hacerse […] obvio”.=====================PREGUNTA 3======================
+“El hombre que no tiene ningún barniz de filosofía, vapor la vida prisionero de los prejuicios […] Para este hombre el mundo tiende a hacerse […] obvio”.
+=====================PREGUNTA 3======================
 Respecto al tránsito entre lo impreciso y lo definitivo
 =====================ALTERNATIVAS======================
 A. Se aprecian las diferencias entre filosofía y ciencia.
@@ -69,9 +36,7 @@ E. La ciencia es la que determinará las imprecisiones.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-Es “la tarea de la filosofía […] mantener vivo el interés especulativo por el
-Universo, que nos expondríamos a matar si nos limitáramos al conocimiento
-definitivo”, es decir, científico.
+Es “la tarea de la filosofía […] mantener vivo el interés especulativo por el Universo, que nos expondríamos a matar si nos limitáramos al conocimiento definitivo”, es decir, científico.
 =====================PREGUNTA 4======================
 En el texto, el término INSOLUBLES hace referencia a un conocimiento que es
 =====================ALTERNATIVAS======================
@@ -85,8 +50,7 @@ E
 =====================RAZONAMIENTO======================
 Insoluble como sinónimo contextual de incomprensible.
 =====================PREGUNTA 5======================
-Si un filósofo pretendiera revisar el conocimiento admitido por la ciencia como
-definitivo 
+Si un filósofo pretendiera revisar el conocimiento admitido por la ciencia como definitivo 
 =====================ALTERNATIVAS======================
 A. Estaría fuera de lugar tal pretensión, por algo es “conocimiento definitivo”.
 B. Sería pertinente, pues para la filosofía no existe nada que sea “definitivo”
@@ -96,6 +60,4 @@ E. Queda en evidencia que no es un filósofo cabal, pues no respeta límites.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-Ejemplos de conocimientos asumidos por la propia ciencia como definitivos,
-y luego variados a la luz de la crítica, hay muchos. Tal pretensión filosófica es
-pertinente y ello se infiere de todo el texto.
+Ejemplos de conocimientos asumidos por la propia ciencia como definitivos, y luego variados a la luz de la crítica, hay muchos. Tal pretensión filosófica es pertinente y ello se infiere de todo el texto.

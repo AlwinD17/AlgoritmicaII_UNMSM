@@ -1,39 +1,6 @@
 ID: 90
 =====================TEXTO ======================
-En 1959, el genetista Dmitry K. Belyaev se propuso descifrar las bases genéticas de
-la domesticación del lobo. Sostenía que, si la intención humana hubiera jugado un papel en
-dicha domesticación, entonces los humanos habrían seleccionado a los lobos simplemente
-por su docilidad, seleccionando dentro de cada generación los animales más confiados,
-mansos y tolerantes a la presencia humana. Debido a que la mansedumbre y la agresividad
-dependerían en buen grado de los niveles de determinadas hormonas, entonces al
-seleccionar a favor de la docilidad y en contra de la agresividad estaríamos seleccionando
-al mismo tiempo rasgos fisiológicos. Así, la docilidad llevaría asociados automáticamente
-los rasgos físicos de la domesticación. El objeto del estudio de Belyaev fue el zorro plateado
-(Vulpes vulpes ),una especie de cánido próxima al lobo que jamás había estado
-domesticada, pero que era criada por la industria peletera. Belyaev empezó un ambicioso
-programa de cría en su laboratorio de Novosibirsk, Siberia, con 130 zorros. Se
-seleccionaban para la reproducción estricta y únicamente aquellos animales de mayor
-docilidad, para de este modo ver qué cambios experimentaban los zorros a lo largo de las
-generaciones. La docilidad se medía por la habilidad de los zorros jóvenes en comportarse
-de manera amistosa con sus cuidadores, moviendo la cola y lamiendo a los científicos. Los animales nunca fueron entrenados ni deliberadamente amansados, así pues el componente
-principal del grado de docilidad de cada animal sería genético.
-Belyaev falleció en 1985, pero el experimento fue continuado por su sucesora
-Lyudmila N. Trut. En 1999, 40 años después del inicio del osado experimento, la Dra. Trut
-escribió un artículo que daría a conocer al mundo los resultados, obtenidos después de
-criar unos 45 000 zorros durante más de 30 generaciones. Tal y como Belyaev había
-vaticinado ,junto con la docilidad aparecieron los otros rasgos propios de la domesticación,
-aun sin haber sido seleccionados intencionadamente. Los zorros domésticos presentaban
-manchas blancas, orejas colgante s, un cráneo más pequeño y la cola enrollada,
-características presentes en muchas razas de perros. También se produjeron cambios
-fisiológicos. Por ejemplo, los zorros domesticados tenían una secreción de adrenalina en
-respuesta al estrés mucho más baja que sus congéneres salvajes, siendo por consiguiente
-más calmados.
-Finalmente los investigadores rusos habían conseguido obtener un grupo de animales
-tan dóciles como un perro. Tan dóciles, que estos zorros podrían convertirse pronto en una
-mascota más, ya que se está estudiando su comercialización como animal de compañía.
-
-Sebastia, J. (27 de febrero de 2009). El largo experimento del Dr. Belyaev”.
-Recuperado el 27 de mayo del 2015, de: http://www.jordisebastia.com/Zorros3.html
+En 1959, el genetista Dmitry K. Belyaev se propuso descifrar las bases genéticas de la domesticación del lobo. Sostenía que, si la intención humana hubiera jugado un papel en dicha domesticación, entonces los humanos habrían seleccionado a los lobos simplemente por su docilidad, seleccionando dentro de cada generación los animales más confiados, mansos y tolerantes a la presencia humana. Debido a que la mansedumbre y la agresividad dependerían en buen grado de los niveles de determinadas hormonas, entonces al seleccionar a favor de la docilidad y en contra de la agresividad estaríamos seleccionando al mismo tiempo rasgos fisiológicos. Así, la docilidad llevaría asociados automáticamente los rasgos físicos de la domesticación. El objeto del estudio de Belyaev fue el zorro plateado (Vulpes vulpes ),una especie de cánido próxima al lobo que jamás había estado domesticada, pero que era criada por la industria peletera. Belyaev empezó un ambicioso programa de cría en su laboratorio de Novosibirsk, Siberia, con 130 zorros. Se seleccionaban para la reproducción estricta y únicamente aquellos animales de mayor docilidad, para de este modo ver qué cambios experimentaban los zorros a lo largo de las generaciones. La docilidad se medía por la habilidad de los zorros jóvenes en comportarse de manera amistosa con sus cuidadores, moviendo la cola y lamiendo a los científicos. Los animales nunca fueron entrenados ni deliberadamente amansados, así pues el componente principal del grado de docilidad de cada animal sería genético. Belyaev falleció en 1985, pero el experimento fue continuado por su sucesora Lyudmila N. Trut. En 1999, 40 años después del inicio del osado experimento, la Dra. Trut escribió un artículo que daría a conocer al mundo los resultados, obtenidos después de criar unos 45 000 zorros durante más de 30 generaciones. Tal y como Belyaev había vaticinado ,junto con la docilidad aparecieron los otros rasgos propios de la domesticación, aun sin haber sido seleccionados intencionadamente. Los zorros domésticos presentaban manchas blancas, orejas colgante s, un cráneo más pequeño y la cola enrollada, características presentes en muchas razas de perros. También se produjeron cambios fisiológicos. Por ejemplo, los zorros domesticados tenían una secreción de adrenalina en respuesta al estrés mucho más baja que sus congéneres salvajes, siendo por consiguiente más calmados. Finalmente los investigadores rusos habían conseguido obtener un grupo de animales tan dóciles como un perro. Tan dóciles, que estos zorros podrían convertirse pronto en una mascota más, ya que se está estudiando su comercialización como animal de compañía.  Sebastia, J. (27 de febrero de 2009). El largo experimento del Dr. Belyaev”. Recuperado el 27 de mayo del 2015, de: http://www.jordisebastia.com/Zorros3.html
 =====================PREGUNTA 1======================
 1. ¿Cuál es la idea principal del texto?
 =====================ALTERNATIVAS======================
@@ -43,8 +10,7 @@ C) El objeto de estudio de Dmitry K. Belyaev fue el zorro plateado ( Vulpes vulp
 D) Luego de la muerte en 1985 de Belyaev, Lyudmila N. Trut tomó la posta del importante experimento con los zorro s.
 E) Dmitry K. Belyaev ejecutó un ambicioso programa de cría en su laboratorio de la Unión Soviética con 130 zorros plateados.
 =====================RAZONAMIENTO======================
-Belyaev sostenía que los humanos habrían seleccionado a los lobos por su
-docilidad, la cual resultó vinculada con rasgos morfológicos y fisiológicos.
+Belyaev sostenía que los humanos habrían seleccionado a los lobos por su docilidad, la cual resultó vinculada con rasgos morfológicos y fisiológicos.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================PREGUNTA 2======================
@@ -56,8 +22,7 @@ C) argüir.
 D) profetizar. 
 E) presentir.
 =====================RAZONAMIENTO======================
-Belyaev anunció con antelación, gracias a sus conocimientos científicos, lo
-que iba a suceder.
+Belyaev anunció con antelación, gracias a sus conocimientos científicos, lo que iba a suceder.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================PREGUNTA 3======================
@@ -69,8 +34,7 @@ C) fue reemplazado por L. Trut debido a las inconsistencias de sus hipótesis .
 D) ordenó seleccionar únicamente a los zorros más dóciles para su investigación .
 E) trataba de comprender las oscuras bases genéticas de la domesticación del lobo.
 =====================RAZONAMIENTO======================
-Tras la muerte de Belyaev, Lyudmila Trut lo reemplazó y pudo corroborar
-la hipótesis de aquel.
+Tras la muerte de Belyaev, Lyudmila Trut lo reemplazó y pudo corroborar la hipótesis de aquel.
 =====================ALTERNATIVA CORRECTA======================
 C 
 =====================PREGUNTA 4======================
@@ -82,13 +46,11 @@ C) ostentan el marcado sesgo ideológico de la extinta Unión Soviética.
 D) son poco fiables porque Belyaev murió sin concluirlo adecuadamente.
 E) se extrapolaron al caso de los lobos para explicar el origen del perro.
 =====================RAZONAMIENTO======================
-La hipótesis de Belyaev habla de los lobos, mientras que la corroboración
-de la misma se hace con zorros.
+La hipótesis de Belyaev habla de los lobos, mientras que la corroboración de la misma se hace con zorros.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================PREGUNTA 5======================
-5. Si los zorros plateados del experimento, en contraste con sus congéneres salvajes,
-no hubieran registrado cambios significativos en la secreción de adrenalina,
+5. Si los zorros plateados del experimento, en contraste con sus congéneres salvajes, no hubieran registrado cambios significativos en la secreción de adrenalina,
 =====================ALTERNATIVAS======================
 A) su cráneo habría aumentado en tamaño con el tiempo.
 B) se habría cumplido todo lo que pronosticó D. Belyaev.
@@ -96,7 +58,6 @@ C) habrían conservado la fiereza ante los investigadores.
 D) se los podría comercializar como adorables mascotas.
 E) el experimento de D. Belyaev habría sido todo un éxito.
 =====================RAZONAMIENTO======================
-Los niveles de secreción de adrenalina están relacionados con el hecho de
-que los zorros fueran más calmados.
+Los niveles de secreción de adrenalina están relacionados con el hecho de que los zorros fueran más calmados.
 =====================ALTERNATIVA CORRECTA======================
 C

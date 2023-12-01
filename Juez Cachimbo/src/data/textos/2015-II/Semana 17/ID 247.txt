@@ -1,12 +1,6 @@
 ID: 247
 =====================TEXTO======================
-I) Alexis II nació en Estonia en 1929 en una familia de nobles rusos emigrantes. II)
-Alexis II presidió la Iglesia Ortodoxa Rusa desde el renacimiento de esta, en 1990,
-hasta su muerte en diciembre de 2008. III) Su historia es la historia de la Iglesia y su
-lucha contra el Estado. IV) Alexis sirvió como sacerdote y obispo durante 58 años bajo
-el régimen soviético, que redujo a la Iglesia a un culto poco tolerado. V) Alexis tomó
-como personal la misión de identificar a las víctimas de persecución comunista que, a
-ojos de la Iglesia, murieron por su fe cristiana.
+I) Alexis II nació en Estonia en 1929 en una familia de nobles rusos emigrantes. II) Alexis II presidió la Iglesia Ortodoxa Rusa desde el renacimiento de esta, en 1990, hasta su muerte en diciembre de 2008. III) Su historia es la historia de la Iglesia y su lucha contra el Estado. IV) Alexis sirvió como sacerdote y obispo durante 58 años bajo el régimen soviético, que redujo a la Iglesia a un culto poco tolerado. V) Alexis tomó como personal la misión de identificar a las víctimas de persecución comunista que, a ojos de la Iglesia, murieron por su fe cristiana.
 =====================PREGUNTA 1======================
 Elimine una oración 
 =====================ALTERNATIVAS======================
@@ -18,5 +12,4 @@ E. V
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-Se elimina la I por impertinencia. El tema es la importancia de Alexis II en la
-constitución de la Iglesia Ortodoxa Rusa.
+Se elimina la I por impertinencia. El tema es la importancia de Alexis II en la constitución de la Iglesia Ortodoxa Rusa.

@@ -1,30 +1,6 @@
 ID: 120
 =====================TEXTO======================
-Un pariente de las pirañas con un mítico gusto por la carne humana fue encontrado
-en un lago de Nueva Jersey hace unos días, desencadenando temores sobre la
-propagación de especies invasoras. El pez, considerado un pacú sudamericano, es famoso
-por sus dientes, que tienen un inquietante parecido con los dientes humanos. Los pacús se
-alimentan principalmente de plantas y se cree que por lo general son inofensivos para las
-personas, a pesar de su parentesco con las pirañas. Pero ocasionalmente comen otros
-peces y pueden vencer especies nativas o propagar parásitos o enfermedades.
-Los pacús normalmente transitan por las aguas del Amazonas y otros sistemas
-pluviales de América del Sur, pero el pescador Ron Rossi atrapó uno en el lago Swedes,
-en el sur de Nueva Jersey. El Departamento de Protección Ambiental del Estado dijo en un
-comunicado: «Muchas veces, estos peces son depositados en lagos por propietarios de
-mascotas. Estos peces no sobreviven en agua fría, por lo que pedimos a las personas que
-no los liberen en el medio natural, sino que humanamente destruyan los peces».
-Los pacús a menudo son tratados como mascotas de acuario, aunque pueden crecer
-y pesar mucho (1 m de largo y 20 kilos) como para que personas cuiden de ellos. El
-espécimen encontrado en Nueva Jersey parece tener sólo una s cuantas pulgadas de largo,
-de acuerdo con una foto. El pez Pacú tiene una mala reputación en línea, pues muchas
-personas creen que muerde los testículos humanos, supuestamente porque los confunde
-con frutos secos. Los temores se han generalizado de tal m anera que incluso algunos
-funcionarios han recomendado que los hombres naden con sus trajes de baño bien atados.
-Se han reportado algunos incidentes de mordeduras en humanos, pero los temores de que
-ellos elijan como blanco a las personas son desmedidos , dice Peter Rask Møller, experto
-en peces de la Universidad de Dinamarca en Copenhague. «Sus dientes y su poderosa
-mordedura seguro son un peligro, pero sufrir una mordedura es muy poco probable», insiste
-Møller.
+Un pariente de las pirañas con un mítico gusto por la carne humana fue encontrado en un lago de Nueva Jersey hace unos días, desencadenando temores sobre la propagación de especies invasoras. El pez, considerado un pacú sudamericano, es famoso por sus dientes, que tienen un inquietante parecido con los dientes humanos. Los pacús se alimentan principalmente de plantas y se cree que por lo general son inofensivos para las personas, a pesar de su parentesco con las pirañas. Pero ocasionalmente comen otros peces y pueden vencer especies nativas o propagar parásitos o enfermedades. Los pacús normalmente transitan por las aguas del Amazonas y otros sistemas pluviales de América del Sur, pero el pescador Ron Rossi atrapó uno en el lago Swedes, en el sur de Nueva Jersey. El Departamento de Protección Ambiental del Estado dijo en un comunicado: «Muchas veces, estos peces son depositados en lagos por propietarios de mascotas. Estos peces no sobreviven en agua fría, por lo que pedimos a las personas que no los liberen en el medio natural, sino que humanamente destruyan los peces». Los pacús a menudo son tratados como mascotas de acuario, aunque pueden crecer y pesar mucho (1 m de largo y 20 kilos) como para que personas cuiden de ellos. El espécimen encontrado en Nueva Jersey parece tener sólo una s cuantas pulgadas de largo, de acuerdo con una foto. El pez Pacú tiene una mala reputación en línea, pues muchas personas creen que muerde los testículos humanos, supuestamente porque los confunde con frutos secos. Los temores se han generalizado de tal m anera que incluso algunos funcionarios han recomendado que los hombres naden con sus trajes de baño bien atados. Se han reportado algunos incidentes de mordeduras en humanos, pero los temores de que ellos elijan como blanco a las personas son desmedidos , dice Peter Rask Møller, experto en peces de la Universidad de Dinamarca en Copenhague. «Sus dientes y su poderosa mordedura seguro son un peligro, pero sufrir una mordedura es muy poco probable», insiste Møller.
 =====================PREGUNTA 1======================
 Centralmente, el autor aborda
 =====================ALTERNATIVAS======================
@@ -33,12 +9,10 @@ B. el hallazgo de un pez pacú con dientes similares a los humanos en New Jersey
 C. la investigación de los pacús por el experto en peces de Dinamarca, Rask Møller.
 D. el tratamiento de los pacús como mascotas en acuarios de coleccionistas de peces.
 E. las exageradas historias de cercenamientos de testículos por la mordida de pacús.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-El texto aborda el tema del hallazgo de un espécimen de pez pacú con
-dientes similares a los humanos en Nueva Jersey.
+El texto aborda el tema del hallazgo de un espécimen de pez pacú con dientes similares a los humanos en Nueva Jersey.
 =====================PREGUNTA 2======================
 La palabra DESMEDIDO en el texto se puede reemplazar por
 =====================ALTERNATIVAS======================
@@ -47,27 +21,22 @@ B. arriscado.
 C. asolado.
 D. exagerado.
 E. interminable.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-El vocablo es usado para referirse al miedo exagerado que ha originado
-este pez. Por esa razón, DESMEDIDO es sinónimo de EXAGERADO.
+El vocablo es usado para referirse al miedo exagerado que ha originado este pez. Por esa razón, DESMEDIDO es sinónimo de EXAGERADO.
 =====================PREGUNTA 3======================
-Resulta compatible con el desarrollo textual afirmar que el espécimen encontrado en
-Nueva Jersey.
+Resulta compatible con el desarrollo textual afirmar que el espécimen encontrado en Nueva Jersey.
 =====================ALTERNATIVAS======================
 A. cuenta con apenas unas pulgadas de longitud a diferencia de otras especies.
 B. presenta dientes filosos similares a los de las pirañas de ríos desconocidos.
 C. es excesivamente violento y se han reportado casos de ataques a humanos.
 D. se ha compro bado que es capaz de morder los testículos de los pobladores.
 E. son resistentes al agua fría y se alimentan de peces agresivos como ellos.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-La única aserción compatible es la detectada en A, pues hace referencia a
-la longitud, sensiblemente menor en comparación con otras especies sudamericanas.
+La única aserción compatible es la detectada en A, pues hace referencia a la longitud, sensiblemente menor en comparación con otras especies sudamericanas.
 =====================PREGUNTA 4======================
 Es posible deducir del desarrollo textual que el temor desmedido que despierta el pacú
 =====================ALTERNATIVAS======================
@@ -76,24 +45,19 @@ B. desaparecería si los dientes de este fueran similares a los de una piraña d
 C. fue ocasionado por la recomendación persistente realizada por los funcionarios.
 D. carece de fundamentos consistentes, pues es poco probable que ataque gente.
 E. se debe al documentado estudio llevado a cabo por el experto danés R. Møller.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-El temor que se siente por este pez carece de sustento, pues según el
-especialista danés, es poco probable que el pez ataque humanos.
+El temor que se siente por este pez carece de sustento, pues según el especialista danés, es poco probable que el pez ataque humanos.
 =====================PREGUNTA 5======================
-Si los estudios de Rask Møller arrojaran pruebas contundentes de mordidas mortales
-del pacú en humanos,
+Si los estudios de Rask Møller arrojaran pruebas contundentes de mordidas mortales del pacú en humanos,
 =====================ALTERNATIVAS======================
 A. los especímenes detectados habrían de contar con una gran longitud y peso.
 B. la Universidad de Dinamarca sería pionera en la captura de este gran pez.
 C. este car ecería de poder para propagar enfermedades mortales o parásitos.
 D. la dentadura del pez tendría que tener una mayor similitud con carnívoros.
 E. se justificaría el accionar llevado a cabo por funcionarios en Nueva Jersey.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-Si los ataques estuvieran documentados, la exhortación a la protección y la
-toma de medidas para evitarlos se justificarían.
+Si los ataques estuvieran documentados, la exhortación a la protección y la toma de medidas para evitarlos se justificarían.

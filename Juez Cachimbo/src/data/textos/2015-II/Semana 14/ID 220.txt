@@ -1,13 +1,6 @@
 ID: 220
 =====================TEXTO======================
-I) Genji monogatari (Historia de Genji) es a menudo considerada la primera gran
-novela en la literatura mundial. II ) La autora de la obra Genji monogatari , Murasaki
-Shibuku, nació alrededor del año 978 y pasó la mayor parte de su vida en o cerca de
-la corte imperial en Kioto. III ) La novela consta de 54 libros o capítulos que narran la
-vida y los romances de l Príncipe Genji, el joven, guapo y talentoso hijo de un
-emperador. IV ) La novela se destaca por su estilo elegante, los complejos retratos de
-personajes y las descripciones de las emociones humanas. V ) No se conoce su
-método de composición ni la fecha exacta en la que se escribió la Historia de Genji.
+I) Genji monogatari (Historia de Genji) es a menudo considerada la primera gran novela en la literatura mundial. II ) La autora de la obra Genji monogatari , Murasaki Shibuku, nació alrededor del año 978 y pasó la mayor parte de su vida en o cerca de la corte imperial en Kioto. III ) La novela consta de 54 libros o capítulos que narran la vida y los romances de l Príncipe Genji, el joven, guapo y talentoso hijo de un emperador. IV ) La novela se destaca por su estilo elegante, los complejos retratos de personajes y las descripciones de las emociones humanas. V ) No se conoce su método de composición ni la fecha exacta en la que se escribió la Historia de Genji.
 =====================PREGUNTA 1======================
 Elimine una oración 
 =====================ALTERNATIVAS======================
@@ -19,5 +12,4 @@ E. V
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-Se elimina la oración V por impertinencia. El tema refiere a la primera gran
-novela de la literatura mundial, no a la vida de su autora.
+Se elimina la oración V por impertinencia. El tema refiere a la primera gran novela de la literatura mundial, no a la vida de su autora.

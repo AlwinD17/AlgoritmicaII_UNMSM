@@ -1,11 +1,6 @@
 ID: 206
 =====================TEXTO======================
-I) El hemisferio norte es una de las divisiones geodésicas clásicas en que se divide la
-Tierra . II) En el hemisferio norte las estaciones del año ocurren en forma inversa al
-hemisferio s ur. III) Así, el verano boreal se extiende entre junio y septiembre ,mientras
-el invierno lo hace entre diciembre y marzo . IV) Debido a que el perihelio ocurre en
-enero , el verano boreal es más largo que el austral y más cálido. V) A la inversa, el
-invierno borea l es más corto que el austral y menos severo.
+I) El hemisferio norte es una de las divisiones geodésicas clásicas en que se divide la Tierra . II) En el hemisferio norte las estaciones del año ocurren en forma inversa al hemisferio s ur. III) Así, el verano boreal se extiende entre junio y septiembre ,mientras el invierno lo hace entre diciembre y marzo . IV) Debido a que el perihelio ocurre en enero , el verano boreal es más largo que el austral y más cálido. V) A la inversa, el invierno borea l es más corto que el austral y menos severo.
 =====================PREGUNTA 1======================
 Elimine una oración 
 =====================ALTERNATIVAS======================
@@ -17,5 +12,4 @@ E. I
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-El tema tiene que ver con las estaciones del año en el hemisferio norte, por
-lo tanto el primer enunciado es inatingente.
+El tema tiene que ver con las estaciones del año en el hemisferio norte, por lo tanto el primer enunciado es inatingente.

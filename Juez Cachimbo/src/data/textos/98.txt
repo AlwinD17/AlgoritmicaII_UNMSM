@@ -1,37 +1,6 @@
 ID: 98
 =====================TEXTO======================
-En julio de 1974, cuando el gobierno militar tomó por asalto los diarios de Lima con el
-propósito de “transferirlos a las mayorías nacionales” –transferencia que consistió,
-naturalmente, en convertirlos, de inmediato y hasta ahora, e n sus cacofónicos órganos de
-propaganda – se inició también un curioso fenómeno que podría denominarse la
-desmitificación del intelectual en el Perú.
-Hasta entonces, en este, como en casi todos los países latinoamericanos –una de las
-excepciones es México, donde, a partir de la revolución, muchos intelectuales fueron
-burocratizados –, existía la creencia, mejor dicho el mito, de que la intelectualidad
-constituía algo así como la reserva moral de la nación. Se pensaba que este cuerpo
-pequeño, desvalido, que sobrevivía en condiciones heroicas en un medio donde el
-quehacer artístico, la investigación, el pensamiento no solo no eran apoyados sino a
-menudo hostilizados por el poder, se conservaba incontaminado de la decadencia o
-corrupción que había ido socavando prácticamente a toda la sociedad: la administración, la
-justicia, las instituciones, los partidos, las fuerzas armadas, los sindicatos, las
-universidades. Marginado de los poderes político y económico, las dos grandes fuentes de
-corrupción –sobre todo en un país de desigualdades inmensas y de cuartelazos y fraudes
-electorales, con brevísimos y siempre frustrados intentos democráticos – el intelectual
-peruano, solidario de causas de izquierda, repartido en un espectro que abarcaba desde la
-socialdemocracia hasta todas las variantes del marxismo, aparecía, pese a su escasa
-audiencia y su influencia casi nula en la vida del país, como el depositario de valores que
-en otras esferas de la vida peruana habían desaparecido: la coherencia entre la teoría y la
-práctica y la visión idealista, exenta de cálculo mezquino, de la política. La modestia y
-dificultades de su vida –que era el precio que pagaba para ejercer su vocación – parecían
-la mejor garantía de su integridad.
-Como todos los mitos, este tenía unas raíces en la realidad y un tronco y ramaje
-imaginarios. Lo cierto era la marginación del intelectual del poder. Lo falso, que esto fuera
-una elección suya, una manifestación de independencia crítica y de lucidez moral. La
-verdad era que el intelectual no se había sentado a la mesa del poder porque, salvo raras
-excepciones, no había sido tolerado en ella.
-
-Vargas Llosa, Mario, “El intelectual barato”. En El mundo de los clásicos II . Lima, UNMSM -CEPRE -
-Fondo Editorial, 2012.
+En julio de 1974, cuando el gobierno militar tomó por asalto los diarios de Lima con el propósito de “transferirlos a las mayorías nacionales” –transferencia que consistió, naturalmente, en convertirlos, de inmediato y hasta ahora, e n sus cacofónicos órganos de propaganda – se inició también un curioso fenómeno que podría denominarse la desmitificación del intelectual en el Perú. Hasta entonces, en este, como en casi todos los países latinoamericanos –una de las excepciones es México, donde, a partir de la revolución, muchos intelectuales fueron burocratizados –, existía la creencia, mejor dicho el mito, de que la intelectualidad constituía algo así como la reserva moral de la nación. Se pensaba que este cuerpo pequeño, desvalido, que sobrevivía en condiciones heroicas en un medio donde el quehacer artístico, la investigación, el pensamiento no solo no eran apoyados sino a menudo hostilizados por el poder, se conservaba incontaminado de la decadencia o corrupción que había ido socavando prácticamente a toda la sociedad: la administración, la justicia, las instituciones, los partidos, las fuerzas armadas, los sindicatos, las universidades. Marginado de los poderes político y económico, las dos grandes fuentes de corrupción –sobre todo en un país de desigualdades inmensas y de cuartelazos y fraudes electorales, con brevísimos y siempre frustrados intentos democráticos – el intelectual peruano, solidario de causas de izquierda, repartido en un espectro que abarcaba desde la socialdemocracia hasta todas las variantes del marxismo, aparecía, pese a su escasa audiencia y su influencia casi nula en la vida del país, como el depositario de valores que en otras esferas de la vida peruana habían desaparecido: la coherencia entre la teoría y la práctica y la visión idealista, exenta de cálculo mezquino, de la política. La modestia y dificultades de su vida –que era el precio que pagaba para ejercer su vocación – parecían la mejor garantía de su integridad. Como todos los mitos, este tenía unas raíces en la realidad y un tronco y ramaje imaginarios. Lo cierto era la marginación del intelectual del poder. Lo falso, que esto fuera una elección suya, una manifestación de independencia crítica y de lucidez moral. La verdad era que el intelectual no se había sentado a la mesa del poder porque, salvo raras excepciones, no había sido tolerado en ella.  Vargas Llosa, Mario, “El intelectual barato”. En El mundo de los clásicos II . Lima, UNMSM -CEPRE - Fondo Editorial, 2012.
 =====================PREGUNTA 1======================
 1. La expresión BUROCRATIZADOS implica que los intelectuales
 =====================ALTERNATIVAS======================
@@ -41,10 +10,7 @@ C) perdieron sus capacidades académicas.
 D) obtuvieron importantes cátedras universitarias.
 E) se concentraron en labores de oficina.
 =====================RAZONAMIENTO======================
-Burocracia es el grupo social encargado de las tareas administrativas del
-Estado, sus empleados. El autor alude al proceso por el cual los intelectuales dejan
-de ser independientes y empiezan a trabajar para el Gobierno en los medios de
-comunicación expro piados por este.
+Burocracia es el grupo social encargado de las tareas administrativas del Estado, sus empleados. El autor alude al proceso por el cual los intelectuales dejan de ser independientes y empiezan a trabajar para el Gobierno en los medios de comunicación expro piados por este.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================PREGUNTA 2======================
@@ -56,8 +22,7 @@ C) describir el estereotipo del intelectual que en nuestro país se había cread
 D) criticar la marginación del intelectual ejercida por el Estado peruano.
 E) dilucidar los factores que contribuyeron a crear el mito del intelectual.
 =====================RAZONAMIENTO======================
-El autor describe cómo era supuestamente e l intelectual peruano en la
-visión idealizada de muchos sectores sociales.
+El autor describe cómo era supuestamente e l intelectual peruano en la visión idealizada de muchos sectores sociales.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================PREGUNTA 3======================
@@ -69,10 +34,7 @@ C) la exclusión sería el castigo que los grupos de poder infligirían a los se
 D) el mito del intelectual latinoamericano une elementos de la realidad con otros ficticios.
 E) los intelectuales de derecha compartían la situación de marginación de sus homólogos izquierdistas.
 =====================RAZONAMIENTO======================
-Se deduce que las dificultades económicas y sociales que caracterizaban
-a los intelectuales se debían a una acción consciente de los grupos de poder que,
-sistemáticamente los marginaba. “ La verdad era que el intelectual no se había sentado
-a la mesa del poder porque, salvo raras excepciones, no había sido tolerado en ella”.
+Se deduce que las dificultades económicas y sociales que caracterizaban a los intelectuales se debían a una acción consciente de los grupos de poder que, sistemáticamente los marginaba. “ La verdad era que el intelectual no se había sentado a la mesa del poder porque, salvo raras excepciones, no había sido tolerado en ella”.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================PREGUNTA 4======================
@@ -84,13 +46,11 @@ C) el campo de los intelectuales latinoamericanos presentaba una notable homogen
 D) la falta de democracia en nuestros países colaboraba en mantener a los intelectuales en situación de parias.
 E) el intelectual latinoamericano asumía, aparentemente, una postura de rechazo a las veleidades del poder.
 =====================RAZONAMIENTO======================
-El campo de los intelectuales abarcaba un amplio espectro ideológico
-dentro de la izquierda.
+El campo de los intelectuales abarcaba un amplio espectro ideológico dentro de la izquierda.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================PREGUNTA 5======================
-5. Si el Estado hubiera admitido de buena gana en los círculos del poder a los sectores
-más críticos
+5. Si el Estado hubiera admitido de buena gana en los círculos del poder a los sectores más críticos
 =====================ALTERNATIVAS======================
 A) en México la burocratización del intelectual sería ínfima.
 B) la política estaría exenta de todo cálculo político.
@@ -98,8 +58,6 @@ C) el mito del intelectual latinoamericano no habría prosperado.
 D) el campo de los intelectuales habría rechazado el marxismo.
 E) no se habría necesitado la medida de apropiarse de los medios.
 =====================RAZONAMIENTO======================
-El origen del mito del intelectual latinoamericano se debía a la marginación
-sistemática de este por parte de los grupos de poder. Si no hubiera sido así, este mito
-no habría prosperado.
+El origen del mito del intelectual latinoamericano se debía a la marginación sistemática de este por parte de los grupos de poder. Si no hubiera sido así, este mito no habría prosperado.
 =====================ALTERNATIVA CORRECTA======================
 C

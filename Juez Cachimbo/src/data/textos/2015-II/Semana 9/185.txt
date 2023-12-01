@@ -1,91 +1,64 @@
 ID 185
-
-=====Texto 3======
-Hypnos, tal vez cansado del tedioso, gris y largo descanso de los seres vivos durante las largas noches de tantos millones de años, mandó a su hijo Morfeo para colorear y enriquecer ese período de quiescencia con los ensueños. Y es así como ese largo tiempo, en el que los mamíferos se sumergen en ese mundo de oscuridad e inconsciencia (sueño superficial), se hizo más dulce. Surgió entonces un tipo de sueño nuevo dentro del sueño. Apareció el sueño REM, aun cuando esto no ocurrió de pronto. Con el paso de los reptiles a los mamíferos, hace unos 180 millones de años, algo realmente sorprendente e impredecible sucedió durante un tiempo que se puede estimar alrededor de los 20 -50 millones de años. El pequeño mamífero, en la profundidad de los bosques, adquirió, entre otras muchas cosas, la capacidad de regular la temperatura de su propio cuerpo y mantenerla así constante e independiente de las fluctuaciones de la temperatura del medio ambiente. También adquirió un cerebro más grande que el de los reptiles. Y, por último, ese cerebro vino equipado con el fenómeno del sueño completo. ¿En qué medida un cerebro más grande trajo consigo la temperatura cerebral constante y el sueño? ¿O fue, quizás, que la aparición primero del control de la temperatura corporal y el sueño trajeron después la adquisición de un cerebro más grande?
-
-Desde 1950 sabemos que este tipo de sueño, el sueño REM, se acompaña de ensueños largos y de rico contenido temático, como refiere gente a la que se le despierta en medio de un registro electroencefalograma típico de este sueño. No quiere ello decir que con el sueño no REM no haya ensueños, pues también los hay, pero estos últimos parecen ser más cortos y menos ricos en acontecimientos.
-
-Morfeo tuvo tiempo, en esos 180 millones de años, de jugar y diversificar la duración del sueño REM en la inmensa variedad de mamíferos que luego aparecieron. Así, desde el hombre, que viene a soñar unas dos horas cada noche, hasta el delfín que no sueña, hay un amplio espectro en la duración de este tipo de sueño. En general, se ha querido ver una buena correlación entre el tiempo total que un animal dedica a dormir y la duración del sueño REM. Animales que duermen poco tiempo tienen poco sueño REM. Y animales como el murciélago, el armadillo, los hurones y otros, que duermen entre 14 y 20 horas, tienen más de tres horas del sueño REM. Frente a ellos, otros animales como el conejo de indias, la oveja, el caballo ola jirafa, que duermen un total de 3 a 4 horas, apenas si tienen media hora de sueño REM.
-
-Rodríguez, G. (2008). Traducciones peruanas . Lima: Norma.
-
-=====Pregunta 1======
+=====================TEXTO======================
+Hypnos, tal vez cansado del tedioso, gris y largo descanso de los seres vivos durante las largas noches de tantos millones de años, mandó a su hijo Morfeo para colorear y enriquecer ese período de quiescencia con los ensueños. Y es así como ese largo tiempo, en el que los mamíferos se sumergen en ese mundo de oscuridad e inconsciencia (sueño superficial), se hizo más dulce. Surgió entonces un tipo de sueño nuevo dentro del sueño. Apareció el sueño REM, aun cuando esto no ocurrió de pronto. Con el paso de los reptiles a los mamíferos, hace unos 180 millones de años, algo realmente sorprendente e impredecible sucedió durante un tiempo que se puede estimar alrededor de los 20 -50 millones de años. El pequeño mamífero, en la profundidad de los bosques, adquirió, entre otras muchas cosas, la capacidad de regular la temperatura de su propio cuerpo y mantenerla así constante e independiente de las fluctuaciones de la temperatura del medio ambiente. También adquirió un cerebro más grande que el de los reptiles. Y, por último, ese cerebro vino equipado con el fenómeno del sueño completo. ¿En qué medida un cerebro más grande trajo consigo la temperatura cerebral constante y el sueño? ¿O fue, quizás, que la aparición primero del control de la temperatura corporal y el sueño trajeron después la adquisición de un cerebro más grande? Desde 1950 sabemos que este tipo de sueño, el sueño REM, se acompaña de ensueños largos y de rico contenido temático, como refiere gente a la que se le despierta en medio de un registro electroencefalograma típico de este sueño. No quiere ello decir que con el sueño no REM no haya ensueños, pues también los hay, pero estos últimos parecen ser más cortos y menos ricos en acontecimientos. Morfeo tuvo tiempo, en esos 180 millones de años, de jugar y diversificar la duración del sueño REM en la inmensa variedad de mamíferos que luego aparecieron. Así, desde el hombre, que viene a soñar unas dos horas cada noche, hasta el delfín que no sueña, hay un amplio espectro en la duración de este tipo de sueño. En general, se ha querido ver una buena correlación entre el tiempo total que un animal dedica a dormir y la duración del sueño REM. Animales que duermen poco tiempo tienen poco sueño REM. Y animales como el murciélago, el armadillo, los hurones y otros, que duermen entre 14 y 20 horas, tienen más de tres horas del sueño REM. Frente a ellos, otros animales como el conejo de indias, la oveja, el caballo ola jirafa, que duermen un total de 3 a 4 horas, apenas si tienen media hora de sueño REM. Rodríguez, G. (2008). Traducciones peruanas . Lima: Norma.
+=====================PREGUNTA 1======================
 El término PROSPECTO alude a
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) medio de información.
 B) programa de acción.
 C) perspectiva de negocio.
 D) público objetivo.
 E) modelo de conducta.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 D
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El término alude a la persona a la que se dirige el mensaje publicitario, esto es, al posible comprador o público objetivo.
-
-=====Pregunta 2======
+=====================PREGUNTA 2======================
 Se infiere que en la novela citada por el autor al inicio, Octave, el protagonista, adopta una actitud
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) escéptica.
 B) esteticista.
 C) cínica.
 D) frívola.
 E) abúlica.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 C
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El publicista declara descaradamente sus verdaderas intenciones como publicista: lucrar con las carencias e ingenuidad de los demás.
-
-=====Pregunta 3======
+=====================PREGUNTA 3======================
 En el texto, la expresión DE BOCA PARA AFUERA connota
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) hipocresía.
 B) cansancio.
 C) evidencia.
 D) seguridad.
 E) irreflexión.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 A
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 La expresión se usa para indicar que algo se dice o manifiesta por compromiso, sin sentirlo verdaderamente.
-
-=====Pregunta 4======
+=====================PREGUNTA 4======================
 Resulta inconsistente con el desarrollo del texto afirmar que el sueño REM
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) es exclusivo de los mamíferos superiores.
 B) posee un registro encefalográfico distintivo.
 C) puede haber contribuido al mayor tamaño del cerebro.
 D) produce ensueños más vív idos y variados.
 E) disminuye según el tamaño de la especie.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 A
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Se presenta, según el texto, en diferentes tipos de mamíferos, no solo los superiores.
-
-=====Pregunta 5======
+=====================PREGUNTA 5======================
 Si el sueño REM no se relacionara con un registro encefalográfico distintivo ,
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) los sujetos no recordarían sus sueños a poco de despertar.
 B) no podría considerársele una etapa diferenciada del sueño.
 C) su duración no variaría según la especie de mamífero.
 D) las ensoñaciones que produce presentarían pocos temas.
 E) brindaría un descanso menos significativo al individuo.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 B
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Para que el sueño REM se pueda considerar una etapa específica debe tener rasgos cualitativamente distintos al resto del sueño.
 

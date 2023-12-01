@@ -1,17 +1,6 @@
 ID: 209
 =====================TEXTO======================
-I) El pergamino destinado a la confección de libros y documentos se fabricaba con
-pieles de animales jóvenes (cordero, ternero o cabrito) porque los adultos
-proporcionaban una membrana recia y basta que dificultaba el cosido de los
-cuadernos. II) De las tres partes que componen una piel, el pergamino se fabrica solo
-con la dermis, debiendo eliminar la epidermis y la hipodermis durante el proceso de
-manufactura. III) Para facilitar su separación, las pieles se sumergen en una solución
-de cal que permitirá efectuar el pelado y el descarnado. IV) A continuación, se tensan
-en un caballete para su estiramiento y acabado, mientras con la ayuda de piedra
-pómez se frota la superficie resultante a fin de eliminar las últimas impurezas y pulir la
-superficie de escritura. V) El pergamino de mayor calidad era la vitela que se reservaba
-para los códic es más lujosos mientras que, el pergamino más basto se utilizaba para
-hacer tambores, panderetas o similar.
+I) El pergamino destinado a la confección de libros y documentos se fabricaba con pieles de animales jóvenes (cordero, ternero o cabrito) porque los adultos proporcionaban una membrana recia y basta que dificultaba el cosido de los cuadernos. II) De las tres partes que componen una piel, el pergamino se fabrica solo con la dermis, debiendo eliminar la epidermis y la hipodermis durante el proceso de manufactura. III) Para facilitar su separación, las pieles se sumergen en una solución de cal que permitirá efectuar el pelado y el descarnado. IV) A continuación, se tensan en un caballete para su estiramiento y acabado, mientras con la ayuda de piedra pómez se frota la superficie resultante a fin de eliminar las últimas impurezas y pulir la superficie de escritura. V) El pergamino de mayor calidad era la vitela que se reservaba para los códic es más lujosos mientras que, el pergamino más basto se utilizaba para hacer tambores, panderetas o similar.
 =====================PREGUNTA 1======================
 Elimine una oración 
 =====================ALTERNATIVAS======================
@@ -23,6 +12,5 @@ E. V
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-Se elimina por inatingencia. El tema es la fabricación del pergamino y no
-su calidad.
+Se elimina por inatingencia. El tema es la fabricación del pergamino y no su calidad.
 

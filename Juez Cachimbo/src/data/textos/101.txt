@@ -2,8 +2,7 @@ ID: 101
 =====================TEXTO======================
 LA VERDAD DE LAS MENTIRAS
 =====================PREGUNTA 1======================
-1. Del texto se puede colegir que tanto los oficiales del Leoncio Prado como la primera
-mujer del autor
+1. Del texto se puede colegir que tanto los oficiales del Leoncio Prado como la primera mujer del autor
 =====================ALTERNATIVAS======================
 A) aseguraron ser v íctimas de un escritor chantajista.
 B) no comprendieron bien que toda literatura es ficción.
@@ -11,13 +10,11 @@ C) se sintieron reivindicados en la prosa de este.
 D) creen que toda ficción tiende a ser literatura.
 E) pensaron que Vargas Llosa merecía el Nobel.
 =====================RAZONAMIENTO======================
-No se escriben novelas para contar la vida sino para transformarla,
-añadiéndole algo.
+No se escriben novelas para contar la vida sino para transformarla, añadiéndole algo.
 =====================ALTERNATIVA CORRECTA=====================
 B
 =====================PREGUNTA 2======================
-2. De lo comentado por el autor sobre el Tirant lo Blanc ,se infiere que leer una novela
-implica
+2. De lo comentado por el autor sobre el Tirant lo Blanc ,se infiere que leer una novela implica
 =====================ALTERNATIVAS======================
 A) siempre un exceso. 
 B) una actitud rebelde.
@@ -25,8 +22,7 @@ C) un acuerdo implícito.
 D) solamente tiempo libre.
 E) un acto heroico.
 =====================RAZONAMIENTO======================
-No hay engaño porque, cuando abrimos un libro de ficción, acomodamos
-nuestro ánimo para asistir a nuestra representación.
+No hay engaño porque, cuando abrimos un libro de ficción, acomodamos nuestro ánimo para asistir a nuestra representación.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================PREGUNTA 3======================
@@ -38,13 +34,11 @@ C) implica siempre la confluencia de vidas paralelas.
 D) nunca puede recurrir a construcciones hiperbólicas.
 E) no debería ser sometida a cotejo historiográfico.
 =====================RAZONAMIENTO======================
-Documentar los errores históricos de una novela sería una pérdida de
-tiempo.
+Documentar los errores históricos de una novela sería una pérdida de tiempo.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================PREGUNTA 4======================
-4. Al prohibir la lectura de las novelas, los inquisidores se apoyaban en un argumento de
-índole
+4. Al prohibir la lectura de las novelas, los inquisidores se apoyaban en un argumento de índole
 =====================ALTERNATIVAS======================
 A) moral. 
 B) estética. 
@@ -52,7 +46,6 @@ C) filosófica.
 D) religiosa. 
 E) literaria.
 =====================RAZONAMIENTO======================
-Para los inquisidores, una lectura falaz sería perniciosa para la salud
-espiritual de los indios.
+Para los inquisidores, una lectura falaz sería perniciosa para la salud espiritual de los indios.
 =====================ALTERNATIVA CORRECTA======================
 A

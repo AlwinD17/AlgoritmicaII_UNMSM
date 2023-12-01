@@ -1,41 +1,6 @@
 ID: 229
 =====================TEXTO======================
-“Las leyes son como las salchichas, que más vale no ver cómo las hacen”, dijo el
-canciller Otto Von Bismarck, que siendo alemán sabría de lo que hablaba, y un siglo y medio
-después la Organización Mundial de la Salud ha venido en su apoyo. Las salchichas son
-seguramente el epítome de las carnes procesadas a las que la OMS viene poniendo en su
-punto de mira, que también acecha como rapaz al bacon y la panceta ahumada, el choped,
-los embutidos y hasta unas carnes rojas y no tan rojas de las que ni Bismarck habría osado
-recelar. Pero otra agencia de Naciones Unidas menos preocupada de que la gente coma
-sano que del mero hecho de que coma algo, la FAO (organización para la alimentación y la
-agricultura) lleva unos años proponiendo una carne alternativa abundante, saludable y que
-camina sobre seis patas: los insectos. Serán asquerosos, pero al menos no hay problema
-en ver cómo se hacen, pues son obra de la madre naturaleza.
-Una plaga de langosta puede alimentar a un pueblo, y en el mundo hay tantas
-hormigas que sus huevas —el escamole, o caviar mexicano — llevarán el lujo incluso a la
-mesa más pobre antes de que se extingan; en el sur de África se hace un pan aceptable
-con larvas de polillas, lo que de paso mejora el aspecto del armarito ropero, y los gusanos
-del esc arabajo y el saltamontes son una buena fuente de proteínas allí donde el hambre
-supere a los escrúpulos. Si uno mira bien a una gamba, podrá ver que los consumidores de
-los países ricos ya son hoy capaces de llevarse a la boca más cosas de las que podría
-suponer un marciano. Los biólogos agrupan a la nécora y la araña, la cigala y la
-escolopendra, la hormiga y el bogavante bajo el mismo y decoroso epígrafe de artrópodos.
-Y las cosas que la evolución ha situado juntas suelen saber muy parecido. Piénsenlo antes
-de descartar a los insectos y los arácnidos (que no tienen seis patas, sino ocho) como
-fuente de nutrientes y placeres desconocidos.
-Piensen también que 100 gramos de termitas tienen el doble de proteínas que una
-hamburguesa del mismo peso, y también más grasas y calorías. En 2050 habrá 2 000
-millones más de personas en el mundo, y a este paso, cuando lleguen a este valle de
-lágrimas lo más probable es que no encuentren una vaca a la que hacer filetes, una gallina
-ponedora ni un pez en el mar que no tenga más espinas que omega -3. En realidad, un
-tercio de la población mundial ya come insectos, un grupo biológico prolijo y p rolífico que
-incluye cerca de 2 000 especies comestibles conocidas, y al que no va a resultar tan fácil
-extinguir ni queriendo, como sabe cualquiera que tenga cucarachas en su casa.
-Así que ya saben ustedes: antes de criticar a una agencia de la ONU, escuchen lo que dice
-la otra. Coman menos salchichas y más escarabajos: sino logran vivir más, al menos
-honrarán la memoria del canciller Bi smarck.
-Javier Sampedro, “Carne saludable y abundante en seis patas”. En El País , España, 2 de
-noviembre de 2015.
+“Las leyes son como las salchichas, que más vale no ver cómo las hacen”, dijo el canciller Otto Von Bismarck, que siendo alemán sabría de lo que hablaba, y un siglo y medio después la Organización Mundial de la Salud ha venido en su apoyo. Las salchichas son seguramente el epítome de las carnes procesadas a las que la OMS viene poniendo en su punto de mira, que también acecha como rapaz al bacon y la panceta ahumada, el choped, los embutidos y hasta unas carnes rojas y no tan rojas de las que ni Bismarck habría osado recelar. Pero otra agencia de Naciones Unidas menos preocupada de que la gente coma sano que del mero hecho de que coma algo, la FAO (organización para la alimentación y la agricultura) lleva unos años proponiendo una carne alternativa abundante, saludable y que camina sobre seis patas: los insectos. Serán asquerosos, pero al menos no hay problema en ver cómo se hacen, pues son obra de la madre naturaleza. Una plaga de langosta puede alimentar a un pueblo, y en el mundo hay tantas hormigas que sus huevas —el escamole, o caviar mexicano — llevarán el lujo incluso a la mesa más pobre antes de que se extingan; en el sur de África se hace un pan aceptable con larvas de polillas, lo que de paso mejora el aspecto del armarito ropero, y los gusanos del esc arabajo y el saltamontes son una buena fuente de proteínas allí donde el hambre supere a los escrúpulos. Si uno mira bien a una gamba, podrá ver que los consumidores de los países ricos ya son hoy capaces de llevarse a la boca más cosas de las que podría suponer un marciano. Los biólogos agrupan a la nécora y la araña, la cigala y la escolopendra, la hormiga y el bogavante bajo el mismo y decoroso epígrafe de artrópodos. Y las cosas que la evolución ha situado juntas suelen saber muy parecido. Piénsenlo antes de descartar a los insectos y los arácnidos (que no tienen seis patas, sino ocho) como fuente de nutrientes y placeres desconocidos. Piensen también que 100 gramos de termitas tienen el doble de proteínas que una hamburguesa del mismo peso, y también más grasas y calorías. En 2050 habrá 2 000 millones más de personas en el mundo, y a este paso, cuando lleguen a este valle de lágrimas lo más probable es que no encuentren una vaca a la que hacer filetes, una gallina ponedora ni un pez en el mar que no tenga más espinas que omega -3. En realidad, un tercio de la población mundial ya come insectos, un grupo biológico prolijo y p rolífico que incluye cerca de 2 000 especies comestibles conocidas, y al que no va a resultar tan fácil extinguir ni queriendo, como sabe cualquiera que tenga cucarachas en su casa. Así que ya saben ustedes: antes de criticar a una agencia de la ONU, escuchen lo que dice la otra. Coman menos salchichas y más escarabajos: sino logran vivir más, al menos honrarán la memoria del canciller Bi smarck. Javier Sampedro, “Carne saludable y abundante en seis patas”. En El País , España, 2 de noviembre de 2015.
 =====================PREGUNTA 1======================
 ¿Cuál es el asunto que trata el autor en el texto ?
 =====================ALTERNATIVAS======================
@@ -47,8 +12,7 @@ E. Los problemas a la salud derivados de la carne
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-El autor del texto explica su posición favorable al consumo de insectos en
-lugar de carne.
+El autor del texto explica su posición favorable al consumo de insectos en lugar de carne.
 =====================PREGUNTA 2======================
 Es incompatible con el sentido del texto afirmar que
 =====================ALTERNATIVAS======================
@@ -72,8 +36,7 @@ E. Una gran parte de la población mundial come insectos.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-El autor esgrime variadas razones para comer insectos como alternativa
-frente a la carne.
+El autor esgrime variadas razones para comer insectos como alternativa frente a la carne.
 =====================PREGUNTA 4======================
 Si en los países ricos no comiesen gambas
 =====================ALTERNATIVAS======================
@@ -85,8 +48,7 @@ E. La proliferación de ellas causaría un gran daño ecológico.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-El comer gambas por parte de los ricos demuestra que comer insectos no
-es nada extraordinario, pero es un argumento entre varios que usa el autor.
+El comer gambas por parte de los ricos demuestra que comer insectos no es nada extraordinario, pero es un argumento entre varios que usa el autor.
 =====================PREGUNTA 5======================
 En el texto, el término epítome implica
 =====================ALTERNATIVAS======================
@@ -98,6 +60,4 @@ E. Depuración.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-Epítome significa resumen, síntesis que rescata lo esencial, lo fundamental
-de algo. Las salchichas son mencionadas como lo más representativo de las carnes
-rojas procesadas.
+Epítome significa resumen, síntesis que rescata lo esencial, lo fundamental de algo. Las salchichas son mencionadas como lo más representativo de las carnes rojas procesadas.

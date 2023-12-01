@@ -2,176 +2,98 @@ ID: 117
 =====================TEXTO======================
 ELIMINACIÓN DE ORACIONES
 =====================PREGUNTA 1======================
-I) La NASA dio a conocer una nueva imagen de la Twin Jet Nebula (también llamada
-PN M2 -9) captada por el telescopio Hubble. II) Los colores brillantes visibles en esta
-imagen dejan verla extraordinaria complejidad de la nebulosa PN M2 -9. III) En la
-imagen de la Twin Jet Nebula destacan los lóbulos que se desprenden de la estrella
-central que expulsan gas a presión, a una velocidad superior al millón de kilómetros
-por hora. IV) La mariposa cósmica PN M2 -9 fue descubierta en 1947 por el astrónomo
-germano -estadounidense Rudolph Minkowski, y se trata de una nebulosa bipolar. V)
-Una nebulosa planetaria ordinaria tiene una estrella en su centro, mientras que las
-bipolares tienen dos, pues se forman en un sistema estelar binario.
+I) La NASA dio a conocer una nueva imagen de la Twin Jet Nebula (también llamada PN M2 -9) captada por el telescopio Hubble. II) Los colores brillantes visibles en esta imagen dejan verla extraordinaria complejidad de la nebulosa PN M2 -9. III) En la imagen de la Twin Jet Nebula destacan los lóbulos que se desprenden de la estrella central que expulsan gas a presión, a una velocidad superior al millón de kilómetros por hora. IV) La mariposa cósmica PN M2 -9 fue descubierta en 1947 por el astrónomo germano -estadounidense Rudolph Minkowski, y se trata de una nebulosa bipolar. V) Una nebulosa planetaria ordinaria tiene una estrella en su centro, mientras que las bipolares tienen dos, pues se forman en un sistema estelar binario.
 =====================ALTERNATIVAS======================
 A.I
 B.II
 C.III
 D.IV
 E.V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
 La V oración es inatingente.
 =====================PREGUNTA 2======================
-I) Alan Mathison Turing, matemático inglés fallecido en 1954, ha sido uno de los
-pioneros más creativos de las ciencias de cómputo. II) Turing es conocido por la idea
-de una máquina hipotética, llamada «Máquina de Turing» la cual no posee un
-mecanismo específico. III) Alan Turing, gracias a su capacidad inventiva, planteó un
-juego que deriva en controversias irresolubles además de una máquina hipotética. IV)
-Turing también planteó un juego que conduce a profundas controversias de carácter
-filosófico, hoy todavía por resolver. V) Turing demostró que su dispositivo ideal puede
-ser programado para realizar, en su desmañado estilo, cualquier cosa que pueda
-ejecutar el más potente ordenador.
+I) Alan Mathison Turing, matemático inglés fallecido en 1954, ha sido uno de los pioneros más creativos de las ciencias de cómputo. II) Turing es conocido por la idea de una máquina hipotética, llamada «Máquina de Turing» la cual no posee un mecanismo específico. III) Alan Turing, gracias a su capacidad inventiva, planteó un juego que deriva en controversias irresolubles además de una máquina hipotética. IV) Turing también planteó un juego que conduce a profundas controversias de carácter filosófico, hoy todavía por resolver. V) Turing demostró que su dispositivo ideal puede ser programado para realizar, en su desmañado estilo, cualquier cosa que pueda ejecutar el más potente ordenador.
 =====================ALTERNATIVAS======================
 A.I
 B.II
 C.III
 D.IV
 E.V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
 La oración III es redundante.
 =====================PREGUNTA 3======================
-I) El Gugelhupf era uno de los favoritos del emperador austríaco Francisco José I, el
-esposo de la célebre emperatriz Isabel («Sissi») . II) El Gugelhupf tradicional se
-prepara en el sur de Alemania, Suiza y Austria . III) El Gugelhupf a dmite una gran
-cantidad de variantes y recetas de acuerdo al gusto del comensal . IV) Algunos
-cocineros preparan una variante mediterránea del Gugelhupf con aceitunas, queso
-mascarpone y tomate. V) Nunca hubo una receta estándar para el Gugelhupf, pues se
-le solía añadir lo que había a mano: mantequilla, almendras, limón y a veces pasas de
-uva y chocolate.
+I) El Gugelhupf era uno de los favoritos del emperador austríaco Francisco José I, el esposo de la célebre emperatriz Isabel («Sissi») . II) El Gugelhupf tradicional se prepara en el sur de Alemania, Suiza y Austria . III) El Gugelhupf a dmite una gran cantidad de variantes y recetas de acuerdo al gusto del comensal . IV) Algunos cocineros preparan una variante mediterránea del Gugelhupf con aceitunas, queso mascarpone y tomate. V) Nunca hubo una receta estándar para el Gugelhupf, pues se le solía añadir lo que había a mano: mantequilla, almendras, limón y a veces pasas de uva y chocolate.
 =====================ALTERNATIVAS======================
 A.I
 B.II
 C.III
 D.IV
 E.V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
 La oración I no es atingente.
 =====================PREGUNTA 4======================
-I) En los restaurantes modestos de Sri Lanka muchas veces no hay cubiertos, sino
-que se come con los dedos. II) En restaurantes de baja condición en Sri Lanka, ante
-la carencia de cubiertos, se come con los dedos de la mano izquierda para sentir la
-comida sin sabor a metal. III) Al principio, hay que amasar bien el arroz con las yemas
-de los dedos y los diferentes trozos de verdura y llevar todo elegantemente a la boca
-en algunos restaurantes de Sri Lanka. IV) Solo con las puntas de los dedos de la mano
-derecha, nunca con la palma de la mano y jamás con la mano izquierda ,es posible
-comer en ciertos lugares de Sri Lanka. V) Muchos habitantes de Sri Lanka creen que
-así sabe mejor la comida, pues no quieren sentir algún metal en la boca.
+I) En los restaurantes modestos de Sri Lanka muchas veces no hay cubiertos, sino que se come con los dedos. II) En restaurantes de baja condición en Sri Lanka, ante la carencia de cubiertos, se come con los dedos de la mano izquierda para sentir la comida sin sabor a metal. III) Al principio, hay que amasar bien el arroz con las yemas de los dedos y los diferentes trozos de verdura y llevar todo elegantemente a la boca en algunos restaurantes de Sri Lanka. IV) Solo con las puntas de los dedos de la mano derecha, nunca con la palma de la mano y jamás con la mano izquierda ,es posible comer en ciertos lugares de Sri Lanka. V) Muchos habitantes de Sri Lanka creen que así sabe mejor la comida, pues no quieren sentir algún metal en la boca.
 =====================ALTERNATIVAS======================
 A.I
 B.II
 C.III
 D.IV
 E.V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
 La oración II es redundante.
 =====================PREGUNTA 5======================
-I) Un grupo de estudiantes creó una higuera capaz de aprovechar la radiación solar y
-transformarla en energía . II) La higuera solar se compone de seis paneles fotovoltaicos
-cuya posición respecto al Sol puede moverse según la época del año . III) La higuera
-creada por estudiantes funcionaría en cualquier época del año y se compone, entre
-otras, por un generador y un acumulador. IV) La higuera se compone de un generador
-solar que transforma las radiaciones solares en corriente continua a baja tensión . V)
-La higuera también presenta un acumulador que almacena la energía producida por
-el generador y permite disponer de corriente eléctrica fuera de las horas de luz o días
-nublados.
+I) Un grupo de estudiantes creó una higuera capaz de aprovechar la radiación solar y transformarla en energía . II) La higuera solar se compone de seis paneles fotovoltaicos cuya posición respecto al Sol puede moverse según la época del año . III) La higuera creada por estudiantes funcionaría en cualquier época del año y se compone, entre otras, por un generador y un acumulador. IV) La higuera se compone de un generador solar que transforma las radiaciones solares en corriente continua a baja tensión . V) La higuera también presenta un acumulador que almacena la energía producida por el generador y permite disponer de corriente eléctrica fuera de las horas de luz o días nublados.
 =====================ALTERNATIVAS======================
 A.I
 B.II
 C.III
 D.IV
 E.V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-Se aplica el criterio de redundancia. El enunciado III redunda con los
-demás.
+Se aplica el criterio de redundancia. El enunciado III redunda con los demás.
 =====================PREGUNTA 6======================
-I) El mito del autismo de Einstein ha sido difundido por Baron -Cohen, Legdin, Muir y
-Marlin . II) El autismo es un desorden mental, del cual todavía se discute en qué
-proporción es generado por factores genéticos y en qué proporción por disfunciones
-del sistema familiar. III) En el caso de Einstein, este diagnóstico parece estar basado
-en un primer error que consiste en que Baron -Cohen considera, correctamente, que
-los autistas son motivados para sistematizar y no para empatizar e, incorrectamente,
-que Einstein sistematizaba compulsivamente. IV) Einstein no sistematizaba con la
-compulsión obsesiva de un autista, sino al contrario, rechazando la sistematización de
-conocimientos de física de su época, se abrió camino con creatividad en terrenos
-desconocidos. V) El segundo errores de lógica, pues vemos en el fenómeno de su
-poca comunicación con compa ñeros de la escuela de su edad el efecto del autismo,
-pero este se puede atribuir a un interés muy creativo y precoz en cuestiones de física.
+I) El mito del autismo de Einstein ha sido difundido por Baron -Cohen, Legdin, Muir y Marlin . II) El autismo es un desorden mental, del cual todavía se discute en qué proporción es generado por factores genéticos y en qué proporción por disfunciones del sistema familiar. III) En el caso de Einstein, este diagnóstico parece estar basado en un primer error que consiste en que Baron -Cohen considera, correctamente, que los autistas son motivados para sistematizar y no para empatizar e, incorrectamente, que Einstein sistematizaba compulsivamente. IV) Einstein no sistematizaba con la compulsión obsesiva de un autista, sino al contrario, rechazando la sistematización de conocimientos de física de su época, se abrió camino con creatividad en terrenos desconocidos. V) El segundo errores de lógica, pues vemos en el fenómeno de su poca comunicación con compa ñeros de la escuela de su edad el efecto del autismo, pero este se puede atribuir a un interés muy creativo y precoz en cuestiones de física.
 =====================ALTERNATIVAS======================
 A.I
 B.II
 C.III
 D.IV
 E.V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
 La oración II es impertinente.
 =====================PREGUNTA 7======================
-Semana Nº 1 Pág. 21 7. I) El arqueólogo Luc Long descubrió una barcaza en el Río Ródano, al sur de Francia
-en el verano de 2004. II) Luc Long Bautizó a la nave como Arles -Rhône 3 y no tenía
-idea de que algún día habría dinero suficiente para sacarla. III) La barcaza que había
-conservado su último c argamento, mediante milagros pequeños, emergió de la basura
-para hacer su último viaje a un ala nueva del Museo Departamental de Antigüedades
-de Arles. IV) De aspecto infantil a sus 61 años, Long trabaja para el departamento de
-Investigaciones Arqueológica s Subacuáticas y submarinas. V) En 2007, Long, junto
-con tres arqueólogos, se hicieron cargo del estudio de la nave de madera que estaba
-enterrada bajo capas de lodo y ánforas que la guardaron durante casi 2000 años.
+Semana Nº 1 Pág. 21 7. I) El arqueólogo Luc Long descubrió una barcaza en el Río Ródano, al sur de Francia en el verano de 2004. II) Luc Long Bautizó a la nave como Arles -Rhône 3 y no tenía idea de que algún día habría dinero suficiente para sacarla. III) La barcaza que había conservado su último c argamento, mediante milagros pequeños, emergió de la basura para hacer su último viaje a un ala nueva del Museo Departamental de Antigüedades de Arles. IV) De aspecto infantil a sus 61 años, Long trabaja para el departamento de Investigaciones Arqueológica s Subacuáticas y submarinas. V) En 2007, Long, junto con tres arqueólogos, se hicieron cargo del estudio de la nave de madera que estaba enterrada bajo capas de lodo y ánforas que la guardaron durante casi 2000 años.
 =====================ALTERNATIVAS======================
 A.I
 B.II
 C.III
 D.IV
 E.V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 Se elimina la oración IV por impertinencia.
 =====================RAZONAMIENTO======================
 D
 =====================PREGUNTA 8======================
-I) La famosa edificación de China, considerada maravilla del mundo moderno, ha
-comenzado a sufrir el desgaste propio del turismo y más gravemente el robo de sus
-partes. II) La construcción ha perdido cerca del 30% de longitud porque sus ladrillos
-se están utilizando para la construcción de viviendas de acuerdo a una publicación en
-la edición digital de La Jornada . III) La Administración del Estado ha señalado que
-cerca de 2 mil kilómetros ya han desaparecido y 1200 kilómetros están seriamente
-dañados. IV) C hang Dalin, experto de la Comisión de Estudios de la Gran Muralla,
-detalló que los habitantes que residen cerca del monumento tenían la costumbre de
-utilizar los ladrillos de ésta para construir viviendas, por lo que muchas secciones de
-la fortaleza han quedado destruidas. V) La Gran Muralla no es continua, sino que está
-constituida por un conglomerado de porciones construidas en diferentes periodos,
-desde el siglo III a.C.
+I) La famosa edificación de China, considerada maravilla del mundo moderno, ha comenzado a sufrir el desgaste propio del turismo y más gravemente el robo de sus partes. II) La construcción ha perdido cerca del 30% de longitud porque sus ladrillos se están utilizando para la construcción de viviendas de acuerdo a una publicación en la edición digital de La Jornada . III) La Administración del Estado ha señalado que cerca de 2 mil kilómetros ya han desaparecido y 1200 kilómetros están seriamente dañados. IV) C hang Dalin, experto de la Comisión de Estudios de la Gran Muralla, detalló que los habitantes que residen cerca del monumento tenían la costumbre de utilizar los ladrillos de ésta para construir viviendas, por lo que muchas secciones de la fortaleza han quedado destruidas. V) La Gran Muralla no es continua, sino que está constituida por un conglomerado de porciones construidas en diferentes periodos, desde el siglo III a.C.
 =====================ALTERNATIVAS======================
 A.I
 B.II
 C.III
 D.IV
 E.V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
 Se elimina la oración V por impertinencia.

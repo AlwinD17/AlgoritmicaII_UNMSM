@@ -2,57 +2,38 @@ ID: 154
 =====================TEXTO======================
 ELIMINACIÓN DE ORACIONES
 =====================PREGUNTA 1======================
-I) Lucio Anneo Séneca fue un filósofo romano panteísta que consideró al mundo como
-un todo único material y espiritual . II) Séneca defendió una postura en general estoica,
-sobre todo en su vertiente moral . III) Séneca profesaba una concepción dualista del
-hombre . IV) Séneca insistió en la división entre el alma y el cuerpo, y en la igualdad
-de todos los hombres . V) Séneca no dejó de reflexionar sobre los objetivos de la
-sociedad y del Estado.
+I) Lucio Anneo Séneca fue un filósofo romano panteísta que consideró al mundo como un todo único material y espiritual . II) Séneca defendió una postura en general estoica, sobre todo en su vertiente moral . III) Séneca profesaba una concepción dualista del hombre . IV) Séneca insistió en la división entre el alma y el cuerpo, y en la igualdad de todos los hombres . V) Séneca no dejó de reflexionar sobre los objetivos de la sociedad y del Estado.
 =====================ALTERNATIVAS======================
 A. V
 B. II
 C. III
 D. I
 E. IV
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
 Se elimina por el criterio de redundancia.
 =====================PREGUNTA 2======================
-I) El gran problema de los estudiantes peruanos en todas las modalidades es la baja
-autoestima . II) Los padres y familiares son los primeros que influyen en la formación
-de tal negativa autovaloración . III) Algunas opiniones de los amigos refuerzan la idea
-negativa que los educandos tienen de sí . IV) Algunos docentes con sus observaciones
-desatinadas ac entúan esta situación . V) Los padres suelen sembrar en sus hijos el
-sentimiento de automenosprecio.
+I) El gran problema de los estudiantes peruanos en todas las modalidades es la baja autoestima . II) Los padres y familiares son los primeros que influyen en la formación de tal negativa autovaloración . III) Algunas opiniones de los amigos refuerzan la idea negativa que los educandos tienen de sí . IV) Algunos docentes con sus observaciones desatinadas ac entúan esta situación . V) Los padres suelen sembrar en sus hijos el sentimiento de automenosprecio.
 =====================ALTERNATIVAS======================
 A. V
 B. I
 C. III
 D. II
 E. IV
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
 Se elimina según el criterio de redundancia.
 =====================PREGUNTA 3======================
-I) Una de las principales contribuciones de Cristiaan Huygens fue el descubrimiento
-de los anillos de Saturno . II) Huygens desarrolló una teoría para describir las fuerzas
-que actúan sobre un cuerpo en movimiento circular . III) Huygens no se limitó al
-sistema solar, también descubrió la gran nebulosa de la constelación de Orión . IV)
-Huygens formuló, además, la teoría según la cual la luz es una onda que oscila
-longitudinalmente . V) Cristiaan Huygens realizó notales descubrimientos físicos y
-astronómicos.
+I) Una de las principales contribuciones de Cristiaan Huygens fue el descubrimiento de los anillos de Saturno . II) Huygens desarrolló una teoría para describir las fuerzas que actúan sobre un cuerpo en movimiento circular . III) Huygens no se limitó al sistema solar, también descubrió la gran nebulosa de la constelación de Orión . IV) Huygens formuló, además, la teoría según la cual la luz es una onda que oscila longitudinalmente . V) Cristiaan Huygens realizó notales descubrimientos físicos y astronómicos.
 =====================ALTERNATIVAS======================
 A. I
 B. III
 C. II
 D. IV
 E. V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
 Se elimina por redundancia.

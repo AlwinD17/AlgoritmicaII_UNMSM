@@ -1,7 +1,6 @@
 ID: 100
 =====================TEXTO======================
-MUESTRARIO DE PREGUNTAS SOBRE LOS TEXTOS SELECCIONADOS
-LA LITERATURA Y LA VIDA
+MUESTRARIO DE PREGUNTAS SOBRE LOS TEXTOS SELECCIONADOS LA LITERATURA Y LA VIDA
 =====================PREGUNTA 1======================
 1. La argumentación central del autor establece que la literatura es una actividad
 =====================ALTERNATIVAS======================
@@ -11,8 +10,7 @@ C) sesgada.
 D) especializada. 
 E) imprescindible.
 =====================RAZONAMIENTO======================
-El autor busca ir más allá de quienes ven en la literatura un pasatiempo de
-lujo. La literatura es algo más esencial y, por ello, imprescindible.
+El autor busca ir más allá de quienes ven en la literatura un pasatiempo de lujo. La literatura es algo más esencial y, por ello, imprescindible.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================PREGUNTA 2======================
@@ -24,8 +22,7 @@ C) práctico.
 D) hermético. 
 E) polémico.
 =====================RAZONAMIENTO======================
-La filosofía se ha especializado mucho y, por ello, ya no puede llegar al
-hombre medio.
+La filosofía se ha especializado mucho y, por ello, ya no puede llegar al hombre medio.
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================PREGUNTA 3======================
@@ -49,9 +46,6 @@ C) un prejuicio sentimental.
 D) un axioma ideológico.
 E) una causa social.
 =====================RAZONAMIENTO======================
-Vargas Llosa muestra su desacuerdo, pero no puede hacerlo desde el
-conocimiento. Solamente dice que su oposición es, tal vez, un prejuicio resultante de
-la falta de práctica, de la ya larga identificación “en mi experiencia de la literatura con
-los libros de papel”.
+Vargas Llosa muestra su desacuerdo, pero no puede hacerlo desde el conocimiento. Solamente dice que su oposición es, tal vez, un prejuicio resultante de la falta de práctica, de la ya larga identificación “en mi experiencia de la literatura con los libros de papel”.
 =====================ALTERNATIVA CORRECTA======================
 C

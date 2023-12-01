@@ -1,14 +1,6 @@
 ID: 144
 =====================TEXTO======================
-La unidad de la vida se refiere a que todos los organismos vivos tienen elementos
-estructurales genéricos ,como estar formados por células, llevar a cabo funciones celulares
-a través de proteínas, transferir energía como ATP y almacenar información usando el
-código genético. La unidad de la vida sugiere que los organismos vivientes provienen de
-un origen único, y que la magnífica diversidad de los seres vivos se produce porque están
-sometidos al proceso evolutivo. Sobre la base de estructuras y funciones comunes, la
-biodiversidad abarca cerca de un millón y medio de especies conocidas y, según se
-estima, entre 10 a 30 millones de especies aún por conocer, entre virus, bacterias, hongos,
-insectos y otros animales.
+La unidad de la vida se refiere a que todos los organismos vivos tienen elementos estructurales genéricos ,como estar formados por células, llevar a cabo funciones celulares a través de proteínas, transferir energía como ATP y almacenar información usando el código genético. La unidad de la vida sugiere que los organismos vivientes provienen de un origen único, y que la magnífica diversidad de los seres vivos se produce porque están sometidos al proceso evolutivo. Sobre la base de estructuras y funciones comunes, la biodiversidad abarca cerca de un millón y medio de especies conocidas y, según se estima, entre 10 a 30 millones de especies aún por conocer, entre virus, bacterias, hongos, insectos y otros animales.
 =====================PREGUNTA 1======================
 GENÉRICOS
 =====================ALTERNATIVAS======================
@@ -17,12 +9,10 @@ B. comunes
 C. reiterados
 D. exclusivos
 E. populares
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-Se refiere a las características compartidas, que no son privativas ni
-exclusivas de nadie.
+Se refiere a las características compartidas, que no son privativas ni exclusivas de nadie.
 =====================PREGUNTA 2======================
 SUGIERE
 =====================ALTERNATIVAS======================
@@ -31,12 +21,10 @@ B. reflexiona
 C. delibera
 D. indica
 E. determina
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-Las características comunes de los organismos vivos son indicios de un
-posible origen único.
+Las características comunes de los organismos vivos son indicios de un posible origen único.
 =====================PREGUNTA 3======================
 MAGNÍFICA
 =====================ALTERNATIVAS======================
@@ -45,12 +33,10 @@ B. infinita
 C. quilométrica
 D. cuantiosa
 E. perenne
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-La diversidad de seres vivos en el planeta Tierra es grande en cantidad o
-número.
+La diversidad de seres vivos en el planeta Tierra es grande en cantidad o número.
 =====================PREGUNTA 4======================
 CONOCIDAS
 =====================ALTERNATIVAS======================
@@ -59,9 +45,7 @@ B. entendidas
 C. conquistadas
 D. encontradas
 E. estudiadas
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-En el contexto científico, se dice que se conoce algo luego de haber sido
-estudiado.
+En el contexto científico, se dice que se conoce algo luego de haber sido estudiado.

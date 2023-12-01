@@ -1,12 +1,6 @@
 ID: 115
 =====================TEXTO======================
-I) Left 4 Dead 2 (L4D2) es un videojuego de disparos en primera persona cooperativo.
-II) L4D2 es de tipo survival horror, es decir, los personajes deben sobrevivir a una
-amenaza y alcanzar la meta. III) La prestigiosa compañía Valve Software fue la
-creadora de L4D2, la segunda versión del famoso juego. IV) L4D2 se lanzó al mercado
-el 17 de noviembre de 2009 en Estados Unidos y Latinoamérica. V) La primera versión
-del juego, Left 4 Dead (L4D), tenía una precaria calidad de imagen y la capacidad de
-movimiento era bastante pobre.
+I) Left 4 Dead 2 (L4D2) es un videojuego de disparos en primera persona cooperativo. II) L4D2 es de tipo survival horror, es decir, los personajes deben sobrevivir a una amenaza y alcanzar la meta. III) La prestigiosa compañía Valve Software fue la creadora de L4D2, la segunda versión del famoso juego. IV) L4D2 se lanzó al mercado el 17 de noviembre de 2009 en Estados Unidos y Latinoamérica. V) La primera versión del juego, Left 4 Dead (L4D), tenía una precaria calidad de imagen y la capacidad de movimiento era bastante pobre.
 =====================PREGUNTA 1======================
 CRITERIO DE INATINGENCIA
 =====================ALTERNATIVAS======================
@@ -15,9 +9,7 @@ B.II
 C.III
 D.IV
 E.V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-El tema es L4D2, la segunda versión del juego. La oración V se centra en
-la primera versión.
+El tema es L4D2, la segunda versión del juego. La oración V se centra en la primera versión.

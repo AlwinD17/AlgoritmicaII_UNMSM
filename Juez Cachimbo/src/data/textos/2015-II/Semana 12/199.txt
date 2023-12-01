@@ -1,95 +1,64 @@
 ID 199
-=====TEXTO 5=====
-
-Investigadores del Centro Nacional de Investigación sobre la Evolución Humana (CENIEH) formulan una hipótesis que integra informaciones paleontológicas y biomédicas para proponer un marco evolutivo al origen de la enfermedad de Alzheimer, y sugiere que la sensibilidad al proceso neurodegenerativo sería el precio que tenemos que pagar para tener las capacidades cognitivas peculiares de nuestra especie.
-
-De acuerdo con la hipótesis propuesta en su artículo titulado "Alzheimer's Disease: The Downside of a Highly Evolved Parietal Lobe?", la sensibilidad de nuestra especie al proceso neurodegenerativo del Alzheimer es la consecuencia secundaria de la especialización y de la complejidad metabólica de nuestras áreas parietales. “De hecho, en las primeras fases de esta enfermedad se observa un déficit metabólico, es decir, en la gestión de la energía de éstas misma áreas que caracterizan el origen de nuestra especie”, explica el Dr. Bruner, responsable del Grupo de Paleoneurología del CENIEH.
-
-Se supone que la evolución de las áreas parietales se relaciona con las capacidades cognitivas. En este sentido, el registro fósil y paleoneurológico enseña que nuestra especie se caracteriza a nivel de geometría cerebral por una marcada reorganización de dichas áreas y quizás de su sistema vascular. Estos procesos de crecimiento y desarrollo que llevan a estos cambios cerebrales, están ausentes en los simios antropomorfos así como en homínidos con gran volumen cerebral como los neandertales. Además, a nivel de tejidos neurales, en la corteza parietal profunda, los humanos tenemos áreas que tampoco se encuentran en los otros primates. 
-
-Por tanto, este desarrollo de las capacidades cognitivas del Homo sapiens puede que haya conllevado una mayor sensibilidad a defectos metabólicos: balance energético, toxinas, gestión del calor, etc. Y, como señala el Dr. Bruner, sería “el precio” que tendríamos que pagar por disfrutar de nuestras capacidades peculiares. Y es que el Alzheimer sólo se conoce en nuestra propia especie.
-
-Bruner concluye afirmando que el silencioso filtro de la selección natural sólo reconoce las ventajas cognitivas y ninguna de sus desventajas, ya que al afectar a edades tardías, éste “efecto secundario” no influye sobre las capacidades reproductivas del individuo. La perspectiva evolutiva planteada en este artículo no proporciona directamente una cura para una patología como la enfermedad de Alzheimer, pero puede ofrecer una interpretación diferente de sus causas, acercándose a sus mecanismos no desde su situación presente, sino desde su pasado.
-
-Fuente: Bruner, E. (2013) "Alzheimer´s Disease: The downside of a Highly Evolved Parietal Lobe?" Obtenido
-de [http://www.tendencias21.net/El-Alzheimer-podria-ser-el-precio-a-pagar-por-la-evolucion-humana_a15811.html](http://www.tendencias21.net/El-Alzheimer-podria-ser-el-precio-a-pagar-por-la-evolucion-humana_a15811.html)
-
-=====Pregunta 1======
+=====================TEXTO======================
+Investigadores del Centro Nacional de Investigación sobre la Evolución Humana (CENIEH) formulan una hipótesis que integra informaciones paleontológicas y biomédicas para proponer un marco evolutivo al origen de la enfermedad de Alzheimer, y sugiere que la sensibilidad al proceso neurodegenerativo sería el precio que tenemos que pagar para tener las capacidades cognitivas peculiares de nuestra especie. De acuerdo con la hipótesis propuesta en su artículo titulado "Alzheimer's Disease: The Downside of a Highly Evolved Parietal Lobe?", la sensibilidad de nuestra especie al proceso neurodegenerativo del Alzheimer es la consecuencia secundaria de la especialización y de la complejidad metabólica de nuestras áreas parietales. “De hecho, en las primeras fases de esta enfermedad se observa un déficit metabólico, es decir, en la gestión de la energía de éstas misma áreas que caracterizan el origen de nuestra especie”, explica el Dr. Bruner, responsable del Grupo de Paleoneurología del CENIEH. Se supone que la evolución de las áreas parietales se relaciona con las capacidades cognitivas. En este sentido, el registro fósil y paleoneurológico enseña que nuestra especie se caracteriza a nivel de geometría cerebral por una marcada reorganización de dichas áreas y quizás de su sistema vascular. Estos procesos de crecimiento y desarrollo que llevan a estos cambios cerebrales, están ausentes en los simios antropomorfos así como en homínidos con gran volumen cerebral como los neandertales. Además, a nivel de tejidos neurales, en la corteza parietal profunda, los humanos tenemos áreas que tampoco se encuentran en los otros primates. Por tanto, este desarrollo de las capacidades cognitivas del Homo sapiens puede que haya conllevado una mayor sensibilidad a defectos metabólicos: balance energético, toxinas, gestión del calor, etc. Y, como señala el Dr. Bruner, sería “el precio” que tendríamos que pagar por disfrutar de nuestras capacidades peculiares. Y es que el Alzheimer sólo se conoce en nuestra propia especie. Bruner concluye afirmando que el silencioso filtro de la selección natural sólo reconoce las ventajas cognitivas y ninguna de sus desventajas, ya que al afectar a edades tardías, éste “efecto secundario” no influye sobre las capacidades reproductivas del individuo. La perspectiva evolutiva planteada en este artículo no proporciona directamente una cura para una patología como la enfermedad de Alzheimer, pero puede ofrecer una interpretación diferente de sus causas, acercándose a sus mecanismos no desde su situación presente, sino desde su pasado. Fuente: Bruner, E. (2013) "Alzheimer´s Disease: The downside of a Highly Evolved Parietal Lobe?" Obtenido de [http://www.tendencias21.net/El-Alzheimer-podria-ser-el-precio-a-pagar-por-la-evolucion-humana_a15811.html](http://www.tendencias21.net/El-Alzheimer-podria-ser-el-precio-a-pagar-por-la-evolucion-humana_a15811.html)
+=====================PREGUNTA 1======================
 ¿Cuál es el tema central del texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. El Alzheimer como una consecuencia de la interacción propiamente humana.
 B. El Alzheimer, el precio a pagar por tener primates como ancestros comunes.
 C. Las polémicas investigaciones médicas y sus conclusiones sobre el Alzheimer.
 D. Los vínculos entre ciencia y antropología, para entender el origen del Alzheimer.
 E. Los prometedores resultados científicos de una posible cura para el Alzheimer.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 D. Los vínculos entre ciencia y antropología, para entender el origen del Alzheimer.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Sin el aporte de la paleontología no se habría sostenido la tesis científica central del texto.
-
-=====Pregunta 2======
+=====================PREGUNTA 2======================
 ¿Cómo se entiende en el texto el término DÉFICIT?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Falla.
 B. Disminución.
 C. Excedente.
 D. Ausencia.
 E. Carencia.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 A. Falla.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Al establecer “déficit metabólico” como asociado a “gestión de la energía” se infiere que déficit se usa como sinónimo contextual de “falla” en la gestión de energía.
-
-=====Pregunta 3======
+=====================PREGUNTA 3======================
 ¿Qué se puede inferir del texto para Mill?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Debemos actuar buscando la justicia social.
 B. Los europeos deben ayudar en algo al tercer mundo.
 C. La plenitud humana solo debe ser derecho de algunos.
 D. La felicidad no puede basarse en el individualismo.
 E. El tercer mundo se puede dar el lujo del relativismo moral.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E. El tercer mundo se puede dar el lujo del relativismo moral.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Mill sostiene que “no tenemos deberes para con nosotros mismos y para con los otros sólo deberes de respeto de su libertad, de no hacerles daño”, de lo cual se infiere que no estamos obligados a hacer el bien a los demás.
-
-=====Pregunta 4======
+=====================PREGUNTA 4======================
 ¿Qué es incompatible con lo sostenido en el texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Puede haber felicidad plena sin justicia para todos.
 B. Es imposible conseguir una vida humana digna para todos.
 C. La ética no puede darse sin responsabilidad por los otros.
 D. Existen condiciones técnicas para la felicidad de todos.
 E. Cada ser humano debe hacerse responsable solo de él.
 
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E. Cada ser humano debe hacerse responsable solo de él.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Afirmar este enunciado, sería sostener un individualismo extremo, totalmente contrario a la ética de la responsabilidad que propone el autor.
-
-=====Pregunta 5======
+=====================PREGUNTA 5======================
 ¿Qué habría sucedido si la conclusión del texto con respecto a la relación de la ética con la responsabilidad se aplicara al campo social?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Las ciencias sociales tendrían que ser solamente teóricas.
 B. Las sociedades en el mundo no deberían ser excluyentes.
 C. Las diferencias entre las clases sociales deberían crecer.
 D. El pensamiento ético debería ser monológico y social.
 E. El estado debería fomentar el pensamiento ético-filosófico.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 B. Las sociedades en el mundo no deberían ser excluyentes.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Del texto se puede concluir la necesidad de hacernos responsables de todos, de ahí que en el campo social no se pueda excluir a nadie de las condiciones para la búsqueda de la felicidad.

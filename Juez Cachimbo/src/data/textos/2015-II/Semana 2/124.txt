@@ -1,18 +1,6 @@
 ID: 124
 =====================TEXTO======================
-¿Cómo se le habla a un paciente con cáncer o con alguna enfermedad degenerativa
-del tipo de agua que debe tomar, si él no tiene opciones de saber cuál es el pH del agua
-que bebe diariamente? Quisiera que vayan y vean en la etiqueta del agua que ustedes
-ingieren, ¿cuál es el pH? No lo van a saber porque en el Perú las etiquetas no brindan esta
-información. En cambio, si tomamos una botella de agua en otro país y vemos que dice por
-ejemplo: pH=6, uno sabe que el cuerpo va a trabajar solamente un poco para equilibrar el
-pH sanguíneo, porque conoce que este debe mantenerse entre 7.35 y 7.45. Una gaseosa
-tiene un pH de 2.5. Un niño que toma un vaso de gaseosa, tendría que tomar más o menos
-32 vasos de agua de buena calidad para reparar ese desequilibrio. Estas cifras no tienen
-como objetivo escandalizar a los potenciales consumidores de estas bebidas, sino
-concientizarlos de lo importante que es exigir que las empresas cumplan con los requisitos
-mínimos de salubridad y considerar que debemos estar al tanto de lo que consumimos o
-dejamos de consumir, en vista de que está en juego nuestra salud.
+¿Cómo se le habla a un paciente con cáncer o con alguna enfermedad degenerativa del tipo de agua que debe tomar, si él no tiene opciones de saber cuál es el pH del agua que bebe diariamente? Quisiera que vayan y vean en la etiqueta del agua que ustedes ingieren, ¿cuál es el pH? No lo van a saber porque en el Perú las etiquetas no brindan esta información. En cambio, si tomamos una botella de agua en otro país y vemos que dice por ejemplo: pH=6, uno sabe que el cuerpo va a trabajar solamente un poco para equilibrar el pH sanguíneo, porque conoce que este debe mantenerse entre 7.35 y 7.45. Una gaseosa tiene un pH de 2.5. Un niño que toma un vaso de gaseosa, tendría que tomar más o menos 32 vasos de agua de buena calidad para reparar ese desequilibrio. Estas cifras no tienen como objetivo escandalizar a los potenciales consumidores de estas bebidas, sino concientizarlos de lo importante que es exigir que las empresas cumplan con los requisitos mínimos de salubridad y considerar que debemos estar al tanto de lo que consumimos o dejamos de consumir, en vista de que está en juego nuestra salud.
 =====================PREGUNTA 1======================
 El texto se refiere centralmente a
 =====================ALTERNATIVAS======================
@@ -21,29 +9,19 @@ B. la importancia de informar sobre el pH del agua embotellada.
 C. los efectos negativos de consumir agua con un pH inferior a 6.
 D. las autoridades peruanas y su descuidado empleo del agua.
 E. el deber de organizarse para eliminar las bebidas envasadas.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-En esencia, el texto alude a lo importante que es informar sobre el pH del
-agua embotellada que se consume.
+En esencia, el texto alude a lo importante que es informar sobre el pH del agua embotellada que se consume.
 =====================PREGUNTA 2======================
 La idea principal del texto afirma que se debe
 =====================ALTERNATIVAS======================
-A. debatir con las transnacionales sobre la producción de bebidas nocivas para el
-bienestar de los peruanos.
-B. dvertir a los lectores de la importancia de conocer el nivel de pH del agua potable
-que beben diariamente.
-C. concientizar a los consumidores de que es crucial conocer la composición química
-del a gua para pagar un precio justo.
-D. exigir que el agua embotellada tenga la información sobre el pH, en vista de que
-incumbe a nuestra salud.
-E. criticar la negligencia de la mayoría de empresas que envasan bebidas sin brindar
-los datos mínimos.
-=====================ALTERNATIVA
-CORRECTA======================
+A. debatir con las transnacionales sobre la producción de bebidas nocivas para el bienestar de los peruanos.
+B. dvertir a los lectores de la importancia de conocer el nivel de pH del agua potable que beben diariamente.
+C. concientizar a los consumidores de que es crucial conocer la composición química del a gua para pagar un precio justo.
+D. exigir que el agua embotellada tenga la información sobre el pH, en vista de que incumbe a nuestra salud.
+E. criticar la negligencia de la mayoría de empresas que envasan bebidas sin brindar los datos mínimos.
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-En el texto se informa que prioritario exigir que se informe adecuadamente
-sobre el pH del agua embotellado, ya que se trata de un problema de salubridad que
-compromete a todos los consumidores.
+En el texto se informa que prioritario exigir que se informe adecuadamente sobre el pH del agua embotellado, ya que se trata de un problema de salubridad que compromete a todos los consumidores.

@@ -1,34 +1,6 @@
 ID: 81
 =====================TEXTO 2======================
-La mayoría de nosotros ha escuchado hablar de la palabra “glaucoma” y conocemos
-que afecta a los ojos, pero pocos saben lo que significa y aún menos las consecuencias
-irreversibles que acarrea. El glaucoma es una de las causas principales de pérdida de la
-visión en los Estados Unidos y que afecta aproximadamente unos 3 millones de personas.
-Expertos calculan que las personas afectadas por glaucoma desconocen que lo padecen,
-porque no hay síntomas en las primeras etapas de la enfermedad. En todo el mundo, el
-glaucoma afecta cerca de 67 millones de personas.
-Al glaucoma se lo conoce como “el enemigo silencioso de la vista” porque a menudo
-no presenta síntomas hasta que se produce un daño visual permanente. Mientras que si
-hay tratamientos, actualmente no hay cura y la visión perdida no se puede recuperar. Si no
-se lo trata, con el tiempo el glaucoma provoca la ceguera.
-La palabra “glaucoma” se utiliza comúnmente haciendo referencia a un único
-trastorno. En realidad, se trata de un conjunto de trastornos oculares que provocan daños
-en el nervio óptico (el haz de fibras nerviosas que transporta la información desde el ojo al
-cerebro), lo que posteriormente causará pérdida de la visión hasta llegar, en última
-instancia, a la ceguera.
-Cuando el fluido denominado humor acuoso no puede salir del ojo, provoca un
-aumento en la presión intraocular que daña el nervio óptico, lo cual conduce a una pérdida
-de la visión.
-Para poder comprender el modo en el que la presión ocular alta interviene en el
-desarrollo del glaucoma, es importante conocer el funcionamiento del ojo. Básicamente, el
-ojo produce constantemente un fluido, denominado humor acuoso, que contribuye a
-mantener la presión ocular a un nivel normal y pr ovee de nutrientes a la córnea y al
-cristalino. El humor acuoso circula dentro de la parte delantera del ojo (cámara anterior) y
-luego se drena a través de un tejido esponjoso denominado malla trabecular. Normalmente,
-debe existir un equilibrio entre la cantidad de fluido que se produce y la cantidad que sale del ojo. Si no se logra este equilibrio, entonces aumenta la presión intraocular (o PIO) en el
-interior, lo cual daña el nervio óptico y esto contribuye al desarrollo del glaucoma.
-
-Recuperado de: http://www.brightfocus.org/docs/pdf -publications/livingwithglaucoma_spanish.pdf
+La mayoría de nosotros ha escuchado hablar de la palabra “glaucoma” y conocemos que afecta a los ojos, pero pocos saben lo que significa y aún menos las consecuencias irreversibles que acarrea. El glaucoma es una de las causas principales de pérdida de la visión en los Estados Unidos y que afecta aproximadamente unos 3 millones de personas. Expertos calculan que las personas afectadas por glaucoma desconocen que lo padecen, porque no hay síntomas en las primeras etapas de la enfermedad. En todo el mundo, el glaucoma afecta cerca de 67 millones de personas. Al glaucoma se lo conoce como “el enemigo silencioso de la vista” porque a menudo no presenta síntomas hasta que se produce un daño visual permanente. Mientras que si hay tratamientos, actualmente no hay cura y la visión perdida no se puede recuperar. Si no se lo trata, con el tiempo el glaucoma provoca la ceguera. La palabra “glaucoma” se utiliza comúnmente haciendo referencia a un único trastorno. En realidad, se trata de un conjunto de trastornos oculares que provocan daños en el nervio óptico (el haz de fibras nerviosas que transporta la información desde el ojo al cerebro), lo que posteriormente causará pérdida de la visión hasta llegar, en última instancia, a la ceguera. Cuando el fluido denominado humor acuoso no puede salir del ojo, provoca un aumento en la presión intraocular que daña el nervio óptico, lo cual conduce a una pérdida de la visión. Para poder comprender el modo en el que la presión ocular alta interviene en el desarrollo del glaucoma, es importante conocer el funcionamiento del ojo. Básicamente, el ojo produce constantemente un fluido, denominado humor acuoso, que contribuye a mantener la presión ocular a un nivel normal y pr ovee de nutrientes a la córnea y al cristalino. El humor acuoso circula dentro de la parte delantera del ojo (cámara anterior) y luego se drena a través de un tejido esponjoso denominado malla trabecular. Normalmente, debe existir un equilibrio entre la cantidad de fluido que se produce y la cantidad que sale del ojo. Si no se logra este equilibrio, entonces aumenta la presión intraocular (o PIO) en el interior, lo cual daña el nervio óptico y esto contribuye al desarrollo del glaucoma. Recuperado de: http://www.brightfocus.org/docs/pdf -publications/livingwithglaucoma_spanish.pdf
 =====================PREGUNTA 1======================
 1. ¿Cuál es la mejor síntesis del texto?
 =====================ALTERNATIVAS======================
@@ -38,8 +10,7 @@ C) El glaucoma es la pérdida de visión permanente, pues la presión ocular es 
 D) El glaucoma es el deterioro permanente de la visión, ya que el nervio óptico se daña porque la presión ocular ha sido anormalmente alta.
 E) El glaucoma es el daño del nervio óptico, pues hubo desequilibrio en la presión ocular, por que la ceguera es permanente e irrecuperable.
 =====================RAZONAMIENTO======================
-Primero, hay presión ocular alta; segundo, hay daño en el nervio óptico;
-tercero, se produce la ceguera permanente: glaucoma.
+Primero, hay presión ocular alta; segundo, hay daño en el nervio óptico; tercero, se produce la ceguera permanente: glaucoma.
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================PREGUNTA 2======================
@@ -51,8 +22,7 @@ C) persuade.
 D) propina. 
 E) involucra.
 =====================RAZONAMIENTO======================
-El texto expone que el glaucoma acarrea consecuencias irreversibles, es
-decir, esa enfermedad provoca ocasiona o provoca consecuencias irreversibles.
+El texto expone que el glaucoma acarrea consecuencias irreversibles, es decir, esa enfermedad provoca ocasiona o provoca consecuencias irreversibles.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================PREGUNTA 3======================
@@ -64,8 +34,7 @@ C) es un conjunto de trastornos oculares.
 D) conserva la producción de humor acuoso.
 E) carece de cura, pero sí tiene tratamiento .
 =====================RAZONAMIENTO======================
-En el texto se explica que el glaucoma, antes de manifestarse, carece de
-síntomas, por eso, es denominado “el enemigo silencioso de la vista”.
+En el texto se explica que el glaucoma, antes de manifestarse, carece de síntomas, por eso, es denominado “el enemigo silencioso de la vista”.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================PREGUNTA 4======================
@@ -77,14 +46,11 @@ C) deteriora la visión de modo progresivo.
 D) afecta cerca de 67 millones de personas.
 E) daña el nervio óptico y produce ceguera.
 =====================RAZONAMIENTO======================
-En el texto se explica que el daño en el nervio óptico causará pérdida de la
-visión hasta llegar, en última instancia, a la ceguera; o sea, el deterioro de la visión es
-progresivo.
+En el texto se explica que el daño en el nervio óptico causará pérdida de la visión hasta llegar, en última instancia, a la ceguera; o sea, el deterioro de la visión es progresivo.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================PREGUNTA 5======================
-5. Si el glaucoma presentara síntomas desde las primeras etapas de la enfermedad,
-entonces, es probable que
+5. Si el glaucoma presentara síntomas desde las primeras etapas de la enfermedad, entonces, es probable que
 =====================ALTERNATIVAS======================
 A) las personas no sepan que padecen es a enfermedad.
 B) se podría prevenir la pérdida de visión por glaucoma.
@@ -92,9 +58,6 @@ C) desaparezcan los casos de ceguera a nivel mundial.
 D) el glaucoma deje de ser un conjunto de trastornos.
 E) los ciegos del mundo puedan recuperar la visión.
 =====================RAZONAMIENTO======================
-El glaucoma, según el texto, no presenta síntomas en las primeras etapas
-de la enfermedad hasta que se produce un daño visual permanente. Si esta
-enfermedad presentara síntomas desde el inicio, la gente podría prevenir la pérdida
-de visión por esta enfermedad.
+El glaucoma, según el texto, no presenta síntomas en las primeras etapas de la enfermedad hasta que se produce un daño visual permanente. Si esta enfermedad presentara síntomas desde el inicio, la gente podría prevenir la pérdida de visión por esta enfermedad.
 =====================ALTERNATIVA CORRECTA======================
 B

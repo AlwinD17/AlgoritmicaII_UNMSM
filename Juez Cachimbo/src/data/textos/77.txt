@@ -1,29 +1,6 @@
 ID: 77
 =====================TEXTO 1======================
-En junio de 1827, el botánico escocés Robert Brown se dispuso a analizar al microscopio
-una muestra de granos de polen sumergidos en agua. Observó que sus partículas,
-amiloplastos y esferosomas, se estremecían en el líquido, como sometidas al bombardeo
-constante de unos proyectiles invisibles. Los impactos las hacían rotar y perderse en
-trayectorias zigzagueantes. Brown no podía observar con su microscopio de 300 aumentos
-las moléculas de agua, que chocan de modo aleatorio, millones de veces ,contra los objetos
-diminutos que se sumergen en ella y los zarandean, comunicándoles su agitación térmica.
-La propia existencia de los átomos fue puesta en duda por algunas autoridades científicas
-hasta comienzos del siglo XX. En mayo de 1905, Albert Einstein completó un artículo que
-contribuyó a zanjar la polémica: Sobre el movimiento de las partículas suspendidas en
-fluidos en reposo, según exige la teoría molecular del calor ,donde llevó a cabo un análisis
-estadístico de qué efectos perceptibles causaría la agitación térmica de las invisibles
-moléculas. En la introducción se mostraba excesivamente cauto acerca de la relación de
-su estudio con las observaciones de Robert Brown:
-En este artículo se demostrará que, de acuerdo con la teoría cinético -molecular del calor, cuerpos de
-un tamaño visible al microscopio, suspendidos en un fluido, deben realizar, como resultado de los
-movimientos moleculares térmicos, movimientos de tal magnitud que puedan ser observados
-fácilmente con un microscopio . Es posible que los movimientos que van a discutirse aquí sean idénticos
-al denominado movimiento molecular browniano […].
-El francés Jean Perrin verificó en el laboratorio las predicciones de Einstein tres años
-después. En su libro Átomos resumía así el estado de la cuestión: «Creo que de ahora en
-adelante será difícil sostener con argumentos racionales una actitud hostil ante las hipótesis
-moleculares».
-Blanco, D. (2012). Einstein. La teoría de la relatividad. Navarra: EDITEC
+En junio de 1827, el botánico escocés Robert Brown se dispuso a analizar al microscopio una muestra de granos de polen sumergidos en agua. Observó que sus partículas, amiloplastos y esferosomas, se estremecían en el líquido, como sometidas al bombardeo constante de unos proyectiles invisibles. Los impactos las hacían rotar y perderse en trayectorias zigzagueantes. Brown no podía observar con su microscopio de 300 aumentos las moléculas de agua, que chocan de modo aleatorio, millones de veces ,contra los objetos diminutos que se sumergen en ella y los zarandean, comunicándoles su agitación térmica. La propia existencia de los átomos fue puesta en duda por algunas autoridades científicas hasta comienzos del siglo XX. En mayo de 1905, Albert Einstein completó un artículo que contribuyó a zanjar la polémica: Sobre el movimiento de las partículas suspendidas en fluidos en reposo, según exige la teoría molecular del calor ,donde llevó a cabo un análisis estadístico de qué efectos perceptibles causaría la agitación térmica de las invisibles moléculas. En la introducción se mostraba excesivamente cauto acerca de la relación de su estudio con las observaciones de Robert Brown: En este artículo se demostrará que, de acuerdo con la teoría cinético -molecular del calor, cuerpos de un tamaño visible al microscopio, suspendidos en un fluido, deben realizar, como resultado de los movimientos moleculares térmicos, movimientos de tal magnitud que puedan ser observados fácilmente con un microscopio . Es posible que los movimientos que van a discutirse aquí sean idénticos al denominado movimiento molecular browniano […]. El francés Jean Perrin verificó en el laboratorio las predicciones de Einstein tres años después. En su libro Átomos resumía así el estado de la cuestión: «Creo que de ahora en adelante será difícil sostener con argumentos racionales una actitud hostil ante las hipótesis moleculares». Blanco, D. (2012). Einstein. La teoría de la relatividad. Navarra: EDITEC
 =====================PREGUNTA 1======================
 ¿Cuál es la idea principal del texto?
 =====================ALTERNATIVAS======================
@@ -70,13 +47,11 @@ C) recibió la indiferencia ecuménica de la comunidad científica.
 D) mostró la potencia explicativa de la teoría molecular del calor.
 E) acusa un predominio del nivel descriptivo frente al explicativo.
 =====================RAZONAMIENTO======================
-El artículo explica el movimiento browniano apelando a la comunicación de
-la agitación térmica entre las moléculas del agua y las del polen.
+El artículo explica el movimiento browniano apelando a la comunicación de la agitación térmica entre las moléculas del agua y las del polen.
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================PREGUNTA 5======================
-5. Si los amiloplastos y esferosomas del polen no se estremecieran al sumergir se en un
-fluido en reposo,
+5. Si los amiloplastos y esferosomas del polen no se estremecieran al sumergir se en un fluido en reposo,
 =====================ALTERNATIVAS======================
 A) la agitación molecular térmica sería aún más intensa.
 B) nadie habría cuestionado la teoría molecular del calor.
@@ -84,7 +59,6 @@ C) Brown sería descrito como un hito en el libro de Perrin.
 D) R. Brown no habría decidido especializarse en botánica.
 E) la teoría molecular del calor se tornaría menos plausible.
 =====================RAZONAMIENTO======================
-El estremecimiento de los amiloplastos y esferosomas fue explicado en
-virtud de la teoría molecular del calor.
+El estremecimiento de los amiloplastos y esferosomas fue explicado en virtud de la teoría molecular del calor.
 =====================ALTERNATIVA CORRECTA======================
 E

@@ -2,13 +2,7 @@ ID: 70
 =====================TEXTO======================
 ELIMINACIÓN DE ORACIONES
 =====================PREGUNTA 1======================
-1. I) Ettore Majorana, nacido en Sicilia en 1906, fue integrante de una familia acomodada
-y de gran tradición cultural. II) Majorana se doctoró con el trabajo: La teoría cuántica
-de los núcleos radiactivos ,con el que obtuvo sobresaliente cum laude . III) Ettore
-Majorana en total escribió nueve artículos con los que contribuyó de forma importante
-con la Física. IV) Ha pasado a la historia de la física teórica por dos conceptos: la
-ecuación de Majorana y el fermión de Majorana. V) El talento de Majorana se vio
-reforzado por el hecho de trabajar al lado del físico Fermi y el llamado Grupo de Roma.
+1. I) Ettore Majorana, nacido en Sicilia en 1906, fue integrante de una familia acomodada y de gran tradición cultural. II) Majorana se doctoró con el trabajo: La teoría cuántica de los núcleos radiactivos ,con el que obtuvo sobresaliente cum laude . III) Ettore Majorana en total escribió nueve artículos con los que contribuyó de forma importante con la Física. IV) Ha pasado a la historia de la física teórica por dos conceptos: la ecuación de Majorana y el fermión de Majorana. V) El talento de Majorana se vio reforzado por el hecho de trabajar al lado del físico Fermi y el llamado Grupo de Roma.
 =====================ALTERNATIVAS======================
 A) I 
 B) II 
@@ -20,17 +14,7 @@ Se elimina la oración I por impertinencia.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================PREGUNTA 2======================
-2. I) Un estudio monitoreó 1,112 resoluciones realizadas por jueces de cuatro prisiones
-en Israel para saber si el descanso se relacionaba con la toma de decisiones
-favorables. II) En el transcurso de 10 meses, los investigadores encontraron que las
-decisiones favorables se relacionaban directamente con el descanso tomado por los
-jueces. III) El porcentaje de resoluciones favorables de los jueces decaía (de 65% a
-casi cero) por cada sesión transcurrida; sin embargo, regresaba a 65% después de
-un descanso. IV) Según la investigación realizada en el 2011, se concluyó que entre
-más de scansados se sentían los jueces mentalmente, más positivas eran sus
-resoluciones. V) De acuerdo con un experto en fatiga de decisión, al tomar una
-decisión o evitar una tentación, se usa el suministro de energía mental que tienes
-reservado para el día.
+2. I) Un estudio monitoreó 1,112 resoluciones realizadas por jueces de cuatro prisiones en Israel para saber si el descanso se relacionaba con la toma de decisiones favorables. II) En el transcurso de 10 meses, los investigadores encontraron que las decisiones favorables se relacionaban directamente con el descanso tomado por los jueces. III) El porcentaje de resoluciones favorables de los jueces decaía (de 65% a casi cero) por cada sesión transcurrida; sin embargo, regresaba a 65% después de un descanso. IV) Según la investigación realizada en el 2011, se concluyó que entre más de scansados se sentían los jueces mentalmente, más positivas eran sus resoluciones. V) De acuerdo con un experto en fatiga de decisión, al tomar una decisión o evitar una tentación, se usa el suministro de energía mental que tienes reservado para el día.
 =====================ALTERNATIVAS======================
 A) I 
 B) II 
@@ -42,16 +26,7 @@ Se elimina la oración V por impertinencia.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================PREGUNTA 3======================
-3. I) Un estudio de la Universidad de Harvard determinó que los que consumen vino en
-dosis moderadas tienen un 30% menos de probabilidades de sufrir un ataque
-cardíaco. II) Según datos de la Federación Mundial del Corazón, las enfermedades
-cardiovasculares y los infartos causan 17,5 millones de muertes al año. III) Científicos
-de la Universidad de Leicester explicaron que el consumo moderado de vino de forma
-regular puede reducir la tasa de tumores intestinales en un 50%. IV) Según diversos
-estudios, consumir una copa de vino al día nos ayuda a retrasar el proceso del
-envejecimiento debido a sus propiedades vasodilatadoras. V) Un equipo de científicos
-de la Universidad de Loyola Medical Center encontró que el consumo moderado de
-vino puede reducir el riesgo de desarrollar demencia.
+3. I) Un estudio de la Universidad de Harvard determinó que los que consumen vino en dosis moderadas tienen un 30% menos de probabilidades de sufrir un ataque cardíaco. II) Según datos de la Federación Mundial del Corazón, las enfermedades cardiovasculares y los infartos causan 17,5 millones de muertes al año. III) Científicos de la Universidad de Leicester explicaron que el consumo moderado de vino de forma regular puede reducir la tasa de tumores intestinales en un 50%. IV) Según diversos estudios, consumir una copa de vino al día nos ayuda a retrasar el proceso del envejecimiento debido a sus propiedades vasodilatadoras. V) Un equipo de científicos de la Universidad de Loyola Medical Center encontró que el consumo moderado de vino puede reducir el riesgo de desarrollar demencia.
 =====================ALTERNATIVAS======================
 A) I 
 B) II 
@@ -63,14 +38,7 @@ Se elimina la oración II por impertinencia.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================PREGUNTA 4======================
-4. I) El término Narcicismo derivó de Narciso, un personaje de la mitología griega que estaba
-enamorado de sí mismo. II) Boicot fue acuñado en base a Charles Boycott, un inglés quien
-al negarse a bajar los precios de la renta de sus propiedades, tuvo que vivir alejado de la
-sociedad . III) El vocablo casanova nació del nombre de un italiano del siglo XVIII, Giacomo
-Casanova, quien se hizo famoso por vivir una gran cantidad de aventuras amorosas. IV)
-El término sadismo proviene del apellido del Marqués de Sade, un noble escritor, famoso
-por sus relatos en los que el sexo desenfrenado siempre estaba presente. V) Chauvismo procede de Chauvin, un soldado del ejército de Napoleón que sirvió en una gran cantidad
-de batallas pese a resultar herido, gracias a su fervor y lealtad.
+4. I) El término Narcicismo derivó de Narciso, un personaje de la mitología griega que estaba enamorado de sí mismo. II) Boicot fue acuñado en base a Charles Boycott, un inglés quien al negarse a bajar los precios de la renta de sus propiedades, tuvo que vivir alejado de la sociedad . III) El vocablo casanova nació del nombre de un italiano del siglo XVIII, Giacomo Casanova, quien se hizo famoso por vivir una gran cantidad de aventuras amorosas. IV) El término sadismo proviene del apellido del Marqués de Sade, un noble escritor, famoso por sus relatos en los que el sexo desenfrenado siempre estaba presente. V) Chauvismo procede de Chauvin, un soldado del ejército de Napoleón que sirvió en una gran cantidad de batallas pese a resultar herido, gracias a su fervor y lealtad.
 =====================ALTERNATIVAS======================
 A) I 
 B) II 
@@ -82,16 +50,7 @@ Se elimina la oración I por impertinencia.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================PREGUNTA 5======================
-5. I) Según un equipo de investigación, la domesticación por parte de los seres humanos
-dejaría una huella en el ADN de los animales. II) Los investigadores examinaron el ADN
-de ratas de alcantarilla, también llamadas ratas de noruega o ratas chinas, que habían
-sido criadas durante varias generaciones. III) Los resultados de ADN revelaron que las
-ratas dóciles o domesticadas tenían cambios genéticos en al menos 1,880 genes. IV)
-Concluyeron que la domesticación tenía un cambio asociado en los genes para los
-factores de crecimiento epidérmico y otras proteínas que estimulan el crecimiento de las
-células. V) En los análisis de ADN de otros animales domésticos comunes como perro s,
-gatos, o cerdos y sus respectivos compañeros en estado salvaje, los expertos también
-hallaron el cambio en el ADN.
+5. I) Según un equipo de investigación, la domesticación por parte de los seres humanos dejaría una huella en el ADN de los animales. II) Los investigadores examinaron el ADN de ratas de alcantarilla, también llamadas ratas de noruega o ratas chinas, que habían sido criadas durante varias generaciones. III) Los resultados de ADN revelaron que las ratas dóciles o domesticadas tenían cambios genéticos en al menos 1,880 genes. IV) Concluyeron que la domesticación tenía un cambio asociado en los genes para los factores de crecimiento epidérmico y otras proteínas que estimulan el crecimiento de las células. V) En los análisis de ADN de otros animales domésticos comunes como perro s, gatos, o cerdos y sus respectivos compañeros en estado salvaje, los expertos también hallaron el cambio en el ADN.
 =====================ALTERNATIVAS======================
 A) II 
 B) III 
@@ -103,11 +62,7 @@ Se elimina la oración I por redundancia.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================PREGUNTA 6======================
-6. I) Los antiguos romanos concedieron menos importancia que nosotros al matrimonio. II)
-Una buena parte de la población romana llegaba a emparejarse y nada más. III) Es decir,
-eran “pareja de hecho” sin llegar a casarse. IV) Solamente una de cada tres pareja s en la
-Roma antigua llegaba a casarse. V) Asimismo, en la Roma antigua, si la esposa pasaba
-tres noches seguidas fuera del hogar, el divorcio era inmediato.
+6. I) Los antiguos romanos concedieron menos importancia que nosotros al matrimonio. II) Una buena parte de la población romana llegaba a emparejarse y nada más. III) Es decir, eran “pareja de hecho” sin llegar a casarse. IV) Solamente una de cada tres pareja s en la Roma antigua llegaba a casarse. V) Asimismo, en la Roma antigua, si la esposa pasaba tres noches seguidas fuera del hogar, el divorcio era inmediato.
 =====================ALTERNATIVAS======================
 A) I 
 B) IV 
@@ -115,21 +70,11 @@ C) III
 D) V 
 E) II
 =====================RAZONAMIENTO======================
-Impertinencia. El tema es “el matrimonio de hecho en la antigua
-Roma”. 
+Impertinencia. El tema es “el matrimonio de hecho en la antigua Roma”. 
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================PREGUNTA 7======================
-7. I) La ingeniería de materiales está presente en la mayoría productos de la vida diaria
-(automóviles, aviones, computadoras, televisores, aparatos biomédicos, etc.), en especial
-cuando están hechos nuevos materiales. II) Todos estos artículos requieren materiales
-diseñados específicamente para sus aplicaciones, los cuales se obtienen al seleccionar
-cuidadosamente los materiales y controlar los procesos de fabricación. III) Esta es
-justamente la tarea de los ingenieros de materiales que va desde la producción de
-materiales primarios, pasando por el diseño y desarrollo de nuevos materiales, hasta la
-manufactura confiable y económica de los productos finales. IV) Lo s materiales nuevos
-obtenidos por la ingeniería de materiales constituyen una tecnología subyacente. V) La
-ingeniería de materiales es una de las carreras con excelentes oportunidades en el futuro .
+7. I) La ingeniería de materiales está presente en la mayoría productos de la vida diaria (automóviles, aviones, computadoras, televisores, aparatos biomédicos, etc.), en especial cuando están hechos nuevos materiales. II) Todos estos artículos requieren materiales diseñados específicamente para sus aplicaciones, los cuales se obtienen al seleccionar cuidadosamente los materiales y controlar los procesos de fabricación. III) Esta es justamente la tarea de los ingenieros de materiales que va desde la producción de materiales primarios, pasando por el diseño y desarrollo de nuevos materiales, hasta la manufactura confiable y económica de los productos finales. IV) Lo s materiales nuevos obtenidos por la ingeniería de materiales constituyen una tecnología subyacente. V) La ingeniería de materiales es una de las carreras con excelentes oportunidades en el futuro .
 =====================ALTERNATIVAS======================
 A) V 
 B) III 
@@ -137,19 +82,11 @@ C) II
 D) I 
 E) IV
 =====================RAZONAMIENTO======================
-Por impertinencia se elimina la oración V, porque no desarrolla el tema de
-la relación entre la ingeniería de materiales y la producción de nuevos materiales.
+Por impertinencia se elimina la oración V, porque no desarrolla el tema de la relación entre la ingeniería de materiales y la producción de nuevos materiales.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================PREGUNTA 8======================
-8. I) Hace más de 2000 años, el matemático griego Eratóstenes desarrolló un método para
-el cálculo de los números primos. II) Es un método matemático que permite averiguar
-rápidamente los números primos desde el 1 hasta el número donde deseamos finalizar
-(n). III) La criba de Eratóstenes es un algoritmo matemático que permite hallar todos los
-números primos menores que un número natural dado. IV) Un número natural se
-considera primo si tiene solamente dos divisores distintos: el 1 y el propio número. V) La
-criba, al inicio, consistía en elaborar una tabla con todos los números naturales
-comp rendidos entre 2 y n, en la cual se tachaban los números que no eran primos .
+8. I) Hace más de 2000 años, el matemático griego Eratóstenes desarrolló un método para el cálculo de los números primos. II) Es un método matemático que permite averiguar rápidamente los números primos desde el 1 hasta el número donde deseamos finalizar (n). III) La criba de Eratóstenes es un algoritmo matemático que permite hallar todos los números primos menores que un número natural dado. IV) Un número natural se considera primo si tiene solamente dos divisores distintos: el 1 y el propio número. V) La criba, al inicio, consistía en elaborar una tabla con todos los números naturales comp rendidos entre 2 y n, en la cual se tachaban los números que no eran primos .
 =====================ALTERNATIVAS======================
 A) I 
 B) IV 
@@ -157,18 +94,11 @@ C) II
 D) III 
 E) V 
 =====================RAZONAMIENTO======================
-Solución : Por impertinencia, se elimina la oración IV, porque no desarrolla la relación
-entre la criba de Eratóstenes y los números primos.
+Solución : Por impertinencia, se elimina la oración IV, porque no desarrolla la relación entre la criba de Eratóstenes y los números primos.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================PREGUNTA 9======================
-9. I) Efraín Miranda Luján nació el 2 de marzo de 1925 en Puno en la comunidad de
-Condoraque. II) Entre 1948 y 1950, Miranda conformó el grupo literario Abemur en
-Arequipa. III) En la década de los 60, Efraín Miranda trabajó en Puno como profesor
-de una escuela rural en la comunidad de Jacha Huinchoca, esta experiencia fue
-fundamental en su vida. IV) Choza es una de las obras más elogiadas de Efraín
-Miranda y ha sido valorada como un poemario revelador, histórico, biológico e integral.
-V) Efraín Miranda falleció el viernes 10 de abril en Arequipa .
+9. I) Efraín Miranda Luján nació el 2 de marzo de 1925 en Puno en la comunidad de Condoraque. II) Entre 1948 y 1950, Miranda conformó el grupo literario Abemur en Arequipa. III) En la década de los 60, Efraín Miranda trabajó en Puno como profesor de una escuela rural en la comunidad de Jacha Huinchoca, esta experiencia fue fundamental en su vida. IV) Choza es una de las obras más elogiadas de Efraín Miranda y ha sido valorada como un poemario revelador, histórico, biológico e integral. V) Efraín Miranda falleció el viernes 10 de abril en Arequipa .
 =====================ALTERNATIVAS======================
 A) IV 
 B) III 
@@ -176,19 +106,11 @@ C) V
 D) I 
 E) II
 =====================RAZONAMIENTO======================
-El tema del ejercicio es “biografía de Efraín Miranda”; entonces, por
-impertinencia se elimina la oración IV.
+El tema del ejercicio es “biografía de Efraín Miranda”; entonces, por impertinencia se elimina la oración IV.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================PREGUNTA 10======================
-10. I) Los sikuris del barrio Mañazo hicieron su aparición el año de 1892. II) Los sikuris del
-barrio Mañazo han conseguido diferentes reconocimientos musicales y culturales en
-diferentes certámenes de Puno. III) Los sikuris del barrio Mañazo han sido
-galardonados como exponente de la música puneña en el Perú y en Bolivia. IV) Los
-sikuris del barrio Mañazo han sido campeones por muchos años en los certámenes
-musicales convocados por el Instituto Americano del Arte. V) El Conjunto de Sikuris
-del Barrio Mañazo ha sido, es y será un fiel exponente de la cultura y la música andina
-de Puno .
+10. I) Los sikuris del barrio Mañazo hicieron su aparición el año de 1892. II) Los sikuris del barrio Mañazo han conseguido diferentes reconocimientos musicales y culturales en diferentes certámenes de Puno. III) Los sikuris del barrio Mañazo han sido galardonados como exponente de la música puneña en el Perú y en Bolivia. IV) Los sikuris del barrio Mañazo han sido campeones por muchos años en los certámenes musicales convocados por el Instituto Americano del Arte. V) El Conjunto de Sikuris del Barrio Mañazo ha sido, es y será un fiel exponente de la cultura y la música andina de Puno .
 =====================ALTERNATIVAS======================
 A) IV 
 B) V 
@@ -196,7 +118,6 @@ C) II
 D) III 
 E) I
 =====================RAZONAMIENTO======================
-Se elimina por impertinencia la oración I porque no desarrolla el tema de
-“los sikuris del barrio Mañazo como exponentes de la música puneña”.
+Se elimina por impertinencia la oración I porque no desarrolla el tema de “los sikuris del barrio Mañazo como exponentes de la música puneña”.
 =====================ALTERNATIVA CORRECTA======================
 E

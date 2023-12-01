@@ -1,31 +1,6 @@
 ID: 80
 =====================TEXTO======================
-El Solar Impulse 2 está a punto de emprender su siguiente vuelo con el fin de
-convertirse en el primer avión propulsado con energía solar que logre dar vuelta al mundo.
-Para sobrevolar ininterrumpidamente el océano Pacífico durante cinco días y cinco noches,
-los pilotos han programado un sistema de descanso que, aseguran, les permitirá estar en
-las condiciones físicas necesarias para controlar los equipos del avión. Dormirán en fases
-de veinte minutos de diez a doce veces al día durante todo el viaje. André Borschberg, de
-62 años, y Bertrand Piccard, de 57, han practicado yoga durante doce años y aplicarán sus
-conocimientos para conseguir el estado necesario de sueño que les permita, al mismo
-tiempo, estar alerta para controlar los equipos en caso necesario, informa The Huffington
-Post. Además, practicaran autohipnosis.
-No obstante, varios científicos indican que el sistema de descanso de los pilotos del
-Solar Impulse 2 no satisface las necesidades del cuerpo humano para recuperarse
-completamente. Así, Kevin Morgan, profesor de psicología del Centro de Sueño de
-Loughborough (Reino Unido) ha dicho a BBC que para recuperarse se necesita al menos
-media hora de sueño, y que un ciclo de sueño se completa en noventa minutos.
-A su vez, David Ray, profesor de medicina y endocrinologí a de la Universidad de
-Manchester, opina que el ritmo agotador puede provocar en los pilotos del Solar Impulse 2
-un fenómeno conocido como ‘microsueños’, o cabeceos, que representan una gran
-amenaza si tienen lugar durante la conducción o pilotaje de cualquier vehículo. Además, el
-estado de privación de sueño puede provocar que el piloto cometa un error o tome una
-decisión equivocada, asegura el científico. Según Ray, los pilotos podrán recuperarse con
-varias noches de sueño reparador una vez lleguen a su destino. «Sin embargo, la situación
-que les espera no es nada agradable», concluye.
-Rusia Today (2015). ¿Cuánto tiempo necesitamos dormir para descansar realmente?
-Recuperado de: http://actualidad.rt.com/actualidad/174865 -solar -impulse -sueno -dormir-
-cerebro
+El Solar Impulse 2 está a punto de emprender su siguiente vuelo con el fin de convertirse en el primer avión propulsado con energía solar que logre dar vuelta al mundo. Para sobrevolar ininterrumpidamente el océano Pacífico durante cinco días y cinco noches, los pilotos han programado un sistema de descanso que, aseguran, les permitirá estar en las condiciones físicas necesarias para controlar los equipos del avión. Dormirán en fases de veinte minutos de diez a doce veces al día durante todo el viaje. André Borschberg, de 62 años, y Bertrand Piccard, de 57, han practicado yoga durante doce años y aplicarán sus conocimientos para conseguir el estado necesario de sueño que les permita, al mismo tiempo, estar alerta para controlar los equipos en caso necesario, informa The Huffington Post. Además, practicaran autohipnosis. No obstante, varios científicos indican que el sistema de descanso de los pilotos del Solar Impulse 2 no satisface las necesidades del cuerpo humano para recuperarse completamente. Así, Kevin Morgan, profesor de psicología del Centro de Sueño de Loughborough (Reino Unido) ha dicho a BBC que para recuperarse se necesita al menos media hora de sueño, y que un ciclo de sueño se completa en noventa minutos. A su vez, David Ray, profesor de medicina y endocrinologí a de la Universidad de Manchester, opina que el ritmo agotador puede provocar en los pilotos del Solar Impulse 2 un fenómeno conocido como ‘microsueños’, o cabeceos, que representan una gran amenaza si tienen lugar durante la conducción o pilotaje de cualquier vehículo. Además, el estado de privación de sueño puede provocar que el piloto cometa un error o tome una decisión equivocada, asegura el científico. Según Ray, los pilotos podrán recuperarse con varias noches de sueño reparador una vez lleguen a su destino. «Sin embargo, la situación que les espera no es nada agradable», concluye. Rusia Today (2015). ¿Cuánto tiempo necesitamos dormir para descansar realmente? Recuperado de: http://actualidad.rt.com/actualidad/174865 -solar -impulse -sueno -dormir- cerebro
 =====================PREGUNTA 1======================
 1. ¿Cuál es el mejor resumen del texto?
 =====================ALTERNATIVAS======================
@@ -35,9 +10,7 @@ C) Los pilotos del Solar Impulse 2 , al volar por el océano Pacífico, dormirá
 D) Los seres humanos necesitan para recomponerse como mínimo media hora de sueño, de lo contrario, podrían tener etapas de ‘microsueños’ que son peligrosos o quizás podrían tomar malas decisiones .
 E) Borschberg, de 62 años, y Piccard, de 57, serán pilotos de un revolucionario avión impulsado solo con energía solar, con el cual van a dar la vuelta al mundo, aun cuando existan muchos riesgos en el periplo .
 =====================RAZONAMIENTO======================
-Los pilotos del Solar Impulse 2 dormirán durante veinte minutos varias
-veces al día. Ante esta situación, el autor, basado en la opinión de varios científicos,
-expone que ese ritmo de sueño no satisface las necesidades del cuerpo.
+Los pilotos del Solar Impulse 2 dormirán durante veinte minutos varias veces al día. Ante esta situación, el autor, basado en la opinión de varios científicos, expone que ese ritmo de sueño no satisface las necesidades del cuerpo.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================PREGUNTA 2======================
@@ -49,14 +22,11 @@ C) regularizada.
 D) enervada. 
 E) excepcional.
 =====================RAZONAMIENTO======================
-El sistema de descanso de los pilotos consiste en dormir de veinte minutos
-de diez a doce veces al día. Esta es una práctica que ellos van a seguir regularmente
-como una norma de vida.
+El sistema de descanso de los pilotos consiste en dormir de veinte minutos de diez a doce veces al día. Esta es una práctica que ellos van a seguir regularmente como una norma de vida.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================PREGUNTA 3======================
-3. Es incompatible con el texto sostener que las personas que a menudo duermen
-escasamente
+3. Es incompatible con el texto sostener que las personas que a menudo duermen escasamente
 =====================ALTERNATIVAS======================
 A) les vendría muy bien regular su sueño .
 B) podrían pasar por ratos de microsueños.
@@ -64,8 +34,7 @@ C) pueden provocar accidentes al conducir.
 D) están exentos de actuar erróneamente .
 E) pueden estar cabeceando a cada rato.
 =====================RAZONAMIENTO======================
-En el texto se afirma que la privación de sueño puede provocar que el piloto
-de un vehículo pueda cometer errores.
+En el texto se afirma que la privación de sueño puede provocar que el piloto de un vehículo pueda cometer errores.
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================PREGUNTA 4======================
@@ -77,14 +46,11 @@ C) solo vuela de día y necesita aterrizar durante las noches.
 D) tiene una batería con capacidad para volar una semana.
 E) la única carga adicional que puede llevar es dos pasajeros.
 =====================RAZONAMIENTO======================
-Si el avión Solar Impulse 2 es capaz de volar durante cinco días y cinco
-noches ininterrumpidamente es porque tiene una batería que le permite almacenar
-energía y volar de noche. De este modo, el avión tiene una amplia autonomía de vuelo.
+Si el avión Solar Impulse 2 es capaz de volar durante cinco días y cinco noches ininterrumpidamente es porque tiene una batería que le permite almacenar energía y volar de noche. De este modo, el avión tiene una amplia autonomía de vuelo.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================PREGUNTA 5======================
-5. Si se demostrara que el sistema de descanso empleado por los pilotos del Solar
-Impulse 2 es infalible, entonces,
+5. Si se demostrara que el sistema de descanso empleado por los pilotos del Solar Impulse 2 es infalible, entonces,
 =====================ALTERNATIVAS======================
 A) Kevin Morgan decidiría dejar de ser profesor de Psicología.
 B) los accidentes aéreos dejarían de enlutar al mundo entero.
@@ -92,7 +58,6 @@ C) las líneas aéreas solamente utilizarían aviones solares .
 D) el yoga podría ser elevado a la categoría de práctica religiosa.
 E) su método beneficiaría a quienes padecen insomnio crónico.
 =====================RAZONAMIENTO======================
-Las personas que padecen insomnio se verían beneficiadas con el
-conocimiento de ese sistema, pues podrían tener sueños reparadores.
+Las personas que padecen insomnio se verían beneficiadas con el conocimiento de ese sistema, pues podrían tener sueños reparadores.
 =====================ALTERNATIVA CORRECTA======================
 E

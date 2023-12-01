@@ -1,14 +1,6 @@
 ID: 112
 =====================TEXTO======================
-Una de las características notables y una de las grandes ventajas de la ciencia natural
-es que muchas de sus hipótesis admiten una contrastación experimental. Pero no se puede
-decir que la contrastación experimental de hipótesis sea un rasgo distintivo de todas, y solo,
-las ciencias naturales. Ella no establece una línea divisoria entre la ciencia natural y la
-ciencia social, porque los procedimientos de contrastación experimental se utilizan también
-en psicología y, aunque en menor medida, en sociología. P or otra parte, el alcance de la
-contrastación experimental aumenta constantemente a medida que se van poniendo a
-punto los recursos tecnológicos necesarios. Además, no todas las hipótesis de las ciencias
-naturales son susceptibles de contrastación experimental.
+Una de las características notables y una de las grandes ventajas de la ciencia natural es que muchas de sus hipótesis admiten una contrastación experimental. Pero no se puede decir que la contrastación experimental de hipótesis sea un rasgo distintivo de todas, y solo, las ciencias naturales. Ella no establece una línea divisoria entre la ciencia natural y la ciencia social, porque los procedimientos de contrastación experimental se utilizan también en psicología y, aunque en menor medida, en sociología. P or otra parte, el alcance de la contrastación experimental aumenta constantemente a medida que se van poniendo a punto los recursos tecnológicos necesarios. Además, no todas las hipótesis de las ciencias naturales son susceptibles de contrastación experimental.
 =====================PREGUNTA 1======================
 Del texto se deduce que la contrastación experimental en el terreno científico.
 =====================ALTERNATIVAS======================
@@ -17,10 +9,7 @@ B.Se considera trivial para la física.
 C.Es inaplicable para la sociología.
 D.Evidencia una naturaleza perfectible.
 E.Carece de límites en su aplicación.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-En el texto se señala que el alcance de la contrastación experimental
-aumenta de acuerdo con los recursos tecnológicos que se van poniendo a punto. Esto
-indica que la contrastación es mejorable.
+En el texto se señala que el alcance de la contrastación experimental aumenta de acuerdo con los recursos tecnológicos que se van poniendo a punto. Esto indica que la contrastación es mejorable.

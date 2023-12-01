@@ -1,41 +1,6 @@
 ID: 104
 =====================TEXTO======================
-La primera mitad del siglo XVII fue en toda Europa la gran era de la caza de brujas.
-Prácticamente ningún país escapó a esta obsesión, a la que se sacrificaron miles de
-víctimas condenadas a la hoguera. Tampoco España. El episodio más conocido tuvo lugar
-en un pueblo de los Pirineos navarros, Zugarramurdi, que terminó con el procesamiento en
-1610, por parte de la Inquisición, de 53 personas, once de las cuales fueron ejecutadas.
-Pero no fue el único. Entre 1637 y 1643 se desarrolló en varios pueblos del valle de Tena, 
-en los Pirineos de Huesca, otro caso que tuvo mucho eco. Alarmado, un escritor madrileño
-aseguró que se habían encontrado 1600 endemoniadas, cifra sin duda exagerada que otro
-testimonio rebaja a 250, aunque en la documentación figuran solo 62 implicados en el
-proceso inquisitorial. Según el máximo estudioso de este episodio, Ángel Gari, esta fue
-«una de las más importantes epidemias de posesión demoníaca de Europa». Aunque
-finalmente ningún brujo o bruja del valle de Tena fue condenado a morir e n la hoguera, el
-episodio muestra muy bien cómo en el siglo XVII la creencia en los demonios podría crear
-una espiral de histeria colectiva y de caza del brujo culpable.
-Conocemos muchos detalles del episodio gracias al libro Patrocinio de ángeles y
-combate de demonios ,escrito por fray Francisco Blasco de Lanuza, que era rector de uno
-de esos pueblos en el momento en que estalló el caso. Según Blasco y otro sacerdote de
-la zona, Matías Ximénez, desde 1637 las gentes de Tramacastilla, Sandiniés, Sallent de
-Gállego y otros pueblos de la comarca fueron presa de un extraño mal. Más exactamente,
-los afectados eran principalmente mujeres jóvenes aún solteras, que andaban como
-trastornadas y atemorizadas, gritando como si se ahogaran y sin poder tranquilizarse. S e
-mostraban incapaces de rezar, tenían hormigueos en la piel, se quedaban con zonas del
-cuerpo insensibles o veían de color negro la hostia consagrada y no podían fijar en ella la
-mirada. La mayoría ponía excusas para no confesarse (algo totalmente prohibido) y caían
-desmayadas cuando el sacerdote les daba la absolución. Blasco de Lanuza y Matías
-Ximénez creyeron enseguida que detrás de aquello andaba el demonio. En su libro, Blasco
-se refirió al episodio como una «fiera invasión de Satanás», «uno de los sucesos más raros
-en materia de energúmenos que vio el mundo, así por el número de ellos como por los
-terrores y efecto del demonio, que se ha experimentado». Además, como los pueblos
-estaban a apenas dos leguas de la frontera, cabía sospechar que los demonios habían
-penetrado desde Francia, donde en los años anteriores habían estallado varios casos de
-brujería y posesiones.
-
-(Extraído de National Geographic España. Consultado el 08 de junio de 2015.
-http://www.nationalgeographic.com.es/articulo/historia/gra ndes_reportajes/10277/brujas.ht
-ml)
+La primera mitad del siglo XVII fue en toda Europa la gran era de la caza de brujas. Prácticamente ningún país escapó a esta obsesión, a la que se sacrificaron miles de víctimas condenadas a la hoguera. Tampoco España. El episodio más conocido tuvo lugar en un pueblo de los Pirineos navarros, Zugarramurdi, que terminó con el procesamiento en 1610, por parte de la Inquisición, de 53 personas, once de las cuales fueron ejecutadas. Pero no fue el único. Entre 1637 y 1643 se desarrolló en varios pueblos del valle de Tena,  en los Pirineos de Huesca, otro caso que tuvo mucho eco. Alarmado, un escritor madrileño aseguró que se habían encontrado 1600 endemoniadas, cifra sin duda exagerada que otro testimonio rebaja a 250, aunque en la documentación figuran solo 62 implicados en el proceso inquisitorial. Según el máximo estudioso de este episodio, Ángel Gari, esta fue «una de las más importantes epidemias de posesión demoníaca de Europa». Aunque finalmente ningún brujo o bruja del valle de Tena fue condenado a morir e n la hoguera, el episodio muestra muy bien cómo en el siglo XVII la creencia en los demonios podría crear una espiral de histeria colectiva y de caza del brujo culpable. Conocemos muchos detalles del episodio gracias al libro Patrocinio de ángeles y combate de demonios ,escrito por fray Francisco Blasco de Lanuza, que era rector de uno de esos pueblos en el momento en que estalló el caso. Según Blasco y otro sacerdote de la zona, Matías Ximénez, desde 1637 las gentes de Tramacastilla, Sandiniés, Sallent de Gállego y otros pueblos de la comarca fueron presa de un extraño mal. Más exactamente, los afectados eran principalmente mujeres jóvenes aún solteras, que andaban como trastornadas y atemorizadas, gritando como si se ahogaran y sin poder tranquilizarse. Se mostraban incapaces de rezar, tenían hormigueos en la piel, se quedaban con zonas del cuerpo insensibles o veían de color negro la hostia consagrada y no podían fijar en ella la mirada. La mayoría ponía excusas para no confesarse (algo totalmente prohibido) y caían desmayadas cuando el sacerdote les daba la absolución. Blasco de Lanuza y Matías Ximénez creyeron enseguida que detrás de aquello andaba el demonio. En su libro, Blasco se refirió al episodio como una «fiera invasión de Satanás», «uno de los sucesos más raros en materia de energúmenos que vio el mundo, así por el número de ellos como por los terrores y efecto del demonio, que se ha experimentado». Además, como los pueblos estaban a apenas dos leguas de la frontera, cabía sospechar que los demonios habían penetrado desde Francia, donde en los años anteriores habían estallado varios casos de brujería y posesiones.(Extraído de National Geographic España. Consultado el 08 de junio de 2015.http://www.nationalgeographic.com.es/articulo/historia/gra ndes_reportajes/10277/brujas.html)
 =====================PREGUNTA 1======================
 1. El texto se centra fundamentalmente en
 =====================ALTERNATIVAS======================
@@ -45,8 +10,7 @@ C) la hi steria y fijación por las brujas registrado en relatos religiosos del 
 D) el estallido de lo que se creía una posesión demon íaca en la España del s. XVII.
 E) el origen de los juicios sumarios oficiados por la inquisición durante el siglo XVII.
 =====================RAZONAMIENTO======================
-En el texto se desarrolla el tema de las llamadas posesiones demoniacas
-que estallaron en España durante el siglo XVII.
+En el texto se desarrolla el tema de las llamadas posesiones demoniacas que estallaron en España durante el siglo XVII.
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================PREGUNTA 2======================
@@ -58,8 +22,7 @@ C) tentación.
 D) violencia. 
 E) objeto.
 =====================RAZONAMIENTO======================
-El término está referido a las gentes como presas del espíritu demoniaco;
-esto es, como VÍCTIMAS.
+El término está referido a las gentes como presas del espíritu demoniaco; esto es, como VÍCTIMAS.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================PREGUNTA 3======================
@@ -71,8 +34,7 @@ C) generaban hormigueos en la piel de las poseídas.
 D) impedían que las mujeres se confiesen con el cura.
 E) generaban un espiral de histeria en las personas.
 =====================RAZONAMIENTO======================
-El texto indica que según se creía los demonios pe netraron desde Francia,
-pues se registraron allí algunos casos de posesión.
+El texto indica que según se creía los demonios pe netraron desde Francia, pues se registraron allí algunos casos de posesión.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================PREGUNTA 4======================
@@ -84,14 +46,11 @@ C) se llevó a cabo debido al miedo y a la histeria colectiva que se desató.
 D) quedó en el inconsciente colectivo europeo incluso en el siglo XX.
 E) generó una ola de piedad y virtud sin parangón en la vida cotidiana.
 =====================RAZONAMIENTO======================
-En el texto se señala que la caza de brujas fue una obsesión en Europa
-durante el siglo XVII. Lo anterior supone que la menor sospecha desataba la histeria
-colectiva.
+En el texto se señala que la caza de brujas fue una obsesión en Europa durante el siglo XVII. Lo anterior supone que la menor sospecha desataba la histeria colectiva.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================PREGUNTA 5======================
-5. Si se tuviera registro de posesiones demoní acas en el valle de Tena durante finales
-del siglo XVI, probablemente
+5. Si se tuviera registro de posesiones demoní acas en el valle de Tena durante finales del siglo XVI, probablemente
 =====================ALTERNATIVAS======================
 A) la obsesión por la caza de brujas se remitiría a las zonas galas.
 B) la creencia en el demonio y las brujas sería un rasgo español.
@@ -99,8 +58,6 @@ C) los estudiosos llegarían a un consenso sobre qué es el mal.
 D) la inquisición habría tenido una labor más sólida en Francia.
 E) la tesis del origen francés de los demonios se habría debilitado.
 =====================RAZONAMIENTO======================
-El texto da cuenta de que se registraron casos de posesión en Francia en
-años anteriores a los de España. Por ello se pensaba que los demonios habían
-penetrado por este país.
+El texto da cuenta de que se registraron casos de posesión en Francia en años anteriores a los de España. Por ello se pensaba que los demonios habían penetrado por este país.
 =====================ALTERNATIVA CORRECTA======================
 E
