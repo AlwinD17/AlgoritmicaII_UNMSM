@@ -4,6 +4,14 @@
  */
 package Interfaces.StudentUI;
 
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+import java.awt.LayoutManager;
+import java.awt.RenderingHints;
+import javax.swing.JPanel;
+
 public class Exercises extends javax.swing.JPanel {
 
     /**
@@ -23,11 +31,11 @@ public class Exercises extends javax.swing.JPanel {
     private void initComponents() {
 
         jPanel2 = new javax.swing.JPanel();
-        jPanel3 = new javax.swing.JPanel();
+        jPanel3 = new RoundedPanel(50, Color.getHSBColor(0.5278f, 0.08f, 0.90f));
         jButton2 = new javax.swing.JButton();
         jScrollPane2 = new javax.swing.JScrollPane();
         jTextArea2 = new javax.swing.JTextArea();
-        jPanel4 = new javax.swing.JPanel();
+        jPanel4 = new RoundedPanel(50, Color.getHSBColor(0.5278f, 0.08f, 0.90f));
         jButton1 = new javax.swing.JButton();
         jScrollPane1 = new javax.swing.JScrollPane();
         jTextArea1 = new javax.swing.JTextArea();
@@ -39,7 +47,7 @@ public class Exercises extends javax.swing.JPanel {
 
         jPanel2.setBackground(new java.awt.Color(241, 248, 255));
 
-        jPanel3.setBackground(new java.awt.Color(212, 227, 230));
+        jPanel3.setBackground(new java.awt.Color(241, 248, 255));
 
         jButton2.setText("Empezar");
 
@@ -72,7 +80,7 @@ public class Exercises extends javax.swing.JPanel {
                 .addGap(16, 16, 16))
         );
 
-        jPanel4.setBackground(new java.awt.Color(212, 227, 230));
+        jPanel4.setBackground(new java.awt.Color(241, 248, 255));
 
         jButton1.setText("Empezar");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
@@ -173,4 +181,50 @@ public class Exercises extends javax.swing.JPanel {
     private javax.swing.JTextArea jTextArea2;
     private javax.swing.JTextField jTextField1;
     // End of variables declaration//GEN-END:variables
+class RoundedPanel extends JPanel
+    {
+        private Color backgroundColor;
+        private int cornerRadius = 15;
+        public RoundedPanel(LayoutManager layout, int radius) {
+            super(layout);
+            cornerRadius = radius;
+        }
+        public RoundedPanel(LayoutManager layout, int radius, Color bgColor) {
+            super(layout);
+            cornerRadius = radius;
+            backgroundColor = bgColor;
+        }
+        public RoundedPanel(int radius) {
+            super();
+            cornerRadius = radius;
+            
+        }
+        public RoundedPanel(int radius, Color bgColor) {
+            super();
+            cornerRadius = radius;
+            backgroundColor = bgColor;
+        }
+        
+        
+        @Override
+        protected void paintComponent(Graphics g) {
+            super.paintComponent(g);
+            Dimension arcs = new Dimension(cornerRadius, cornerRadius);
+            int width = getWidth();
+            int height = getHeight();
+            Graphics2D graphics = (Graphics2D) g;
+            graphics.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
+            //Draws the rounded panel with borders.
+            if (backgroundColor != null) {
+                graphics.setColor(backgroundColor);
+            } else {
+                graphics.setColor(getBackground());
+            }
+            graphics.fillRoundRect(0, 0, width-1, height-1, arcs.width, arcs.height); //paint background
+            graphics.setColor(getForeground());
+//            graphics.drawRoundRect(0, 0, width-1, height-1, arcs.width, arcs.height); //paint border
+//             
+        }
+        
+    }
 }

@@ -16,3 +16,7 @@ src/data/Usuarios/usuario_39373.bin
 Estudiante,Estudiante,student
 src/data/Usuarios/usuario_47465.bin
 
+asd,asd,student
+src/data/Usuarios/usuario_79383.bin
+
+

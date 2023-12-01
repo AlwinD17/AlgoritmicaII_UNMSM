@@ -2,10 +2,10 @@ package com.usuarios;
 
 import java.io.Serializable;
 
-public class Teacher extends User implements Serializable{
+public class teacher extends User implements Serializable{
     private String career;
 
-    public Teacher() {
+    public teacher() {
         super();
         career=null;
     }

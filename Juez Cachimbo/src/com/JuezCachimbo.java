@@ -13,7 +13,7 @@ import com.ejercicios.Question;
 import com.ejercicios.Text;
 
 import com.usuarios.Student;
-import com.usuarios.Teacher;
+import com.usuarios.teacher;
 import data.Manage;
 import java.awt.BorderLayout;
 import javax.swing.JOptionPane;
@@ -29,7 +29,7 @@ import javax.swing.SwingUtilities;
 public class JuezCachimbo implements Conexion{
     private frmLogin loginView;
     private Manage manage;
-    private Teacher profesor;
+    private teacher profesor;
     private Student alumno;
     private String rutaUsuario;
     private String tipo;
@@ -48,10 +48,10 @@ public class JuezCachimbo implements Conexion{
             rutaUsuario = datos[0];
             tipo = datos[1];
             if ("teacher".equals(tipo)) {
-                Object usuarioObj = Manage.deserializarObjeto(rutaUsuario,Teacher.class);
+                Object usuarioObj = Manage.deserializarObjeto(rutaUsuario,teacher.class);
 
-                if (usuarioObj instanceof Teacher) {
-                    profesor = (Teacher) usuarioObj;
+                if (usuarioObj instanceof teacher) {
+                    profesor = (teacher) usuarioObj;
 
                     // Agrega impresiones para depurar
                     System.out.println("Profesor deserializado: " + profesor);

@@ -2,7 +2,7 @@ package data;
 import com.ejercicios.Question;
 import com.ejercicios.Text;
 import com.usuarios.Student;
-import com.usuarios.Teacher;
+import com.usuarios.teacher;
 import java.io.*;
 import java.util.ArrayList;
 
@@ -74,7 +74,7 @@ public class Manage {
         }
     }
     
-    public void actualizarObjeto(String rutaFichero, Teacher profesor)
+    public void actualizarObjeto(String rutaFichero, teacher profesor)
             throws IOException, ClassNotFoundException {
         try (ObjectOutputStream outputStream = new ObjectOutputStream(new FileOutputStream(rutaFichero))) {
             outputStream.writeObject(profesor);
