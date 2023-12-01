@@ -81,9 +81,12 @@
         <Container class="javax.swing.JPanel" name="jPanel3">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-              <Color blue="e6" green="e3" red="d4" type="rgb"/>
+              <Color blue="ff" green="f8" red="f1" type="rgb"/>
             </Property>
           </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new RoundedPanel(50, Color.getHSBColor(0.5278f, 0.08f, 0.90f))"/>
+          </AuxValues>
 
           <Layout>
             <DimensionLayout dim="0">
@@ -142,9 +145,12 @@
         <Container class="javax.swing.JPanel" name="jPanel4">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-              <Color blue="e6" green="e3" red="d4" type="rgb"/>
+              <Color blue="ff" green="f8" red="f1" type="rgb"/>
             </Property>
           </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new RoundedPanel(50, Color.getHSBColor(0.5278f, 0.08f, 0.90f))"/>
+          </AuxValues>
 
           <Layout>
             <DimensionLayout dim="0">

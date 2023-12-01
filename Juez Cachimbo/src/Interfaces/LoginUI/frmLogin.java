@@ -10,6 +10,7 @@ public class frmLogin extends javax.swing.JFrame {
 
     private JuezCachimbo main;
     public frmLogin(JuezCachimbo main) {
+        
         this.main = main;
         initComponents();    
     }

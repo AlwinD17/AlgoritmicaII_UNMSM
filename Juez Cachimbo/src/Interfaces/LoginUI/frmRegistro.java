@@ -3,7 +3,7 @@ package Interfaces.LoginUI;
 
 import com.JuezCachimbo;
 import com.usuarios.Student;
-import com.usuarios.Teacher;
+import com.usuarios.teacher;
 import com.usuarios.User;
 import java.awt.BorderLayout;
 import javax.swing.JPanel;
@@ -22,6 +22,7 @@ public class frmRegistro extends javax.swing.JFrame {
         initComponents();    
         jLabel3.setVisible(false);
         jTextcarreraprof.setVisible(false);
+        
     }
 
     /**
@@ -246,7 +247,7 @@ public class frmRegistro extends javax.swing.JFrame {
         user = student;
         tipo = "student";
     } else {
-        Teacher teacher = new Teacher();
+        teacher teacher = new teacher();
         teacher.setUserName(usuario);
         teacher.setPassword(contraseña);
         teacher.setName(nombre);
