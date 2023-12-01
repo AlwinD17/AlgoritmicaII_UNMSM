@@ -1,82 +1,63 @@
 ID 192
-=====Texto 5======
-Procedentes de Arabia a principios del siglo VII, hordas de guerreros inspirados por la nueva religión islámica propagaron las enseñanzas del profeta Mahoma a lo largo de extensas regiones que abarcaron desde España hasta el Asia Central. Pero este nuevo mundo musulmán recién creado, pronto se dividiría en dos facciones rivales, el islamismo de los sunitas y el de los chiítas, en un cisma que periódicamente ha provocado violencia y enconado antagonismo tal como se presencia ahora en Irak.
-
-La división chiíta -sunita se produjo poco después de la muerte del fundador del islamismo, Mahoma, en el año 632 D.C. Los sunitas creen que los primeros cuatro califas musulmanes, o líderes supremos religiosos, eran los sucesores de Mahoma, pero han elegido a sus sucesivos líderes en base a la realidad política de los tiempos; incluso, algunas veces, estas elecciones iban, en realidad, tras la búsqueda de propósitos políticos concretos. Los chiítas, en cambio, insisten en que los verdaderos líderes del islamismo deben ser descendientes de Alí, el cuarto califa, primo y yerno de Mahoma.
-
-Los chiítas veneran tanto a Alí como a su hijo Hussein, el nieto del profeta, cuya muerte a manos de los sunitas en una batalla del siglo VII en las planicies de Karbala, actual territorio de Irak, sigue siendo recordada en emotivos ritos anuales. Los chiítas constituyen menos del 15% de los mil millones de musulmanes en todo el mundo, pero vienen a ser aproximadamente un 60% de la población de Irak —unos 25 millones de personas— aunque los sunitas dominaron el país bajo el mandato de Saddam Hussein y otros regímenes previos. Los chiítas también son mayoría en Irán y en Bahréin (una isla nación del golfo Pérsico) y forman amplias minorías en Arabia Saudita, Kuwait, Siria y el Líbano. También hay bolsones de chiítas en Afganistán, Pakistán y Tayikistán.
-
-Associated Press. (6 de abril de 2004). «Vistazo a los sectores musulmanes en pugna en Irak». En: Myplainview. Recuperado el 13 de octubre de 2015.
-
-
-Aquí tienes el texto con el formato solicitado:
-
-=====Pregunta 1======
+=====================TEXTO======================
+Procedentes de Arabia a principios del siglo VII, hordas de guerreros inspirados por la nueva religión islámica propagaron las enseñanzas del profeta Mahoma a lo largo de extensas regiones que abarcaron desde España hasta el Asia Central. Pero este nuevo mundo musulmán recién creado, pronto se dividiría en dos facciones rivales, el islamismo de los sunitas y el de los chiítas, en un cisma que periódicamente ha provocado violencia y enconado antagonismo tal como se presencia ahora en Irak. La división chiíta -sunita se produjo poco después de la muerte del fundador del islamismo, Mahoma, en el año 632 D.C. Los sunitas creen que los primeros cuatro califas musulmanes, o líderes supremos religiosos, eran los sucesores de Mahoma, pero han elegido a sus sucesivos líderes en base a la realidad política de los tiempos; incluso, algunas veces, estas elecciones iban, en realidad, tras la búsqueda de propósitos políticos concretos. Los chiítas, en cambio, insisten en que los verdaderos líderes del islamismo deben ser descendientes de Alí, el cuarto califa, primo y yerno de Mahoma. Los chiítas veneran tanto a Alí como a su hijo Hussein, el nieto del profeta, cuya muerte a manos de los sunitas en una batalla del siglo VII en las planicies de Karbala, actual territorio de Irak, sigue siendo recordada en emotivos ritos anuales. Los chiítas constituyen menos del 15% de los mil millones de musulmanes en todo el mundo, pero vienen a ser aproximadamente un 60% de la población de Irak —unos 25 millones de personas— aunque los sunitas dominaron el país bajo el mandato de Saddam Hussein y otros regímenes previos. Los chiítas también son mayoría en Irán y en Bahréin (una isla nación del golfo Pérsico) y forman amplias minorías en Arabia Saudita, Kuwait, Siria y el Líbano. También hay bolsones de chiítas en Afganistán, Pakistán y Tayikistán. Associated Press. (6 de abril de 2004). «Vistazo a los sectores musulmanes en pugna en Irak». En: Myplainview. Recuperado el 13 de octubre de 2015. Aquí tienes el texto con el formato solicitado:
+=====================PREGUNTA 1======================
 ¿Qué expone medularmente el texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. los fundamentos filosóficos más importantes de la religión islámica.
 B. los sucesivos ritos y celebraciones en honor de Alí, el cuarto califa.
 C. el origen de la división entre chiítas y sunitas en la religión islámica.
 D. el dominio de los sunitas durante el gobierno de Saddam Hussein.
 E. el modo de vida de los bolsones de chiítas en Afganistán y Pakistán.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 C
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El texto da cuenta del origen de la división entre chiítas y sunitas, que hasta la actualidad sigue generando violentos antagonismos.
-
-=====Pregunta 2======
+=====================PREGUNTA 2======================
 ¿Con qué se puede reemplazar "ENCONADO" en el texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. encubierto.
 B. rencoroso.
 C. inflamado.
 D. instalado.
 E. localizado.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 B
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Dada la accidentada trayectoria de las relaciones entre las dos facciones de la religión musulmana, los chiítas y los sunitas, ENCONADO se entiende en el texto como ‘rencoroso’.
-
-=====Pregunta 3======
+=====================PREGUNTA 3======================
 ¿Qué es incompatible señalar respecto a las facciones musulmanas descritas en el texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. el autor está seguro de que quienes mutilaron a los lobos marinos lo hicieron con fines utilitarios.
 B. según asegura la Bióloga Sandie Salazar el ataque a los lobos marinos se realizó durante la noche.
 C. la mayoría de los lobos marinos atacados eran machos, mientras que las hembras fueron víctimas fortuitas.
 D. los órganos reproductores de los lobos marinos se comercializan en distintas partes del mundo.
 E. los científicos de la estación Charles Darwin solo pudieron analizar a nueve lobos marinos.
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 En el texto se señala que hubo un aumento de las necesidades económicas de los mineros a tiempo completo, debido a que muchos de ellos ya no contaban con su actividad agrícola.
-=====Pregunta 4======
+=====================PREGUNTA 4======================
 ¿A qué se debe la elección de sus líderes de acuerdo al contexto político actual que realizan los sunitas?
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. manejan un criterio más pragmático que los chiítas.
 B. ignoran explícitamente las enseñanzas de Mahoma.
 C. se han visto perjudicados por la batalla de Karbala.
 D. comulgan exclusivamente con las enseñanzas de Alí.
 E. lo hacen para evitar enfrentamientos con los chiítas.
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 A
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El texto sugiere que las elecciones, según el contexto político, que llevan a cabo los sunitas es una manifestación de su pragmatismo. Ya que estos parten de intereses políticos concretos que, menciona el texto, rebasan la esfera de lo religioso.
-=====Pregunta 5======
+=====================PREGUNTA 5======================
 ¿Qué habría sucedido si Hussein, nieto de Mahoma, no hubiera muerto a manos de los sunitas?
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. se celebrarían emotivas ceremonias religiosas en su honor.
 B. no habría tanta aversión ni violencia entre sunitas y chiítas.
 C. los habitantes de Karbala habrían cambiado de fe religiosa.
 D. no se habría producido el cisma ético entre sunitas y chiítas.
 E. los califas musulmanes dominarían a la población de Siria.
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 B
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El asesinato de Hussein a manos de los sunitas es uno de los hechos que ha acrecentado el antagonismo entre sunitas y chiítas.

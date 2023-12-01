@@ -1,31 +1,6 @@
 ID: 64
 =====================TEXTO======================
-La tradición oral es el conducto primigenio por el cual la mitología se perpetúa. Tanto el
-narrador como el público que escucha sus explicaciones parten de la base de que se trata
-de historias supuestamente reales que justifican la existencia de preceptos, id eas,
-creencias y realidades. Claro que todo ello acostumbra a estar ataviado de hechos
-fantásticos y sobrenaturales. De esta forma, el mito, que siempre es interpretativo, suele
-estar compuesto por una serie de símbolos y ornamentos que tienen por objeto penetrar en
-la conciencia del oyente o bien en su evolución.
-El psiquiatra Jung defendía la existencia de una entidad superior a la que denominó
-"inconsciente colectivo", que sería algo así como un gran banco central de datos formado
-por la energía de los a rquetipos de la sabiduría con el que ocasionalmente el ser humano
-podría conectar. Dichas conexiones se efectuarían mediante estados de trance,
-iluminación, revelación por ayuno o sueño. Dicho de otro modo, las leyendas, mitos, relatos
-e incluso más tardía mente cuentos, no serían sino conexiones de una sabiduría superior
-que tendría la misión de formar a la especie humana para lograr su evolución.
-No deja de ser curioso, si hacemos caso a la hipótesis referida, que exista una cierta
-concomitancia entre relatos mitológicos de culturas totalmente distintas y que no han
-tenido contacto entre ellas. Es como si la evolución hubiera sido prácticamente pareja en
-todas partes y los distintos pueblos hubieran tenido la necesidad de crear, cada uno en
-función del entorno en el que vivían, historias muy similares que explicasen hechos que son
-universales. Más allá de todo ello, hay algo innegable, y es que el mito siempre se desarrolla
-en un tiempo que es anterior al mundo actual, y siempre alude a hechos extraordinario s y
-a dioses y personajes inaccesibles y dotados de poderes sobrenaturales. Por último, la gran
-mayoría de los mitos han sido considerados como aspectos inspiradores de cultos y
-religiones.
-
-Palao, P. Roig, O. (2006). Diccionario de Mitología . Madrid: Edima t Libros
+La tradición oral es el conducto primigenio por el cual la mitología se perpetúa. Tanto el narrador como el público que escucha sus explicaciones parten de la base de que se trata de historias supuestamente reales que justifican la existencia de preceptos, id eas, creencias y realidades. Claro que todo ello acostumbra a estar ataviado de hechos fantásticos y sobrenaturales. De esta forma, el mito, que siempre es interpretativo, suele estar compuesto por una serie de símbolos y ornamentos que tienen por objeto penetrar en la conciencia del oyente o bien en su evolución. El psiquiatra Jung defendía la existencia de una entidad superior a la que denominó "inconsciente colectivo", que sería algo así como un gran banco central de datos formado por la energía de los a rquetipos de la sabiduría con el que ocasionalmente el ser humano podría conectar. Dichas conexiones se efectuarían mediante estados de trance, iluminación, revelación por ayuno o sueño. Dicho de otro modo, las leyendas, mitos, relatos e incluso más tardía mente cuentos, no serían sino conexiones de una sabiduría superior que tendría la misión de formar a la especie humana para lograr su evolución. No deja de ser curioso, si hacemos caso a la hipótesis referida, que exista una cierta concomitancia entre relatos mitológicos de culturas totalmente distintas y que no han tenido contacto entre ellas. Es como si la evolución hubiera sido prácticamente pareja en todas partes y los distintos pueblos hubieran tenido la necesidad de crear, cada uno en función del entorno en el que vivían, historias muy similares que explicasen hechos que son universales. Más allá de todo ello, hay algo innegable, y es que el mito siempre se desarrolla en un tiempo que es anterior al mundo actual, y siempre alude a hechos extraordinario s y a dioses y personajes inaccesibles y dotados de poderes sobrenaturales. Por último, la gran mayoría de los mitos han sido considerados como aspectos inspiradores de cultos y religiones. Palao, P. Roig, O. (2006). Diccionario de Mitología . Madrid: Edima t Libros
 =====================PREGUNTA 1======================
 1. En última instancia, el autor del texto destaca
 =====================ALTERNATIVAS======================
@@ -35,9 +10,7 @@ C) la trascendencia del mito en la formación y desarrollo del pensamiento.
 D) la oralidad como rasgo distintivo de relatos sobre entes sobrenaturales.
 E) la relevancia del "inconsciente colectivo" presente en la sabiduría humana.
 =====================RAZONAMIENTO======================
-El autor del texto sostiene una serie de características del mito: su oralidad,
-seres sobrenaturales, explicaciones pasadas, inspirador de cultos…y al final concluye
-su importante papel en el desarrollo y evolución del pensamiento del hombre.
+El autor del texto sostiene una serie de características del mito: su oralidad, seres sobrenaturales, explicaciones pasadas, inspirador de cultos…y al final concluye su importante papel en el desarrollo y evolución del pensamiento del hombre.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================PREGUNTA 2======================
@@ -49,9 +22,7 @@ C) adyacencia
 D) engarce 
 E) incongruencia
 =====================RAZONAMIENTO======================
-En el texto se menciona que habría cierta concomitancia, es decir,
-similitud entre relatos mitológicos de culturas totalmente distintas y que no han tenido
-contacto entre ellas.
+En el texto se menciona que habría cierta concomitancia, es decir, similitud entre relatos mitológicos de culturas totalmente distintas y que no han tenido contacto entre ellas.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================PREGUNTA 3======================
@@ -63,9 +34,7 @@ C) se centra en el porvenir de los pueblos antiguos.
 D) ha destacado las vivencias del hombre ordinario.
 E) sería el medio más prístino de explicar la realidad.
 =====================RAZONAMIENTO======================
-Tanto el narrador como el público que escucha el mito parten de la base
-de que se trata de historias supuestamente reales que justifica n la existencia de
-preceptos, ideas, creencias y realidades.
+Tanto el narrador como el público que escucha el mito parten de la base de que se trata de historias supuestamente reales que justifica n la existencia de preceptos, ideas, creencias y realidades.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================PREGUNTA 4======================
@@ -77,15 +46,11 @@ C) ha sido un escollo para la evolución del hombre.
 D) revela la disparidad de los mitos entre las culturas.
 E) transmitiría los saberes ancestrales del ser humano.
 =====================RAZONAMIENTO======================
-El psiquiatra Jung denominó "inconsciente colectivo" a un gran banco
-central de datos formado por la sabiduría con el que ocasionalmente el ser humano
-podría conectar. En tal sentido, se puede inferir que el "inconsciente colectivo"
-transmitiría los saberes ancestrales del ser humano.
+El psiquiatra Jung denominó "inconsciente colectivo" a un gran banco central de datos formado por la sabiduría con el que ocasionalmente el ser humano podría conectar. En tal sentido, se puede inferir que el "inconsciente colectivo" transmitiría los saberes ancestrales del ser humano.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================PREGUNTA 5======================
-5. Si el público que escuchaba los mitos hubiese partido de la base de que se trataba de
-historias de ficción, entonces
+5. Si el público que escuchaba los mitos hubiese partido de la base de que se trataba de historias de ficción, entonces
 =====================ALTERNATIVAS======================
 A) estos relatos no se habrían perpetuado en la vida del hombre.
 B) el "inconsciente colectivo" de Jung perdería plausibilidad.
@@ -93,9 +58,6 @@ C) los cultos y las religiones erigirían a seres sobrenaturales .
 D) las historias relatadas habrían cumplido solo un rol literario.
 E) el narrador habría perdido la credibilidad sobre el relato.
 =====================RAZONAMIENTO======================
-Tanto el narrador como el público que escucha sus explicaciones parten
-de la base de que se trata de historias supuestamente reales para así penetrar en la
-conciencia del oyente o bien en su evolución. De no haberse dado así solo habrían
-cumplido un rol literario.
+Tanto el narrador como el público que escucha sus explicaciones parten de la base de que se trata de historias supuestamente reales para así penetrar en la conciencia del oyente o bien en su evolución. De no haberse dado así solo habrían cumplido un rol literario.
 =====================ALTERNATIVA CORRECTA======================
 D

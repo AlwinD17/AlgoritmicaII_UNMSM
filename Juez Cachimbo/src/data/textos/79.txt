@@ -1,34 +1,6 @@
 ID: 79
 =====================TEXTO 3======================
-Es antigua la preocupación humana por argumentar una diferencia cualitativa entre
-el lenguaje coloquial (cotidiano, corriente, prosaico) y el lenguaje literario (poético). Y es
-que para el hombre de todos los tiempos tiene que haber una diferencia de naturaleza
-entre lo que sirve para usos tri viales y aquello excelso que pro mueve momentos de
-grandeza espiritual, o —para acudir a una reflexión arcaica — entre aquello que
-relaciona a los hombres entre sí, y ese otro que relaciona a los hombres con dios. Hasta
-el siglo XIX esa diferencia era posible argumentarla con relativo éxito a base de una
-reducción (no muy l egítima, por cierto) que centra ba el problema en la oposición entre
-prosa y poesía. El elemento diferenciador, sin duda, era la versificación; pero de sde que
-se generalizó el uso del verso libre tal argumento perdió consistencia al mismo tiempo que
-creció el interés discriminador. En sus manifestaciones más recientes este interés se ha
-nutrido de las teorías desviadoras del lenguaje, de la glosemática y del estructuralismo
-lingüístico; es decir, de un denso repertorio conceptual que, tras encomiables esfuerzos,
-deja no obstante las cosas más o menos en el mismo estado en que las habían dejado, ya
-en 1948, los teóricos R. Vellek y A. Warren (1953). Para estos, el lenguaje poético participa
-de las mismas cualidades que el de la vida cotidiana, solo que aquel las depura, extrema,
-organiza y concentra en un discurso intencional. En efecto, hasta donde nos es posible observar, los intentos contemporáneos por
-explicar el lenguaje poético como un lenguaje cualitativamente distinto del lenguaje común
-y corriente han terminado por demostrar indirectamente lo contrario, esto es que el lenguaje
-poético es, en lo básico, de la misma índole que el lenguaje coloquial. Así, por ejemplo, Jean
-Cohén, que dedicó un laborioso volumen (1970) a demostrar la naturaleza del lengua je
-poético como una desviación de la norma lingüística, obligó a G. Genette (1970) a recordarle
-que la norma no admite desviaciones y solo cabe infringirla o romper la, lo que no es
-privilegio de la poesía y ocurre sin problemas a diario, en la calle. Más aún, esa norma de
-que habla Cohén está, en verdad, plagada de figuras, es decir de infracciones a un lenguaje
-digamos "primario", más virtual que real, constituido de signos y enunciados de sentidos
-directos y literales.
-Edin, J.Pasaporte negro. El lenguaje y lenguaje literario.2008. Recuperado mayo 2015.
-http://pasaportenegro.blogspot.com/2008/11/el -lenguaje -y-lenguaje -literario.html
+Es antigua la preocupación humana por argumentar una diferencia cualitativa entre el lenguaje coloquial (cotidiano, corriente, prosaico) y el lenguaje literario (poético). Y es que para el hombre de todos los tiempos tiene que haber una diferencia de naturaleza entre lo que sirve para usos tri viales y aquello excelso que pro mueve momentos de grandeza espiritual, o —para acudir a una reflexión arcaica — entre aquello que relaciona a los hombres entre sí, y ese otro que relaciona a los hombres con dios. Hasta el siglo XIX esa diferencia era posible argumentarla con relativo éxito a base de una reducción (no muy l egítima, por cierto) que centra ba el problema en la oposición entre prosa y poesía. El elemento diferenciador, sin duda, era la versificación; pero de sde que se generalizó el uso del verso libre tal argumento perdió consistencia al mismo tiempo que creció el interés discriminador. En sus manifestaciones más recientes este interés se ha nutrido de las teorías desviadoras del lenguaje, de la glosemática y del estructuralismo lingüístico; es decir, de un denso repertorio conceptual que, tras encomiables esfuerzos, deja no obstante las cosas más o menos en el mismo estado en que las habían dejado, ya en 1948, los teóricos R. Vellek y A. Warren (1953). Para estos, el lenguaje poético participa de las mismas cualidades que el de la vida cotidiana, solo que aquel las depura, extrema, organiza y concentra en un discurso intencional. En efecto, hasta donde nos es posible observar, los intentos contemporáneos por explicar el lenguaje poético como un lenguaje cualitativamente distinto del lenguaje común y corriente han terminado por demostrar indirectamente lo contrario, esto es que el lenguaje poético es, en lo básico, de la misma índole que el lenguaje coloquial. Así, por ejemplo, Jean Cohén, que dedicó un laborioso volumen (1970) a demostrar la naturaleza del lengua je poético como una desviación de la norma lingüística, obligó a G. Genette (1970) a recordarle que la norma no admite desviaciones y solo cabe infringirla o romper la, lo que no es privilegio de la poesía y ocurre sin problemas a diario, en la calle. Más aún, esa norma de que habla Cohén está, en verdad, plagada de figuras, es decir de infracciones a un lenguaje digamos "primario", más virtual que real, constituido de signos y enunciados de sentidos directos y literales. Edin, J.Pasaporte negro. El lenguaje y lenguaje literario.2008. Recuperado mayo 2015. http://pasaportenegro.blogspot.com/2008/11/el -lenguaje -y-lenguaje -literario.html
 =====================PREGUNTA 1======================
 1. ¿Cuál es el tema central del texto?
 =====================ALTERNATIVAS======================
@@ -38,9 +10,7 @@ C) La aplicación de la normativa lingüística en el lenguaje poético
 D) Características funcionales del habla coloquial en la poesía
 E) La relación entre el lenguaje prosaico y el lenguaje poético
 =====================RAZONAMIENTO======================
-Según el autor, a pesar de tantos intentos por diferenciar el lenguaje
-prosaico del poético, ambos se desarrollan dentro de los mismos principios
-lingüísticos, pero diferente intención comunicativa.
+Según el autor, a pesar de tantos intentos por diferenciar el lenguaje prosaico del poético, ambos se desarrollan dentro de los mismos principios lingüísticos, pero diferente intención comunicativa.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================PREGUNTA 2======================
@@ -52,8 +22,7 @@ C) mísero.
 D) despreciable. 
 E) excelente.
 =====================RAZONAMIENTO======================
-En el texto, el término excelso hace referencia a lo sublime. En tal sentido,
-el antónimo contextual sería ORDINARIO.
+En el texto, el término excelso hace referencia a lo sublime. En tal sentido, el antónimo contextual sería ORDINARIO.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================PREGUNTA 3======================
@@ -65,8 +34,7 @@ C) la proliferación del verso libre obstaculizó la d iferenciación entre pros
 D) a partir del s. XX, la versificación permite diferenciar el lenguaje poético del coloquial
 E) Para Genette, en el uso del lenguaje coloquial se suele infringir la norma lingüística.
 =====================RAZONAMIENTO======================
-Según el texto, a partir del s. XX la versificación ya es un medio para tal
-diferenciación pues surge el empleo del verso libre.
+Según el texto, a partir del s. XX la versificación ya es un medio para tal diferenciación pues surge el empleo del verso libre.
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================PREGUNTA 4======================
@@ -78,14 +46,11 @@ C) la postura de G. Genette sobre el lenguaje literario se afianzaría.
 D) el lenguaje literario habría perdido el estilo elegante y distintivo.
 E) Cohen vería refrendado su argumento sobre el lenguaje poético.
 =====================RAZONAMIENTO======================
-En el texto se sostiene que para Cohen el lenguaje poético es una
-desviación de la norma lingüística. A lo que G. Genette le responde que la norma no
-admite desviaciones y solo cabe infringirla o romperla.
+En el texto se sostiene que para Cohen el lenguaje poético es una desviación de la norma lingüística. A lo que G. Genette le responde que la norma no admite desviaciones y solo cabe infringirla o romperla.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================PREGUNTA 5======================
-5. Según lo planteado en el texto, es posible deducir que entre el lenguaje poético y el
-lenguaje prosaico
+5. Según lo planteado en el texto, es posible deducir que entre el lenguaje poético y el lenguaje prosaico
 =====================ALTERNATIVAS======================
 A) sería superfluo el empleo de las normas lingüísticas.
 B) se evidenciaría la misma necesidad estética del discurso.
@@ -93,8 +58,6 @@ C) hay una coincidencia en el uso exclusivo de la prosa.
 D) no habría diferencias cualitativas, sino de intencionalidad.
 E) se ha encontrado caracteres irreconciliables en ambos.
 =====================RAZONAMIENTO======================
-Según lo explicado por el autor, básicamente, entre ambos registros no
-habría diferencias cualitativas ni de otra índole lingüística sino que serían dos formas
-de expresión del hombre según su intención.
+Según lo explicado por el autor, básicamente, entre ambos registros no habría diferencias cualitativas ni de otra índole lingüística sino que serían dos formas de expresión del hombre según su intención.
 =====================ALTERNATIVA CORRECTA======================
 D

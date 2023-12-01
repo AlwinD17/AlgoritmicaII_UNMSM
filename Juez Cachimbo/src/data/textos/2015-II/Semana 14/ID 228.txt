@@ -1,31 +1,6 @@
 ID: 228
 =====================TEXTO======================
-No siempre es clara la línea divisoria entre lo enfermo y lo normal en el mundo de
-los trastornos psiquiátricos. De hecho, la nueva psiquiatría nos muestra lo tenue de esa
-línea divisoria y cómo hay «piezas normales» en la estructura cognitiva del enfermo mental
-y «piezas an ormales» en la estructura cognitiva del ser humano normal. Sin duda que estas
-observaciones –en las que más y más se adentra la actual neuropsicología y
-neuropsiquiatría cognitiva y las nuevas técnicas de imagen mental – están aproximando
-ideas que nos permiten ver cada vez más la convergencia de lo «normal» y lo «anormal».
-Precisamente, la falta de marcadores capaces de delimitar con claridad y precisión (como
-los hay para una diabetes o un tumor cerebral) las enfermedades mentales o psiquiátricas
-hace que éstas sigan teniendo un perfil difuso en su relación con procesos varios.
-Y salvo los extremos (que quiere decir la nítida patología como bien pudiera ser la
-esquizofrenia florida ola depresión endógena ola manía), el continuum de la personalidad
-humana, desde la timidez y la tristeza en una parte del espectro hasta la desinhibición,
-alegría y hasta cierta hipomanía en el otro lado, es un abanico tan grande que puede
-acomodar la conducta de casi todos los seres humanos, desde las profundidades de lo
-prosa ico a las cimas de la genialidad. De hecho, en la actualidad, admitimos que no existe
-«eso» de la personalidad sana, normal y perfecta, y que más que distinguir entre normal y
-patológico, dentro de ese amplio rango, consideramos las diferencias como forman do parte
-en lo que hoy acuñamos como la diversidad humana.
-No está muy lejos el tiempo en el que la psiquiatría ha sido un «saco» de gran utilidad
-en el que el poder político y social ha metido y ha aislada a muchos individuos
-inconvenientes para ese mismo orden social. En su libro A question of madness , el científico
-ruso Zhores Medvedev (1974) cuenta la historia de su enca rcelación, al parecer causada
-solo por la oposición que él presentó al partido y estado soviético, y su posterior
-internamiento en un h ospital psiquiátrico. ¿Cuál fue el diagnóstico? Esquizofrenia
-progresiva, paranoia y pobre adaptación al medio social en el que se vive.
+No siempre es clara la línea divisoria entre lo enfermo y lo normal en el mundo de los trastornos psiquiátricos. De hecho, la nueva psiquiatría nos muestra lo tenue de esa línea divisoria y cómo hay «piezas normales» en la estructura cognitiva del enfermo mental y «piezas an ormales» en la estructura cognitiva del ser humano normal. Sin duda que estas observaciones –en las que más y más se adentra la actual neuropsicología y neuropsiquiatría cognitiva y las nuevas técnicas de imagen mental – están aproximando ideas que nos permiten ver cada vez más la convergencia de lo «normal» y lo «anormal». Precisamente, la falta de marcadores capaces de delimitar con claridad y precisión (como los hay para una diabetes o un tumor cerebral) las enfermedades mentales o psiquiátricas hace que éstas sigan teniendo un perfil difuso en su relación con procesos varios. Y salvo los extremos (que quiere decir la nítida patología como bien pudiera ser la esquizofrenia florida ola depresión endógena ola manía), el continuum de la personalidad humana, desde la timidez y la tristeza en una parte del espectro hasta la desinhibición, alegría y hasta cierta hipomanía en el otro lado, es un abanico tan grande que puede acomodar la conducta de casi todos los seres humanos, desde las profundidades de lo prosa ico a las cimas de la genialidad. De hecho, en la actualidad, admitimos que no existe «eso» de la personalidad sana, normal y perfecta, y que más que distinguir entre normal y patológico, dentro de ese amplio rango, consideramos las diferencias como forman do parte en lo que hoy acuñamos como la diversidad humana. No está muy lejos el tiempo en el que la psiquiatría ha sido un «saco» de gran utilidad en el que el poder político y social ha metido y ha aislada a muchos individuos inconvenientes para ese mismo orden social. En su libro A question of madness , el científico ruso Zhores Medvedev (1974) cuenta la historia de su enca rcelación, al parecer causada solo por la oposición que él presentó al partido y estado soviético, y su posterior internamiento en un h ospital psiquiátrico. ¿Cuál fue el diagnóstico? Esquizofrenia progresiva, paranoia y pobre adaptación al medio social en el que se vive.
 =====================PREGUNTA 1======================
 En el texto, el sentido contextual del término CLARA es
 =====================ALTERNATIVAS======================
@@ -109,8 +84,7 @@ E. No habría una clara bifurcación entre lo normal y lo insano.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-La neuropsiquiatría cognitiva sostiene que la línea entre sano e insano es
-difusa.
+La neuropsiquiatría cognitiva sostiene que la línea entre sano e insano es difusa.
 =====================PREGUNTA 8======================
 En el texto se menciona al científico ruso Zhores Medvedev para ilustrar que
 =====================ALTERNATIVAS======================

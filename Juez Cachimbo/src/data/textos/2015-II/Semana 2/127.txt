@@ -1,57 +1,18 @@
 ID: 127
 =====================TEXTO======================
-Ya es real y está a la venta. Tesla Motors ha cumplido su promesa. Tal como lo
-anunció hace meses, la reconocida marca de autos eléctricos ha puesto en el mercado una
-batería que permitirá utilizar la energía solar en un 100% en las casas y prescindir por
-completo de las redes eléctricas. Powerwall Home Battery (PHB) es el nombre del sistema
-de dos baterías que hará del sol una fuente confiable para el uso doméstico e industrial.
-Como era de conocimiento público, Tesla Motors y su visionario director Elon Musk
-planeaban lanzar al mercado una batería capaz de almacenar de manera eficiente la
-energía que produce el sol durante el día, para solucionar el problema clásico de este tipo
-de generación de electricidad: en el día, cuando no la necesitamos es poderosa, pero de
-noche, cuando nos falta, es débil. Aunque existen baterías para solucionar esto, su costo y
-tamaño son inviables para el uso doméstico masivo. En cambio, la versión de Tesla lo hace
-posible.
-«Nuestro objetivo es transformar por completo la infraestructura energética mundial
-para que sea totalmente sostenible, segura y no produzca emisiones de carbono», dijo
-Musk en el lanzamiento.
-La revolucionaria batería es de ion de litio. Está equipada con paneles fotovoltaicos
-completamente independientes de los sistemas de energía tradicionales y se fija en la pared
-de la casa soportando altas y bajas temperaturas. El sistema estaría conectado a Internet,
-lo que permitiría que Tesla Energy monitoree su uso constantemente. Powe rwall tiene un
-modelo que ofrece energía de 10 kWh y otro de 7 kWh para el uso diario, ambas cuestan 3
-500 y 3 000 dólares respectivamente, 10 veces menos que las baterías a gran escala ya
-existentes en el mercado.
-Se pondrán a la venta en EE.UU. este invierno y en el resto del mundo en el 2016,
-aunque ya se pueden empezar a reservar. Se venderán tanto para uso doméstico como en
-bloques masivos para las industrias, informa el Wall Street Journal .
-La batería cumple «un papel similar a la forma en que los t eléfonos móviles han
-sustituido a los teléfonos fijos», explicó Musk. «Será un gran paso para las comunidades
-más pobres del mundo», agregó, ya que eliminaría la necesidad de las redes eléctricas.
-Claro que el precio, a medida que se masifique la producción, debe bajar, para que sea
-viable su uso en lugares de escasos recursos.
-Al igual que las otras patentes de la compañía, las de Tesla Energy serán abiertas,
-permitiendo a cualquiera, incluso a la competencia, utilizarlos y así masificar el uso de
-energía s renovables en todo el mundo.
+Ya es real y está a la venta. Tesla Motors ha cumplido su promesa. Tal como lo anunció hace meses, la reconocida marca de autos eléctricos ha puesto en el mercado una batería que permitirá utilizar la energía solar en un 100% en las casas y prescindir por completo de las redes eléctricas. Powerwall Home Battery (PHB) es el nombre del sistema de dos baterías que hará del sol una fuente confiable para el uso doméstico e industrial. Como era de conocimiento público, Tesla Motors y su visionario director Elon Musk planeaban lanzar al mercado una batería capaz de almacenar de manera eficiente la energía que produce el sol durante el día, para solucionar el problema clásico de este tipo de generación de electricidad: en el día, cuando no la necesitamos es poderosa, pero denoche, cuando nos falta, es débil. Aunque existen baterías para solucionar esto, su costo y tamaño son inviables para el uso doméstico masivo. En cambio, la versión de Tesla lo hace posible. «Nuestro objetivo es transformar por completo la infraestructura energética mundial para que sea totalmente sostenible, segura y no produzca emisiones de carbono», dijo Musk en el lanzamiento. La revolucionaria batería es de ion de litio. Está equipada con paneles fotovoltaicos completamente independientes de los sistemas de energía tradicionales y se fija en la pared de la casa soportando altas y bajas temperaturas. El sistema estaría conectado a Internet, lo que permitiría que Tesla Energy monitoree su uso constantemente. Powe rwall tiene un modelo que ofrece energía de 10 kWh y otro de 7 kWh para el uso diario, ambas cuestan 3 500 y 3 000 dólares respectivamente, 10 veces menos que las baterías a gran escala ya existentes en el mercado. Se pondrán a la venta en EE.UU. este invierno y en el resto del mundo en el 2016, aunque ya se pueden empezar a reservar. Se venderán tanto para uso doméstico como en bloques masivos para las industrias, informa el Wall Street Journal . La batería cumple «un papel similar a la forma en que los t eléfonos móviles han sustituido a los teléfonos fijos», explicó Musk. «Será un gran paso para las comunidades más pobres del mundo», agregó, ya que eliminaría la necesidad de las redes eléctricas. Claro que el precio, a medida que se masifique la producción, debe bajar, para que sea viable su uso en lugares de escasos recursos. Al igual que las otras patentes de la compañía, las de Tesla Energy serán abiertas, permitiendo a cualquiera, incluso a la competencia, utilizarlos y así masificar el uso de energía s renovables en todo el mundo.
 =====================PREGUNTA 1======================
 El texto busca esencialmente informar sobre
 =====================ALTERNATIVAS======================
-A. la manera cómo los investigadores de Tesla Motors han desarrollado un a insólita
-batería cinética.
-B. las ideas de la revolución energética propuesta por el director de Tesla Motors, el
-genial Elon Musk.
-C. la aparición de una nueva batería solar capaz de sustituir el sistema actual de redes
-eléctricas.
-D. el papel de la energía solar en la renovación de los sistemas de redes y c ableado
-microelectrónico.
-E. las necesarias relaciones entre consumo de energía, pobreza extrema y cuidado
-del medio ambiente.
-=====================ALTERNATIVA
-CORRECTA======================
+A. la manera cómo los investigadores de Tesla Motors han desarrollado un a insólita batería cinética.
+B. las ideas de la revolución energética propuesta por el director de Tesla Motors, el genial Elon Musk.
+C. la aparición de una nueva batería solar capaz de sustituir el sistema actual de redes eléctricas.
+D. el papel de la energía solar en la renovación de los sistemas de redes y c ableado microelectrónico.
+E. las necesarias relaciones entre consumo de energía, pobreza extrema y cuidado del medio ambiente.
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-El texto informa sobre la presentación en el mercado de Powerwall Home
-Battery, una novedosa alternativa al sistema actual de redes eléctricas.
+El texto informa sobre la presentación en el mercado de Powerwall Home Battery, una novedosa alternativa al sistema actual de redes eléctricas.
 =====================PREGUNTA 2======================
 El término CL ÁSICO puede ser sustituido por
 =====================ALTERNATIVAS======================
@@ -60,71 +21,43 @@ B. coadyuvante.
 C. inopinado.
 D. auxiliar.
 E. solemne.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-El término ‘clásico’ alude en el texto a que se trata de un problema común,
-habitual. En ese sentido, la mejor opción para sustituirlo es CORRIENTE, ‘q ue sucede
-con frecuencia’.
+El término ‘clásico’ alude en el texto a que se trata de un problema común, habitual. En ese sentido, la mejor opción para sustituirlo es CORRIENTE, ‘q ue sucede con frecuencia’.
 =====================PREGUNTA 3======================
 Sobre la Powerwall Home Battery creada por Tesla Motors no se condice sostener que
 =====================ALTERNATIVAS======================
-A. su patente será de dominio público, ya que su objetivo centrales expandir el empleo
-de fuentes de e nergía renovable en el globo.
-B. hasta el momento, es la única batería que ha solucionado c abalmente el problema
-de acumulación de energía de origen solar.
-C. permite sostener por completo el funcionamiento de una casa normal empleando
-únicamente la energía solar que almacena la batería.
-D. a largo plazo, esta batería puede ser una posibilidad para reemplazar el actual
-sistema energético compuesto por redes eléctricas.
-E. esta batería se pondrá a la venta, en todo el mundo, el próximo año, pero en
-invierno entrará a competir al mercado estadounidense.
-=====================ALTERNATIVA
-CORRECTA======================
+A. su patente será de dominio público, ya que su objetivo centrales expandir el empleo de fuentes de e nergía renovable en el globo.
+B. hasta el momento, es la única batería que ha solucionado c abalmente el problema de acumulación de energía de origen solar.
+C. permite sostener por completo el funcionamiento de una casa normal empleando únicamente la energía solar que almacena la batería.
+D. a largo plazo, esta batería puede ser una posibilidad para reemplazar el actual sistema energético compuesto por redes eléctricas.
+E. esta batería se pondrá a la venta, en todo el mundo, el próximo año, pero en invierno entrará a competir al mercado estadounidense.
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-No es la única batería en solucionar el problema de acumulación de energía
-solar. Según el texto, existían previamente otras baterías capaces de hacerlo, pero,
-por costo y tamaño, no podían ser masificadas.
+No es la única batería en solucionar el problema de acumulación de energía solar. Según el texto, existían previamente otras baterías capaces de hacerlo, pero, por costo y tamaño, no podían ser masificadas.
 =====================PREGUNTA 4======================
 De las afirmaciones de El on Musk es posible colegir que
 =====================ALTERNATIVAS======================
-A. toma en cuenta que potencialmente el uso de una energía alternativa puede tener
-un impacto benéfico en la ecología.
-B. se muestra preocupado por maximizar sus ganancias e interés financieros a toda
-costa y bajo cualquier circunstancia.
-C. considera seguro que la energía eléctrica solamente mantendrá su supremacía en
-el planeta hasta el próximo 2016.
-D. su discurso remarca la necesidad de que Tesla Motors sea la única corporación
-que domine las energías alternativas.
-E. advierte que la Powerwall ha sol ucionado un problema que ninguna otra batería
-producida antes había sido capaz.
-=====================ALTERNATIVA
-CORRECTA======================
+A. toma en cuenta que potencialmente el uso de una energía alternativa puede tener un impacto benéfico en la ecología.
+B. se muestra preocupado por maximizar sus ganancias e interés financieros a toda costa y bajo cualquier circunstancia.
+C. considera seguro que la energía eléctrica solamente mantendrá su supremacía en el planeta hasta el próximo 2016.
+D. su discurso remarca la necesidad de que Tesla Motors sea la única corporación que domine las energías alternativas.
+E. advierte que la Powerwall ha sol ucionado un problema que ninguna otra batería producida antes había sido capaz.
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-Una de las afirmaciones de Musk incide en que la energía solar, que es un
-posible sustituto a la electricidad, es «segura» y no produce «emisiones de carbono».
+Una de las afirmaciones de Musk incide en que la energía solar, que es un posible sustituto a la electricidad, es «segura» y no produce «emisiones de carbono».
 =====================PREGUNTA 5======================
-Si la energía acumulada durante todo el día solo satisficiera dos horas del consumo
-energético no cturno de un hogar estándar,
+Si la energía acumulada durante todo el día solo satisficiera dos horas del consumo energético no cturno de un hogar estándar,
 =====================ALTERNATIVAS======================
-A. estaríamos enfrentando una crisis energética sin precedentes en todos los hogares
-del planeta.
-B. Tesla Motors recurriría a este invento para repotenciar su automóvil pro pulsado por
-energía eléctrica.
-C. se iniciaría un nuevo periodo energético donde la contaminación del ecos istema
-habría sido desterrada.
-D. la masificación del empleo de la energía solar para producir electricidad s ería, por
-el momento, inviable.
-E. endríamos que atender a los nuevos problemas provocados por la ene rgía solar
-de consumo masivo.
-=====================ALTERNATIVA
-CORRECTA======================
+A. estaríamos enfrentando una crisis energética sin precedentes en todos los hogares del planeta.
+B. Tesla Motors recurriría a este invento para repotenciar su automóvil pro pulsado por energía eléctrica.
+C. se iniciaría un nuevo periodo energético donde la contaminación del ecos istema habría sido desterrada.
+D. la masificación del empleo de la energía solar para producir electricidad s ería, por el momento, inviable.
+E. endríamos que atender a los nuevos problemas provocados por la ene rgía solar de consumo masivo.
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-Además de ser más pequeña y menos costosa, la Powerwall Home Battery
-soluciona eficazmente el problema de almacenamiento de energía (conserva la
-energía solar para la noche). Si no fuera capaz de hacerlo, su masificación sería
-inviable.
+Además de ser más pequeña y menos costosa, la Powerwall Home Battery soluciona eficazmente el problema de almacenamiento de energía (conserva la energía solar para la noche). Si no fuera capaz de hacerlo, su masificación sería inviable.

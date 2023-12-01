@@ -1,27 +1,6 @@
 ID: 157
 =====================TEXTO======================
-Aunque la herencia de los caracteres biológicos se ha reconocido hace miles de años,
-la primera idea importante sobre el mecanismo implicado se dio hace casi 150 años. En
-1866, Gregor Johann Mendel publicó los resultados de una serie de experimentos que
-sentaron las bases de la genética como disciplina formal. Aunque el trabajo de Mendel pasó
-largo tiempo inadvertido hasta 1900, después del redescubrimiento del mismo, se
-estableció el concepto de gen como unidad hereditaria discreta . Se clarificó el modo en
-que los genes, como miembros de los cromosomas, se transmiten a los descendientes y
-controlan los caracteres. La investigación ha continuado sin pausa durante el siglo XX.
-Realmente, los estudios en genética, y más recientemente aquellos que se refieren a l
-ámbito molecular, han permanecido en la frontera de la investigación biológica desde
-principios del siglo XX.
-Cuando Mendel comenzó sus estudios sobre la herencia utilizando Pisum sativum , el
-guisante de jardín, no se sabía de la existencia de los cromos omas ni del papel y
-mecanismo de la meiosis. No obstante, Mendel pudo determinar la existencia de unidades
-de herencia discretas y predecir su comportamiento durante la formación de los gametos.
-Investigadores posteriores, con acceso a datos citológicos, pudieron relacionar sus
-observaciones sobre el comportamiento de los cromosomas en la meiosis con los principios
-de la herencia de Mendel. Una vez que se estableció esta correlación, los postulados de
-Mendel se aceptaron como la base para el estudio de lo que se conoce como la genética
-mendeliana o de la transmisión. Estos principios describen de qué manera se transmiten
-los genes de padres a hijos y derivan directamente de los experimentos de Mendel. Incluso
-hoy día constituyen la piedra angular de los estudios sobre la herencia.
+Aunque la herencia de los caracteres biológicos se ha reconocido hace miles de años, la primera idea importante sobre el mecanismo implicado se dio hace casi 150 años. En 1866, Gregor Johann Mendel publicó los resultados de una serie de experimentos que sentaron las bases de la genética como disciplina formal. Aunque el trabajo de Mendel pasó largo tiempo inadvertido hasta 1900, después del redescubrimiento del mismo, se estableció el concepto de gen como unidad hereditaria discreta . Se clarificó el modo en que los genes, como miembros de los cromosomas, se transmiten a los descendientes y controlan los caracteres. La investigación ha continuado sin pausa durante el siglo XX. Realmente, los estudios en genética, y más recientemente aquellos que se refieren a l ámbito molecular, han permanecido en la frontera de la investigación biológica desde principios del siglo XX. Cuando Mendel comenzó sus estudios sobre la herencia utilizando Pisum sativum , el guisante de jardín, no se sabía de la existencia de los cromos omas ni del papel y mecanismo de la meiosis. No obstante, Mendel pudo determinar la existencia de unidades de herencia discretas y predecir su comportamiento durante la formación de los gametos. Investigadores posteriores, con acceso a datos citológicos, pudieron relacionar sus observaciones sobre el comportamiento de los cromosomas en la meiosis con los principios de la herencia de Mendel. Una vez que se estableció esta correlación, los postulados de Mendel se aceptaron como la base para el estudio de lo que se conoce como la genética mendeliana o de la transmisión. Estos principios describen de qué manera se transmiten los genes de padres a hijos y derivan directamente de los experimentos de Mendel. Incluso hoy día constituyen la piedra angular de los estudios sobre la herencia.
 =====================PREGUNTA 1======================
 El tema del texto es
 =====================ALTERNATIVAS======================
@@ -30,12 +9,10 @@ B. el papel de la especie Pisum sativum en los experimentos mendelianos.
 C. el ADN como la unidad hereditaria discreta que controla los caracteres.
 D. el injusto relegamiento de Mendel a pesar de la importancia de sus estudios.
 E. la trascendencia de los estudios mendelianos para el nacimiento de la genética.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-El texto se dedica a afirmar la importancia de Mendel para la genética de la
-transmisión. Sus estudios sentaron las bases de la genética como disciplina formal.
+El texto se dedica a afirmar la importancia de Mendel para la genética de la transmisión. Sus estudios sentaron las bases de la genética como disciplina formal.
 =====================PREGUNTA 2======================
 La palabra DISCRETA tiene el sentido preciso de
 =====================ALTERNATIVAS======================
@@ -44,66 +21,43 @@ B. velada.
 C. discontinua.
 D. subrepticia.
 E. sutil.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-Unidades DISCRETAS alude a unidades separadas unas de otras, es decir,
-discontinuas.
+Unidades DISCRETAS alude a unidades separadas unas de otras, es decir, discontinuas.
 =====================PREGUNTA 3======================
 Resulta compatible con el texto afirmar que
 =====================ALTERNATIVAS======================
-A. Mendel supuso que los caracteres se transmitían sin intermediación de unidades
-físicas.
-B. la transmisión h ereditaria de los caracteres fue descubierta por Gregor Mendel
-hace 150 años.
-C. las investigaciones modernas han descartado los hallazgos de la investigación de
-Mendel.
-D. Mendel desconocía el mecanismo específico que permitía la transmisión de
-caracteres.
-E. Mendel estableció la correlación entre el comportamiento de los cromosomas y
-herencia.
-=====================ALTERNATIVA
-CORRECTA======================
+A. Mendel supuso que los caracteres se transmitían sin intermediación de unidades físicas.
+B. la transmisión h ereditaria de los caracteres fue descubierta por Gregor Mendel hace 150 años.
+C. las investigaciones modernas han descartado los hallazgos de la investigación de Mendel.
+D. Mendel desconocía el mecanismo específico que permitía la transmisión de caracteres.
+E. Mendel estableció la correlación entre el comportamiento de los cromosomas y herencia.
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-“No se sabía de la existencia de los cromosomas ni del papel y mecanismo
-de la meiosis. No obstante, Mendel pudo determinar la existencia de unidades de
-herencia discretas y predecir su comportamiento durante la formación de los gametos”.
+“No se sabía de la existencia de los cromosomas ni del papel y mecanismo de la meiosis. No obstante, Mendel pudo determinar la existencia de unidades de herencia discretas y predecir su comportamiento durante la formación de los gametos”.
 =====================PREGUNTA 4======================
 Es posible inferir que los modernos estudios citológicos
 =====================ALTERNATIVAS======================
 A. reproducen los experimentos de Mendel con instrumental más moderno.
 B. fueron iniciados por Mendel con sus experimentos con guisantes de jardín.
 C. obtuvieron resultados concordantes con lo planteado por Mendel.
-D. demuestran una contradicción entre los postulados de Mendel y los mecanismos
-de la meiosis.
-E. demostraron lo errado de pensar que la herencia se realizaba a través de unidades
-discretas.
-=====================ALTERNATIVA
-CORRECTA======================
+D. demuestran una contradicción entre los postulados de Mendel y los mecanismos de la meiosis.
+E. demostraron lo errado de pensar que la herencia se realizaba a través de unidades discretas.
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-El comportamiento de los cromosomas en la meiosis fue asociado a los
-principios de la herencia de Mendel y con ello sus postulados se aceptaron como la
-base de la genética de la tran smisión.
+El comportamiento de los cromosomas en la meiosis fue asociado a los principios de la herencia de Mendel y con ello sus postulados se aceptaron como la base de la genética de la tran smisión.
 =====================PREGUNTA 5======================
 Si no se hubiese postulado la existencia de los genes como unidades discretas,
 =====================ALTERNATIVAS======================
-A. la investigación mendeliana habría sido considerada desde el inicio como una
-superchería.
-B. la genética tendría dificultades para demostrar que existe la herencia de caracteres
-biológicos.
-C. la decisión de Mendel de usar guisantes de jardín para sus experimentos no se
-habría justificado.
-D. la biología no se hubiese constituido como ciencia formal sino hasta mucho
-después.
-E. no se habría n clarificado los mecanismos específicos que intervienen en la
-herencia.
-=====================ALTERNATIVA
-CORRECTA======================
+A. la investigación mendeliana habría sido considerada desde el inicio como una superchería.
+B. la genética tendría dificultades para demostrar que existe la herencia de caracteres biológicos.
+C. la decisión de Mendel de usar guisantes de jardín para sus experimentos no se habría justificado.
+D. la biología no se hubiese constituido como ciencia formal sino hasta mucho después.
+E. no se habría n clarificado los mecanismos específicos que intervienen en la herencia.
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-Los estudios mendelianos parten precisamente de la necesidad de dar
-cuenta del mecanismo de la herencia de los caracteres biológicos. Este mecanismo
-entraña la existencia de los genes como unidades hereditarias.
+Los estudios mendelianos parten precisamente de la necesidad de dar cuenta del mecanismo de la herencia de los caracteres biológicos. Este mecanismo entraña la existencia de los genes como unidades hereditarias.

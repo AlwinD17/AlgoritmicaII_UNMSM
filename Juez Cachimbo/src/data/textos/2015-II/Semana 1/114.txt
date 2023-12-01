@@ -1,33 +1,6 @@
 ID: 114
 =====================TEXTO======================
-La bóveda de la capilla Sixtina, con su extensión y su altura, habría hecho temblar a
-los más expertos pintores. Los problemas comenzaron ya con el andamiaje. El erigido por
-Bramante, cuenta Vasari, fue criticado por Miguel Ángel, hasta el punto de que con siguió
-que lo desmantelasen y construyesen uno basado en su propio diseño. Pero la mayor
-dificultad era precisamente el fresco. Una técnica que no permite errores o vueltas atrás ,
-y exige tiempos muy breves: una vez preparados los cartones de los dibujos hay que dividir
-el conjunto en partes que puedan ser completadas en un día, pues, pasado este tiempo, el
-enlucido se seca y ya no absorbe el color. La sección de pared elegida se prepara primero
-con el encalado y luego con el enlucido, una mezcla de puzolan a, cal y agua. Una vez
-trasladado el dibujo sobre el enlucido todavía fresco, se extiende inmediatamente el color.
-Miguel Ángel trajo de Florencia, como colaboradores, a unos pocos artistas de
-confianza. Sin embargo, los primeros intentos fueron decepciona ntes. El fresco del Diluvio
-universal, realizado con técnicas heterogéneas, acabó en desastre: la receta «florentina»
-del enlucido no funcionaba con los materiales y el clima de Roma. En poco tiempo afloraron
-mohos y la pintura hubo de ser parcialmente suprimida y rehecha desde el principio.
-Hicieron falta meses de angustia y dificultades hasta que el artista consiguió dominar la
-técnica, lo que le permitió prescindir de sus ayudantes. El análisis de los gastos que realizó
-en la obra parece confirmar la ley enda según la cual él lo habría hecho todo, o casi todo.
-En un soneto célebre el artista nos habla de los prolongados esfuerzos a los que se
-sometió trabajando sin descanso durante años en una postura muy incómoda: «Los lomos
-se me han metido en la tripa y con las posaderas hago de contrapeso y me muevo en vano
-sin poder ver». Mientras, el papa estaba impaciente, hasta el punto de que, según el
-biógrafo Condivi, amenazó con tirar al artista de los andamios y en una ocasión «le dio con
-un palo». Ablandado por medio de regalos, amenazado, acosado, Miguel Ángel acabó por
-fin la obra, que se inauguró el 31 de octubre de 1512. De su belleza había sido testigo, un
-poco antes de que se mostrara a todos, Alfonso d’Este, duque de Ferrara. Subido al
-andamiaje, la admiró durante largo tiempo, y cuando bajó se negó a ir a visitar las estancias
-donde trabajaba el gran rival de Miguel Ángel, Rafael.
+La bóveda de la capilla Sixtina, con su extensión y su altura, habría hecho temblar a los más expertos pintores. Los problemas comenzaron ya con el andamiaje. El erigido por Bramante, cuenta Vasari, fue criticado por Miguel Ángel, hasta el punto de que con siguió que lo desmantelasen y construyesen uno basado en su propio diseño. Pero la mayor dificultad era precisamente el fresco. Una técnica que no permite errores o vueltas atrás , y exige tiempos muy breves: una vez preparados los cartones de los dibujos hay que dividir el conjunto en partes que puedan ser completadas en un día, pues, pasado este tiempo, el enlucido se seca y ya no absorbe el color. La sección de pared elegida se prepara primero con el encalado y luego con el enlucido, una mezcla de puzolan a, cal y agua. Una vez trasladado el dibujo sobre el enlucido todavía fresco, se extiende inmediatamente el color. Miguel Ángel trajo de Florencia, como colaboradores, a unos pocos artistas de confianza. Sin embargo, los primeros intentos fueron decepciona ntes. El fresco del Diluvio universal, realizado con técnicas heterogéneas, acabó en desastre: la receta «florentina» del enlucido no funcionaba con los materiales y el clima de Roma. En poco tiempo afloraron mohos y la pintura hubo de ser parcialmente suprimida y rehecha desde el principio. Hicieron falta meses de angustia y dificultades hasta que el artista consiguió dominar la técnica, lo que le permitió prescindir de sus ayudantes. El análisis de los gastos que realizó en la obra parece confirmar la ley enda según la cual él lo habría hecho todo, o casi todo. En un soneto célebre el artista nos habla de los prolongados esfuerzos a los que se sometió trabajando sin descanso durante años en una postura muy incómoda: «Los lomos se me han metido en la tripa y con las posaderas hago de contrapeso y me muevo en vano sin poder ver». Mientras, el papa estaba impaciente, hasta el punto de que, según el biógrafo Condivi, amenazó con tirar al artista de los andamios y en una ocasión «le dio con un palo». Ablandado por medio de regalos, amenazado, acosado, Miguel Ángel acabó por fin la obra, que se inauguró el 31 de octubre de 1512. De su belleza había sido testigo, un poco antes de que se mostrara a todos, Alfonso d’Este, duque de Ferrara. Subido al andamiaje, la admiró durante largo tiempo, y cuando bajó se negó a ir a visitar las estancias donde trabajaba el gran rival de Miguel Ángel, Rafael.
 =====================PREGUNTA 1======================
 ¿Cuál es el tema central del texto?
 =====================ALTERNATIVAS======================
@@ -36,12 +9,10 @@ B.La Capilla Sixtina como la creación que sepultó la fama de Rafael.
 C.La Capilla Sixtina de Miguel Ángel y su gran rivalidad con el papa.
 D.El uso del fresco en el Renacimiento y la impericia de Miguel Ángel.
 E.Los efectos nocivos del uso del fresco en la carrera de Miguel Ángel.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-El autor del texto se enfoca en las peripecias ocurridas durante la creación
-de los frescos de la Capilla Sixtina por parte de Miguel Ángel.
+El autor del texto se enfoca en las peripecias ocurridas durante la creación de los frescos de la Capilla Sixtina por parte de Miguel Ángel.
 =====================PREGUNTA 2======================
 En el texto, la expresión VUELTAS ATRÁS se puede reemplazar por.
 =====================ALTERNATIVAS======================
@@ -50,13 +21,10 @@ B.Distancias.
 C.Arreglos.
 D.Afeites.
 E.Retrocesos.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-La expresión «vueltas atrás» hace referencia a los posibles arreglos que
-eran imposibles de hacerse, si acaso se cometía algún error, cuando la técnica era el
-fresco.
+La expresión «vueltas atrás» hace referencia a los posibles arreglos que eran imposibles de hacerse, si acaso se cometía algún error, cuando la técnica era el fresco.
 =====================PREGUNTA 3======================
 Se deduce del texto que la belleza arrobadora de los frescos de la Capilla Sixtina.
 =====================ALTERNATIVAS======================
@@ -65,13 +33,10 @@ B.Tuvo como germen fundamental el juicio final de la Biblia.
 C.Contrasta con lo penoso de su ejecución para su creador.
 D.Se debe a la destreza para pintar frescos de su creador.
 E.Buscaba confrontar con la figura autoritaria del papa.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-El proceso creativo de la Capilla Sixtina fue sumamente trabajoso para
-Miguel Ángel. Incluso compuso un soneto al respecto. La belleza del producto final, en
-consecuencia, contrasta con lo dificultoso del proceso.
+El proceso creativo de la Capilla Sixtina fue sumamente trabajoso para Miguel Ángel. Incluso compuso un soneto al respecto. La belleza del producto final, en consecuencia, contrasta con lo dificultoso del proceso.
 =====================PREGUNTA 4======================
 Resulta incompatible aseverar que la técnica del fresco usada en la Capilla Sixtina.
 =====================ALTERNATIVAS======================
@@ -80,25 +45,19 @@ B.Demandó un esfuerzo mayúsculo para M. Ángel.
 C.Fue finalmente aprendida por Miguel Ángel B.
 D.Amerita de precisión y destreza en su ejecución.
 E.Impide que el artista cometa deslices de seriedad.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-El clima de Roma fue una causal de desastre para una de las fases de
-ejecución del fresco: el enlucido.
+El clima de Roma fue una causal de desastre para una de las fases de ejecución del fresco: el enlucido.
 =====================PREGUNTA 5======================
-Si Miguel Ángel hubiera tenido el dominio del fresco equiparable al que poseía
-respecto de la escultura, posiblemente.
+Si Miguel Ángel hubiera tenido el dominio del fresco equiparable al que poseía respecto de la escultura, posiblemente.
 =====================ALTERNATIVAS======================
 A.La Capilla Sixtina sentía considerada una obra menor por parte de los estudiosos.
 B.El papa que pidió la obra habría contratado a un artista menos afamado y rico.
 C.La genialidad de Miguel Ángel habría sido sensiblemente menor a la de Rafael.
 D.Obras como La Piedad o El David h abrían sido desplazadas por su arte pictórico.
 E.Los avatares no habrían sido tan graves y las demoras habrían sido manejables.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-Miguel Ángel, sobre la marcha, tuvo que aprender a ejecutar la técnica del
-fresco. De haber contado previamente con la experticia, el padecimiento hubiera sido
-mucho menor.
+Miguel Ángel, sobre la marcha, tuvo que aprender a ejecutar la técnica del fresco. De haber contado previamente con la experticia, el padecimiento hubiera sido mucho menor.

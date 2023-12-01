@@ -1,90 +1,63 @@
 ID 184
-
-=====Texto 2 ======
-La veneración del fuego es una de las primeras manifestaciones de carácter religioso. En casi todas las mitologías se hace referencia a cómo llegó el fuego a la humanidad. El titán griego Prometeo robó la preciosa llama del monte Olimpo. Los primeros habitantes de las islas Carolinas creían que los mortales recibieron el fuego de los dioses a través del pájaro Mwi, que lo trajo a la tierra en su pico y lo escondió entre los árboles; la gente pudo conseguir entonces el fuego frotando dos trozos de madera. Varios pueblos semitas aplacaban la ira de su dios del fuego, Moloc, con el sacrificio de su primer hijo, y los egipcios y otros pueblos del Viejo Mundo hacían oblaciones rituales a sus respectivos dioses del fuego. Entre los prehindúes, el sacrificio a Agni ,dios del fuego, era uno de los primeros actos de la devoción de la mañana. Los cultos griegos a Hestia, diosa del hogar, y a Hefaistos, dios del fuego, tienen sus correspondientes latinos Vesta y Vulcano. Los celtas oraban a Bridget, diosa del fuego, del hogar y de la fertilidad.
-
-La adoración del fuego, sin embargo, tuvo su mayor desarrollo en la antigua Persia, donde el fuego era la manifestación terrenal del Divino y la palabra utilizada para designar al sacerdote en la religión zoroastrista es athravan, esto es, ‘que pertenece al fuego’. Al ser conquistados por los musulmanes, los parsis huyeron hacia la India llevando el fuego sagrado que era tanto un signo de su nacionalidad como el emblema de su fe.
-
-Asimismo, la ceremonia religiosa de caminar sobre el fuego practicada por muchos pueblos en todas las épocas, todavía se lleva a cabo en Tahití, Trinidad, islas Mauricio, la India y Japón. Consiste en que un sacerdote y otros celebrantes andan descalzos sobre grandes piedras que han sido calentadas sobre un lecho de leños ardientes. Caminan sobre el fuego sin sufrir quemaduras ni dolor. Algunos estudiosos han afirmado que es un éxtasis religioso el que produce una insensibilidad temporal, pero ninguna explicación es totalmente satisfactoria. Se dice que en la Antigüedad, sobre todo en la India, el rito consistía en pasar entre las llamas sin ser alcanzados por ellas.
-
-Recuperado de http://www.nuevoslibros.com.ar/Enciclopedia -A/792/Adoracion -del- fuego.htm. Descargado el 8 de octubre de 2015.
-
-=====Pregunta 1======
+=====================TEXTO======================
+La veneración del fuego es una de las primeras manifestaciones de carácter religioso. En casi todas las mitologías se hace referencia a cómo llegó el fuego a la humanidad. El titán griego Prometeo robó la preciosa llama del monte Olimpo. Los primeros habitantes de las islas Carolinas creían que los mortales recibieron el fuego de los dioses a través del pájaro Mwi, que lo trajo a la tierra en su pico y lo escondió entre los árboles; la gente pudo conseguir entonces el fuego frotando dos trozos de madera. Varios pueblos semitas aplacaban la ira de su dios del fuego, Moloc, con el sacrificio de su primer hijo, y los egipcios y otros pueblos del Viejo Mundo hacían oblaciones rituales a sus respectivos dioses del fuego. Entre los prehindúes, el sacrificio a Agni ,dios del fuego, era uno de los primeros actos de la devoción de la mañana. Los cultos griegos a Hestia, diosa del hogar, y a Hefaistos, dios del fuego, tienen sus correspondientes latinos Vesta y Vulcano. Los celtas oraban a Bridget, diosa del fuego, del hogar y de la fertilidad. La adoración del fuego, sin embargo, tuvo su mayor desarrollo en la antigua Persia, donde el fuego era la manifestación terrenal del Divino y la palabra utilizada para designar al sacerdote en la religión zoroastrista es athravan, esto es, ‘que pertenece al fuego’. Al ser conquistados por los musulmanes, los parsis huyeron hacia la India llevando el fuego sagrado que era tanto un signo de su nacionalidad como el emblema de su fe. Asimismo, la ceremonia religiosa de caminar sobre el fuego practicada por muchos pueblos en todas las épocas, todavía se lleva a cabo en Tahití, Trinidad, islas Mauricio, la India y Japón. Consiste en que un sacerdote y otros celebrantes andan descalzos sobre grandes piedras que han sido calentadas sobre un lecho de leños ardientes. Caminan sobre el fuego sin sufrir quemaduras ni dolor. Algunos estudiosos han afirmado que es un éxtasis religioso el que produce una insensibilidad temporal, pero ninguna explicación es totalmente satisfactoria. Se dice que en la Antigüedad, sobre todo en la India, el rito consistía en pasar entre las llamas sin ser alcanzados por ellas. Recuperado de http://www.nuevoslibros.com.ar/Enciclopedia -A/792/Adoracion -del- fuego.htm. Descargado el 8 de octubre de 2015.
+=====================PREGUNTA 1======================
 ¿Cuál es el tema central del texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) Las diversas creencias acerca del poder del fuego.
 B) El contraste entre el concepto moderno y antiguo del fuego.
 C) El papel del fuego dentro de los mitos milenarios.
 D) El carácter supersticioso de las religiones antiguas.
 E) La adoración al fuego como rito arraigado en la humanidad.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E) La adoración al fuego como rito arraigado en la humanidad.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El texto gira entorno a los ritos que en diversas partes del mundo manifiestan un culto al fuego.
-
-=====Pregunta 2======
+=====================PREGUNTA 2======================
 El término OBLACIÓN puede ser reemplazado por
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) comida.
 B) mutilación.
 C) ofrenda.
 D) asesinato.
 E) promesa.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 C) ofrenda.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El término OBLACIÓN alude a lo que entrega el creyente a su dios como símbolo de adoración.
-
-=====Pregunta 3======
+=====================PREGUNTA 3======================
 Es incompatible de acuerdo con el texto sostener que
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) algunos pueblos antiguos no sacralizaban el fuego.
 B) los parsis tomaron la adoración del fuego de los musulmanes.
 C) la insensibilidad al fuego no está plenamente explicada.
 D) los mitos griegos atribuían al fuego un origen divino.
 E) para los celtas, el culto al fuego se relacionaba con la fertilidad.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 B) los parsis tomaron la adoración del fuego de los musulmanes.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El texto no establece un vínculo entre los musulmanes y las creencias religiosas de los parsis. Al contrario, señala que los primeros expulsaron a los segundos hacia la India.
-
-=====Pregunta 4======
+=====================PREGUNTA 4======================
 Del texto es posible inferir que
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) para los persas, el fuego era una divinidad en sí misma.
 B) los dioses olímpicos no querían que los hombres tuviesen el fuego.
 C) los rituales en honor al fuego subsisten en los países tercermundistas.
 D) el éxtasis religioso permite a algunos devotos caminar sobre el fuego.
 E) La adoración del fuego tuvo su mayor desarrollo en la antigua Persia
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 B
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El titán Prometeo robó el fuego de los dioses para dárselo a los hombres. De ahí se desprende que aquellos no querían compartirlo con los humanos.
-
-=====Pregunta 5======
+=====================PREGUNTA 5======================
 Si un hindú careciera de insensibilidad temporal frente al fuego ,
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) pertenecería a una casta social inferior.
 B) sus oblaciones no habrían surtido efecto.
 C) seguramente profesaría el zoroastrismo.
 D) posiblemente este sería agnóstico.
 E) no tendría ancestros de origen persa.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 D
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 La referida sensibilidad es producto de un frenesí religioso. Como el agnóstico no tiene ese frenesí, entonces también carecería de esa insensibilidad.

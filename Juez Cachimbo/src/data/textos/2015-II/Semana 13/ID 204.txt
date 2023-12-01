@@ -1,12 +1,6 @@
 ID: 204
 =====================TEXTO======================
-I) A causa de su localización en la dorsal mesoatlántica , Islandia es un país con gran
-actividad volcánica y geológica . II) El país se basa en una economía de libre mercado
-donde los servicios ,la pesca ,las finanzas son los principales sectores . III) El interior
-de la nación consiste en una meseta caracterizada por desiertos , montañas y
-glaciares . IV) Muchos ríos glaciales fluyen hacia el mar a través de las tierras bajas.
-V) A causa de la corriente del Golfo , Islandia tiene un clima templado en relación a su
-latitud y provee un entorno habitable.
+I) A causa de su localización en la dorsal mesoatlántica , Islandia es un país con gran actividad volcánica y geológica . II) El país se basa en una economía de libre mercado donde los servicios ,la pesca ,las finanzas son los principales sectores . III) El interior de la nación consiste en una meseta caracterizada por desiertos , montañas y glaciares . IV) Muchos ríos glaciales fluyen hacia el mar a través de las tierras bajas. V) A causa de la corriente del Golfo , Islandia tiene un clima templado en relación a su latitud y provee un entorno habitable.
 =====================PREGUNTA 1======================
 Elimine una oración 
 =====================ALTERNATIVAS======================
@@ -18,5 +12,4 @@ E. IV
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-Enunciado inatingente pues no se está hablando de la economía de
-Islandia.
+Enunciado inatingente pues no se está hablando de la economía de Islandia.

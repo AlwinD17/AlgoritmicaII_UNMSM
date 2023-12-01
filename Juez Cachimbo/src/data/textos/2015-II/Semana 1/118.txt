@@ -1,33 +1,6 @@
 ID: 118
 =====================TEXTO======================
-A las kumaris se las admira en la comunidad Newar . Se cree que tienen poderes para
-predecir el futuro y curar enfermos (en especial aquellos que sufren desórdenes
-sanguíneos), cumplir con ciertos deseos y conceder bendiciones de protección y
-prosperidad. Sobre todo, se dice que ofrecen una conexión inmediata entre este mundo y
-el divino, y que reparten el maitri bhavana, el espíritu de la bondad amorosa hacia los
-demás, entre sus devotos.
-La tradición se remonta por lo menos al siglo X, cuando las niñas y los niños en todo
-el sur de Asia participaban en rituales hindúes y budistas como agentes para la adivinación.
-Su supuesta conexión con lo divino y su habilidad para predecir el futuro eran de un interés
-particular para los gobernantes de Asia. Siglos después, la tradición fue tomada por los
-pueblos que vivían en la periferia del subcontinente indio —en Cachemira, Assam, Bengala,
-Tamil, Nadu y Nepal —, que siguieron religiones subversivas que enfatizaban el poder
-femenino, o shakti, y la posesión tántrica, un estado logrado mediante invocaciones
-mágicas y rituales, y mediante el cual supuestamente los humanos pueden transformarse
-en seres divinos con poderes sobrenaturales.
-La costumbre de glorificar a niñas preadolescentes (la palabra kumari significa «niña
-virgen» en nepalí) solo se convirtió en un culto profundamente arraigado en la remota e
-impenetrable región montañosa de Nepal, y sólo ahí esta tradición aún se practica con vigor.
-Entre los budistas newar, las kumari se consideran la personificación de Vajeadevi, la
-deidad femenina suprema, una Buda. En la actualidad solo hay 10 kumaris en Nepal, nueve
-de ellas en el valle de Katmandú. Se siguen seleccionando solo de familias ligadas a
-comunidades que habitan entorno a un patio central, y todos sus ancestros deben venir de
-una casta alta. Ser escogida para el puesto se considera el honor más alto, el mismo que
-puede conceder innumerables bendiciones a la familia de una kumari. De modo que, a
-pesar de la carga financiera y los sacrificios personales que implica mantener a una niña
-como una diosa viviente, y las dificultades de su rehabilitación una vez que alcanza la
-pubertad y tiene que vivir de nuevo una vida normal, algunas familias siguen dispuestas a
-presentar a sus hijas a la selección.
+A las kumaris se las admira en la comunidad Newar . Se cree que tienen poderes para predecir el futuro y curar enfermos (en especial aquellos que sufren desórdenes sanguíneos), cumplir con ciertos deseos y conceder bendiciones de protección y prosperidad. Sobre todo, se dice que ofrecen una conexión inmediata entre este mundo y el divino, y que reparten el maitri bhavana, el espíritu de la bondad amorosa hacia los demás, entre sus devotos. La tradición se remonta por lo menos al siglo X, cuando las niñas y los niños en todo el sur de Asia participaban en rituales hindúes y budistas como agentes para la adivinación. Su supuesta conexión con lo divino y su habilidad para predecir el futuro eran de un interés particular para los gobernantes de Asia. Siglos después, la tradición fue tomada por los pueblos que vivían en la periferia del subcontinente indio —en Cachemira, Assam, Bengala, Tamil, Nadu y Nepal —, que siguieron religiones subversivas que enfatizaban el poder femenino, o shakti, y la posesión tántrica, un estado logrado mediante invocaciones mágicas y rituales, y mediante el cual supuestamente los humanos pueden transformarse en seres divinos con poderes sobrenaturales. La costumbre de glorificar a niñas preadolescentes (la palabra kumari significa «niña virgen» en nepalí) solo se convirtió en un culto profundamente arraigado en la remota e impenetrable región montañosa de Nepal, y sólo ahí esta tradición aún se practica con vigor. Entre los budistas newar, las kumari se consideran la personificación de Vajeadevi, la deidad femenina suprema, una Buda. En la actualidad solo hay 10 kumaris en Nepal, nueve de ellas en el valle de Katmandú. Se siguen seleccionando solo de familias ligadas a comunidades que habitan entorno a un patio central, y todos sus ancestros deben venir de una casta alta. Ser escogida para el puesto se considera el honor más alto, el mismo que puede conceder innumerables bendiciones a la familia de una kumari. De modo que, a pesar de la carga financiera y los sacrificios personales que implica mantener a una niña como una diosa viviente, y las dificultades de su rehabilitación una vez que alcanza la pubertad y tiene que vivir de nuevo una vida normal, algunas familias siguen dispuestas a presentar a sus hijas a la selección.
 =====================PREGUNTA 1======================
 La expresión SUBVERSIVAS connota.
 =====================ALTERNATIVAS======================
@@ -36,12 +9,10 @@ B. Desprecio.
 C. Terror.
 D. Masacre.
 E. Transgresión.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-La palabra implica una religión que rompe con el dogma tradicional. En tal
-sentido, connota TRANSGRESIÓN.
+La palabra implica una religión que rompe con el dogma tradicional. En tal sentido, connota TRANSGRESIÓN.
 =====================PREGUNTA 2======================
 No es congruente con el texto afirmar que las kumaris
 =====================ALTERNATIVAS======================
@@ -50,13 +21,10 @@ B. Conceden m uchas bendiciones a su familia.
 C. Acarrean una considerable carga financiera.
 D. Deben ser reh abilitadas durante la pubertad.
 E. Poseen una conexión divina imperecedera.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-En el texto se indica que al alcanzar la pubertad las kumaris siguen una
-vida normal. Esto es, sus poderes divinos se manifiestan en un periodo específico de
-vida.
+En el texto se indica que al alcanzar la pubertad las kumaris siguen una vida normal. Esto es, sus poderes divinos se manifiestan en un periodo específico de vida.
 =====================PREGUNTA 3======================
 Centralmente, el texto trata sobre.
 =====================ALTERNATIVAS======================
@@ -65,8 +33,7 @@ B. Las religiones subversivas que enfatizaban el poder de la mujer.
 C. La admiración que originan las kumaris en la comunidad de Newar.
 D. La participación de niños y niñas en rituales hindúes del siglo X.
 E. Las kumaris del Nepal, sus poderes mágicos y su conexión divina.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
 El texto gira entorno a las kumaris del Nepal y su halo mágico -religioso.
@@ -78,13 +45,10 @@ B. Podrían eventualmente participar niñas de otros estratos socioeconómicos.
 C. La mistificación y la divinización de estas desaparecerían por los prejuicios.
 D. Las familias carecerían de capacidad para recibir innumerables bendiciones.
 E. Las adolescentes del lugar alcanzarían el estatus de semidiosas perpetuas.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-Las kumaris son seleccionadas de familias cuyos ancestros pertenecen a
-una clase alta; es decir, pertenecen a familias de alcurnia. De ser una elección más
-democrática, niñas de otros estratos socioeconómicos serían escogidas.
+Las kumaris son seleccionadas de familias cuyos ancestros pertenecen a una clase alta; es decir, pertenecen a familias de alcurnia. De ser una elección más democrática, niñas de otros estratos socioeconómicos serían escogidas.
 =====================PREGUNTA 5======================
 Podemos inferir del texto que la costumbre de divinizar niñas
 =====================ALTERNATIVAS======================
@@ -93,11 +57,7 @@ B. Era definido por la capacidad de la familia para obtener poder.
 C. Propiciaba el castigo de niñas provenientes de estratos pobres.
 D. Posiblemente se practicaba en otras zonas, más allá de Nepal.
 E. Carecía de fundamento para las comunidades de cariz budista.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-En el texto se señala que solo en Nepal aún se practica con vigor, y que en
-esta región se afianzó la costumbre. No obstante, la historia señala en los
-antecedentes lugares como Cachemira, Bengala, Tamil, etc. Es decir, en el pasado no
-fue exclusiva de Nepal.
+En el texto se señala que solo en Nepal aún se practica con vigor, y que en esta región se afianzó la costumbre. No obstante, la historia señala en los antecedentes lugares como Cachemira, Bengala, Tamil, etc. Es decir, en el pasado no fue exclusiva de Nepal.

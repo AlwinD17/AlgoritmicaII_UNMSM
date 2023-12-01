@@ -1,23 +1,6 @@
 ID: 119
 =====================TEXTO======================
-Hasta los italianos se ponen pálidos de envidia: los indios son los protagonistas del
-mayor concierto ocasionado por bocinas en el mundo. Usan su claxon como intermitente
-al salir del hueco para estacionar, para saludar al vecino, para manifestar su irritación ante
-el semáforo rojo y como señal de advertencia para los conductores de bicitaxis cuando se
-les quieren adelantar. Como la India es uno de los países más poblados del mundo, el uso
-del claxon en las ciudades adquiere la dimensión de un ruido permanente casi insoportable.
-Una y otra vez, las organizaciones cívicas intentan detener el ruido en las grandes
-metrópolis con letreros que dicen «No toquen el claxon», hasta ahora sin éxito. El claxon
-sigue siendo un arma para todos los fines que todos usan, desde el conductor de un triciclo
-hasta el chofer de un coche de gran lujo. La bocina suena cuando el coche que va adelante
-se estaciona en tercera fila, cuando uno se ve atrapado en un embotellamiento e incluso
-para espantar un pájaro en la calle, puesto que existe la posibilidad que uno se reencarne
-como pájaro.
-La mayoría de los conductores creen que el uso del claxon evita que sufran accidentes
-chocando con carretas tiradas por bueyes, peatones y cabras. Incluso en las autoescuelas
-se enseña el uso de la bocina como forma de autoprotección. Por esto, en la India hay
-pintores especializados que dedican s u vida profesional a escribir letras adornadas sobre
-el chasis de los camiones, que dicen: «Tocar el claxon, por favor».
+Hasta los italianos se ponen pálidos de envidia: los indios son los protagonistas del mayor concierto ocasionado por bocinas en el mundo. Usan su claxon como intermitente al salir del hueco para estacionar, para saludar al vecino, para manifestar su irritación ante el semáforo rojo y como señal de advertencia para los conductores de bicitaxis cuando se les quieren adelantar. Como la India es uno de los países más poblados del mundo, el uso del claxon en las ciudades adquiere la dimensión de un ruido permanente casi insoportable. Una y otra vez, las organizaciones cívicas intentan detener el ruido en las grandes metrópolis con letreros que dicen «No toquen el claxon», hasta ahora sin éxito. El claxon sigue siendo un arma para todos los fines que todos usan, desde el conductor de un triciclo hasta el chofer de un coche de gran lujo. La bocina suena cuando el coche que va adelante se estaciona en tercera fila, cuando uno se ve atrapado en un embotellamiento e incluso para espantar un pájaro en la calle, puesto que existe la posibilidad que uno se reencarne como pájaro. La mayoría de los conductores creen que el uso del claxon evita que sufran accidentes chocando con carretas tiradas por bueyes, peatones y cabras. Incluso en las autoescuelas se enseña el uso de la bocina como forma de autoprotección. Por esto, en la India hay pintores especializados que dedican s u vida profesional a escribir letras adornadas sobre el chasis de los camiones, que dicen: «Tocar el claxon, por favor».
 =====================PREGUNTA 1======================
 En el texto, el término CONCIERTO se puede reemplazar por.
 =====================ALTERNATIVAS======================
@@ -26,12 +9,10 @@ B. bullicio.
 C. composición.
 D. musicalidad.
 E. disposición.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-El vocablo se usa metafóricamente para referirse al ruido insoportable de
-las bocinas; esto es, el bullicio.
+El vocablo se usa metafóricamente para referirse al ruido insoportable de las bocinas; esto es, el bullicio.
 =====================PREGUNTA 2======================
 El texto gira entorno
 =====================ALTERNATIVAS======================
@@ -40,8 +21,7 @@ B. a autoescuelas para el uso de la bocina en la India.
 C. al uso del claxon para evitar los accidentes en la India.
 D. al trasfondo supersticioso del uso del claxon en la India.
 E. a la victoria de la India sobre Italia en el uso de la bocina.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
 El texto aborda la forma abrumadora en que se usa el claxon en la India.
@@ -53,12 +33,10 @@ B. es intermitente al salir del hueco usado como estacionamiento.
 C. sirve como motivación para elaborar anuncios en los camiones.
 D. tiene un consistente trasfondo esotérico en algunos casos.
 E. ha sido refrenado exitosamente en las zonas más pobladas.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-El texto señala que las organizaciones cívicas han intentado detener el
-ruido sin éxito.
+El texto señala que las organizaciones cívicas han intentado detener el ruido sin éxito.
 =====================PREGUNTA 4======================
 Es posible deducir que el uso de la bocina.
 =====================ALTERNATIVAS======================
@@ -67,24 +45,19 @@ B. se extiende más allá de los vehículos a motor en la India.
 C. permite que la gente pueda reencarnar en algún animal.
 D. ha normalizado el tránsito en las regiones más pobladas.
 E. es un mecanismo relevante para evitar actos temerarios.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-El uso del claxon no es exclusivo de los vehículos a motor, pues también
-las carretas cuentan con este, y quienes las manejan lo utilizan.
+El uso del claxon no es exclusivo de los vehículos a motor, pues también las carretas cuentan con este, y quienes las manejan lo utilizan.
 =====================PREGUNTA 5======================
-Si el uso de la bocina tuviera la finalidad exclusiva de elusión de los accidentes en la
-India.
+Si el uso de la bocina tuviera la finalidad exclusiva de elusión de los accidentes en la India.
 =====================ALTERNATIVAS======================
 A. al ser este un país muy poblado, el ruido seguiría siendo un problema.
 B. los pintores profesionales de anuncios se volverían muralistas críticos.
 C. los pájaros evitarían la muerte inexorable que deviene del estruendo.
 D. el ruido sería permanente por las noches y en los lugares transitados.
 E. los italianos llevarían la delantera en cuanto a su carácter extendido.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-India es un país muy poblado, razón por la cual el uso del claxon, aun
-cuando se trate de fines prácticos, persistiría y con ello el bullicio.
+India es un país muy poblado, razón por la cual el uso del claxon, aun cuando se trate de fines prácticos, persistiría y con ello el bullicio.

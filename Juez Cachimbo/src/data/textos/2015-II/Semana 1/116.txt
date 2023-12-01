@@ -1,12 +1,6 @@
 ID: 116
 =====================TEXTO======================
-I) Los saurópodos dominaron la Tierra entre 210 y 65 millones de años atrás. II) Los
-saurópodos, dinosaurios grandes, de cuello largo y consumidores de plantas ,fueron
-los animales terrestres más grandes de todos los tiempos. III) Con el mayor peso, 80
-toneladas (loque pesan más de 11 elefantes), los saurópodos habrían necesitado
-vastas cantidades de comida. IV) A pesar de la abundante comida que requerían,
-múltiples especies de saurópodos a menudo vivían juntas. V) Los saurópodos eran
-dinosaurios que comían abundante vegetación y que podían convivir juntos.
+I) Los saurópodos dominaron la Tierra entre 210 y 65 millones de años atrás. II) Los saurópodos, dinosaurios grandes, de cuello largo y consumidores de plantas ,fueron los animales terrestres más grandes de todos los tiempos. III) Con el mayor peso, 80 toneladas (loque pesan más de 11 elefantes), los saurópodos habrían necesitado vastas cantidades de comida. IV) A pesar de la abundante comida que requerían, múltiples especies de saurópodos a menudo vivían juntas. V) Los saurópodos eran dinosaurios que comían abundante vegetación y que podían convivir juntos.
 =====================PREGUNTA 1======================
 CRITERIO DE REDUNDANCIA
 =====================ALTERNATIVAS======================
@@ -15,9 +9,7 @@ B.II
 C.III
 D.IV
 E.V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-Se elimina la oración V por redundancia. Su contenido se reitera en II, III y
-IV.
+Se elimina la oración V por redundancia. Su contenido se reitera en II, III y IV.

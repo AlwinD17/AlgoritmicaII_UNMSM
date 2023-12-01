@@ -2,115 +2,62 @@ ID: 140
 =====================TEXTO======================
 ELIMINACIÓN DE ORACIONES
 =====================PREGUNTA 1======================
-I) Estamos viviendo un periodo muy difícil de nuestra historia, en el que
-desgraciadamente los vicios han triunfado y se han vuelto normales ciertas prácticas
-inmorales. II) A merced de ciertas políticas educacionales y culturales erradas, las
-prácticas inmorales se han ido apoderando de nuestros pensamientos, dejándonos sin la
-capacidad de discernimiento. III) Las autoridades que deberían respetar y hacer respetar
-las leyes también han sucumbido convirtiendo sus oficinas en pomposos negocios. IV)
-Los valores han quedado relegados y son los vicios los que conviven ya cotidianamente
-en todos los sectores sociales. V) En un ambiente como este, se hace imperiosa la
-necesidad que el Estado reformule las políticas educacionales y se ponga en acción
-programas culturales.
+I) Estamos viviendo un periodo muy difícil de nuestra historia, en el que desgraciadamente los vicios han triunfado y se han vuelto normales ciertas prácticas inmorales. II) A merced de ciertas políticas educacionales y culturales erradas, las prácticas inmorales se han ido apoderando de nuestros pensamientos, dejándonos sin la capacidad de discernimiento. III) Las autoridades que deberían respetar y hacer respetar las leyes también han sucumbido convirtiendo sus oficinas en pomposos negocios. IV) Los valores han quedado relegados y son los vicios los que conviven ya cotidianamente en todos los sectores sociales. V) En un ambiente como este, se hace imperiosa la necesidad que el Estado reformule las políticas educacionales y se ponga en acción programas culturales.
 =====================ALTERNATIVAS======================
 A. I
 B. II
 C. III
 D. IV
 E. V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-El tema gira entorno a un actual periodo decadente de la sociedad. Se elimina
-la oración V por impertinencia.
+El tema gira entorno a un actual periodo decadente de la sociedad. Se elimina la oración V por impertinencia.
 =====================PREGUNTA 2======================
-I) Los colibríes son unas minúsculas aves americanas que se caracterizan por el
-maravilloso colorido de su plumaje y por su extraordinaria forma de volar. II) Los colibríes
-emiten un zumbido con las alas que mueven con mayor rapidez que las de cualquier otra
-ave. III) Los colibríes f recuentan los lugares donde crecen las madreselvas, ya que se
-alimentan del néctar y los pequeños insectos que encuentran en el interior de las flores.
-IV) Los colibríes construyen sus nidos empleando telas de araña, musgo y líquenes, y
-los aseguran a las ramitas, piñas y hojas resistentes, bastante por encima del nivel del
-suelo. V) El realismo mágico cuenta con el novelista colombiano Gabriel García Márquez
-entre sus más destacados representantes.
+I) Los colibríes son unas minúsculas aves americanas que se caracterizan por el maravilloso colorido de su plumaje y por su extraordinaria forma de volar. II) Los colibríes emiten un zumbido con las alas que mueven con mayor rapidez que las de cualquier otra ave. III) Los colibríes f recuentan los lugares donde crecen las madreselvas, ya que se alimentan del néctar y los pequeños insectos que encuentran en el interior de las flores. IV) Los colibríes construyen sus nidos empleando telas de araña, musgo y líquenes, y los aseguran a las ramitas, piñas y hojas resistentes, bastante por encima del nivel del suelo. V) El realismo mágico cuenta con el novelista colombiano Gabriel García Márquez entre sus más destacados representantes.
 =====================ALTERNATIVAS======================
 A. I
 B. II
 C. III
 D. IV
 E. V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-El tema gira entorno al realismo mágico. Se elimina la oración I por
-impertinencia.
+El tema gira entorno al realismo mágico. Se elimina la oración I por impertinencia.
 =====================PREGUNTA 3======================
-I) Entre la producción poética de Allan Poe destacan una docena de poemas por su
-impecable construcción literaria y por sus ritmos y temas obsesivos. II) 'Los crímenes de
-la calle Morgue' (1841), 'El misterio de Marie Rogêt' (1842 -1843) y 'La carta robada'
-(1844) son obras de Allan Poe consideradas como los predecesores de la moderna
-novela de misterio o policiaca. III) En el poema 'El cuervo' (1845), por ejemplo, Poe se
-siente abrumado por la melancolía y los augurios de la muerte. IV) El dominio
-extraordinario de Poe del ritmo y el sonido es, particularmente, evidente en 'Las
-campanas' (1849), los versos evocan el repique de los instrumentos metálicos. V)
-'Lenore' (1831) y 'Annabel Lee' (1849) son elegías donde Poe alude a la muerte de una
-hermosa joven.
+I) Entre la producción poética de Allan Poe destacan una docena de poemas por su impecable construcción literaria y por sus ritmos y temas obsesivos. II) 'Los crímenes de la calle Morgue' (1841), 'El misterio de Marie Rogêt' (1842 -1843) y 'La carta robada' (1844) son obras de Allan Poe consideradas como los predecesores de la moderna novela de misterio o policiaca. III) En el poema 'El cuervo' (1845), por ejemplo, Poe se siente abrumado por la melancolía y los augurios de la muerte. IV) El dominio extraordinario de Poe del ritmo y el sonido es, particularmente, evidente en 'Las campanas' (1849), los versos evocan el repique de los instrumentos metálicos. V) 'Lenore' (1831) y 'Annabel Lee' (1849) son elegías donde Poe alude a la muerte de una hermosa joven.
 =====================ALTERNATIVAS======================
 A. I
 B. II
 C. III
 D. IV
 E. V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-El tema es la poética de Edgar A. Poe. Por tanto, se elimina la oración II, que
-trata sobre su narrativa.
+El tema es la poética de Edgar A. Poe. Por tanto, se elimina la oración II, que trata sobre su narrativa.
 =====================PREGUNTA 4======================
-I) El ronquido cuando va acompañado de apneas representa un inconveniente que puede
-ser peligroso para quien la padece. II) El ronquido acompañado de apneas no solo altera
-el estilo de vida de las personas que lo padecen sino también el de sus parejas. III)
-Provoca un despertar continuo que, en caso de no tratarse, puede aumentar el riesgo de
-sufrir un episodio cardiaco o cerebral vascular. IV) Se producen por una relajación de la
-musculatura orofaríngea que provoca, no solo la emisión de ruido, sino también
-microdespertares que ocasionan un sueño no reparador. V) El otorrinolaringólogo es el
-especialista para determinar si el paciente que lo padece requiere de una intervención
-quirúrgica según la severidad del cuadro que presente.
+I) El ronquido cuando va acompañado de apneas representa un inconveniente que puede ser peligroso para quien la padece. II) El ronquido acompañado de apneas no solo altera el estilo de vida de las personas que lo padecen sino también el de sus parejas. III) Provoca un despertar continuo que, en caso de no tratarse, puede aumentar el riesgo de sufrir un episodio cardiaco o cerebral vascular. IV) Se producen por una relajación de la musculatura orofaríngea que provoca, no solo la emisión de ruido, sino también microdespertares que ocasionan un sueño no reparador. V) El otorrinolaringólogo es el especialista para determinar si el paciente que lo padece requiere de una intervención quirúrgica según la severidad del cuadro que presente.
 =====================ALTERNATIVAS======================
 A. I
 B. II
 C. III
 D. IV
 E. V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-El tema es el ronquido acompañado de apneas. Se elimina la oración I por
-redundancia, pues ya se halla incluida en la oración II y III.
+El tema es el ronquido acompañado de apneas. Se elimina la oración I por redundancia, pues ya se halla incluida en la oración II y III.
 =====================PREGUNTA 5======================
-I) Las feromonas son sustancias químicas que envían señales a los demás miembros de
-la misma especie. II) El propósito más conocido y que ha atraído la mayor atención es el
-uso de feromonas como medio de atracción sexual. III) Estas feromonas fueron
-identificadas desde 1956, cuando los científico s extrajeron un compuesto a partir de
-ciertas glándulas en el abdomen de la polilla del gusano de seda. IV) Encontraron que
-esta feromona, a la que llamaron bombykol, causaba un efecto asombroso en las polillas
-del gusano de seda masculino. V) Los científicos observaron que esta polilla, al
-exponerse a esta feromona, entraba de inmediato en una frenética “danza de cortejo",
-por lo que concluyeron que bombykol era vital en el proceso de atracción sexual para
-estas polillas.
+I) Las feromonas son sustancias químicas que envían señales a los demás miembros de la misma especie. II) El propósito más conocido y que ha atraído la mayor atención es el uso de feromonas como medio de atracción sexual. III) Estas feromonas fueron identificadas desde 1956, cuando los científico s extrajeron un compuesto a partir de ciertas glándulas en el abdomen de la polilla del gusano de seda. IV) Encontraron que esta feromona, a la que llamaron bombykol, causaba un efecto asombroso en las polillas del gusano de seda masculino. V) Los científicos observaron que esta polilla, al exponerse a esta feromona, entraba de inmediato en una frenética “danza de cortejo", por lo que concluyeron que bombykol era vital en el proceso de atracción sexual para estas polillas.
 =====================ALTERNATIVAS======================
 A. I
 B. II
 C. III
 D. IV
 E. V
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-El tema es la feromona bombykol en el proceso de atracción sexual entre
-polillas. Se elimina la oración I por impertinencia, pues define feromonas.
+El tema es la feromona bombykol en el proceso de atracción sexual entre polillas. Se elimina la oración I por impertinencia, pues define feromonas.

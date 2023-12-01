@@ -1,19 +1,6 @@
 ID: 221
 =====================TEXTO======================
-I) Un depredador puede causarle suficiente estrés a una libélula para que, literalmente,
-se muera de miedo ,incluso sino supone una amenaza real, según ha descubierto un
-equipo de biólogos canadienses. II) En sus experimentos, Rowe y sus colegas hicieron
-crecer a un grupo de larvas de libélula de la especie Leucorrhinia intacta en grandes
-acuarios donde también había peces e insectos depredadores a los que las libélulas
-podían ver y oler (aunque no sabían que los peces no podían alcanzarlas). III) Otro
-grupo de larvas de libélula permaneció en tanques de agua sin depredadores a la
-vista. IV) Las larvas de libélula expuestas a la presencia de peces o insectos que
-suponían una amenaza tuvieron un índice de supervivencia entre 2,5 y 4,3 veces
-menor que aquellas que fueron ubicadas en tanques desde donde los peces e insectos
-peligrosos eran imperceptibles. V) En un segundo experimento, los científicos
-observaron que e l 11% de las libélulas juveniles en presencia de depredadores
-moría en el proceso de meta morfosis hacia insectos adultos, mientras que en un
-ambiente libre de peces, el índice de mortalidad fue de solo un 2%.
+I) Un depredador puede causarle suficiente estrés a una libélula para que, literalmente, se muera de miedo ,incluso sino supone una amenaza real, según ha descubierto un equipo de biólogos canadienses. II) En sus experimentos, Rowe y sus colegas hicieron crecer a un grupo de larvas de libélula de la especie Leucorrhinia intacta en grandes acuarios donde también había peces e insectos depredadores a los que las libélulas podían ver y oler (aunque no sabían que los peces no podían alcanzarlas). III) Otro grupo de larvas de libélula permaneció en tanques de agua sin depredadores a la vista. IV) Las larvas de libélula expuestas a la presencia de peces o insectos que suponían una amenaza tuvieron un índice de supervivencia entre 2,5 y 4,3 veces menor que aquellas que fueron ubicadas en tanques desde donde los peces e insectos peligrosos eran imperceptibles. V) En un segundo experimento, los científicos observaron que e l 11% de las libélulas juveniles en presencia de depredadores moría en el proceso de meta morfosis hacia insectos adultos, mientras que en unambiente libre de peces, el índice de mortalidad fue de solo un 2%.
 =====================PREGUNTA 1======================
 Elimine una oración 
 =====================ALTERNATIVAS======================
@@ -25,5 +12,4 @@ E. V
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-Se elimina la oración III por redundancia, pues está incluida en la oración
-II.
+Se elimina la oración III por redundancia, pues está incluida en la oración II.

@@ -1,52 +1,18 @@
 ID: 133
 =====================TEXTO======================
-En nuestra vida diaria, damos por sentado dos intuiciones acerca de la mente. La
-primera es que nuestra mente es una cosa separada de nuestro ser físico, un dualismo
-natural que nos empuja a creer que es un lugar puro, abstracto, libre de limitaciones
-biológicas. La segunda es la creencia de que conocemos nuestra propia mente, que nuestra
-experiencia subjetiva de tomar decisiones es un reporte exacto de cómo se tomó esa
-decisión realmente. Pero, por más que parezca que estamos en control de nuestras
-acciones, ¿no se tratará de un espejismo? Un experimento realizado en 1983 por Benjamin
-Libet desató una controversia porque mostró que nuestra sensación de libre albedrío podría
-no ser más que una mera ilusión.
-El experimento de Libet tenía tres componentes vitales: una elección, una medición
-de la actividad cerebral y un reloj. La elección era mover el brazo izquierdo o el derecho. El
-tiempo exacto en el que uno hacía el movimiento quedaba registrado al activarse los
-músculos del brazo. La medición de la actividad cerebral se hizo por medio de electrodos
-sobre el cuero cabelludo. El reloj estaba especialmente diseñado para permitir que los
-participantes percibieran cambios de menos de un segundo y consistía de un solo punto
-que se desplaza dando vueltas a la circunferencia cada 2,56 segundos.
-Mezclando esos ingredientes, Libet realizó una medición crucial extra: les pidió a los
-participantes reportar, utilizando el reloj, el momento exacto cuando decidieran realizar el
-movimiento. De esta forma, menos de un segundo antes de que los participantes se
-movieran, un cambio probado podía quedar registrado utilizando los electrodos.
-Sin embargo, los participantes reportaron su decisión de hacer el movimiento entre el
-cambio eléctrico en el cerebro y el movimiento r eal. El registro de electrodos mostró que,
-en cierto sentido, la decisión ya había sido tomada antes de que los participantes estuviesen
-conscientes de ejecutarla. Las señales del cerebro estaban cambiando antes de que
-ocurriese la experiencia subjetiva de tomar una decisión. Parte de la atracción del
-experimento de Libet se debe a que nos lleva a preguntarnos hasta qué punto estamos
-libres de determinaciones biológicas o si realmente somos capaces de desnudar el proceso
-íntimo detrás de nuestras decisiones .
-Lo cierto es que la sensación de decidir, según la presenta el experimento de Libet,
-podría ser una completa ilusión. Quizás la verdadera decisión está hecha de alguna forma
-«por nuestro cerebro» o tal vez simplemente sea que la sensación de decidir es té atrasada
-con respecto a nuestra decisión real.
+En nuestra vida diaria, damos por sentado dos intuiciones acerca de la mente. La primera es que nuestra mente es una cosa separada de nuestro ser físico, un dualismo natural que nos empuja a creer que es un lugar puro, abstracto, libre de limitaciones biológicas. La segunda es la creencia de que conocemos nuestra propia mente, que nuestra experiencia subjetiva de tomar decisiones es un reporte exacto de cómo se tomó esa decisión realmente. Pero, por más que parezca que estamos en control de nuestras acciones, ¿no se tratará de un espejismo? Un experimento realizado en 1983 por Benjamin Libet desató una controversia porque mostró que nuestra sensación de libre albedrío podría no ser más que una mera ilusión. El experimento de Libet tenía tres componentes vitales: una elección, una medición de la actividad cerebral y un reloj. La elección era mover el brazo izquierdo o el derecho. El tiempo exacto en el que uno hacía el movimiento quedaba registrado al activarse los músculos del brazo. La medición de la actividad cerebral se hizo por medio de electrodos sobre el cuero cabelludo. El reloj estaba especialmente diseñado para permitir que los participantes percibieran cambios de menos de un segundo y consistía de un solo punto que se desplaza dando vueltas a la circunferencia cada 2,56 segundos. Mezclando esos ingredientes, Libet realizó una medición crucial extra: les pidió a los participantes reportar, utilizando el reloj, el momento exacto cuando decidieran realizar el movimiento. De esta forma, menos de un segundo antes de que los participantes se movieran, un cambio probado podía quedar registrado utilizando los electrodos. Sin embargo, los participantes reportaron su decisión de hacer el movimiento entre el cambio eléctrico en el cerebro y el movimiento r eal. El registro de electrodos mostró que, en cierto sentido, la decisión ya había sido tomada antes de que los participantes estuviesen conscientes de ejecutarla. Las señales del cerebro estaban cambiando antes de que ocurriese la experiencia subjetiva de tomar una decisión. Parte de la atracción del experimento de Libet se debe a que nos lleva a preguntarnos hasta qué punto estamos libres de determinaciones biológicas o si realmente somos capaces de desnudar el proceso íntimo detrás de nuestras decisiones . Lo cierto es que la sensación de decidir, según la presenta el experimento de Libet, podría ser una completa ilusión. Quizás la verdadera decisión está hecha de alguna forma «por nuestro cerebro» o tal vez simplemente sea que la sensación de decidir es té atrasada con respecto a nuestra decisión real.
 =====================PREGUNTA 1======================
-Marque la alternativa que consigne la pregunta que mejor sintetiza la cuestión central
-que desarrolla el texto.
+Marque la alternativa que consigne la pregunta que mejor sintetiza la cuestión central que desarrolla el texto.
 =====================ALTERNATIVAS======================
 A. ¿Cuál es la relación entre la mente y el cuerpo?
 B. ¿El análisis cerebral es prioritario actualmente?
 C. ¿Conocemos la causa de nuestras decisiones?
 D. ¿Nuestra libertad depende de nuestro cerebro?
 E. ¿Se puede elegir realmente en nuestra época?
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-El texto reseña un experimento que cuestiona la libertad, presentándola
-como el producto de una actividad cerebral recóndita para los individuos mismos.
+El texto reseña un experimento que cuestiona la libertad, presentándola como el producto de una actividad cerebral recóndita para los individuos mismos.
 =====================PREGUNTA 2======================
 El término DESN UDAR puede ser reemplazado por
 =====================ALTERNATIVAS======================
@@ -55,29 +21,22 @@ B. ilustrar.
 C. despojar.
 D. corcovar.
 E. exornar.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-En el texto, «desnudar» se utiliza como equivalente de esclarecer. En ese
-sentido, ILUSTRAR, que significa ‘aclarar un punto’ es el mejor sinónimo contextual.
+En el texto, «desnudar» se utiliza como equivalente de esclarecer. En ese sentido, ILUSTRAR, que significa ‘aclarar un punto’ es el mejor sinónimo contextual.
 =====================PREGUNTA 3======================
-Respecto a las intuiciones sobre la mente, que asumimos sin cuestionarnos en nuestra
-vida cotidiana ,es incongruente sostener que
+Respecto a las intuiciones sobre la mente, que asumimos sin cuestionarnos en nuestra vida cotidiana ,es incongruente sostener que
 =====================ALTERNATIVAS======================
 A. juzgan que el cerebro es el espacio ideal donde se toman todas las decisiones.
 B. advierten que el control de las acciones de los individuos depende de su mente.
 C. admiten la pureza de la mente, que se considera a jena al cuerpo y su fisiología.
 D. reparan en que es posible describir el entramado que está detrás de la elección.
 E. estiman la mente como una entidad impermeable a determinaciones biológicas.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-Las intuiciones descritas en el texto consideran que la mente está aislada
-de la biología. En ese sentido, mente y cerebro no son necesariamente sinónimos.
-Así, desde la perspectiva de estas intuiciones, resulta incompatible asociar cerebro y
-decisión.
+Las intuiciones descritas en el texto consideran que la mente está aislada de la biología. En ese sentido, mente y cerebro no son necesariamente sinónimos. Así, desde la perspectiva de estas intuiciones, resulta incompatible asociar cerebro y decisión.
 =====================PREGUNTA 4======================
 Se infiere que las conclusiones del experimento de Libet fueron polémicas porque
 =====================ALTERNATIVAS======================
@@ -86,13 +45,10 @@ B. han constatado que el libre albedrío puede ser una ficción más que un hech
 C. han obligado a relativizar la autonomía de los individuos en su entorno social.
 D. le han arrebatado al ser humano la habilidad de examinar su propia situación.
 E. han incitado la reflexión sobre la necesidad de estimular la mente del hombre.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-Es válido inferir que el experimento de Libet, al cuestionar el control que el
-ser humano tiene sobre sus propios actos, nos ha conminado a pensar que la
-autonomía, la independencia del individuo respecto a los demás, es también relativa.
+Es válido inferir que el experimento de Libet, al cuestionar el control que el ser humano tiene sobre sus propios actos, nos ha conminado a pensar que la autonomía, la independencia del individuo respecto a los demás, es también relativa.
 =====================PREGUNTA 5======================
 Si siempre coincidieran la decisión personal y el cambio eléctrico en el cerebro,
 =====================ALTERNATIVAS======================
@@ -101,11 +57,7 @@ B. el estudio de Benjamin Libet bastaría para esclarecer cómo funciona la ment
 C. los seres humanos tendríamos que cuestionar nuestra capacidad de decisión.
 D. estaríamos a punto de descubrir los intrincados misterios del cerebro humano.
 E. conceptos como el de «inconsciente» serían inviables para el sentido común.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-Si el tiempo de decisión personal y el cambio eléctrico coincidieran,
-tendríamos que asumir que el individuo es plenamente consciente de sus decisiones.
-En ese sentido, pensar en algo que escapara de la consciencia (el «inconsciente»)
-sería inviable.
+Si el tiempo de decisión personal y el cambio eléctrico coincidieran, tendríamos que asumir que el individuo es plenamente consciente de sus decisiones. En ese sentido, pensar en algo que escapara de la consciencia (el «inconsciente») sería inviable.

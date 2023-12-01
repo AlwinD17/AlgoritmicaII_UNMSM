@@ -1,52 +1,18 @@
 ID: 202
 =====================TEXTO======================
-Alberto Escobar ha visto bien cómo en la prosa de Palma parece disolverse la
-contradicción entre el casticismo de Pardo y Aliaga y la lengua aplebeyada de Segura, pero
-en realidad el experimento de las tradiciones va más allá porque no sólo resuelve una
-controversia literaria sino propone un modelo de la lengua nacional acodado en dos pilares
-ajenos al orden de la literatura: el habla de los indios y la Academia, modelo que se extiende
-a todo un género (no por casualidad su nombre es el de Tradiciones Peruanas ) y finalmente
-se proyecta sobre el sentido de la nación misma. Tal vez con menos explicitez que otros
-escritores del siglo XIX, Palma inscribe su producción dentro de la problemática mayor de
-la época: producir una imagen y un discurso que diluyan las contradicciones que
-socavaban la idea misma de nación, construyendo espacios homogéneos sobre una
-realidad abrumadoramente heterogénea, con ánimo de crear en y por el lenguaje una
-comunidad nacional posible. Decirla, no como tema o contenido del discurso, sino como
-significado de la í ndole de la operación lingüística realizada en el texto era, al menos, la
-premonición desiderativa de que también en el plano de la realidad (y sobre todo en él)
-podría construirse un espacio común donde toda convergencia armónica (pero
-jerarquizada, por cierto) fuera posible.
-De alguna manera, es un momento feliz: el quechua está en paz con el español, el
-lenguaje del habla con el arte de la calle, la escritura con la oralidad y todo dentro de un
-orden voluntariosamente conciliador, homogeneizante, que en la tersa superficie de la
-página escrita encuentra cree encontrar una figuración social alentadora. En otro lugar
-he examinado como Palma hace de la Colonia un lugar y un momento amenos para la
-historia del Perú, desproblematizándola con humor y sutileza ;ahora, en el plano del
-lenguaje, bien podría decirse algo similar: diluyendo las tensiones del bilingüismo y
-haciéndolo además al desgaire, como quien realiza un acto absolutamente natural,
-borrando al mismo tiempo las fronteras entre lo oral y lo escrito y lo culto y lo popular, y
-afirmando por último la legitimidad del peruanismo en la autoridad de la Academia Española, Palma produce un espacio lingüístico también ameno, casi paradisiaco, donde
-la nación puede leerse a sí misma y sin conflictos como tal. Se engañaba, por supuesto.
-Cornejo Polar, Antonio. (2003). Escribir en el aire . CELACP.
+Alberto Escobar ha visto bien cómo en la prosa de Palma parece disolverse la contradicción entre el casticismo de Pardo y Aliaga y la lengua aplebeyada de Segura, pero en realidad el experimento de las tradiciones va más allá porque no sólo resuelve una controversia literaria sino propone un modelo de la lengua nacional acodado en dos pilares ajenos al orden de la literatura: el habla de los indios y la Academia, modelo que se extiende a todo un género (no por casualidad su nombre es el de Tradiciones Peruanas ) y finalmente se proyecta sobre el sentido de la nación misma. Tal vez con menos explicitez que otros escritores del siglo XIX, Palma inscribe su producción dentro de la problemática mayor de la época: producir una imagen y un discurso que diluyan las contradicciones que socavaban la idea misma de nación, construyendo espacios homogéneos sobre una realidad abrumadoramente heterogénea, con ánimo de crear en y por el lenguaje una comunidad nacional posible. Decirla, no como tema o contenido del discurso, sino como significado de la í ndole de la operación lingüística realizada en el texto era, al menos, la premonición desiderativa de que también en el plano de la realidad (y sobre todo en él) podría construirse un espacio común donde toda convergencia armónica (pero jerarquizada, por cierto) fuera posible. De alguna manera, es un momento feliz: el quechua está en paz con el español, el lenguaje del habla con el arte de la calle, la escritura con la oralidad y todo dentro de un orden voluntariosamente conciliador, homogeneizante, que en la tersa superficie de la página escrita encuentra cree encontrar una figuración social alentadora. En otro lugar he examinado como Palma hace de la Colonia un lugar y un momento amenos para la historia del Perú, desproblematizándola con humor y sutileza ;ahora, en el plano del lenguaje, bien podría decirse algo similar: diluyendo las tensiones del bilingüismo y haciéndolo además al desgaire, como quien realiza un acto absolutamente natural, borrando al mismo tiempo las fronteras entre lo oral y lo escrito y lo culto y lo popular, y afirmando por último la legitimidad del peruanismo en la autoridad de la Academia Española, Palma produce un espacio lingüístico también ameno, casi paradisiaco, donde la nación puede leerse a sí misma y sin conflictos como tal. Se engañaba, por supuesto. Cornejo Polar, Antonio. (2003). Escribir en el aire . CELACP.
 =====================PREGUNTA 1======================
 La intención principal del autor del texto es
 =====================ALTERNATIVAS======================
-A. Analizar el proyecto narrativo de Ricardo Palma que fue construido a lo largo del
-siglo XIX.
-B. Mostrar como Palma construye a través del lenguaje usado en las Tradiciones
-peruanas una idea de nación homogénea .
-C. Señalar la importancia que desempeña el quechua en la idea que tenía Palma de
-la nación.
-D. Destacar los vínculos existentes entre la prosa castiza de Pardo y Aliaga y la lengua
-popular de Segura .
+A. Analizar el proyecto narrativo de Ricardo Palma que fue construido a lo largo del siglo XIX.
+B. Mostrar como Palma construye a través del lenguaje usado en las Tradiciones peruanas una idea de nación homogénea .
+C. Señalar la importancia que desempeña el quechua en la idea que tenía Palma de la nación.
+D. Destacar los vínculos existentes entre la prosa castiza de Pardo y Aliaga y la lengua popular de Segura .
 E. Interpretar cómo se presenta el bilingüismo en el Perú que Palma recrea en su obra.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-El texto, básicamente, trata de la idea de nación que forjó Palma por medio
-del lenguaje en Las tradiciones peruanas. En dicho texto, Palma trató de atenuar las
-diferencias entre lo culto y lo popular, por ejemplo, bajo la idea de construir una nación
-homogénea.
+El texto, básicamente, trata de la idea de nación que forjó Palma por medio del lenguaje en Las tradiciones peruanas. En dicho texto, Palma trató de atenuar las diferencias entre lo culto y lo popular, por ejemplo, bajo la idea de construir una nación homogénea.
 =====================PREGUNTA 2======================
 El término DILUIR tiene la connotación de
 =====================ALTERNATIVAS======================
@@ -58,8 +24,7 @@ E. Malquistar.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-En el texto, el término DILUIR connota la disminución o atenuación de las
-tensiones del bilingüismo.
+En el texto, el término DILUIR connota la disminución o atenuación de las tensiones del bilingüismo.
 =====================PREGUNTA 3======================
 En el texto, la palabra SOCAVAR significa
 =====================ALTERNATIVAS======================
@@ -71,44 +36,28 @@ E. Unificar.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-En el texto, el término socavar puede ser reemplazado por la palabra
-debilitar ya que se habla de las contradicciones que debilitaban la idea de nación.
+En el texto, el término socavar puede ser reemplazado por la palabra debilitar ya que se habla de las contradicciones que debilitaban la idea de nación.
 =====================PREGUNTA 4======================
 Es compatible desde el punto de vista del autor del texto afirmar que
 =====================ALTERNATIVAS======================
-A. Palma intentó reflejar, por medio del lenguaje, las contradicciones de la comunidad
-nacional .
-B. Escobar no pudo percibir cómo en la prosa de Palma parece disolverse la
-contradicción entre el casticismo de Pardo y la lengua aplebeyada de Segura.
-C. Ricardo Palma se engañaba cuando pensaba en una nación homogénea y sin
-conflictos.
-D. la principal problemática de los escritores del siglo XIX fue crear una lengua
-sincrética.
-E. el modelo de lengua nacional propuesto por Ricardo Palma era eminentemente
-literario.
+A. Palma intentó reflejar, por medio del lenguaje, las contradicciones de la comunidad nacional .
+B. Escobar no pudo percibir cómo en la prosa de Palma parece disolverse la contradicción entre el casticismo de Pardo y la lengua aplebeyada de Segura.
+C. Ricardo Palma se engañaba cuando pensaba en una nación homogénea y sin conflictos.
+D. la principal problemática de los escritores del siglo XIX fue crear una lengua sincrética.
+E. el modelo de lengua nacional propuesto por Ricardo Palma era eminentemente literario.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-Según el autor del texto, el interés de Palma propone un modelo nacional
-caracterizado por la armonía.
+Según el autor del texto, el interés de Palma propone un modelo nacional caracterizado por la armonía.
 =====================PREGUNTA 5======================
 Según el autor del texto, el principal error de Palma es
 =====================ALTERNATIVAS======================
-A. Producir una imagen y un discurso que pretende construir espacios homogéneos
-sobre una realidad abrumadoramente heterogénea.
-B. Hacer de la Colonia un lugar y un momento amenos para la historia del Perú,
-desproblematizándola con humor y sutileza .
-C. Resolver una controversia literaria, por medio de Las Tradiciones Peruanas ,donde
-se disuelve la contradicción entre los estilos de Pardo y de Segura.
-D. Tratar de fusionar el lenguaje del habla con el arte de la calle, la escritura con la
-oralidad.
-E. Enfatizar las tensiones del bilingüismo y poner de relieve las fronteras entre lo oral y
-lo escrito, lo culto y lo popular .
+A. Producir una imagen y un discurso que pretende construir espacios homogéneos sobre una realidad abrumadoramente heterogénea.
+B. Hacer de la Colonia un lugar y un momento amenos para la historia del Perú, desproblematizándola con humor y sutileza .
+C. Resolver una controversia literaria, por medio de Las Tradiciones Peruanas ,donde se disuelve la contradicción entre los estilos de Pardo y de Segura.
+D. Tratar de fusionar el lenguaje del habla con el arte de la calle, la escritura con la oralidad.
+E. Enfatizar las tensiones del bilingüismo y poner de relieve las fronteras entre lo oral y lo escrito, lo culto y lo popular .
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-Palma propone un modelo de la lengua nacional que reposa en el habla de
-los indios y la Academia, modelo que se extiende a todo un género, que se proyecta
-sobre el sentido de nación. A partir de ese modelo, Palma produce un espacio
-lingüístico casi paradisiaco y sin conflictos, que pretende ser nacional, pero que no lo
-es porque no refleja la realidad.
+Palma propone un modelo de la lengua nacional que reposa en el habla de los indios y la Academia, modelo que se extiende a todo un género, que se proyecta sobre el sentido de nación. A partir de ese modelo, Palma produce un espacio lingüístico casi paradisiaco y sin conflictos, que pretende ser nacional, pero que no lo es porque no refleja la realidad.

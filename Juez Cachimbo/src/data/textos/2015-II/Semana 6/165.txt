@@ -1,36 +1,6 @@
 ID: 165
 =====================TEXTO======================
-El macaco de Berbería es un mono muy particular. Es el único primate, aparte de los
-humanos, que se encuentra en el continente africano al norte del Sahara, y el único macaco
-que vive fuera de Asia. En su día hubo otras especies de macaco en la franja que va desde
-el este de Asia hasta el noroeste de África; sin embargo, solo la de Berbería soportó los
-cambios ecológicos y resistió en África.
-Pero el área de distribución geográfica no es su única particularidad. Con un grueso
-pelaje rojizo y una mirada avispada, estos macacos sin cola, del ta maño de un niño de dos
-o tres años, siempre han sido objeto de deseo —y trofeo de caza — de los viajeros que
-pasaban por sus dominios. Se han hallado restos óseos de macacos de Berbería en las
-cenizas de Pompeya, en las entrañas de una antigua catacumba egipcia, y enterrados bajo
-una colina irlandesa desde la que reinaron los reyes del Ulster durante la Edad del Bronce.
-Hoy su hábitat se limita a unos cuantos reductos forestales de Marruecos y Argelia, a los
-que se suma la población semisalvaje de Gibraltar. Por desgracia todavía hay viajeros con
-la misma pulsión de siempre. Los colectivos conservacionistas calculan que los cazadores
-furtivos sacan de Marruecos unas 300 crías al año para el creciente mercado europeo de
-mascotas, lo que malogra la sostenibilidad de las poblaciones. Apenas quedan 6000
-individuos de esta especie amenazada, entre 4000 y 5000 de ellos en Marruecos.
-El fotógrafo Francisco Mingorance dedicó más de un año a fotografiar a Macaca
-sylvanus en las elevaciones del Atlas Medio, hogar de una de sus poblaciones más nutridas.
-«El amor con el que tratan a sus crías es casi humano —dice—. Vi a una madre llevar en
-brazos durante cuatro días a su cría muerta. Me conmovió en lo más hondo.»
-A diferencia de la mayoría de los primates, los machos de es ta especie suelen cargar con
-las crías, explica Bonaventura Majolo, fundador del Barbary Macaque Project, un estudio
-de la especie iniciado en 2008. Las usan para trabar relaciones amistosas con otros
-machos. Majolo denomina a esta práctica «interacción sá ndwich»: un macho coloca la cría
-entre sí mismo y otro macho, y a veces los adultos se acicalan uno a otro al tiempo que
-cuidan del pequeño. Los machos se enfrentan a muchos peligros para proteger a las crías.
-«Algunos tienen verdadero pánico de las person as», dice Siân Waters, de la ONG Barbary
-Macaque Awareness & Conservation. Pero cuando ella y sus colegas devuelven una cría
-perdida o robada, «los machos se acercan a pocos metros. Ver una cría los estimula tanto
-que pierden cualquier atisbo de miedo».
+El macaco de Berbería es un mono muy particular. Es el único primate, aparte de los humanos, que se encuentra en el continente africano al norte del Sahara, y el único macaco que vive fuera de Asia. En su día hubo otras especies de macaco en la franja que va desdeel este de Asia hasta el noroeste de África; sin embargo, solo la de Berbería soportó los cambios ecológicos y resistió en África. Pero el área de distribución geográfica no es su única particularidad. Con un grueso pelaje rojizo y una mirada avispada, estos macacos sin cola, del ta maño de un niño de dos o tres años, siempre han sido objeto de deseo —y trofeo de caza — de los viajeros que pasaban por sus dominios. Se han hallado restos óseos de macacos de Berbería en las cenizas de Pompeya, en las entrañas de una antigua catacumba egipcia, y enterrados bajo una colina irlandesa desde la que reinaron los reyes del Ulster durante la Edad del Bronce. Hoy su hábitat se limita a unos cuantos reductos forestales de Marruecos y Argelia, a los que se suma la población semisalvaje de Gibraltar. Por desgracia todavía hay viajeros con la misma pulsión de siempre. Los colectivos conservacionistas calculan que los cazadores furtivos sacan de Marruecos unas 300 crías al año para el creciente mercado europeo de mascotas, lo que malogra la sostenibilidad de las poblaciones. Apenas quedan 6000 individuos de esta especie amenazada, entre 4000 y 5000 de ellos en Marruecos. El fotógrafo Francisco Mingorance dedicó más de un año a fotografiar a Macaca sylvanus en las elevaciones del Atlas Medio, hogar de una de sus poblaciones más nutridas. «El amor con el que tratan a sus crías es casi humano —dice—. Vi a una madre llevar en brazos durante cuatro días a su cría muerta. Me conmovió en lo más hondo.»  diferencia de la mayoría de los primates, los machos de es ta especie suelen cargar con las crías, explica Bonaventura Majolo, fundador del Barbary Macaque Project, un estudio de la especie iniciado en 2008. Las usan para trabar relaciones amistosas con otros machos. Majolo denomina a esta práctica «interacción sá ndwich»: un macho coloca la cría entre sí mismo y otro macho, y a veces los adultos se acicalan uno a otro al tiempo que cuidan del pequeño. Los machos se enfrentan a muchos peligros para proteger a las crías. «Algunos tienen verdadero pánico de las person as», dice Siân Waters, de la ONG Barbary Macaque Awareness & Conservation. Pero cuando ella y sus colegas devuelven una cría perdida o robada, «los machos se acercan a pocos metros. Ver una cría los estimula tanto que pierden cualquier atisbo de miedo».
 =====================PREGUNTA 1======================
 ¿Cuál es el tema central del texto?
 =====================ALTERNATIVAS======================
@@ -39,12 +9,10 @@ B. La caza de macacos de Berbería en la civilización egipcia y en Roma.
 C. La civilización como escollo en el incremento de la población de monos.
 D. El rito previo a la reproducción que practica el macaco de Berbería.
 E. Los macacos de Berbería, la disminución de su población y su hábitat.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-El texto aborda el tema de la intolerancia de la civilización occidental ante
-las culturas primitivas.
+El texto aborda el tema de la intolerancia de la civilización occidental ante las culturas primitivas.
 =====================PREGUNTA 2======================
 En el texto, la palabra PULSIÓN significa
 =====================ALTERNATIVAS======================
@@ -53,12 +21,10 @@ B. anhelo.
 C. salvajismo.
 D. enervación.
 E. intranquilidad.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
- El término se refiere al objetivo de cazar al macaco; se entiende entonces
-que se trata del anhelo, de las ansias de tenerlo como trofeo.
+El término se refiere al objetivo de cazar al macaco; se entiende entonces que se trata del anhelo, de las ansias de tenerlo como trofeo.
 =====================PREGUNTA 3======================
 Es incompatible con lo establecido en el texto sostener que los macacos de Berbería
 =====================ALTERNATIVAS======================
@@ -67,12 +33,10 @@ B. son los únicos primates ,aparte de los humanos, detectado s en África.
 C. fueron concebidos como divinidad, tal y como ocurrió con el gato.
 D. experimentan pánico hacia los seres humanos en algunos casos.
 E. suelen, en el caso de los especímenes machos, cargar con las crías.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-El texto señala que se han encontrado restos como trofeos de caza en
-Egipto.
+El texto señala que se han encontrado restos como trofeos de caza en Egipto.
 =====================PREGUNTA 4======================
 Se infiere de lo establecido en el texto que los macacos de Berbería
 =====================ALTERNATIVAS======================
@@ -81,12 +45,10 @@ B. conductualmente suponen un hiato respecto de otras especies próximas a estos
 C. han sido aniquilados por la caza furtiva indiscriminada y las ventas al extranjero.
 D. fueron exterminados de sus zonas de origen debido a su pelaje suave y rojizo.
 E. presentan un territorio de interacción bastante amplio en Asia y África oriental.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-Evidencian conductas inusuales; por ejemplo, los machos son los que
-cargan a las crías. 
+Evidencian conductas inusuales; por ejemplo, los machos son los que cargan a las crías. 
 =====================PREGUNTA 5======================
 Si la reacción de los macacos ante los humanos fuera siempre de profundo miedo,
 =====================ALTERNATIVAS======================
@@ -95,9 +57,7 @@ B. la forma de acicalarse entre machos sería muy cuidadosa.
 C. los especímenes machos dejarían de cargar a sus crías.
 D. viajarían a zonas boscosas donde no existan personas.
 E. sería poco probable que estos dejen extraer a sus crías.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-Si la actitud fuera siempre de profundo miedo, no dejarían que se extraiga
-a sus crías. O, en todo caso, evitarían el contacto con los seres humanos siempre.
+Si la actitud fuera siempre de profundo miedo, no dejarían que se extraiga a sus crías. O, en todo caso, evitarían el contacto con los seres humanos siempre.

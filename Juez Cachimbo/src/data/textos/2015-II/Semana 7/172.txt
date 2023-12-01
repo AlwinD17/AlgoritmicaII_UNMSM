@@ -1,161 +1,124 @@
 ID 172
- =====Texto 1====== 
-Para su infortu nio, el cerdo es uno de los pocos animales que puede desatar arduas discusiones entre defensores y detractores actualmente. Estas desavenencias se han presentado en civilizaciones enteras a largo de la historia. Un esbozo sencillo –porque tampoco es momento de una explicación detallada socio -cultural – permite ver que el chancho es aceptado en Occidente y repudiado en Oriente y que esta conflagración tiene como base la religión ola falta de esta. Nadie sabe a ciencia cierta la fecha exacta de su domesticación, aunque algunos hablan de hace 9 000 años o 5 000 años atrás. El animal matriz fue el jabalí salvaje que tuvo contactos cercanos con asentamientos humanos en lo que ahora es el sur de Turquía y de allí pasó al continente europeo y al sur de Asia. Debido a que crecen y maduran con rapidez –su periodo de gestación es de cuatro meses – son omnívoros y se aprovecha prácticamente todo, su consumo influyó en gran medida en las gastronomías locales. La Europa cristiana llevó al cerdo al nuevo mundo en donde ha gozado de notable desarrollo, e incluso, ha tenido mejor desenvolvimiento que el ganado vacuno en algunas zonas como el Caribe. Las crónicas de Bernabé Cobo señalan que la primera carne que se pesó en una carnicería de Lima fue la del puerco, y que los indígenas lo llamaron “cuchi”. Sin embargo, esta permisividad en el consumo de la carne de marrano contrasta con la prohibición que se hace en las religiones judías e islámicas. El dios de Abraham, Moisés y Jesús, condenó al cerdo por impuro y prohibió su consumo, y hasta tocar su carne. Mil quinientos años después, Alá ratificó a Mahoma esa prohibición y dijo que su consumo era una abominación para el hombre por lo que, hasta nuestros días, se ha asociado la figura del cerdo con dolor y enfermedad.
-Las primeras justificaciones de este “veto divino” las encontramos en el siglo XIII en la figura de Moisés Maimonides, médico de la corte de Saladino en El Cairo, quien comentó –sin bases científicas – que Dios prohibió la carne de cerdo por tener un efecto malo y perjudicial para el hombre. Otro sabio judío, Rabí Iehuda, r ecomendó el ayuno a un grupo de pobladores cuando se desató una peste entre los cerdos. “Su aparato digestivo es similar al de los humanos, por eso los virus que los atacan, son propensos a contagiar a los humanos, a pesar que no consuman su carne”, dijo. En líneas generales, los judíos y los musulmanes se han mantenido fieles a la prohibición divina, mientras los cristianos consideran retrógrado seguir leyes que hablen de a nimales puros e impuros y se dejaron seducir por la exquisitez de la carne porcina . Ciclo 2015 -II
-La sociedad occidental, tan laica tras el triunfo de la revolución francesa en el siglo XVIII, se ha distanciado de las directrices religiosas y prefieren la constatación científica sobre algún tema si ello modifica líneas de comportamiento. Pero, ¿qué dicen hoy la ciencia tan avanzada sobre la conveniencia de comer o no carne de cerdo o de estar simplemente en contacto con ella? Los que están a favor dicen que es una gran fuente de tiamina, vitamina clave en el metabolismo de los carbohidratos, de las proteínas y de la grasa, así como de vitamina B6. Los científicos también han quedado muy sorprendidos cuando estudios revelaron que el desarrollo y estructura del cerdo guarda enorme similitud con la raza humana. ¡Ni los simios, que fueron nuestros antepasados! Sus válvulas cardiacas pueden utilizarse en trasplantes temporales a seres humanos. De sus páncreas puede obtenerse insulina, una hormona esencial para los diabéticos, y de su glándula pituitaria se obtiene el ACTH, que es una hormona usada en la medicina para el tratamiento de artritis y enfermedades inflamatorias. Por si fuera poco, la tiroides del cerdo se usa para obtener medicamentos para personas que poseen glándulas tiroides poco activas y la piel de los lechones sirve para trasplantes temporales a pacientes con quemaduras de tercer grado.
-
-=====Pregunta 1======
+=====================TEXTO======================
+Para su infortu nio, el cerdo es uno de los pocos animales que puede desatar arduas discusiones entre defensores y detractores actualmente. Estas desavenencias se han presentado en civilizaciones enteras a largo de la historia. Un esbozo sencillo –porque tampoco es momento de una explicación detallada socio -cultural – permite ver que el chancho es aceptado en Occidente y repudiado en Oriente y que esta conflagración tiene como base la religión ola falta de esta. Nadie sabe a ciencia cierta la fecha exacta de su domesticación, aunque algunos hablan de hace 9 000 años o 5 000 años atrás. El animal matriz fue el jabalí salvaje que tuvo contactos cercanos con asentamientos humanos en lo que ahora es el sur de Turquía y de allí pasó al continente europeo y al sur de Asia. Debido a que crecen y maduran con rapidez –su periodo de gestación es de cuatro meses – son omnívoros y se aprovecha prácticamente todo, su consumo influyó en gran medida en las gastronomías locales. La Europa cristiana llevó al cerdo al nuevo mundo en donde ha gozado de notable desarrollo, e incluso, ha tenido mejor desenvolvimiento que el ganado vacuno en algunas zonas como el Caribe. Las crónicas de Bernabé Cobo señalan que la primera carne que se pesó en una carnicería de Lima fue la del puerco, y que los indígenas lo llamaron “cuchi”. Sin embargo, esta permisividad en el consumo de la carne de marrano contrasta con la prohibición que se hace en las religiones judías e islámicas. El dios de Abraham, Moisés y Jesús, condenó al cerdo por impuro y prohibió su consumo, y hasta tocar su carne. Mil quinientos años después, Alá ratificó a Mahoma esa prohibición y dijo que su consumo era una abominación para el hombre por lo que, hasta nuestros días, se ha asociado la figura del cerdo con dolor y enfermedad. Las primeras justificaciones de este “veto divino” las encontramos en el siglo XIII en la figura de Moisés Maimonides, médico de la corte de Saladino en El Cairo, quien comentó –sin bases científicas – que Dios prohibió la carne de cerdo por tener un efecto malo y perjudicial para el hombre. Otro sabio judío, Rabí Iehuda, r ecomendó el ayuno a un grupo de pobladores cuando se desató una peste entre los cerdos. “Su aparato digestivo es similar al de los humanos, por eso los virus que los atacan, son propensos a contagiar a los humanos, a pesar que no consuman su carne”, dijo. En líneas generales, los judíos y los musulmanes se han mantenido fieles a la prohibición divina, mientras los cristianos consideran retrógrado seguir leyes que hablen de a nimales puros e impuros y se dejaron seducir por la exquisitez de la carne porcina . Ciclo 2015 -II La sociedad occidental, tan laica tras el triunfo de la revolución francesa en el siglo XVIII, se ha distanciado de las directrices religiosas y prefieren la constatación científica sobre algún tema si ello modifica líneas de comportamiento. Pero, ¿qué dicen hoy la ciencia tan avanzada sobre la conveniencia de comer o no carne de cerdo o de estar simplemente en contacto con ella? Los que están a favor dicen que es una gran fuente de tiamina, vitamina clave en el metabolismo de los carbohidratos, de las proteínas y de la grasa, así como de vitamina B6. Los científicos también han quedado muy sorprendidos cuando estudios revelaron que el desarrollo y estructura del cerdo guarda enorme similitud con la raza humana. ¡Ni los simios, que fueron nuestros antepasados! Sus válvulas cardiacas pueden utilizarse en trasplantes temporales a seres humanos. De sus páncreas puede obtenerse insulina, una hormona esencial para los diabéticos, y de su glándula pituitaria se obtiene el ACTH, que es una hormona usada en la medicina para el tratamiento de artritis y enfermedades inflamatorias. Por si fuera poco, la tiroides del cerdo se usa para obtener medicamentos para personas que poseen glándulas tiroides poco activas y la piel de los lechones sirve para trasplantes temporales a pacientes con quemaduras de tercer grado.
+=====================PREGUNTA 1======================
 ¿Cuál es el título más adecuado para el texto leído?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) Las valoraciones antagónicas sobre el cerdo a través de la historia
 B) Las semejanzas biológicas entre el cerdo y los seres humanos
 C) La naturaleza simbólica del cerdo en diversas culturas de occidente
 D) La trascendencia gastronómica de la carne porcina a nivel mundial
 E) Las ventajas terapéuticas del empleo de la piel de cerdo en la medicina
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 A) Las valoraciones antagónicas sobre el cerdo a través de la historia
-=====Razonamiento=====
-El autor del texto da cuenta de las valoraciones antagónicas del cerdo a
-través de la historia.
-=====Pregunta 2======
+=====================RAZONAMIENTO======================
+El autor del texto da cuenta de las valoraciones antagónicas del cerdo a través de la historia.
+=====================PREGUNTA 2======================
 ¿Cuál es la idea principal del texto?
-=====ALTERNATIVAS=====
-A) La carne porcina ha sido catalogada como altamente nociva por su gran
-concentración de colesterina.
-B) El cerdo ha recibido elogios como también vituperios debido a razones religiosas y
-científicas.
-C) El ser humano guarda una similitud genética superlativa con el cerdo que con el
-simio.
-D) El consumo de la carne por cina se ha mantenido incólume a pesar de muchos
-detractores.
+=====================ALTERNATIVAS======================
+A) La carne porcina ha sido catalogada como altamente nociva por su gran concentración de colesterina.
+B) El cerdo ha recibido elogios como también vituperios debido a razones religiosas y científicas.
+C) El ser humano guarda una similitud genética superlativa con el cerdo que con el simio.
+D) El consumo de la carne por cina se ha mantenido incólume a pesar de muchos detractores.
 E) La fisiología del cerdo ha brindado soluciones clínicas para los pacientes humanos.
-=====Alternativa correcta=====
-B) El cerdo ha recibido elogios como también vituperios debido a razones religiosas y
-científicas.
-=====Razonamiento=====
-En el texto se trata medularmente la idea de que el cerdo ha recibido
-elogios como también vituperios debido a razones religiosas y científicas.
-===== Pregunta 3 ======
+=====================ALTERNATIVA CORRECTA======================
+B) El cerdo ha recibido elogios como también vituperios debido a razones religiosas y científicas.
+=====================RAZONAMIENTO======================
+En el texto se trata medularmente la idea de que el cerdo ha recibido elogios como también vituperios debido a razones religiosas y científicas.
+=====================PREGUNTA 3======================
 Señale la alternativa que mejor resume lo tratado en el texto.
-===== ALTERNATIVAS =====
-A) La semejanza de los rasgos orgánicos del marrano con el hombre han desatado
-polémica tanto para la comunidad religiosa com o para la comunidad científica.
-B) La prohibición de consumir carne porcina en la sociedad judía y musulmana se
-debió a intransigencias religiosas y especulaciones científicas.
-C) A pesar de sus detractores, el cerdo se ha mantenido vigente a través de la historia
-debido a su utilidad gastronómica y propiedades terapéutica s en bienestar del ser
-humano.
-D) El consumo de carne de cerdo fue característica de la gastronomía andina y se
-expandió a las ciudades limeñas para innovar el arte culinario europeo.
-E) El porcino ha sido perseguido por judíos y árabes; sin embargo, fue defendido por
-la comunidad cristiana europea del siglo XVIII.
-=====Alternativa correcta=====
-C) A pesar de sus detractores, el cerdo se ha mantenido vigente a través de la historia
-debido a su utilidad gastronómica y propiedades terapéutica s en bienestar del ser
-humano.
-=====Pregunta 4======
-Se entiende que el vocablo PERMISIVIDAD, que aparece en el quinto párrafo,
-significa
-=====ALTERNATIVAS=====
-A) aprobación. B) liberalidad . C) tolerancia. D) avidez. E) exigencia.
-=====Alternativa correcta=====
+=====================ALTERNATIVAS======================
+A) La semejanza de los rasgos orgánicos del marrano con el hombre han desatado polémica tanto para la comunidad religiosa com o para la comunidad científica.
+B) La prohibición de consumir carne porcina en la sociedad judía y musulmana se debió a intransigencias religiosas y especulaciones científicas.
+C) A pesar de sus detractores, el cerdo se ha mantenido vigente a través de la historia debido a su utilidad gastronómica y propiedades terapéutica s en bienestar del ser humano.
+D) El consumo de carne de cerdo fue característica de la gastronomía andina y se expandió a las ciudades limeñas para innovar el arte culinario europeo.
+E) El porcino ha sido perseguido por judíos y árabes; sin embargo, fue defendido por la comunidad cristiana europea del siglo XVIII.
+=====================ALTERNATIVA CORRECTA======================
+C) A pesar de sus detractores, el cerdo se ha mantenido vigente a través de la historia debido a su utilidad gastronómica y propiedades terapéutica s en bienestar del ser humano.
+=====================PREGUNTA 4======================
+Se entiende que el vocablo PERMISIVIDAD, que aparece en el quinto párrafo, significa
+=====================ALTERNATIVAS======================
+A) aprobación. 
+B) liberalidad . 
+C) tolerancia. 
+D) avidez. 
+E) exigencia.
+=====================ALTERNATIVA CORRECTA======================
 A) aprobación.
-=====Razonamiento=====
-En el texto se señala que había una permisividad o aprobación al consumo
-de carne de cerdo por algunos pueblos.
-=====Pregunta 5======
+=====================RAZONAMIENTO======================
+En el texto se señala que había una permisividad o aprobación al consumo de carne de cerdo por algunos pueblos.
+=====================PREGUNTA 5======================
 Es incompatible con el texto aseverar que
-=====ALTERNATIVAS=====
-A) la estructura orgánica del cerdo evidencia notables semejanzas con la especie
-humana.
-B) Clínicamente, el cerdo ha brindado muchos beneficios en los tratamientos médicos
-del hombre.
-C) la sociedad occidental del s. XVIII se inclinó por la corroboración científica de ciertas
-especulaciones.
-D) Para los judíos y musulmanes, el consumo de carne de marrano era un hecho
-repugnante.
-E) los cristianos propugnaron siempre la prohibición bíblica de alimentarse con carne
-porcina.
-=====Alternativa correcta=====
-E) los cristianos propugnaron siempre la prohibición bíblica de alimentarse con carne
-porcina.
+=====================ALTERNATIVAS======================
+A) la estructura orgánica del cerdo evidencia notables semejanzas con la especie humana.
+B) Clínicamente, el cerdo ha brindado muchos beneficios en los tratamientos médicos del hombre.
+C) la sociedad occidental del s. XVIII se inclinó por la corroboración científica de ciertas especulaciones.
+D) Para los judíos y musulmanes, el consumo de carne de marrano era un hecho repugnante.
+E) los cristianos propugnaron siempre la prohibición bíblica de alimentarse con carne porcina.
+=====================ALTERNATIVA CORRECTA======================
+E) los cristianos propugnaron siempre la prohibición bíblica de alimentarse con carne porcina.
+=====================RAZONAMIENTO======================
+En el texto se señala que los cristianos llegaron a consentir el consumo de carne de cerdo, pero los musulmanes no.
 =====Razonamiento=====
-En el texto se señala que los cristianos llegaron a consentir el consumo de
-carne de cerdo, pero los musulmanes no.
-=====Razonamiento=====
-En el texto se aborda sustancialmente que a pesar de sus detractores, el
-cerdo se ha mantenido vigente a través de la historia debido a su utilidad gastronómica
-y propiedades terapéuticas en bienestar del ser humano.
-=====Pregunta 6======
+En el texto se aborda sustancialmente que a pesar de sus detractores, el cerdo se ha mantenido vigente a través de la historia debido a su utilidad gastronómica y propiedades terapéuticas en bienestar del ser humano.
+=====================PREGUNTA 6======================
 ¿Cúal es la idea congruente con lo sostenido por el autor del texto?
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) Alá corroboró a su profeta la virulenci a de consumir carne de porcino.
 B) Rabí Iehuda propugnó la crianza de cerdos debido a su inocuidad.
 C) La histiología del cerdo carece de compatibilidad con la del hombre.
 D) los mitos sobre el origen sórdido del marrano favorecieron su consumo.
 E) El porcino fue aceptado en Oriente, pero rechazado en Occidente.
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 A) Alá corroboró a su profeta la virulenci a de consumir carne de porcino.
-=====Razonamiento=====
-En el texto se sostiene que Alá ratificó a Mahoma esa prohibición y dijo
-que su consumo era una abominación para el hombre.
-=====Pregunta 7======
-Indique la serie correcta sobre las aseveraciones compatibles (C) o incompatible (I)
-I. La similitud orgánica del cerdo con el humano sólo ha generado beneficios para este.
-( )
-II. El alto porcentaje de colesterina que tiene la carne porcina inhibe el riesgo de sufrir
-un paro cardiaco.( )
-III. Sería conveniente consumir carne de cerdo para obtener la tiamina que favorece
-el metabolismo de proteínas.( )
-IV. Luego de un exhaustivo análisis, el médico Moisés Maimonides demostró lo
-pernicioso de la carne porcin a.()
-=====ALTERNATIVAS=====
-A) I-I-C-C B) I-C-I-C C) I-C-C-C
-D) I-I-C-I E) I-C-C-I
-=====Alternativa correcta=====
+=====================RAZONAMIENTO======================
+En el texto se sostiene que Alá ratificó a Mahoma esa prohibición y dijo que su consumo era una abominación para el hombre.
+=====================PREGUNTA 7======================
+Indique la serie correcta sobre las aseveraciones compatibles (C) o incompatible (I) I. La similitud orgánica del cerdo con el humano sólo ha generado beneficios para este. ( )
+II. El alto porcentaje de colesterina que tiene la carne porcina inhibe el riesgo de sufrir un paro cardiaco.( ) III. Sería conveniente consumir carne de cerdo para obtener la tiamina que favorece el metabolismo de proteínas.( ) IV. Luego de un exhaustivo análisis, el médico Moisés Maimonides demostró lo pernicioso de la carne porcin a.()
+=====================ALTERNATIVAS======================
+A) I-I-C-C 
+B) I-C-I-C 
+C) I-C-C-C
+D) I-I-C-I 
+E) I-C-C-I
+=====================ALTERNATIVA CORRECTA======================
 D) I-I-C-I
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Según lo planteado por el autor, la secuencia correcta es I -I-C-I.
-=====Pregunta 8======
+=====================PREGUNTA 8======================
 Del texto se puede inferir que el “veto divino”
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) habría ocasionado pérdidas sustanciales a la ganadería porcina.
 B) fue un aliciente para incrementar la crianza de ganado bovino.
 C) habría sido soslayado por las supersticiones judías e islámicas.
 D) Pudo haber eclosionado la proliferación de la crianza de cerdo.
 E) tendría su origen en la epidemia desatada por la gripe porcina .
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 A) habría ocasionado pérdidas sustanciales a la ganadería porcina.
-=====Razonamiento=====
-En el texto se señala que el "veto divino", es decir la prohibición de consumir
-la carne de cerdo por las religiones se sostenían en considerar al cerdo un animal
-impuro. Por lo que se puede inferir que habría ocasionado pérdidas sustanciales a la
-ganadería porcina.
-=====Pregunta 9======
+=====================RAZONAMIENTO======================
+En el texto se señala que el "veto divino", es decir la prohibición de consumir la carne de cerdo por las religiones se sostenían en considerar al cerdo un animalimpuro. Por lo que se puede inferir que habría ocasionado pérdidas sustanciales a la ganadería porcina.
+=====================PREGUNTA 9======================
 Se colige de lo expuesto por el autor que el cerdo
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) fue sucedáneo del ganado vacuno en la Europa cristiana.
 B) segrega sustancias tóxicas que generan bacterias letales.
 C) es un animal anatemizado por las culturas occidentales.
 D) fue utilizado en la gastronomía andina, limeña y oriental.
 E) ha superado las vicisitudes de su existencia por su utilidad.
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E) ha superado las vicisitudes de su existencia por su utilidad.
-=====Razonamiento=====
-De lo sostenido por el autor sobre el cerdo se puede colegir que este ha
-superado las vicisitudes de su existencia por su utilidad.
-=====Pregunta 10======
+=====================RAZONAMIENTO======================
+De lo sostenido por el autor sobre el cerdo se puede colegir que este ha superado las vicisitudes de su existencia por su utilidad.
+=====================PREGUNTA 10======================
 Si la estructura orgánica del cerdo no guardara relación con la del humano ,
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) sería inviable los trasplantes de piel de lechones a pacientes quemados.
 B) tendría exiguas probabilidades de ser aceptado en la sociedad limeña.
 C) los judíos, árabes y cristianos carecerían de argumentos para abominarlo.
 D) los científicos habrían encabezado la defensa de la crianza del cerdo.
 E) se probaría que los simios son los únicos animales parecidos al humano.
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 A) sería inviable los trasplantes de piel de lechones a pacientes quemados.
-=====Razonamiento=====
-En el texto se señala que hay cierta relación orgánica entre el cerdo y el
-hombre. Si no lo hubiera, entonces sería inviable los trasplantes de piel de lechones a
-pacientes quemados.
+=====================RAZONAMIENTO======================
+En el texto se señala que hay cierta relación orgánica entre el cerdo y el hombre. Si no lo hubiera, entonces sería inviable los trasplantes de piel de lechones a pacientes quemados.

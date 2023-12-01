@@ -85,7 +85,9 @@ public class Ejercicio extends javax.swing.JPanel {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButtonCrearGrupoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonCrearGrupoActionPerformed
-        // TODO add your handling code here:
+
+        CrearEjercicio ce=new CrearEjercicio();
+        ce.setVisible(true);
     }//GEN-LAST:event_jButtonCrearGrupoActionPerformed
 
 

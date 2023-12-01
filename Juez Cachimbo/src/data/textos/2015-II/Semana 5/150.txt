@@ -1,29 +1,6 @@
 ID: 150
 =====================TEXTO======================
-Uno de los mitos existentes sobre la metáfora es que es propia únicamente de los
-registros formales, de la escritura, y sobre todo de la poesía y de algunos géneros
-narrativos. En una obra ya clásica, Lakoff y Johnson (1980) refutan esta creencia
-tradicional. Apoyándose en centenares de ej emplos, estos autores demuestran de manera
-convincente que la metáfora está a la orden del día también en el lenguaje cotidiano y que
-afirmar lo contrario carece de fundamento. A partir de este estudio, la metáfora adquiere un
-rango especial dentro de la n aciente lingüística cognitiva. No se contempla como una mera
-figura retórica, ni tampoco como una anomalía lingüística; al contrario, se entiende como
-un proceso cognitivo que impregna nuestro lenguaje y nuestro habitual pensamiento. La
-conclusión a la que se llega es que la base de la metáfora radica en nuestro sistema
-conceptual: constituye un mecanismo para comprender y expresar situaciones complejas
-sirviéndose de conceptos más básicos y conocidos.
-La metáfora es un fenómeno tan ubicuo y tan usual que muchas veces ni siquiera nos
-damos cuenta de su presencia en nuestro propio discurso. Aunque la naturaleza figurada
-quizá no sea obvia a simple vista, ciertos enunciados como «La inflación siempre sube más
-de lo que dice el gobierno», «En las rebajas de enero, caerán los precios», «Las acciones
-están por los suelos», entre otros, se valen de un proceso metafórico de uso cotidiano, en
-el que la CANTIDAD se concibe en términos de VERTICALIDAD. Debido a su alto grado
-de convencionalidad, esta metáfora resulta prácticamente invisible para el hablante medio,
-en el sentido de que se trata de un esquema que está tan integrado en nuestro sistema
-conceptual que no reparamos en su existencia de forma consciente. Sin embargo, su
-carácter metafórico se hace patente al a dvertir que entidades abstractas como los precios,
-la inflación, etc., no suben ni bajan en realidad como lo hace un avión al volar; es decir, no
-se desplazan físicamente en un eje vertical hacia arriba o hacia abajo, pero le atribuimos
+Uno de los mitos existentes sobre la metáfora es que es propia únicamente de los registros formales, de la escritura, y sobre todo de la poesía y de algunos géneros narrativos. En una obra ya clásica, Lakoff y Johnson (1980) refutan esta creencia tradicional. Apoyándose en centenares de ej emplos, estos autores demuestran de manera convincente que la metáfora está a la orden del día también en el lenguaje cotidiano y que afirmar lo contrario carece de fundamento. A partir de este estudio, la metáfora adquiere un rango especial dentro de la n aciente lingüística cognitiva. No se contempla como una mera figura retórica, ni tampoco como una anomalía lingüística; al contrario, se entiende como un proceso cognitivo que impregna nuestro lenguaje y nuestro habitual pensamiento. La conclusión a la que se llega es que la base de la metáfora radica en nuestro sistema conceptual: constituye un mecanismo para comprender y expresar situaciones complejas sirviéndose de conceptos más básicos y conocidos. La metáfora es un fenómeno tan ubicuo y tan usual que muchas veces ni siquiera nos damos cuenta de su presencia en nuestro propio discurso. Aunque la naturaleza figurada quizá no sea obvia a simple vista, ciertos enunciados como «La inflación siempre sube más de lo que dice el gobierno», «En las rebajas de enero, caerán los precios», «Las acciones están por los suelos», entre otros, se valen de un proceso metafórico de uso cotidiano, en el que la CANTIDAD se concibe en términos de VERTICALIDAD. Debido a su alto grado de convencionalidad, esta metáfora resulta prácticamente invisible para el hablante medio, en el sentido de que se trata de un esquema que está tan integrado en nuestro sistema conceptual que no reparamos en su existencia de forma consciente. Sin embargo, su carácter metafórico se hace patente al a dvertir que entidades abstractas como los precios, la inflación, etc., no suben ni bajan en realidad como lo hace un avión al volar; es decir, no se desplazan físicamente en un eje vertical hacia arriba o hacia abajo, pero le atribuimos
 =====================PREGUNTA 1======================
 El autor del texto afirma fundamentalmente que
 =====================ALTERNATIVAS======================
@@ -32,12 +9,10 @@ B. metafóricamente la CANTIDAD se concibe en términos de VERTICALIDAD.
 C. el lenguaje cotidiano refleja una serie de esquemas conceptuales complejos.
 D. el arte literario no es el único empleo del lenguaje basado en las metáforas.
 E. la metáfora es un proceso cognitivo que penetra el lenguaje y pensamiento.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-El texto afirma que la metáfora es un mecanismo conceptual que se
-manifiesta en los diversos usos del lenguaje, no solo en la poesía.
+El texto afirma que la metáfora es un mecanismo conceptual que se manifiesta en los diversos usos del lenguaje, no solo en la poesía.
 =====================PREGUNTA 2======================
 La palabra MERA tiene como sinónimo contextual
 =====================ALTERNATIVAS======================
@@ -46,27 +21,22 @@ B. simple.
 C. notoria.
 D. abstracta.
 E. mecánica.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-La palabra MERA alude en el texto a la metáfora como recurso simple o
-elemental.
+La palabra MERA alude en el texto a la metáfora como recurso simple o elemental.
 =====================PREGUNTA 3======================
-Si las metáforas que usamos en la vida cotidiana no poseyeran un alto grado de
-convencionalidad
+Si las metáforas que usamos en la vida cotidiana no poseyeran un alto grado de convencionalidad
 =====================ALTERNATIVAS======================
 A. sería notorio su carácter figurado para los hablantes de cualquier lengua.
 B. nuestro sistema conceptual no serviría para entender muchas situaciones.
 C. el mito sobre la metáfora como recurso eminentemente formal tendría asidero.
 D. Lakoff y Johnson errarían en sus concepto s sobre la metáfora como tropo.
 E. el devenir cotidiano no reflejaría el uso extendido y fructífero de la metáfora.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-Las metáforas de la vida cotidiana resultan inadvertidas como tales por los
-hablantes porque todo el mundo las usa.
+Las metáforas de la vida cotidiana resultan inadvertidas como tales por los hablantes porque todo el mundo las usa.
 =====================PREGUNTA 4======================
 Resulta compatible con el texto afirmar que la metáfora
 =====================ALTERNATIVAS======================
@@ -75,28 +45,19 @@ B. hace verdaderas expresiones como «La inflación siempre sube más».
 C. solamente se manifiesta en expresiones altamente especializadas.
 D. es la base de todo nuestro sistema conceptual y de pensamiento.
 E. es implícita y pasa desapercibida debido a que caracteriza a la poesía.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-El texto señala que “entidades abstractas como los precios, la inflación,
-etc., no su ben ni bajan en realidad (…), pero le atribuimos esas propiedades a partir
-de un marco conceptual que nos permite materializar metáforas como la presentada”.
+El texto señala que “entidades abstractas como los precios, la inflación, etc., no su ben ni bajan en realidad (…), pero le atribuimos esas propiedades a partir de un marco conceptual que nos permite materializar metáforas como la presentada”.
 =====================PREGUNTA 5======================
 Se deduce del texto que la noción de metáfora
 =====================ALTERNATIVAS======================
-A. permite al hablante de una lengua la comprensión de expresiones altamente
-abstractas.
+A. permite al hablante de una lengua la comprensión de expresiones altamente abstractas.
 B. ha sufrido una transformación dentro del marco de estudios más o menos recientes.
-C. solo se puede comprender a partir de la práctica de la poesía y la literatura en
-general.
-D. es suficiente para explicar cómo los hablantes emplean el lenguaje en todos los
-ámbitos.
-E. se apoya de manera muy periférica e insustancial en la de desviaciones del
-lenguaje.
-=====================ALTERNATIVA
-CORRECTA======================
+C. solo se puede comprender a partir de la práctica de la poesía y la literatura en general.
+D. es suficiente para explicar cómo los hablantes emplean el lenguaje en todos los ámbitos.
+E. se apoya de manera muy periférica e insustancial en la de desviaciones del lenguaje.
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-En el texto se menciona específicamente el estudio publicado en 1980 y la
-lingüística cognitiva.
+En el texto se menciona específicamente el estudio publicado en 1980 y la lingüística cognitiva.

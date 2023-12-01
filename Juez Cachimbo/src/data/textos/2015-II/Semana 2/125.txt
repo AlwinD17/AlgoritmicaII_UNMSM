@@ -1,15 +1,6 @@
 ID: 125
 =====================TEXTO======================
-¿Cuál es el objeto y sentido de la Filosofía?, ¿de qué tema se ocupa la Filosofía? Por
-tradición, a la Filosofía parece interesarle todo. Es, pues, un saber «ambicioso». Pero,
-también, es un saber «radical», ya que se caracteriza por intentar hallar la raíz de las cosas.
-Señalemos así que la Filosofía pretende desvelar las causas últimas de todo lo existente.
-¿Es eso posible? No. Es más, dado que resulta humanamente imposible lograr un
-conocimiento exacto, definitivo de toda la realidad y de sus principios, resulta que quien
-filosofa so lo es un «buscador del saber». Teniendo en cuenta este detalle, los filósofos
-griegos de la Antigüedad se dieron cuenta del valor que tiene reconocer la propia
-ignorancia. Concienciar que se sabe poco facilita y hace posible la búsqueda del
-conocimiento.
+¿Cuál es el objeto y sentido de la Filosofía?, ¿de qué tema se ocupa la Filosofía? Por tradición, a la Filosofía parece interesarle todo. Es, pues, un saber «ambicioso». Pero, también, es un saber «radical», ya que se caracteriza por intentar hallar la raíz de las cosas. Señalemos así que la Filosofía pretende desvelar las causas últimas de todo lo existente. ¿Es eso posible? No. Es más, dado que resulta humanamente imposible lograr un conocimiento exacto, definitivo de toda la realidad y de sus principios, resulta que quien filosofa so lo es un «buscador del saber». Teniendo en cuenta este detalle, los filósofos griegos de la Antigüedad se dieron cuenta del valor que tiene reconocer la propia ignorancia. Concienciar que se sabe poco facilita y hace posible la búsqueda del conocimiento.
 =====================PREGUNTA 1======================
 El tema que describe medularmente el texto es
 =====================ALTERNATIVAS======================
@@ -18,12 +9,10 @@ B. la ambición del conocimiento filosófico.
 C. el objeto y la función del filósofo.
 D. el conoci miento radical de la filosofía.
 E. la importancia de la filosofía griega.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-El texto presenta algunos de los rasgos característicos que permiten
-comprender la naturaleza específica de la filosofía.
+El texto presenta algunos de los rasgos característicos que permiten comprender la naturaleza específica de la filosofía.
 =====================PREGUNTA 2======================
 Según el texto, la fi losofía se caracteriza por ser
 =====================ALTERNATIVAS======================
@@ -32,9 +21,7 @@ B. un saber ambicioso, radical y dinámico.
 C. una actividad sin objeto ni función definida.
 D. una práctica que requiere asumir la ignorancia.
 E. un saber que busca las causas últimas.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-El texto describe la filosofía como un saber ambicioso (desea conocer todo),
-radical (va tras las causas últimas) y dinámico (es una búsqueda constante de saber).
+El texto describe la filosofía como un saber ambicioso (desea conocer todo), radical (va tras las causas últimas) y dinámico (es una búsqueda constante de saber).

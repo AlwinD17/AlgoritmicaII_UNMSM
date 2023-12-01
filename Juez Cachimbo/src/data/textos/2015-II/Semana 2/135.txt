@@ -9,8 +9,7 @@ B. laico.
 C. sagaz.
 D. bravo.
 E. fatuo.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
 Serie compuesta por sinónimos de ‘valiente’. Se completa con BRAVO.
@@ -22,12 +21,10 @@ B. Derribar.
 C. Debelar.
 D. Devastar.
 E. Derruir.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-Serie compuesta por sinónimos de ‘derribar’. Se elimina DEBELAR, que
-significa ‘rendir a fuerza de armas al enemigo’.
+Serie compuesta por sinónimos de ‘derribar’. Se elimina DEBELAR, que significa ‘rendir a fuerza de armas al enemigo’.
 =====================PREGUNTA 3======================
 Bellaco, párvulo; excelente, precioso; sensible, impasible;
 =====================ALTERNATIVAS======================
@@ -36,12 +33,10 @@ B. infatuado, soliviantado.
 C. pletórico, longincuo.
 D. espléndido, quisquilloso.
 E. mentecato, arbitrario.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-Serie mixta (antónimos, sinónimos y antónimos). Se completa con el par
-de sinónimos APOCADO, PUSILÁNIME.
+Serie mixta (antónimos, sinónimos y antónimos). Se completa con el par de sinónimos APOCADO, PUSILÁNIME.
 =====================PREGUNTA 4======================
 Soberbio, orgulloso, arrogante,
 =====================ALTERNATIVAS======================
@@ -50,12 +45,10 @@ B. pretencioso.
 C. exultante.
 D. dispendioso.
 E. vociferante.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-Serie compuesta por sinónimos de ‘arrogante’. Se completa con
-PRETENCIOSO.
+Serie compuesta por sinónimos de ‘arrogante’. Se completa con PRETENCIOSO.
 =====================PREGUNTA 5======================
 Marque la alternativa que no pertenezca al campo semántico.
 =====================ALTERNATIVAS======================
@@ -64,9 +57,7 @@ B. Icástico.
 C. Abstruso.
 D. Secreto.
 E. Esotérico.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-Serie compuesta por sinónimos de ‘oculto’. Se elimina ICÁSTICO, que
-significa ‘natural, sin disfraz ni adorno’.
+Serie compuesta por sinónimos de ‘oculto’. Se elimina ICÁSTICO, que significa ‘natural, sin disfraz ni adorno’.

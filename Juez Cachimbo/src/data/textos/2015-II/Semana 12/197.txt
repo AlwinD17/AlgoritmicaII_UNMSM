@@ -1,95 +1,64 @@
 ID 197
-====TEXTO 3====
-
-Un maestro samurái paseaba por un bosque con su fiel discípulo, cuando vio a lo lejos un sitio de apariencia pobre, y decidió hacer una breve visita al lugar. Durante la caminata le comentó al aprendiz sobre la importancia de realizar visitas, conocer personas y las oportunidades de aprendizaje que obtenemos de estas experiencias.
-
-Llegando al lugar constató la pobreza del sitio, los habitantes: una pareja y tres hijos, la casa de madera, vestidos con ropas sucias y rasgadas, sin calzado. Entonces se aproximó al señor, aparentemente el padre de familia , y le preguntó: "En este lugar no existen posibilidades de trabajo ni puntos de comercio tampoco, ¿cómo hacen usted y su familia para sobrevivir aquí?" El señor calmadamente respondió: “Amigo mío, nosotros tenemos una vaquita que nos da varios litros de leche todos los días. Una parte del producto la vendemos o lo cambiamos por otros géneros alimenticios en la ciudad vecina y con la otra parte producimos queso, cuajada, etc., para nuestro consumo y así es como vamos sobreviviendo”.
-
-El sabio agradeció la información, contempló el lugar por un momento, luego se despidió y se fue. En el medio del camino, volteó hacia su fiel discípulo y le ordenó: "Busque la vaquita, llévela al precipicio de allí enfrente y empúje la al barranco." El joven espantado vio al maestro y le cuestionó sobre el hecho de que la vaquita era el medio de subsistencia de aquella familia. Mas como percibió el silencio absoluto del maestro, fue a cumplir la orden. Así que empujó la vaquita por el precipicio y la vio morir. Aquella escena quedó grabada en la memoria de aquel joven durante algunos años.
-
-Un bello día, el joven agobiado por la culpa resolvió abandonar todo lo que había aprendido y regresar a aquel lugar y contarle todo a la familia, pedir perdón y ayudarlos. Así lo hizo, y a medida que se aproximaba al lugar veía todo muy bonito, con árboles floridos, todo habitado, con carro en el garaje de tremenda casa y algunos niños jugando en el jardín. El muchacho se sintió triste y desesperado imaginando que aquella humilde familia tuviese que vender el terreno para sobrevivir, aceleró el paso y llegando allá, fue recibido por un señor muy simpático. El joven preguntó por la familia que vivía allí hacia unos cuatro años, el señor respondió que seguían viviendo allí.
-
-Espantado el joven entró corriendo a la casa y confirmó que era la misma familia que visitó hacía algunos años con el maestro. Elogió el lugar y le preguntó al señor (el dueño de la vaquita): "¿Cómo hizo para mejorar este lugar y cambiar de vida?" El señor entusiasmado le respondió: “Nosotros teníamos una vaquita que cayó por el precipicio y murió, de ahí en adelante nos vimos en la necesidad de hacer otras cosas y desarrollar otras habilidades que no sabíamos que teníamos, así alcanzamos el éxito que sus ojos vislumbran ahora”.
-
-Fuente: Psicología Estratégica. Agosto 2015. [http://www.psicologia-estrategica.com/cuentos-para-pensar/la-vaca/](http://www.psicologia-estrategica.com/cuentos-para-pensar/la-vaca/)
-
-=====Pregunta 1======
+=====================TEXTO======================
+Un maestro samurái paseaba por un bosque con su fiel discípulo, cuando vio a lo lejos un sitio de apariencia pobre, y decidió hacer una breve visita al lugar. Durante la caminata le comentó al aprendiz sobre la importancia de realizar visitas, conocer personas y las oportunidades de aprendizaje que obtenemos de estas experiencias. Llegando al lugar constató la pobreza del sitio, los habitantes: una pareja y tres hijos, la casa de madera, vestidos con ropas sucias y rasgadas, sin calzado. Entonces se aproximó al señor, aparentemente el padre de familia , y le preguntó: "En este lugar no existen posibilidades de trabajo ni puntos de comercio tampoco, ¿cómo hacen usted y su familia para sobrevivir aquí?" El señor calmadamente respondió: “Amigo mío, nosotros tenemos una vaquita que nos da varios litros de leche todos los días. Una parte del producto la vendemos o lo cambiamos por otros géneros alimenticios en la ciudad vecina y con la otra parte producimos queso, cuajada, etc., para nuestro consumo y así es como vamos sobreviviendo”. El sabio agradeció la información, contempló el lugar por un momento, luego se despidió y se fue. En el medio del camino, volteó hacia su fiel discípulo y le ordenó: "Busque la vaquita, llévela al precipicio de allí enfrente y empúje la al barranco." El joven espantado vio al maestro y le cuestionó sobre el hecho de que la vaquita era el medio de subsistencia de aquella familia. Mas como percibió el silencio absoluto del maestro, fue a cumplir la orden. Así que empujó la vaquita por el precipicio y la vio morir. Aquella escena quedó grabada en la memoria de aquel joven durante algunos años. Un bello día, el joven agobiado por la culpa resolvió abandonar todo lo que había aprendido y regresar a aquel lugar y contarle todo a la familia, pedir perdón y ayudarlos. Así lo hizo, y a medida que se aproximaba al lugar veía todo muy bonito, con árboles floridos, todo habitado, con carro en el garaje de tremenda casa y algunos niños jugando en el jardín. El muchacho se sintió triste y desesperado imaginando que aquella humilde familia tuviese que vender el terreno para sobrevivir, aceleró el paso y llegando allá, fue recibido por un señor muy simpático. El joven preguntó por la familia que vivía allí hacia unos cuatro años, el señor respondió que seguían viviendo allí. Espantado el joven entró corriendo a la casa y confirmó que era la misma familia que visitó hacía algunos años con el maestro. Elogió el lugar y le preguntó al señor (el dueño de la vaquita): "¿Cómo hizo para mejorar este lugar y cambiar de vida?" El señor entusiasmado le respondió: “Nosotros teníamos una vaquita que cayó por el precipicio y murió, de ahí en adelante nos vimos en la necesidad de hacer otras cosas y desarrollar otras habilidades que no sabíamos que teníamos, así alcanzamos el éxito que sus ojos vislumbran ahora”. Fuente: Psicología Estratégica. Agosto 2015. [http://www.psicologia-estrategica.com/cuentos-para-pensar/la-vaca/](http://www.psicologia-estrategica.com/cuentos-para-pensar/la-vaca/)
+=====================PREGUNTA 1======================
 ¿En qué se centra, medularmente, el autor del texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. El conformismo genera dependencia y limitación para alcanzar el éxito.
 B. El aprendizaje humano es el producto de las diversas experiencias vividas.
 C. La pobreza es un rasgo de las personas humildes que trabajan arduamente.
 D. Los maestros samuráis son seres insensibles ante la miseria de la gente.
 E. Las decisiones drásticas son siempre convenientes para lograr un objetivo.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 A. El conformismo genera dependencia y limitación para alcanzar el éxito.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El autor plantea ésta necesidad al principio del texto y luego desarrolla éste planteamiento.
-
-=====Pregunta 2======
+=====================PREGUNTA 2======================
 ¿Cómo se entiende en el texto la expresión VISLUMBRAR?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. En la esperanza.
 B. En el cerebro.
 C. En la prudencia.
 D. En el pensamiento.
 E. En el sentimiento.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 D. En el pensamiento.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Para el autor las propuestas éticas deben concretarse, luego no se trata de quedarse en la especulación, la teoría, el pensamiento.
-
-=====Pregunta 3======
+=====================PREGUNTA 3======================
 ¿Qué se desprende del texto para el autor?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Es posible pensar en la felicidad sin pensar en la justicia.
 B. Los europeos deben ayudar en algo al tercer mundo.
 C. La plenitud humana solo debe ser derecho de algunos.
 D. La felicidad no puede basarse en el individualismo.
 E. El tercer mundo se puede dar el lujo del relativismo moral.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 D. La felicidad no puede basarse en el individualismo.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El autor sostiene que: “ es preciso reconstruir el sentido que pueda tener una ética de la felicidad desde la posibilidad real de una vida humana digna para todos”, lo opuesto a cualquier propuesta individualista para alcanzar la felicidad.
-
-=====Pregunta 4======
+=====================PREGUNTA 4======================
 ¿Qué es incompatible con lo sostenido en el texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Puede haber felicidad plena sin justicia para todos.
 B. Es imposible conseguir una vida humana digna para todos.
 C. La ética no puede darse sin responsabilidad por los otros.
 D. Existen condiciones técnicas para la felicidad de todos.
 E. Cada ser humano debe hacerse responsable solo de él.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E. Cada ser humano debe hacerse responsable solo de él.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Afirmar este enunciado, sería sostener un individualismo extremo, totalmente contrario a la ética de la responsabilidad que propone el autor.
-
-=====Pregunta 5======
+=====================PREGUNTA 5======================
 ¿Qué habría sucedido si la conclusión del texto con respecto a la relación de la ética con la responsabilidad se aplicara al campo social?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Las ciencias sociales tendrían que ser solamente teóricas.
 B. Las sociedades en el mundo no deberían ser excluyentes.
 C. Las diferencias entre las clases sociales deberían crecer.
 D. El pensamiento ético debería ser monológico y social.
 E. El estado debería fomentar el pensamiento ético-filosófico.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 B. Las sociedades en el mundo no deberían ser excluyentes.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Del texto se puede concluir la necesidad de hacernos responsables de todos, de ahí que en el campo social no se pueda excluir a nadie de las condiciones para la búsqueda de la felicidad.
 

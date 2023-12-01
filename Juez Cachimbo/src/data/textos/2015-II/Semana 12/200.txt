@@ -1,97 +1,64 @@
 ID 200
-====TEXTO 6=====
-
-Escila es una figura conocida sobre todo por la Odisea, donde aparece como monstruo marino junto al torbellino Caribdis, formando un peligroso estrecho -probablemente el de Mesina -completamente imposible de navegar. Antes de esto Escila había sido una hermosa ninfa marina que se había permitido rechazar a multitud de pretendientes.
-
-Entre todos los que habían pretendido sus favores estuvo el dios marino Glauco, cuya primera forma fue la del mortal Glaucis. Pero posteriormente fue transformado en tritón, con cabeza y torso de hombre, y cola de pez, cuando puso sus pies sobre un arroyo virgen. Siendo pescador vació su red sobre la hierba para contar su pesca y los peces recobraron la vida y regresaron al agua. Sorprendido, Glaucis probó la hierba y experimentó una irrefrenable necesidad de sumergirse, así lo hizo y fue recibido por los dioses del mar, que le dieron la inmortalidad y su nuevo aspecto.
-
-Escila, a quien le contó este cuento, no mostró interés en él, de manera que Glauco consultó a la hechicera Circe. Le pidió que le diese hierbas mágicas para conquistar a Escila, pero Circe le advirtió que no lo hiciese, a la vez que le declaraba su amor. Cuando Glauco la rechazó, Circe no pudo resistir la humillación y se consideró tan insultada que preparó una pócima mágica para verterla en la bahía donde nadaba Escila. El agua contaminada transformó a Escila en un monstruo con 12 patas y seis cuellos, rematados con una horrible cabeza cada uno. Según Ovidio, su vientre estaba cubierto con cabezas de perros ladrando de aspecto similar al de Cerbero.
-
-Al vera su amada transformada, Glauco rompió a llorar, pero muy asustado dejó el palacio de Circe, temiendo que la hechicera quisiera casarse con él. Escila permaneció en el estrecho de Mesina y, según Ovidio, se vengó de Circe devorando a parte de la tripulación de Odiseo cuando pasaron el estrecho, pues el héroe había sido amante de la hechicera. Finalmente, Escila se convirtió en roca. Aún hoy en muchos lugares se mantiene la expresión «entre Escila y Caribdis», con el sentido de estar entre la espada y la pared.
-
-Fuente: Mitos leyendas . (3 de julio de 2015). Obtenido
-de [http://mitosyleyendascr.com/](http://mitosyleyendascr.com/)
-
-Aquí están las preguntas y respuestas con el formato solicitado:
-
-```
-=====Pregunta 1======
+=====================TEXTO======================
+Escila es una figura conocida sobre todo por la Odisea, donde aparece como monstruo marino junto al torbellino Caribdis, formando un peligroso estrecho -probablemente el de Mesina -completamente imposible de navegar. Antes de esto Escila había sido una hermosa ninfa marina que se había permitido rechazar a multitud de pretendientes. Entre todos los que habían pretendido sus favores estuvo el dios marino Glauco, cuya primera forma fue la del mortal Glaucis. Pero posteriormente fue transformado en tritón, con cabeza y torso de hombre, y cola de pez, cuando puso sus pies sobre un arroyo virgen. Siendo pescador vació su red sobre la hierba para contar su pesca y los peces recobraron la vida y regresaron al agua. Sorprendido, Glaucis probó la hierba y experimentó una irrefrenable necesidad de sumergirse, así lo hizo y fue recibido por los dioses del mar, que le dieron la inmortalidad y su nuevo aspecto. Escila, a quien le contó este cuento, no mostró interés en él, de manera que Glauco consultó a la hechicera Circe. Le pidió que le diese hierbas mágicas para conquistar a Escila, pero Circe le advirtió que no lo hiciese, a la vez que le declaraba su amor. Cuando Glauco la rechazó, Circe no pudo resistir la humillación y se consideró tan insultada que preparó una pócima mágica para verterla en la bahía donde nadaba Escila. El agua contaminada transformó a Escila en un monstruo con 12 patas y seis cuellos, rematados con una horrible cabeza cada uno. Según Ovidio, su vientre estaba cubierto con cabezas de perros ladrando de aspecto similar al de Cerbero. Al vera su amada transformada, Glauco rompió a llorar, pero muy asustado dejó el palacio de Circe, temiendo que la hechicera quisiera casarse con él. Escila permaneció en el estrecho de Mesina y, según Ovidio, se vengó de Circe devorando a parte de la tripulación de Odiseo cuando pasaron el estrecho, pues el héroe había sido amante de la hechicera. Finalmente, Escila se convirtió en roca. Aún hoy en muchos lugares se mantiene la expresión «entre Escila y Caribdis», con el sentido de estar entre la espada y la pared. Fuente: Mitos leyendas . (3 de julio de 2015). Obtenido de [http://mitosyleyendascr.com/](http://mitosyleyendascr.com/) Aquí están las preguntas y respuestas con el formato solicitado:
+=====================PREGUNTA 1======================
 ¿Cuál es el tema central abordado por el texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. El origen mítico de expresiones como “entre Escila y Caribdis”.
 B. La desdichada historia de amor de Glauco hacia Escila y Circe.
 C. Las venganzas de Circe y Glauco dentro de la mitología antigua.
 D. Escila y las consecuencias de su vínculo desdichado con Glauco.
 E. La descripción mítica de seres fantásticos como Escila y Glauco.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 D. Escila y las consecuencias de su vínculo desdichado con Glauco.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Si Glauco no se hubiese interesado en Escila, la ninfa no habría terminado con tan monstruoso aspecto.
-
-=====Pregunta 2======
+=====================PREGUNTA 2======================
 ¿Cómo se entiende en el texto el término IRREFRENABLE?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Inexplicable.
 B. Intensa.
 C. Increíble.
 D. Apasionada.
 E. Inevitable.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E. Inevitable.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Al afirmar que era irrefrenable, se entiende que no podía evitarlo.
-
-=====Pregunta 3======
+=====================PREGUNTA 3======================
 ¿Qué se puede inferir del texto para Mill?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Debemos actuar buscando la justicia social.
 B. Los europeos deben ayudar en algo al tercer mundo.
 C. La plenitud humana solo debe ser derecho de algunos.
 D. La felicidad no puede basarse en el individualismo.
 E. El tercer mundo se puede dar el lujo del relativismo moral.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E. El tercer mundo se puede dar el lujo del relativismo moral.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Mill sostiene que “no tenemos deberes para con nosotros mismos y para con los otros sólo deberes de respeto de su libertad, de no hacerles daño”, de lo cual se infiere que no estamos obligados a hacer el bien a los demás.
-
-=====Pregunta 4======
+=====================PREGUNTA 4======================
 ¿Qué es incompatible con lo sostenido en el texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Puede haber felicidad plena sin justicia para todos.
 B. Es imposible conseguir una vida humana digna para todos.
 C. La ética no puede darse sin responsabilidad por los otros.
 D. Existen condiciones técnicas para la felicidad de todos.
 E. Cada ser humano debe hacerse responsable solo de él.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E. Cada ser humano debe hacerse responsable solo de él.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Afirmar este enunciado, sería sostener un individualismo extremo, totalmente contrario a la ética de la responsabilidad que propone el autor.
-
-=====Pregunta 5======
+=====================PREGUNTA 5======================
 ¿Qué habría sucedido si la conclusión del texto con respecto a la relación de la ética con la responsabilidad se aplicara al campo social?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Las ciencias sociales tendrían que ser solamente teóricas.
 B. Las sociedades en el mundo no deberían ser excluyentes.
 C. Las diferencias entre las clases sociales deberían crecer.
 D. El pensamiento ético debería ser monológico y social.
 E. El estado debería fomentar el pensamiento ético-filosófico.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 B. Las sociedades en el mundo no deberían ser excluyentes.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Del texto se puede concluir la necesidad de hacernos responsables de todos, de ahí que en el campo social no se pueda excluir a nadie de las condiciones para la búsqueda de la felicidad.
 

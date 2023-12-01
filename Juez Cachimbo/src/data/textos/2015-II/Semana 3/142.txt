@@ -1,43 +1,6 @@
 ID: 142
 =====================TEXTO======================
-La noción capital que Roma nos aporta en la historia es la de que, a partir de su
-presencia, se produce, en el devenir de los tiempos, una doble posibilidad: la de pertenecer
-a la ecumene, es decir, al mundo de su tradición cultural, ola de permanecer al margen de
-esta clara universalidad. No vamos a repetir las palabras trémulas de emoción con que
-Menéndez Pelayo, al final de los Heterodoxos, saluda la inserción de España en la vida
-cultural de Roma y en su contorno lingüístico, porque se ha convertido en un lugar común,
-aplicable, ciertamente, a todos los pueblos que coexistieron con la romanidad. Que darse
-fuera del círculo que tra zaban los lábaros de Roma era perpetuar una situación cantonal o
-marginal con todas sus consecuencias.
-Un gran poeta español, Ramón de Basterra, nos ha dejado, en su hermoso poema El
-viicaíno en el Foro Romano, la estremeci da conciencia de lo que estamos comentando. El
-poeta ha oído, en su tierra montañera vascongada, la lengua de Euzkadi, que suena a
-sílex. La ha oído resonar por los verdes valles, donde se oye la flauta y el tamboril entre
-los secos disparos de las pelotas rebotando en los frontones de piedra. Y medita en la
-posibilidad de que su pueblo hubiera podido que dar al margen de la historia, atrincherado
-en los riscos de su lengua protoibérica.
-Todos tenemos la conciencia agradecida de ser unos "bárbaros redemos" por Roma,
-adquiriendo así el derecho a insertarnos en la historia universal. Por ello nos importa insistir
-en la concepción de Julio César —la concepción "cesárea" — del Imperio, entendido como un
-proceso de asimilación fundamental mente "política" y en modo alguno racista o asimilista.
-La genialidad de César está —como lo vio el gran historiador Mommsen — en percibir que,
-después de dominar Hispania y Galia, el problema clave para la "imperialidad" de Roma
-estaba en la mayor o menor posibilidad de absorción del mundo germánico. Aquel mundo
-"remoto", de gentes distintas, que algunos snobs (que también los había en la Urbe)
-empezaban a considerar como bello paraíso de la libertad.
-De los cuatro puntos cardinales de la rosa de los vientos que centra la ciudad de
-Roma, Oriente era un incentivo; el Sur, un peligro —que se llamó Cartago —; Occidente,
-un límite; el Norte, una gran interrogación, por no decir una grave amenaza, tan grave, que
-de ella vino la destrucción . Pero esta destrucción le l legó "desde dentro", porque Roma hizo
-todo lo que pudo para incorporar la Germania a su dominio. "Este engrandecimiento
-geográfico que abrió la expedición de César más allá de los Alpes —escribe Mommsen —
-fue un inmenso suceso histórico, compara ble al descubrimiento del Nuevo Mundo por
-Cristóbal Colón. Los pueblos del norte y del centro de Europa entraron en el sistema de los
-Estados mediterráneos". "Por eso la Europa occidental es romana, por esto la Europa
-germánica es clásica, y los nombres de Temístocles y de Escipión suenan en nuestros
-oídos de otra manera que los de Asoka y Salmanasar; y Hornero y Sófocles no son, como
-Kalidasa y los Vedas, curiosidades para botánicos literarios, sino que florecen en nuestro
-propio jardín. Esta es la obra de César."
+La noción capital que Roma nos aporta en la historia es la de que, a partir de su presencia, se produce, en el devenir de los tiempos, una doble posibilidad: la de pertenecer a la ecumene, es decir, al mundo de su tradición cultural, ola de permanecer al margen de esta clara universalidad. No vamos a repetir las palabras trémulas de emoción con que Menéndez Pelayo, al final de los Heterodoxos, saluda la inserción de España en la vida cultural de Roma y en su contorno lingüístico, porque se ha convertido en un lugar común, aplicable, ciertamente, a todos los pueblos que coexistieron con la romanidad. Que darse fuera del círculo que tra zaban los lábaros de Roma era perpetuar una situación cantonal o marginal con todas sus consecuencias. Un gran poeta español, Ramón de Basterra, nos ha dejado, en su hermoso poema El viicaíno en el Foro Romano, la estremeci da conciencia de lo que estamos comentando. El poeta ha oído, en su tierra montañera vascongada, la lengua de Euzkadi, que suena a sílex. La ha oído resonar por los verdes valles, donde se oye la flauta y el tamboril entre los secos disparos de las pelotas rebotando en los frontones de piedra. Y medita en la posibilidad de que su pueblo hubiera podido que dar al margen de la historia, atrincherado en los riscos de su lengua protoibérica. Todos tenemos la conciencia agradecida de ser unos "bárbaros redemos" por Roma, adquiriendo así el derecho a insertarnos en la historia universal. Por ello nos importa insistir en la concepción de Julio César —la concepción "cesárea" — del Imperio, entendido como un proceso de asimilación fundamental mente "política" y en modo alguno racista o asimilista. La genialidad de César está —como lo vio el gran historiador Mommsen — en percibir que, después de dominar Hispania y Galia, el problema clave para la "imperialidad" de Roma estaba en la mayor o menor posibilidad de absorción del mundo germánico. Aquel mundo "remoto", de gentes distintas, que algunos snobs (que también los había en la Urbe) empezaban a considerar como bello paraíso de la libertad. De los cuatro puntos cardinales de la rosa de los vientos que centra la ciudad de Roma, Oriente era un incentivo; el Sur, un peligro —que se llamó Cartago —; Occidente, un límite; el Norte, una gran interrogación, por no decir una grave amenaza, tan grave, que de ella vino la destrucción . Pero esta destrucción le l legó "desde dentro", porque Roma hizotodo lo que pudo para incorporar la Germania a su dominio. "Este engrandecimiento geográfico que abrió la expedición de César más allá de los Alpes —escribe Mommsen — fue un inmenso suceso histórico, compara ble al descubrimiento del Nuevo Mundo por Cristóbal Colón. Los pueblos del norte y del centro de Europa entraron en el sistema de los Estados mediterráneos". "Por eso la Europa occidental es romana, por esto la Europa germánica es clásica, y los nombres de Temístocles y de Escipión suenan en nuestros oídos de otra manera que los de Asoka y Salmanasar; y Hornero y Sófocles no son, como Kalidasa y los Vedas, curiosidades para botánicos literarios, sino que florecen en nuestro propio jardín. Esta es la obra de César."
 =====================PREGUNTA 1======================
 El autor del texto destaca la siguiente idea:
 =====================ALTERNATIVAS======================
@@ -46,12 +9,10 @@ B. La literatura latina justificó el idealismo de l poder romano.
 C. Germania impidió la inserción cultural de Roma en el pueblo español.
 D. La dominación romana coadyuvó el desarrollo histórico de Occidente.
 E. La genialidad de Julio César facilitó la expansión del Imperio romano.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-Según lo desarrollado por el autor, se destaca que la dominación romana
-coadyuvó el desarrollo histórico de Occidente.
+Según lo desarrollado por el autor, se destaca que la dominación romana coadyuvó el desarrollo histórico de Occidente.
 =====================PREGUNTA 2======================
 Resulta compatible con lo sos tenido en el texto aseverar que
 =====================ALTERNATIVAS======================
@@ -60,12 +21,10 @@ B. roma excluyó de su plan imperialista a los pueblos de Cártago y Germania.
 C. la expansión del Imperio romano fue un fenómeno irrelevante para Oriente.
 D. el afán imperial de Roma propició la inserción de pueblos en la historia univ ersal.
 E. la Europa germánica muestra remanentes de su subordinación al Imperio romano.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-Según el texto, el afán imperial de Roma habría permitido a muchos
-pueblos formar parte de la historia al ser incluidos en su dominio.
+Según el texto, el afán imperial de Roma habría permitido a muchos pueblos formar parte de la historia al ser incluidos en su dominio.
 =====================PREGUNTA 3======================
 En el texto, el antónimo contextual del término DESTRUCCIÓN es
 =====================ALTERNATIVAS======================
@@ -74,13 +33,10 @@ B. auge.
 C. vehemencia.
 D. animadversión.
 E. abundancia.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-Según el autor, el Norte (Germania) fue una gran interrogación, por no decir
-una grave amenaza, tan grave, que de ella vino la destrucción ,es decir su ruina. Lo
-contrario sería auge.
+Según el autor, el Norte (Germania) fue una gran interrogación, por no decir una grave amenaza, tan grave, que de ella vino la destrucción ,es decir su ruina. Lo contrario sería auge.
 =====================PREGUNTA 4======================
 Se infiere que el poeta español Ramón de Basterra, con relación a Roma, expresa
 =====================ALTERNATIVAS======================
@@ -89,28 +45,19 @@ B. aversión al sistema político y expansión geográfica que esta desarrolla.
 C. extrema complacencia por haber sido un medio de gran integración cultural.
 D. una ingente gratitud debido a la herencia notable de la producción literaria latina.
 E. sentimientos contradictorios porque ama al Imperio de Roma, pese a ser español.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-Según el texto, el poeta español, Ramón de Baster ra, expresa en su
-hermoso poema El viicaíno en el Foro Romano una gran emoción por la labor romana
-expansionista. Pues de lo contrario su pueblo hubiera podido que dar al margen de la
-historia, atrincherado en los riscos de su lengua protoibérica.
+Según el texto, el poeta español, Ramón de Baster ra, expresa en su hermoso poema El viicaíno en el Foro Romano una gran emoción por la labor romana expansionista. Pues de lo contrario su pueblo hubiera podido que dar al margen de la historia, atrincherado en los riscos de su lengua protoibérica.
 =====================PREGUNTA 5======================
-Si Germania hubiera mostrado sumisión al Imperio romano y se hubiera incorporado a
-este irremediablemente, entonces
+Si Germania hubiera mostrado sumisión al Imperio romano y se hubiera incorporado a este irremediablemente, entonces
 =====================ALTERNATIVAS======================
 A. carecería de responsabilidad de la decadencia de Roma.
 B. Roma se habría erigido su expansión política en Oriente.
 C. los pueblos de Hispania, Galia y se habrían sublevado.
 D. Roma habría perdido poder político en Europa occidental.
 E. el engrandecimiento romano habría sido un proceso inviable.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-Según el texto, Germania fue una grave amenaza para Roma. Tan grave
-que de ella vino la destrucción romana. Si Germania hubiera mostrado sumisión al
-Imperio romano y se hubiera incorporado a este irremediablemente, entonces carecería
-de responsabilidad de la decadencia de Roma.
+Según el texto, Germania fue una grave amenaza para Roma. Tan grave que de ella vino la destrucción romana. Si Germania hubiera mostrado sumisión al Imperio romano y se hubiera incorporado a este irremediablemente, entonces carecería de responsabilidad de la decadencia de Roma.

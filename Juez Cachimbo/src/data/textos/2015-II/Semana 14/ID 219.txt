@@ -1,13 +1,6 @@
 ID: 219
 =====================TEXTO======================
-I) Los antiguos griegos adoptaron el alfabeto fenicio y lo difundieron por sus ciudades -
-estado entorno al 1000 a. de C. II) Las inscripciones más antiguas que se conocen
-del alfabeto griego datan del siglo VIII a. de C. III) Es posible que el alfabeto griego,
-que ocupa un puesto importante en la evolución de la comunicación gráfica,
-evolucionase antes del siglo VIII. IV) Los griegos tomaron el alfabeto fenicio o semítico
-septentrional y convirtieron cinco consonantes en vocales para elaborar su alfabeto.
-V) No se sabe a ciencia cierta quién transportó el alfabeto de Fenicia a Grecia, pero
-las fuentes mitológicas apuntan hacia Cadmo de Mileto.
+I) Los antiguos griegos adoptaron el alfabeto fenicio y lo difundieron por sus ciudades - estado entorno al 1000 a. de C. II) Las inscripciones más antiguas que se conocen del alfabeto griego datan del siglo VIII a. de C. III) Es posible que el alfabeto griego, que ocupa un puesto importante en la evolución de la comunicación gráfica, evolucionase antes del siglo VIII. IV) Los griegos tomaron el alfabeto fenicio o semítico septentrional y convirtieron cinco consonantes en vocales para elaborar su alfabeto. V) No se sabe a ciencia cierta quién transportó el alfabeto de Fenicia a Grecia, pero las fuentes mitológicas apuntan hacia Cadmo de Mileto.
 =====================PREGUNTA 1======================
 Elimine una oración 
 =====================ALTERNATIVAS======================
@@ -19,5 +12,4 @@ E. V
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-Se elimina la oración I por impertinencia. Las oraciones giran entorno al
-tema del alfabeto griego.
+Se elimina la oración I por impertinencia. Las oraciones giran entorno al tema del alfabeto griego.

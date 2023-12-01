@@ -1,41 +1,6 @@
 ID: 89
 =====================TEXTO======================
-Cuando los matemáticos hablan de Teoría de juegos se refieren fundamentalmente al
-estudio de las decisiones de los individuos. En Teoría de juegos se analizan situaciones
-complejas en las que hay más de un individuo que quiere tener éxito pero que tiene que
-tener en cuenta las decisiones del resto de las personas que intervienen. Esto es, no vale
-con preguntarte qué es lo que tienes que hacer tú, sino que tienes que cuestionarte sobre
-qué es lo que tienes que hacer tú teniendo en cuenta lo que piensas que v ana hacer los
-demás. Veamos por ejemplo el famoso dilema del prisionero: te han detenido junto a un
-compinche. Han hecho cosas terribles, pero la policía carece de pruebas y solo los acusan
-de algo menor.
-Pongamos que sino se delatan el uno al otro va n a pasar tres años en la cárcel. Si
-los dos cantan (y se delatan el uno al otro) les caerán cinco años a cada uno. Si canta uno
-solo, le caerán doce años al otro y uno al cantor por «colaborar» (los colocan en
-habitaciones separadas). Eres una persona inteligente, tu compañero es como tú —no te
-asocias con cualquiera — ¿qué crees que pasará?
-El dilema del prisionero Tú
-No delatar Delatar
-Tu compinche No delatar Tres años para cada uno Doce para él, uno para ti
-Delatar Doce para ti y uno para él Cinco para cada uno 
-Llegados a este punto surgen las preguntas: ¿eres egoísta?, ¿lo es tu compañero?
-Para poder proseguir tenemos que suponer algo al respecto: pongamos que los dos son
-completamente egoístas. Lo mejor sería que no se delatasen. Pero no, ¿no acabamos de
-decir que ambos son egoístas? Lo mejor para ti es que el otro no te delate y tú sí a él. Tú
-sabes que él piensa lo mismo, no querrás ser tú el que se pase doce años a la sombra
-mientras él sale en un año.
-La teoría existente antes de las aportaciones de John F orbes Nash (el genio detrás
-del desarrollo de la Teoría de juegos) nos haría esperar el Óptimo de Pareto, esto es, ambos
-se callan. Las teorías de Pareto nos llevarían a pensar que la mejor solución es que los dos
-cooperen. Lo que aportó la mente prodigiosa de Nash es que tú, en el dilema del prisionero,
-pienses lo siguiente: «si creo que mi compinche no me va a delatar, lo mejor es delatarle, y
-si creo que me va a delatar, también es mejor para mí delatarle». Lo que desde entonces
-se llama alcanzar un equilibrio de Nash: hay una estrategia dominante, debemos esperar
-que los dos canten, que los dos se delaten, porque es lo único que pueden hacer que
-garantice la mejora de sus propias opciones.
-MURCIA, Joseángel. (24 de mayo de 2015). «Nash muere, todos perdemos: ¿Qué es la
-Teoría de juegos?». En: El país . Recuperado el 25 de mayo de 2015 de
-http://verne.elpais.com/verne/2015/05/24/articulo/1432496429_280542.html
+Cuando los matemáticos hablan de Teoría de juegos se refieren fundamentalmente al estudio de las decisiones de los individuos. En Teoría de juegos se analizan situaciones complejas en las que hay más de un individuo que quiere tener éxito pero que tiene que tener en cuenta las decisiones del resto de las personas que intervienen. Esto es, no vale con preguntarte qué es lo que tienes que hacer tú, sino que tienes que cuestionarte sobre qué es lo que tienes que hacer tú teniendo en cuenta lo que piensas que v ana hacer los demás. Veamos por ejemplo el famoso dilema del prisionero: te han detenido junto a un compinche. Han hecho cosas terribles, pero la policía carece de pruebas y solo los acusan de algo menor. Pongamos que sino se delatan el uno al otro va n a pasar tres años en la cárcel. Si los dos cantan (y se delatan el uno al otro) les caerán cinco años a cada uno. Si canta uno solo, le caerán doce años al otro y uno al cantor por «colaborar» (los colocan en habitaciones separadas). Eres una persona inteligente, tu compañero es como tú —no te asocias con cualquiera — ¿qué crees que pasará? El dilema del prisionero Tú No delatar Delatar Tu compinche No delatar Tres años para cada uno Doce para él, uno para ti Delatar Doce para ti y uno para él Cinco para cada uno  Llegados a este punto surgen las preguntas: ¿eres egoísta?, ¿lo es tu compañero? Para poder proseguir tenemos que suponer algo al respecto: pongamos que los dos son completamente egoístas. Lo mejor sería que no se delatasen. Pero no, ¿no acabamos de decir que ambos son egoístas? Lo mejor para ti es que el otro no te delate y tú sí a él. Tú sabes que él piensa lo mismo, no querrás ser tú el que se pase doce años a la sombra mientras él sale en un año. La teoría existente antes de las aportaciones de John F orbes Nash (el genio detrás del desarrollo de la Teoría de juegos) nos haría esperar el Óptimo de Pareto, esto es, ambos se callan. Las teorías de Pareto nos llevarían a pensar que la mejor solución es que los dos cooperen. Lo que aportó la mente prodigiosa de Nash es que tú, en el dilema del prisionero, pienses lo siguiente: «si creo que mi compinche no me va a delatar, lo mejor es delatarle, y si creo que me va a delatar, también es mejor para mí delatarle». Lo que desde entonces se llama alcanzar un equilibrio de Nash: hay una estrategia dominante, debemos esperar que los dos canten, que los dos se delaten, porque es lo único que pueden hacer que garantice la mejora de sus propias opciones. MURCIA, Joseángel. (24 de mayo de 2015). «Nash muere, todos perdemos: ¿Qué es la Teoría de juegos?». En: El país . Recuperado el 25 de mayo de 2015 de http://verne.elpais.com/verne/2015/05/24/articulo/1432496429_280542.html
 =====================PREGUNTA 1======================
 1. De la aplicación del planteamiento de Nash al dilema del prisionero se colige que
 =====================ALTERNATIVAS======================
@@ -45,9 +10,7 @@ C) basta con estimar solo los intereses de uno de los implicados, ya que de ahí
 D) resulta de vital importancia ponderar la educación y el entorno familiar de cada de uno de los participantes en el dilema.
 E) Pareto enfocó erróneamente el problema, a l conjeturar que los participantes desean el éxito a cualquier precio.
 =====================RAZONAMIENTO======================
-Para la resolución del dilema, desde la Teoría de los juegos, tal como la
-formula Nash, necesitamos suponer que los dos sospechosos desean obtener el
-mejor resultado posible, sacrificando aun sus propios escrúpulos.
+Para la resolución del dilema, desde la Teoría de los juegos, tal como la formula Nash, necesitamos suponer que los dos sospechosos desean obtener el mejor resultado posible, sacrificando aun sus propios escrúpulos.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================PREGUNTA 2======================
@@ -59,8 +22,7 @@ C) solaz.
 D) inquietud. 
 E) castigo.
 =====================RAZONAMIENTO======================
-Esta expresión en el texto alude directamente a la cárcel, por tal razón
-podemos decir que connota «castigo».
+Esta expresión en el texto alude directamente a la cárcel, por tal razón podemos decir que connota «castigo».
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================PREGUNTA 3======================
@@ -72,9 +34,7 @@ C) niega solo tangencialmente los postulados teóricos propuestos por Pareto.
 D) concibe el éxito como la principal motivación de las acciones individuales.
 E) se concentra únicamente en el examen de los juicios de un solo individuo. Ciclo 2015 -I
 =====================RAZONAMIENTO======================
-La Teoría de los juegos analiza «situaciones complejas en las que hay más
-de un individuo que quiere tener éxito». Esto significa que asume que la motivación
-central de las acciones de los individuos involucrados es el éxito.
+La Teoría de los juegos analiza «situaciones complejas en las que hay más de un individuo que quiere tener éxito». Esto significa que asume que la motivación central de las acciones de los individuos involucrados es el éxito.
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================PREGUNTA 4======================
@@ -86,14 +46,11 @@ C) para cimentarse tiene como único caso paradigmático el dilema del prisioner
 D) se esfuerza por explicar situaciones donde predominan la maldad y la perfidia.
 E) dilucida sobre hechos donde un solo individuo se enfrenta a un inconveniente.
 =====================RAZONAMIENTO======================
-Al inicio del texto se describe el propósito principal de la Teoría de los
-juegos: analizar situaciones donde más de uno de los participantes desea alcanzar la
-victoria.
+Al inicio del texto se describe el propósito principal de la Teoría de los juegos: analizar situaciones donde más de uno de los participantes desea alcanzar la victoria.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================PREGUNTA 5======================
-5. Si en el dilema del prisionero la fraternidad fuera la principal característica de los dos
-sospechosos,
+5. Si en el dilema del prisionero la fraternidad fuera la principal característica de los dos sospechosos,
 =====================ALTERNATIVAS======================
 A) Nash se habría visto obligado a reforzar conceptualmente la Teoría de los juegos.
 B) se necesitaría establecer una distinción firme entre la solidaridad y la fraternidad.
@@ -101,8 +58,6 @@ C) su resolución encontraría un buen sustento conceptual en las teorías de Pa
 D) la cooperación entre los dos criminales se volvería inviable de cualquier forma.
 E) la estrategia dominante de ambos, al final , vacilaría entre la delación y la lealtad.
 =====================RAZONAMIENTO======================
-El Óptimo de Pareto postula que la cooperación entre los involucrados es
-la mejor alternativa para ambos. Si los dos sospechosos se caracterizaran por su
-espíritu fraterno, esta conclusión sería la más conveniente para explicar su situación.
+El Óptimo de Pareto postula que la cooperación entre los involucrados es la mejor alternativa para ambos. Si los dos sospechosos se caracterizaran por su espíritu fraterno, esta conclusión sería la más conveniente para explicar su situación.
 =====================ALTERNATIVA CORRECTA======================
 C

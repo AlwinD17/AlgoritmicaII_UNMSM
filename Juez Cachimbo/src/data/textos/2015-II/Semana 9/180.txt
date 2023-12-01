@@ -1,79 +1,63 @@
 ID 180
-===== Texto 4 ======
-Durante siglos el hombre de la calle tuvo más fe en la hechicería que en la ciencia: para ganarse la vida, Kepler necesitó trabajar de astrólogo; hoy los astrólogos anuncian en los diarios que sus procedimientos son estrictamente científicos. El ciudadano cree con fervor en la ciencia y rinde pleitesía a Einstein y a Madame Curie. Pero, por un destino melancólico, en este momento de esplendor popular muchos profesionales comienzan a dudar de su poder. El matemático y filósofo inglés A. N. Whitehead nos dice que la ciencia debe aprender de la poesía; cuando un poeta canta las bellezas del cielo y de la tierra no manifiesta las fantasías de su ingenua concepción del mundo, sino los hechos concretos de la experiencia “desnaturalizados por el análisis científico ”.
-Es difícil separar el conocimiento vulgar del científico; pero quizá pueda decirse que el primero se refiere a lo particular y concreto, mientras que el segundo se refiere a lo general y abstracto. Así, a medida que la ciencia se vuelve más abstracta y en consecuencia más lejana de los problemas, de las preocupaciones, de las palabras de la vida diaria, su utilidad aumenta en la misma proporción. Una teoría tiene tantas más aplicaciones cuanto más universal, y por lo tanto cuanto más abstracta, ya que lo concreto se pierde con lo particular. El poder de la ciencia se adquiere gracias a una especie de pacto con el diablo: a costa de una progresiva evanescencia del mundo cotidiano. Llega a ser monarca, pero, cuando lo logra, su reino es apenas un reino de fantasmas.
-El análisis científico es deprimente: como los hombres que ingresan en una penitenciaría, las sensaciones se convierten en números. El verde de aquellos árboles que el aire menea ocupa una zona del espectro alrededor de las 5000 unidades Angström ; el manso ruido es captado por micrófonos y descompuesto en un conjunto de ondas caracterizadas cada una por un número; en cuanto al olvido del oro y del cetro, queda fuera de la jurisdicción del científico, porque no es susceptible de convertirse en matemática. El mundo de la ciencia ignora los valores: un geómetra que rechazara el teorema de Pitágoras por considerarlo perverso tendría más probabilidades de ser internado en un manicomio que de ser escuchado en un congreso de matemáticos.
-Sábato, E. (1968) Uno y el universo. Argentina: Tauro. Recuperado de: https://iiejf499r8rowjfedjf03.bookz.lt/Literatura/S/
-
-=====Pregunta 1======
+=====================TEXTO======================
+Durante siglos el hombre de la calle tuvo más fe en la hechicería que en la ciencia: para ganarse la vida, Kepler necesitó trabajar de astrólogo; hoy los astrólogos anuncian en los diarios que sus procedimientos son estrictamente científicos. El ciudadano cree con fervor en la ciencia y rinde pleitesía a Einstein y a Madame Curie. Pero, por un destino melancólico, en este momento de esplendor popular muchos profesionales comienzan a dudar de su poder. El matemático y filósofo inglés A. N. Whitehead nos dice que la ciencia debe aprender de la poesía; cuando un poeta canta las bellezas del cielo y de la tierra no manifiesta las fantasías de su ingenua concepción del mundo, sino los hechos concretos de la experiencia “desnaturalizados por el análisis científico ”. Es difícil separar el conocimiento vulgar del científico; pero quizá pueda decirse que el primero se refiere a lo particular y concreto, mientras que el segundo se refiere a lo general y abstracto. Así, a medida que la ciencia se vuelve más abstracta y en consecuencia más lejana de los problemas, de las preocupaciones, de las palabras de la vida diaria, su utilidad aumenta en la misma proporción. Una teoría tiene tantas más aplicaciones cuanto más universal, y por lo tanto cuanto más abstracta, ya que lo concreto se pierde con lo particular. El poder de la ciencia se adquiere gracias a una especie de pacto con el diablo: a costa de una progresiva evanescencia del mundo cotidiano. Llega a ser monarca, pero, cuando lo logra, su reino es apenas un reino de fantasmas. El análisis científico es deprimente: como los hombres que ingresan en una penitenciaría, las sensaciones se convierten en números. El verde de aquellos árboles que el aire menea ocupa una zona del espectro alrededor de las 5000 unidades Angström ; el manso ruido es captado por micrófonos y descompuesto en un conjunto de ondas caracterizadas cada una por un número; en cuanto al olvido del oro y del cetro, queda fuera de la jurisdicción del científico, porque no es susceptible de convertirse en matemática. El mundo de la ciencia ignora los valores: un geómetra que rechazara el teorema de Pitágoras por considerarlo perverso tendría más probabilidades de ser internado en un manicomio que de ser escuchado en un congreso de matemáticos. Sábato, E. (1968) Uno y el universo. Argentina: Tauro. Recuperado de: https://iiejf499r8rowjfedjf03.bookz.lt/Literatura/S/
+=====================PREGUNTA 1======================
 ¿Cuál es el tema central del texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. La ciencia y su abstracción, un poder ejercido desde lo no real.
 B. La ciencia y el combate contra el saber vulgar de profesionales.
 C. El análisis científico, una depresión numérica de la cotidianidad.
 D. Hechicería versus ciencia, la necesidad de abstraer la realidad.
 E. Los procesos científicos, una muestra del poderío de la ciencia.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 A
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El autor reflexiona entorno a la paradoja de la ciencia: tiene y ejerce poder (abstracción -utilidad) pero no lo hace desde mundo real.
-
-=====Pregunta 2======
+=====================PREGUNTA 2======================
 La expresión RINDE PLEITESÍA connota
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Sumisión.
 B. Desacato.
 C. Respeto.
 D. Conquista.
 E. Comprensión.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 C
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 La gente cree con fervor y muestra su RESPETO por los científicos.
-
-=====Pregunta 3======
+=====================PREGUNTA 3======================
 Es incompatible con el texto sostener que
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) La ciencia tiende a abstraer hechos, con ello rompe el vínculo.
 B) El conocimiento vulgar gira entorno a lo particular y concreto.
 C) La ciencia gana poder con la universalidad de sus postulados.
 D) La ciencia puede desnaturalizar los hechos de la experiencia.
 E) La ciencia tiende a mantener un vínculo fluido con los hechos.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Es precisamente, la ruptura con los hechos lo que más se le critica en el texto a la ciencia. Por ende, no mantiene un vínculo fluido.
-=====Pregunta 4======
+=====================PREGUNTA 4======================
 En relación a los valores cívicos y culturales, se infiere que
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) la masa altera valores y cultura, no los suprime, postula un nuevo ordenamiento.
 B) la masa al ser irracional propendió hacia la supresión de cualquier orden cívico.
 C) la masa consolida una visión cívica que propone como protagonista al individuo.
 D) la masa es anarquista, por lo tanto, persigue a las élites amparadas en lo cívico.
 E) en una sociedad gobernada por la masa ni los valores ni la cultura son posibles.
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 A
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 “Las masas trastocan profundamente los valores cívicos y culturales”; es decir, los alteran, distinto a suprimir, eliminar o soslayar.
-=====Pregunta 5======
+=====================PREGUNTA 5======================
 Si el fenómeno del surgimiento de las masas no se hubiera dado durante la primera mitad del siglo XX, entonces
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A) las élites gobernantes h abrían cedido el poder, pues estaban desprestigiadas.
 B) el individuo se habría visto obligado a recurrir a formas radicales de expresión.
 C) el ordenamiento cívico y cultural se habrían visto muy profundamente afectados .
 D) la defensa del individuo habría sido intensa, pues confrontaría individualidades.
 E) el fascismo italiano y el nazismo, probablemente, no h abrían llegado al poder.
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 E
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Tanto el fascismo como el nazismo fueron movimientos de masas, sin ese respaldo, probablemente, no habrían tenido opción de llegar al poder.

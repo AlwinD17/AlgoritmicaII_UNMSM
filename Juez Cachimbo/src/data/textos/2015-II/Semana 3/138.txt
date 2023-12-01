@@ -1,24 +1,6 @@
 ID: 138
 =====================TEXTO======================
-El mito más importante que genera una cultura es, por norma general, el cosmogónico,
-aquel que se refiere al génesis del Universo. En muchas mitologías, la creación del mundo
-procede de la nada. En estos casos suele aparecer la figura del dios todopoderoso cuya
-influencia directa en los acontecimientos posteriores al establecimiento del orden que sustituye
-a la nada es variable: puede mantener una presencia constante o puede distanciarse del
-mundo creado.
-Los mitos escatológicos son aquellos que vaticinan los hechos que ocurrirán cuando la
-vida en el mundo llegue a su fin. En este contexto, también se han de mencionar aquellos que
-explican cómo la muerte entr ó a formar parte del ciclo de la vida humana. Es necesario
-apuntar que, en un principio, la vida no desemboca necesariamente en la muerte. Por
-circunstancias diversas, los seres humanos acaban sabiendo que a todos ellos les espera el
-mismo destino final.
-Otros mitos se centran en la actuación que llevan a cabo los protagonistas de hazañas
-que comportan avances sustanciales en el desarrollo de la humanidad. Los héroes de carácter
-cultural son los responsables de trazar etapas que marcan un antes y un después en la cultura
-a la cual pertenecen.
-A los ya citados se unen los mitos milenaristas, los de la eterna renovación cíclica a
-través de mundos sucesivos que conducen hasta la sociedad ideal, y los mitos mesiánicos,
-aquellos que aguardan la llegada del salvador.
+El mito más importante que genera una cultura es, por norma general, el cosmogónico, aquel que se refiere al génesis del Universo. En muchas mitologías, la creación del mundo procede de la nada. En estos casos suele aparecer la figura del dios todopoderoso cuya influencia directa en los acontecimientos posteriores al establecimiento del orden que sustituye a la nada es variable: puede mantener una presencia constante o puede distanciarse del mundo creado. Los mitos escatológicos son aquellos que vaticinan los hechos que ocurrirán cuando la vida en el mundo llegue a su fin. En este contexto, también se han de mencionar aquellos que explican cómo la muerte entr ó a formar parte del ciclo de la vida humana. Es necesario apuntar que, en un principio, la vida no desemboca necesariamente en la muerte. Por circunstancias diversas, los seres humanos acaban sabiendo que a todos ellos les espera el mismo destino final. Otros mitos se centran en la actuación que llevan a cabo los protagonistas de hazañas que comportan avances sustanciales en el desarrollo de la humanidad. Los héroes de carácter cultural son los responsables de trazar etapas que marcan un antes y un después en la cultura a la cual pertenecen. A los ya citados se unen los mitos milenaristas, los de la eterna renovación cíclica a través de mundos sucesivos que conducen hasta la sociedad ideal, y los mitos mesiánicos, aquellos que aguardan la llegada del salvador.
 =====================PREGUNTA 1======================
 ¿Cuál es el tema central del texto?
 =====================ALTERNATIVAS======================
@@ -27,8 +9,7 @@ B. El rol del mito cosmogónico en la antigüedad.
 C. Las clases de mitos generados por una cultura.
 D. La historia de los mitos en la sociedad antigua.
 E. Los objetivos y las funciones sociales del mito.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
 El texto aborda los mitos más destacados que genera una sociedad.
@@ -40,8 +21,7 @@ B. resaltar.
 C. dirigir.
 D. restringir.
 E. presentar.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
 En el texto, APUNTAR se refiere a resaltar o destacar.
@@ -53,13 +33,10 @@ B. relatan historias sobre un mesías.
 C. se centran en la vida como tema.
 D. se hallan arraigados a la muerte.
 E. revelan un espíritu tanatofóbico.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-Según el texto, los mitos escatológicos vaticinan los hechos que ocurrirán
-cuando la vida en el mundo llegue a su fin. Por ello, se i nfiere que se hallan arraigados
-a la muerte.
+Según el texto, los mitos escatológicos vaticinan los hechos que ocurrirán cuando la vida en el mundo llegue a su fin. Por ello, se i nfiere que se hallan arraigados a la muerte.
 =====================PREGUNTA 4======================
 Respecto a los mitos, es incompatible afirmar que
 =====================ALTERNATIVAS======================
@@ -68,12 +45,10 @@ B. son narraciones que involucran al ser humano.
 C. abordaron a la muerte como parte de la vida.
 D. referían un antes y un después de la existencia.
 E. todos están marcados por un tono pesimista.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-En el texto se sostiene que los mitos mesiánicos se centran en la llegada del
-salvador.
+En el texto se sostiene que los mitos mesiánicos se centran en la llegada del salvador.
 =====================PREGUNTA 5======================
 Si la muerte no hubiese entrado a formar parte del ciclo de la vida, entonces
 =====================ALTERNATIVAS======================
@@ -82,10 +57,7 @@ B. la existencia del hombre acabaría con la muerte.
 C. los mitos escatológicos tratarían de ultratumba.
 D. todo ser humano tendría el mismo destino final.
 E. todos los hombres serían criaturas inmortales.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
- En el texto se sostiene que los mitos escatológicos relatan lo que sucederá
-cuando la vida en este mundo llegue a su fin, este final no es la muerte, pues esta ya
-forma parte del ciclo de la vida humana.
+En el texto se sostiene que los mitos escatológicos relatan lo que sucederá cuando la vida en este mundo llegue a su fin, este final no es la muerte, pues esta ya forma parte del ciclo de la vida humana.

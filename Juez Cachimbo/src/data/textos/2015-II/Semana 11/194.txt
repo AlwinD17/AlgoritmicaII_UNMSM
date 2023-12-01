@@ -1,87 +1,64 @@
 ID 194
-=====Texto 6======
-La doctrina de los géneros literarios elaborada por la estética del Renacimiento y del clasicismo francés no se impuso de modo unánime, y, tanto en el siglo XVI como en el XVII, se multiplicaron las polémicas entorno a los problemas de la existencia y del valor de los géneros. Tales polémicas partieron muchas veces de autores que hoy consideramos barrocos, y no solo implicaban el problemas los géneros, sino también el de las reglas, puesto que estos dos aspectos aparecen en conexión íntima: mientras el clasicismo francés aboga por las reglas y concibe el género como entidad eterna, inmutable y rigurosamente delimitada, el barroco aspira a mayor libertad artística, desconfía de las reglas inflexibles, concibe el género literario como entidad histórica capaz de evolución, admite la posibilidad de crear géneros nuevos y aboga por el hibridismo de los géneros.
-
-Así se inició la tempestuosa pugna entre antiguos y modernos: los antiguos consideran las obras literarias grecolatinas como modelos ideales e inmutables, y niegan la posibilidad de crear nuevos géneros literarios o de establecer nuevas reglas para los géneros tradicionales; los modernos, reconociendo la existencia de una evolución en las costumbres, en las creencias religiosas, en la organización social, etc., defienden la legitimidad de nuevas formas literarias diferentes de las de griegos y latinos; admiten que los géneros tradicionales como el poema épico, pueden revestir modalidades nuevas; y, llegan a afirmar la superioridad de las literaturas modernas frente a las letras grecolatinas. Para los modernos las reglas formuladas por Aristóteles y por Horacio no representan preceptos válidos intemporalmente, sino que más bien constituyen un cuerpo de normas indisolublemente ligadas a determinada época de la historia y a determinada experiencia literaria.
-
-DE AGUIAR E SILVA, Victor. (1981). Teoría de la literatura. Madrid: Gredos.
-
-=====Pregunta 1======
+=====================TEXTO======================
+La doctrina de los géneros literarios elaborada por la estética del Renacimiento y del clasicismo francés no se impuso de modo unánime, y, tanto en el siglo XVI como en el XVII, se multiplicaron las polémicas entorno a los problemas de la existencia y del valor de los géneros. Tales polémicas partieron muchas veces de autores que hoy consideramos barrocos, y no solo implicaban el problemas los géneros, sino también el de las reglas, puesto que estos dos aspectos aparecen en conexión íntima: mientras el clasicismo francés aboga por las reglas y concibe el género como entidad eterna, inmutable y rigurosamente delimitada, el barroco aspira a mayor libertad artística, desconfía de las reglas inflexibles, concibe el género literario como entidad histórica capaz de evolución, admite la posibilidad de crear géneros nuevos y aboga por el hibridismo de los géneros. Así se inició la tempestuosa pugna entre antiguos y modernos: los antiguos consideran las obras literarias grecolatinas como modelos ideales e inmutables, y niegan la posibilidad de crear nuevos géneros literarios o de establecer nuevas reglas para los géneros tradicionales; los modernos, reconociendo la existencia de una evolución en las costumbres, en las creencias religiosas, en la organización social, etc., defienden la legitimidad de nuevas formas literarias diferentes de las de griegos y latinos; admiten que los géneros tradicionales como el poema épico, pueden revestir modalidades nuevas; y, llegan a afirmar la superioridad de las literaturas modernas frente a las letras grecolatinas. Para los modernos las reglas formuladas por Aristóteles y por Horacio no representan preceptos válidos intemporalmente, sino que más bien constituyen un cuerpo de normas indisolublemente ligadas a determinada época de la historia y a determinada experiencia literaria. DE AGUIAR E SILVA, Victor. (1981). Teoría de la literatura. Madrid: Gredos.
+=====================PREGUNTA 1======================
 ¿De qué trata principalmente el texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Del nacimiento y el desarrollo de los novedosos géneros literarios que aparecieron en el siglo XVI.
 B. De los problemas sobre la existencia e inmutabilidad de los géneros literarios en el siglo XV.
 C. De las diferentes concepciones que sobre los géneros tuvieron los antiguos y los modernos.
 D. De las obras grecolatinas tomadas como modelos ideales e inmutables de la buena literatura.
 E. De la estética del Renacimiento y los principales planteamientos temáticos del clasicismo francés.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 C. De las diferentes concepciones que sobre los géneros tuvieron los antiguos y los modernos.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 El texto explica las diferentes visiones que sobre los géneros literarios tuvieron los autores llamados antiguos y los llamados modernos.
-
-=====Pregunta 2======
+=====================PREGUNTA 2======================
 ¿Cómo se entiende en el texto la expresión REVESTIR?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Adoptar.
 B. Recubrir.
 C. Compensar.
 D. Objetar.
 E. Difundir.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 A. Adoptar.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 En el texto se observa que los géneros «pueden REVESTIR modalidades nuevas», en otras palabras, los géneros pueden «adoptar» novedosas formas.
-
-=====Pregunta 3======
+=====================PREGUNTA 3======================
 ¿Qué resulta incompatible afirmar sobre la discusión entorno a los géneros literarios según el texto?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Muchas veces los barrocos dieron origen a las famosas polémicas entorno a los géneros.
 B. La disputa entre los antiguos y los modernos se desarrolló entre los siglos XVI y XVII.
 C. Los clásicos franceses defendieron el establecimiento de nuevas reglas para los géneros.
 D. Los autores clásicos conciben el género literario como una entidad eterna e inmutable.
 E. Los preceptos planteados por Aristóteles y Horacio fueron respetados por los antiguos.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 C. Los clásicos franceses defendieron el establecimiento de nuevas reglas para los géneros.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 En el texto se afirma que los clásicos franceses concibieron los géneros como entidades eternas e inmutables. Esto significa que difícilmente podrían estar a favor del establecimiento de nuevas reglas para los géneros literarios.
-
-=====Pregunta 4======
+=====================PREGUNTA 4======================
 ¿Qué se colige del texto respecto a la defensa barroca del hibridismo de los géneros?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Implicaba un menosprecio de los méritos de la denominada literatura moderna.
 B. Se dio a raíz de la concepción del género como una entidad eterna e inmutable.
 C. Implicó la negativa a aceptar cualquier tipo de cambio en todas las costumbres.
 D. Justificó implícitamente la tragicomedia como una expresión literaria moderna.
 E. Se debió a que la estética del Renacimiento se impuso de manera homogénea.
 
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 D. Justificó implícitamente la tragicomedia como una expresión literaria moderna.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 La tragicomedia surge en el Siglo de oro. Si aceptamos que fue en este periodo cuando se dio la defensa de la hibridez de los géneros, se puede inferir que esto pudo servir de asidero para legitimar la modernidad de la tragicomedia.
-
-=====Pregunta 5======
+=====================PREGUNTA 5======================
 ¿Qué habría sucedido si la doctrina clásica de los géneros se hubiera impuesto de modo unánime?
-
-=====ALTERNATIVAS=====
+=====================ALTERNATIVAS======================
 A. Los barrocos habrían seguido cuestionando la inmutabilidad de los géneros.
 B. No se habrían producido las polémicas entorno a los géneros literarios.
 C. Las reglas formuladas por Aristóteles no habrían sido consideradas válidas.
 D. Los antiguos seguirían defendiendo el hibridismo de los géneros literarios.
 E. Los modernos mantendrían su posición respecto de la evolución de los géneros.
-
-=====Alternativa correcta=====
+=====================ALTERNATIVA CORRECTA======================
 B. No se habrían producido las polémicas entorno a los géneros literarios.
-
-=====Razonamiento=====
+=====================RAZONAMIENTO======================
 Toda polémica sería inútil pues, si la doctrina clásica hubiera sido hegemónica, los modernos o barrocos comulgarían con las ideas de los clásicos.

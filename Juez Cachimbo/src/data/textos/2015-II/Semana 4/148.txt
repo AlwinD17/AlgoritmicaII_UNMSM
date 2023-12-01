@@ -1,51 +1,18 @@
 ID: 148
 =====================TEXTO======================
-El siglo XIX está caracterizado por la concurrencia de procesos medulares para la
-humanidad, iniciados en Europa en las décadas precedentes: la implantación de los
-conceptos de libertad e igualdad y, por otro lado, la colonización y explotación de los
-territorios y recursos del mundo a través de lo que el historiados británico Arnold Toynbee
-llamó Revolución Industrial, una era de continua evolución tecnológica, con dos etapas
-marcadas. La primera tuvo lugar en Inglaterra y estuvo basada en la culminación de los
-procesos técnicos no originados en la ciencia: la máquina de vapor precedió a la
-termodinámica, por ejemplo. Durante la segunda etapa –mediados del XIX – ingresan al
-mercado industrias alemanas y estadounidenses con nuevas formas corporativas que
-incorporan la investigación científica y tecnológica al desarrollo de productos. En la primera
-etapa se dio un salto crucial: el cambio de una economía agraria y artesanal a una urbana
-e industrial. La energía humana es suplantada por energía calorífica de com bustibles
-naturales, y se hace posible la creación de un mundo artificial urbano que usa y modifica el
-mundo natural y lo sustituye. En este nuevo hábitat, domina el carbón y la máquina de vapor
-como transformadora de energía. Surgen, asimismo, la aplicación de la máquina de
-transporte terrestre –ferrocarriles – y marítimo –vapores –, así como la ingeniería profesional
-como una fuerza intelectual de innovación tecnológica.
-¡Sorprendentemente!, como en la Colonia, la economía peruana dependía de
-comerciantes, mineros y terratenientes. El transporte por tierra se hacía por caminos de
-herradura, mientras que las ciudades de la costa se unían por cabotaje mediante
-embarcaciones de vela: el viaje entre Paita y el Callao podía demorar meses. Lima tenía
-por entonces una población de 40 000 habitantes. El agua obtenida de manantiales, se
-recogía en pipas de madera, se cargaba en acémilas y era distribuida por aguateros. No
-había sistema de desagüe. La iluminación era producida por teas o faroles de aceite. En
-realidad ,la calidad de vida en Lima era inferior que la de Roma dos mil años atrás.
+El siglo XIX está caracterizado por la concurrencia de procesos medulares para la humanidad, iniciados en Europa en las décadas precedentes: la implantación de los conceptos de libertad e igualdad y, por otro lado, la colonización y explotación de los territorios y recursos del mundo a través de lo que el historiados británico Arnold Toynbee llamó Revolución Industrial, una era de continua evolución tecnológica, con dos etapas marcadas. La primera tuvo lugar en Inglaterra y estuvo basada en la culminación de los procesos técnicos no originados en la ciencia: la máquina de vapor precedió a la termodinámica, por ejemplo. Durante la segunda etapa –mediados del XIX – ingresan al mercado industrias alemanas y estadounidenses con nuevas formas corporativas que incorporan la investigación científica y tecnológica al desarrollo de productos. En la primera etapa se dio un salto crucial: el cambio de una economía agraria y artesanal a una urbana e industrial. La energía humana es suplantada por energía calorífica de com bustibles naturales, y se hace posible la creación de un mundo artificial urbano que usa y modifica el mundo natural y lo sustituye. En este nuevo hábitat, domina el carbón y la máquina de vapor como transformadora de energía. Surgen, asimismo, la aplicación de la máquina de transporte terrestre –ferrocarriles – y marítimo –vapores –, así como la ingeniería profesional como una fuerza intelectual de innovación tecnológica. ¡Sorprendentemente!, como en la Colonia, la economía peruana dependía de comerciantes, mineros y terratenientes. El transporte por tierra se hacía por caminos de herradura, mientras que las ciudades de la costa se unían por cabotaje mediante embarcaciones de vela: el viaje entre Paita y el Callao podía demorar meses. Lima tenía por entonces una población de 40 000 habitantes. El agua obtenida de manantiales, se recogía en pipas de madera, se cargaba en acémilas y era distribuida por aguateros. No había sistema de desagüe. La iluminación era producida por teas o faroles de aceite. En realidad ,la calidad de vida en Lima era inferior que la de Roma dos mil años atrás.
 =====================PREGUNTA 1======================
 La intención principal del autor del texto es
 =====================ALTERNATIVAS======================
-A. informar sobre el desarrollo científico y económico en Europa durante la Revolución
-Idustrial.
-B. opinar sobre el retraso ideológico, tecnológico, científico y económico del Perú del
-siglo XIX.
-C. criticar el desarrollo de la tecnología, la ciencia, la economía y de la tecnología en
-el Perú colonial.
-D. analizar la influencia científica y económica de la Revolución Industrial en el Perú
-del siglo XIX.
-E. exponer sobre los avances científicos y tecnológicos de la Revolución Industrial a
-nivel mundial.
-=====================ALTERNATIVA
-CORRECTA======================
+A. informar sobre el desarrollo científico y económico en Europa durante la Revolución Idustrial.
+B. opinar sobre el retraso ideológico, tecnológico, científico y económico del Perú del siglo XIX.
+C. criticar el desarrollo de la tecnología, la ciencia, la economía y de la tecnología en el Perú colonial.
+D. analizar la influencia científica y económica de la Revolución Industrial en el Perú del siglo XIX.
+E. exponer sobre los avances científicos y tecnológicos de la Revolución Industrial a nivel mundial.
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-El autor empieza el texto exponiendo el desarrollo ideológico, tecnológico,
-científico y económico de Europa y Estados Unidos durante el siglo XIX; luego,
-describe el estado de cosas en el Perú de la misma época y opina que esa situación
-retrógrada es sorprendente.
+El autor empieza el texto exponiendo el desarrollo ideológico, tecnológico, científico y económico de Europa y Estados Unidos durante el siglo XIX; luego, describe el estado de cosas en el Perú de la misma época y opina que esa situación retrógrada es sorprendente.
 =====================PREGUNTA 2======================
 En el texto, la frase LA CULMINACIÓN DE LOS PROCESOS TÉCNICOS refiere
 =====================ALTERNATIVAS======================
@@ -54,13 +21,10 @@ B. a las limitaciones halladas durante el progreso técnico.
 C. al momento más elevado de la innovación tecnológica.
 D. a la consumación de las investigaciones tecnológicas.
 E. al final de las investigaciones tecnológicas inglesas.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-Se desprende del texto, a partir de la frase “la culminación de los procesos
-técnicos” que el autor se refiere a hechos como la invención de la máquina del vapor,
-que vendría a ser el momento cumbre del perfeccionamiento tecnológico en Inglaterra.
+Se desprende del texto, a partir de la frase “la culminación de los procesos técnicos” que el autor se refiere a hechos como la invención de la máquina del vapor, que vendría a ser el momento cumbre del perfeccionamiento tecnológico en Inglaterra.
 =====================PREGUNTA 3======================
 Es compatible con el texto sostener que Roma hace dos mil años atrás
 =====================ALTERNATIVAS======================
@@ -69,43 +33,31 @@ B. carecía de agua corriente y de sistemas de desagüe al igual que Perú.
 C. tenía una forma de vida que el autor también calificaría de ¡sorprendente!
 D. contaba con gente dedicada al transporte de agua en bestias salvajes.
 E. tenía un sistema de luz basado en teas de aceite como Perú del s. XIX.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-El Perú del siglo XIX tenía un sistema deficiente de transporte (caminos de
-herradura y embarcaciones arcaicas), un deficiente sistema de agua y desagüe, un
-insuficiente sistema de iluminación pública, etc. Según el autor, Roma de hace dos mil
-años atrás aventajaba al Perú en calidad de vida.
+El Perú del siglo XIX tenía un sistema deficiente de transporte (caminos de herradura y embarcaciones arcaicas), un deficiente sistema de agua y desagüe, un insuficiente sistema de iluminación pública, etc. Según el autor, Roma de hace dos mil años atrás aventajaba al Perú en calidad de vida.
 =====================PREGUNTA 4======================
-Se infiere del texto que, en el Perú del siglo XIX, la mercancía que Huancayo
-necesitaba de Lima o viceversa
+Se infiere del texto que, en el Perú del siglo XIX, la mercancía que Huancayo necesitaba de Lima o viceversa
 =====================ALTERNATIVAS======================
 A. era solicitada con varias horas de anticipación.
 B. se transportaba en embarcaciones de vela.
 C. era la mejor forma de transporte de la época.
 D. tardaba varios años en llegar a su destino.
 E. tenía que ser transportada a lomo de bestia.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-El texto refiere que los caminos que surcaban el Perú del siglo XIX eran
-básicamente caminos de herradura. Entonces, las mercancías tenían que
-transport arse en caballos o en burros o sobre cualquier animal de carga.
+El texto refiere que los caminos que surcaban el Perú del siglo XIX eran básicamente caminos de herradura. Entonces, las mercancías tenían que transport arse en caballos o en burros o sobre cualquier animal de carga.
 =====================PREGUNTA 5======================
-Si el Perú del siglo XIX hubiera marchado a la par de los progresos acaecidos en
-Europa y Estados Unidos, entonces, probablemente
+Si el Perú del siglo XIX hubiera marchado a la par de los progresos acaecidos en Europa y Estados Unidos, entonces, probablemente
 =====================ALTERNATIVAS======================
 A. el autor opinaría que la situación del Perú igualmente era ¡sorprendente!
 B. la gente se habrían transportado mejor en el lomo de las bestias de carga.
 C. el Perú, lógicamente, hubiera dejado de ser el patito feo de América del Sur.
 D. se habrían acortado las distancias y el tiempo de transporte de mercancías.
 E. Perú no habría dejado de ser un país tercermundista como lo es en estos días.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-Si el Perú del siglo XIX hubiera ido a la par de la Revolución Industrial y de
-todos los desarrollos tecnológicos de Europa y EE. UU., seguramente hubiera
-introducido en su sistema de transporte las embarcaciones a vapor o los trenes.
+Si el Perú del siglo XIX hubiera ido a la par de la Revolución Industrial y de todos los desarrollos tecnológicos de Europa y EE. UU., seguramente hubiera introducido en su sistema de transporte las embarcaciones a vapor o los trenes.

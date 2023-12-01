@@ -1,30 +1,6 @@
 ID: 153
 =====================TEXTO======================
-Últimamente se está hablando mucho de lo que podría ser una nueva enfermedad
-relacionada con los trastornos alimenticios, la ortorexia, la cual se entiende como una
-obsesión patológica por la comida biológicamente pura. Las víctimas de esta enfermedad
-sufren una preocupación excesiva por la comida sana, y esta se convierte en el objetivo
-principal de su vida.
-A través de la comida biológicamente pura, las personas que padecen esta
-enfermedad esperan obtener todo tipo de beneficios físicos, psíquicos y mora les, los cuales
-les puede llevar a una dependencia similar a la de cualquier adicto a las drogas. Entre las
-razones que podrían llevar a una persona a padecer la ortorexia está la obsesión por lograr
-una mejor salud, ola búsqueda de una razón ética o espiritual para ingerir alimento, o el
-temor a ser lentamente envenenada por los colorantes y conservantes de las industrias
-alimentarias.
-En el caso concreto de los ortoréxicos, la preocupación por la comida sana les lleva a
-consumir excesivamente alimentos procedentes de la agricultura ecológica, es decir, que
-estén libres de componentes transgénicos, sustancias artificiales, pesticidas o herbicidas.
-Estas prácticas pueden conducir muchas veces a que se supriman las carnes y las grasas
-que, en ocasiones, no se reemplazan correctamente por alimentos que puedan aportarles
-los mismos complementos nutricionales.
-La ortorexia se manifiesta, al parecer, en personas de comportamiento obsesivo -
-compulsivo y predispuesto genéticamente a ello. Se trata, en su mayoría, de individuos con
-una preocupación tiránica por la perfección y con una fe ciega en las normas y reglas.
-También se ha observado que pacientes (en su gran mayoría mujeres), que han sufrido
-anorexia nerviosa, al recuperarse, optan por introducir en su dieta solo alimentos de origen
-natural y probiótico, cultivados ecológicamente, sin grasa o sustancias artificiales que
-puedan causarles algún daño.
+Últimamente se está hablando mucho de lo que podría ser una nueva enfermedad relacionada con los trastornos alimenticios, la ortorexia, la cual se entiende como una obsesión patológica por la comida biológicamente pura. Las víctimas de esta enfermedadsufren una preocupación excesiva por la comida sana, y esta se convierte en el objetivo principal de su vida. A través de la comida biológicamente pura, las personas que padecen esta enfermedad esperan obtener todo tipo de beneficios físicos, psíquicos y mora les, los cuales les puede llevar a una dependencia similar a la de cualquier adicto a las drogas. Entre las razones que podrían llevar a una persona a padecer la ortorexia está la obsesión por lograru na mejor salud, ola búsqueda de una razón ética o espiritual para ingerir alimento, o el temor a ser lentamente envenenada por los colorantes y conservantes de las industrias alimentarias. En el caso concreto de los ortoréxicos, la preocupación por la comida sana les lleva a consumir excesivamente alimentos procedentes de la agricultura ecológica, es decir, que estén libres de componentes transgénicos, sustancias artificiales, pesticidas o herbicidas. Estas prácticas pueden conducir muchas veces a que se supriman las carnes y las grasasque, en ocasiones, no se reemplazan correctamente por alimentos que puedan aportarles los mismos complementos nutricionales. La ortorexia se manifiesta, al parecer, en personas de comportamiento obsesivo - compulsivo y predispuesto genéticamente a ello. Se trata, en su mayoría, de individuos con una preocupación tiránica por la perfección y con una fe ciega en las normas y reglas. También se ha observado que pacientes (en su gran mayoría mujeres), que han sufrido anorexia nerviosa, al recuperarse, optan por introducir en su dieta solo alimentos de origen natural y probiótico, cultivados ecológicamente, sin grasa o sustancias artificiales que puedan causarles algún daño.
 =====================PREGUNTA 1======================
 El texto se centra, principalmente, en
 =====================ALTERNATIVAS======================
@@ -33,13 +9,10 @@ B. los rasgos psíquicos y físicos de la ortorexia.
 C. el principio patológico del mal de la ortorexia.
 D. los trastornos psicofísicos al sufrir ortorexia.
 E. una interpretación del origen de la ortorexia.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-El autor del texto define la ortorexia como una obsesión patológica por la
-comida biológicamente pura. A continuación, describe las características de aquella
-enfermedad.
+El autor del texto define la ortorexia como una obsesión patológica por la comida biológicamente pura. A continuación, describe las características de aquella enfermedad.
 =====================PREGUNTA 2======================
 En el texto, el término TIRÁNICA tiene el sentido de
 =====================ALTERNATIVAS======================
@@ -48,12 +21,10 @@ B. extremada.
 C. aturdida.
 D. inicua.
 E. aturdida.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-Cuando en el texto el autor escribe sobre «una preocupación tiránica por
-la perfección», el sentido de tiránica es ‘exagerada’.
+Cuando en el texto el autor escribe sobre «una preocupación tiránica por la perfección», el sentido de tiránica es ‘exagerada’.
 =====================PREGUNTA 3======================
 Que la ortorexia tenga un origen genético
 =====================ALTERNATIVAS======================
@@ -62,13 +33,10 @@ B. es falso porque esta tiene básicamente un origen cultural.
 C. es prueba fehaciente de que la enfermedad no tiene cura.
 D. obliga a los comensales a consumir alimentos transgénicos.
 E. es un razonamiento hipotético que requiere ser confirmada.
-=====================ALTERNATIVA
-CORRECTA======================
+=====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-Para el autor, los comportamientos obsesivos y compulsivos de las
-personas afectadas por ese mal tienen un origen genético. El autor ha formulado una
-conjetura que se tiene que probar.
+Para el autor, los comportamientos obsesivos y compulsivos de las personas afectadas por ese mal tienen un origen genético. El autor ha formulado una conjetura que se tiene que probar.
 =====================PREGUNTA 4======================
 Es incompatible con el texto sostener que
 =====================ALTERNATIVAS======================
@@ -81,11 +49,9 @@ E. hay pacientes que consideran que la comida sana eleva su ética.
 CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-Según el autor del texto, son los anoréxicos que se ha recuperado los que
-prefieren consumir alimentos naturales y probióticos.
+Según el autor del texto, son los anoréxicos que se ha recuperado los que prefieren consumir alimentos naturales y probióticos.
 =====================PREGUNTA 5======================
-Si se demostrara que un determinado producto transgénico posee enormes beneficios
-para la salud y la psicología,
+Si se demostrara que un determinado producto transgénico posee enormes beneficios para la salud y la psicología,
 =====================ALTERNATIVAS======================
 A. podría reemplazar a todos los alimentos que consumimos.
 B. la persona que sufre de ortorexia lo incorporaría a su dieta.
@@ -96,5 +62,4 @@ E. se demostraría que los pesticidas son muy beneficiosas.
 CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-Los ortoréxicos buscan obsesivamente los alimentos que les brinden
-beneficios a su salud, a su psicología y a su moral.
+Los ortoréxicos buscan obsesivamente los alimentos que les brinden beneficios a su salud, a su psicología y a su moral.

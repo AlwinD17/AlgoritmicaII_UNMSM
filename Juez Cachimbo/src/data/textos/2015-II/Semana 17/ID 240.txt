@@ -1,58 +1,6 @@
 ID: 240
 =====================TEXTO======================
-Todo desarrollo científico so lo puede entenderse admitiendo que su punto de partida es un
-problema o una situación problemática, es decir, el surgimiento de un problema en una
-situación determinada de nuestro saber total, como punto de partida del ensayo error. La
-teoría científica antigua enseñaba en su casa de Piura, el último del colegio, escribiendo artículos, cuentecitos y poemas que
-publicaba a veces en La Industria ,me animaba incansablemente a perseverar y ser un
-escritor, porque, acaso hablando de sí mismo, me aseguraba que no seguir la propia
-vocación es traicionarse y condenarse a la infelicidad.
-—Es una tontería pensar que esto puede ser una broma —dijo Patricia —. Llamemos
-a Álvaro, Gonzalo y Morgana de una vez.
-Llamamos a Álvaro a Washington, a Gonzalo a Santo Domingo y a Morgana a Lima,
-y todavía faltaban siete u ocho minutos para la hora señalada. Yo pensé en Lucho Loayza
-y Abelardo Oquendo, los amigos de adolescencia, y de las feroces discusiones que a veces
-teníamos sobre si Borges era más importante que Sartre oeste que aquel. Yo sostenía lo
-último y ellos lo primero y eran ellos, por supuesto, quienes llevaban la razón. Fue entonces
-cuando me pusieron el apodo (que a mí me encantaba): «el Sartrecillo Valiente».
-Pensé en el concurso de La Revue Francaise que gané el año 1957, con mi cuento
-«El desafío», que me deparó un viaje a París, donde pasé un mes de total felicidad, viviendo
-en el hotel Napoleón, en las cuatro palabras que cambié con Albert Camus y María Cas ares
-en las puertas de un teatro de los Grandes Bulevares, y mis desesperados y estériles
-esfuerzos para ser recibido por Sartre aunque fuera solo un minuto para verle la cara y
-estrecharle la mano. Recordé mi primer año en Madrid y las dudas que tuve ante s de
-decidirme a enviar los cuentos de Los jefes al Premio Leopoldo Alas, creado por un grupo
-de médicos de Barcelona, encabezado por el doctor Rocas y asesorado por el poeta
-Enrique Badosa, gracias a los cuales tuve la enorme alegría de ver mi primer libro impreso.
-Pensé que, si la noticia era cierta, tenía que agradecer públicamente a España lo
-mucho que le debía, pues, sin el extraordinario apoyo de personas como Carlos Barral,
-Carmen Balcells y tantas otras, editores, críticos, lectores, jamás hubieran alcanzado mis
-libros la difusión que han tenido.
-Y pensé lo increíblemente afortunado que yo he sido en la vida por seguir el consejo
-del tío Lucho y haber decidido, a mis 22 años, en aquella pensión madrileña de la calle de
-Doctor Castello, en algún momento de agosto de 1958, que no sería abogado sino escritor,
-y que, desde entonces, aunque tuviera que vivir a tres dobles y un repique, organizaría mi
-vida de tal manera que la mayor parte de mi tiempo y energía se volcaran en la literatura, y
-que sólo busca ría trabajos que me dejaran tiempo libre para escribir. Fue una decisión algo
-quimérica, pero me ayudó mucho, por lo menos psicológicamente, y, creo que, en sus
-grandes rasgos, la cumplí en mis años de París, pues los trabajos en la Escuela Berlitz, la
-Agence France Presse y la Radio Televisión Francesa me dejaron siempre algunas horitas
-del día para leer y escribir.
-Y pensé en la extraña paradoja de haber recibido tantos reconocimientos, como este
-(si la noticia no era una broma de mal gusto), por dedicar mi vida a un quehacer que me ha
-hecho gozar infinitamente, en la que cada libro ha sido una aventura llena de sorpresas, de
-descubrimientos, de ilusiones y de exaltación, que compensaban siempre con creces las
-dificultades, dolores de cabeza, depresiones y estreñimientos. Y pensé en lo maravillosa
-que es la vida que los hombres y las mujeres inventamos, cuando todavía andábamos en
-taparrabos y comiéndonos los unos a los otros, para romper las fronteras tan estrechas de
-la vida verdadera, y trasladarnos a otra, más rica, más intensa, más libre, a través de la
-ficción.
-A las seis en punto de la mañana las radios, la televisión e Internet confirmaron que
-la noticia era cierta. Como predijo Patricia, la casa se volvió un loquerío y desde entonces
-yo dejé de pensar y, casi casi, hasta de respirar.
-VARGAS LLOSA, Mario. (10 de octubre de 2010). «14 minutos de reflexión». En: El País .
-Recuperado el 06 de diciembre de
-http://elpais.com/diario/2010/10/10/opinion/1286661611_850215.html.
+Todo desarrollo científico so lo puede entenderse admitiendo que su punto de partida es un problema o una situación problemática, es decir, el surgimiento de un problema en una situación determinada de nuestro saber total, como punto de partida del ensayo error. La teoría científica antigua enseñaba en su casa de Piura, el último del colegio, escribiendo artículos, cuentecitos y poemas que publicaba a veces en La Industria ,me animaba incansablemente a perseverar y ser un escritor, porque, acaso hablando de sí mismo, me aseguraba que no seguir la propia vocación es traicionarse y condenarse a la infelicidad. —Es una tontería pensar que esto puede ser una broma —dijo Patricia —. Llamemos a Álvaro, Gonzalo y Morgana de una vez. Llamamos a Álvaro a Washington, a Gonzalo a Santo Domingo y a Morgana a Lima, y todavía faltaban siete u ocho minutos para la hora señalada. Yo pensé en Lucho Loayza y Abelardo Oquendo, los amigos de adolescencia, y de las feroces discusiones que a veces teníamos sobre si Borges era más importante que Sartre oeste que aquel. Yo sostenía lo último y ellos lo primero y eran ellos, por supuesto, quienes llevaban la razón. Fue entonces cuando me pusieron el apodo (que a mí me encantaba): «el Sartrecillo Valiente». Pensé en el concurso de La Revue Francaise que gané el año 1957, con mi cuento «El desafío», que me deparó un viaje a París, donde pasé un mes de total felicidad, viviendo en el hotel Napoleón, en las cuatro palabras que cambié con Albert Camus y María Cas ares en las puertas de un teatro de los Grandes Bulevares, y mis desesperados y estériles esfuerzos para ser recibido por Sartre aunque fuera solo un minuto para verle la cara y estrecharle la mano. Recordé mi primer año en Madrid y las dudas que tuve ante s de decidirme a enviar los cuentos de Los jefes al Premio Leopoldo Alas, creado por un grupo de médicos de Barcelona, encabezado por el doctor Rocas y asesorado por el poeta Enrique Badosa, gracias a los cuales tuve la enorme alegría de ver mi primer libro impreso. Pensé que, si la noticia era cierta, tenía que agradecer públicamente a España lo mucho que le debía, pues, sin el extraordinario apoyo de personas como Carlos Barral, Carmen Balcells y tantas otras, editores, críticos, lectores, jamás hubieran alcanzado mis libros la difusión que han tenido. Y pensé lo increíblemente afortunado que yo he sido en la vida por seguir el consejo del tío Lucho y haber decidido, a mis 22 años, en aquella pensión madrileña de la calle de Doctor Castello, en algún momento de agosto de 1958, que no sería abogado sino escritor, y que, desde entonces, aunque tuviera que vivir a tres dobles y un repique, organizaría mi vida de tal manera que la mayor parte de mi tiempo y energía se volcaran en la literatura, y que sólo busca ría trabajos que me dejaran tiempo libre para escribir. Fue una decisión algo quimérica, pero me ayudó mucho, por lo menos psicológicamente, y, creo que, en sus grandes rasgos, la cumplí en mis años de París, pues los trabajos en la Escuela Berlitz, la Agence France Presse y la Radio Televisión Francesa me dejaron siempre algunas horitas del día para leer y escribir. Y pensé en la extraña paradoja de haber recibido tantos reconocimientos, como este (si la noticia no era una broma de mal gusto), por dedicar mi vida a un quehacer que me ha hecho gozar infinitamente, en la que cada libro ha sido una aventura llena de sorpresas, de descubrimientos, de ilusiones y de exaltación, que compensaban siempre con creces las dificultades, dolores de cabeza, depresiones y estreñimientos. Y pensé en lo maravillosa que es la vida que los hombres y las mujeres inventamos, cuando todavía andábamos en taparrabos y comiéndonos los unos a los otros, para romper las fronteras tan estrechas de la vida verdadera, y trasladarnos a otra, más rica, más intensa, más libre, a través de la ficción. A las seis en punto de la mañana las radios, la televisión e Internet confirmaron que la noticia era cierta. Como predijo Patricia, la casa se volvió un loquerío y desde entonces yo dejé de pensar y, casi casi, hasta de respirar. VARGAS LLOSA, Mario. (10 de octubre de 2010). «14 minutos de reflexión». En: El País . Recuperado el 06 de diciembre de http://elpais.com/diario/2010/10/10/opinion/1286661611_850215.html.
 =====================PREGUNTA 1======================
 El tema central del texto narrativo es
 =====================ALTERNATIVAS======================
@@ -64,8 +12,7 @@ E. La importancia de los hechos que toda persona afronta a lo largo de su vida.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-El texto desarrolla los minutos de reflexión que prosiguieron tras la noticia y antes de
-la confirmación de recibir el Premio Nobel de Literatura 2010.
+El texto desarrolla los minutos de reflexión que prosiguieron tras la noticia y antes de la confirmación de recibir el Premio Nobel de Literatura 2010.
 =====================PREGUNTA 2======================
 Resulta incompatible con el texto afirmar que Mario Vargas Llosa buscó trabajos que
 =====================ALTERNATIVAS======================
@@ -77,9 +24,7 @@ E. Se ciñeran a una decisión que lo ayudó mentalmente.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-Mario Vargas Llosa advierte que, a pesar de las consecuencias que su decisión podía
-acarrear, buscó trabajos que le dieran tiempo para dedicarse plenamente a la literatura
-y no solamente alcanzar una vida holgada.
+Mario Vargas Llosa advierte que, a pesar de las consecuencias que su decisión podía acarrear, buscó trabajos que le dieran tiempo para dedicarse plenamente a la literatura y no solamente alcanzar una vida holgada.
 =====================PREGUNTA 3======================
 En virtud del desarrollo textual, se infiere que el temor padecido por Vargas Llosa
 =====================ALTERNATIVAS======================
@@ -91,8 +36,7 @@ E. Desapareció al confirmarse la noticia de su premiación.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
-El texto desarrolla gradualmente el cúmulo de pensamientos y la incertidumbre que la
-premiación generó; este temor desaparece cuando se confirma la noticia.
+El texto desarrolla gradualmente el cúmulo de pensamientos y la incertidumbre que la premiación generó; este temor desaparece cuando se confirma la noticia.
 =====================PREGUNTA 4======================
 La expresión NOCHE CERRADA puede entenderse como
 =====================ALTERNATIVAS======================
@@ -104,8 +48,7 @@ E. Miedo inexplicable.
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-La expresión «noche cerrada» hace referencia a una etapa en la que aún no se vela
-claridad del amanecer.
+La expresión «noche cerrada» hace referencia a una etapa en la que aún no se vela claridad del amanecer.
 =====================PREGUNTA 5======================
 Se colige del texto que la valoración del narrador sobre Jean Paul Sartre
 =====================ALTERNATIVAS======================
@@ -117,9 +60,7 @@ E. Únicamente fue una pose por la influencia de su época.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
-En el texto se afirma que «eran ellos, por supuesto, quienes llevaban la razón»,
-refiriéndose a los amigos que ponderaban a Borges como un escritor más auténtico
-en comparación a Sartre.
+En el texto se afirma que «eran ellos, por supuesto, quienes llevaban la razón», refiriéndose a los amigos que ponderaban a Borges como un escritor más auténtico en comparación a Sartre.
 =====================PREGUNTA 6======================
 La palabra ESTÉRIL se puede reemplazar por
 =====================ALTERNATIVAS======================
@@ -131,11 +72,9 @@ E. Baldío.
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-El autor hace mención de los «estériles esfuerzos» que realizó para contactarse con
-Sartre, esfuerzos vanos que no lograron obtener una respuesta concreta.
+El autor hace mención de los «estériles esfuerzos» que realizó para contactarse con Sartre, esfuerzos vanos que no lograron obtener una respuesta concreta.
 =====================PREGUNTA 7======================
-Si el narrador hubiese carecido de la tenacidad para seguir los consejos del tío Lucho ,
-posiblemente
+Si el narrador hubiese carecido de la tenacidad para seguir los consejos del tío Lucho , posiblemente
 =====================ALTERNATIVAS======================
 A. Habría conseguido un trabajo digno que lo fortaleciera como escritor.
 B. Habría tenido que conseguir trabajos mal remunerados y cansados.
@@ -145,6 +84,4 @@ E. Sería catalogado como un escritor mediocre de raigambre localista.
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-Los consejos del tío Lucho impulsaron al joven escritor a tomar una decisión
-complicada pero necesaria: trabajar de manera que le alcance el tiempo para leer y
-escribir.
+Los consejos del tío Lucho impulsaron al joven escritor a tomar una decisión complicada pero necesaria: trabajar de manera que le alcance el tiempo para leer y escribir.

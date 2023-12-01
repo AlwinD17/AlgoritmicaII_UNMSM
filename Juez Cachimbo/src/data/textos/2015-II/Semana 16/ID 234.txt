@@ -1,30 +1,6 @@
 ID: 234
 =====================TEXTO======================
-El Microsoft de Bill Gates consiguió dominar el mercado de las PC en solo unos años
-gracias a la capacidad de su fundador de comprender desde el principio el valor de la idea
-de desarrollar su plataforma informática, mientras que el creador de Apple , Steve
-Jobs , tardó 20 años en darse cuenta de su importancia.
-Al crear el sistema operativo Windows, Bill Gates decidió permitir a desarrolladores de otras
-empresas crear libremente aplicaciones de software basadas en su sistema operativo, es
-decir , abrazó con fuerza la competitividad. Gates no necesitó más a Jobs, pues tenía todo
-un entorno variado para hacer su producto competitivo. Gracias a ello Windows pudo
-construir todo un ecosistema de software masivo que le permitió dominar el mercado de
-las PC durante años. Steve Jobs, en cambio, siempre se centró más en elaborar productos
-perfectos que habitualmente carecían de un conjunto de socios que pudieran apoyarlos o
-sostenerlos a la vanguardia de un mercado extremadamente competitivo, como sí lo hizo
-Microsoft. El primer iPhone ni siquiera tenía una tienda para aplicaciones de
-desarrolladores externos. Solo en 200 3 Steve Jobs decidió lanzar iTunes para Windows
-para que los usuarios de PC empezaran a utilizar el iPod con sus computadoras. Sin
-embargo, en el 2008 otros ejecutivos de Apple finalmente convencieron a Jobs
-de que abriera el sistema operativo de iPhone para que los desarrolladores externos
-pudieran crear sus propias aplicaciones tomándolo como base.
-David Yoffie y Michael Cusumano denominan “pensamiento plataformático” a la visión de
-futuro sistematizada que tuvo Gates y que le permitió detectar las implicancias de lo que el
-propio Jobs había compartido con él, estos autores subrayan que este sentido profundo
-también se aplica a los líderes de la industria tecnológica de la nueva generación, como
-Larry Page de Google ; el fundador de Facebook , Mark Zuckerberg ; Jeff Bezos de Amazon ,
-entre otros.
-Tomado de: https://actualidad.rt.com/actualidad/174788 -bill-gates -gano -steve -jobs.
+El Microsoft de Bill Gates consiguió dominar el mercado de las PC en solo unos años gracias a la capacidad de su fundador de comprender desde el principio el valor de la idea de desarrollar su plataforma informática, mientras que el creador de Apple , Steve Jobs , tardó 20 años en darse cuenta de su importancia. Al crear el sistema operativo Windows, Bill Gates decidió permitir a desarrolladores de otras empresas crear libremente aplicaciones de software basadas en su sistema operativo, es decir , abrazó con fuerza la competitividad. Gates no necesitó más a Jobs, pues tenía todo un entorno variado para hacer su producto competitivo. Gracias a ello Windows pudo construir todo un ecosistema de software masivo que le permitió dominar el mercado de las PC durante años. Steve Jobs, en cambio, siempre se centró más en elaborar productos perfectos que habitualmente carecían de un conjunto de socios que pudieran apoyarlos o sostenerlos a la vanguardia de un mercado extremadamente competitivo, como sí lo hizo Microsoft. El primer iPhone ni siquiera tenía una tienda para aplicaciones de desarrolladores externos. Solo en 200 3 Steve Jobs decidió lanzar iTunes para Windows para que los usuarios de PC empezaran a utilizar el iPod con sus computadoras. Sin embargo, en el 2008 otros ejecutivos de Apple finalmente convencieron a Jobs de que abriera el sistema operativo de iPhone para que los desarrolladores externos pudieran crear sus propias aplicaciones tomándolo como base. David Yoffie y Michael Cusumano denominan “pensamiento plataformático” a la visión de futuro sistematizada que tuvo Gates y que le permitió detectar las implicancias de lo que el propio Jobs había compartido con él, estos autores subrayan que este sentido profundo también se aplica a los líderes de la industria tecnológica de la nueva generación, como Larry Page de Google ; el fundador de Facebook , Mark Zuckerberg ; Jeff Bezos de Amazon , entre otros. Tomado de: https://actualidad.rt.com/actualidad/174788 -bill-gates -gano -steve -jobs.
 =====================PREGUNTA 1======================
 El texto se centra fundamentalmente en
 =====================ALTERNATIVAS======================
@@ -36,8 +12,7 @@ E. La visión de futuro de Gates y sus implicancias para las PC .
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-En el texto se contraponen dos visiones distintas, la de Gates marcada por
-el éxito y la apertura en la innovación y la de Jobs exclusivista y rezagada.
+En el texto se contraponen dos visiones distintas, la de Gates marcada por el éxito y la apertura en la innovación y la de Jobs exclusivista y rezagada.
 =====================PREGUNTA 2======================
 La palabra ECOSISTEMA tiene el sentido contextual de
 =====================ALTERNATIVAS======================
@@ -49,8 +24,7 @@ E. Medio ambiente.
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-Con el término se alude al contexto, entorno, favorable que creo Gates al
-permitir que otros usen su sistema operativo para desarrollar aplicaciones.
+Con el término se alude al contexto, entorno, favorable que creo Gates al permitir que otros usen su sistema operativo para desarrollar aplicaciones.
 =====================PREGUNTA 3======================
 Resulta incompatible afirmar, de acuerdo con el desarrollo textual, que
 =====================ALTERNATIVAS======================
@@ -62,8 +36,7 @@ E. La falta de socios para la innovación restringió la competitividad de Apple
 =====================ALTERNATIVA CORRECTA======================
 C
 =====================RAZONAMIENTO======================
-Este sentido profundo también se aplica a otros líderes de la industria
-tecnológica como Larry Page de Google , etc. Por ende, no es exclusivo de Gates.
+Este sentido profundo también se aplica a otros líderes de la industria tecnológica como Larry Page de Google , etc. Por ende, no es exclusivo de Gates.
 =====================PREGUNTA 4======================
 Es posible inferir que el primer IPhone
 =====================ALTERNATIVAS======================
@@ -75,9 +48,7 @@ E. Le permitió a su creador demostrar que también él poseía visión platafó
 =====================ALTERNATIVA CORRECTA======================
 A
 =====================RAZONAMIENTO======================
-Jobs siempre se centró más en elaborar productos perfectos. Por ende, el
-IPhone lo era, ello causó un impactó inicial que disminuyó al carecer de un entorno
-favorable para la competitividad.
+Jobs siempre se centró más en elaborar productos perfectos. Por ende, el IPhone lo era, ello causó un impactó inicial que disminuyó al carecer de un entorno favorable para la competitividad.
 =====================PREGUNTA 5======================
 Si Gates hubiera tenido la misma actitud de Jobs desde el inicio, entonces
 =====================ALTERNATIVAS======================
@@ -90,5 +61,4 @@ E. Se habría desatado un conflicto sostenido por la similitud de caracteres.
 =====================ALTERNATIVA CORRECTA======================
 D
 =====================RAZONAMIENTO======================
-Bajo esas condiciones la necesidad de sobrevivir los hubiera llevado a
-aliarse. Pero, no habrían sobrevivido mucho, pues no hubieran sido competitivos.
+Bajo esas condiciones la necesidad de sobrevivir los hubiera llevado a aliarse. Pero, no habrían sobrevivido mucho, pues no hubieran sido competitivos.
