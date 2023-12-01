@@ -1,11 +1,5 @@
 
 
-123123,123 ,student
-src/data/Usuarios/usuario_47763.bin
-
-kap,kap,student
-src/data/Usuarios/usuario_92025.bin
-
 Manuel,manu85,student
 src/data/Usuarios/usuario_28261.bin
 
