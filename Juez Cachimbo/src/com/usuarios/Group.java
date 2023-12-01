@@ -8,13 +8,11 @@ public class Group implements Serializable{
     private String id;
     private String name;
     private int numestudiantes;
-   
+    private ArrayList<Student> students;
+
     
     public Group() {
-        this.id = null;
-        this.name = null;
-        this.numestudiantes= 0;
-        students = new ArrayList<>();
+        
     }
     
     public int getNumestudiantes() {
@@ -24,9 +22,14 @@ public class Group implements Serializable{
     public void setNumestudiantes(int numestudiantes) {
         this.numestudiantes = numestudiantes;
     }
-    private ArrayList<Student> students;
 
+    public ArrayList<Student> getEstudiantes() {
+        return students;
+    }
 
+    public void setEstudiantes(ArrayList<Student> estudiantes) {
+        this.students = estudiantes;
+    }
 
     public String getId() {
         return id;
@@ -42,14 +45,6 @@ public class Group implements Serializable{
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    public ArrayList<Student> getStudents() {
-        return students;
-    }
-
-    public void setStudents(ArrayList<Student> students) {
-        this.students = students;
     }
 
     

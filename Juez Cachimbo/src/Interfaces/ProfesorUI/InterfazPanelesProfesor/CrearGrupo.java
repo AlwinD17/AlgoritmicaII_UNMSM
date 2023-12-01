@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JPanel.java to edit this template
- */
 package Interfaces.ProfesorUI.InterfazPanelesProfesor;
 
 import com.usuarios.Group;
@@ -14,9 +10,6 @@ import javax.swing.JPanel;
  */
 public class CrearGrupo extends javax.swing.JPanel {
 
-    /**
-     * Creates new form CrearGrupo
-     */
     public CrearGrupo() {
         initComponents();
     }

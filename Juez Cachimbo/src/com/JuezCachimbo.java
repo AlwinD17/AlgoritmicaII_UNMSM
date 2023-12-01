@@ -347,7 +347,7 @@ public class JuezCachimbo implements Conexion{
                 Profile profilePanel = new Profile();
                 
                 SwingUtilities.invokeLater(() -> {
-                    profilePanel.setDatos(alumno.getUserName(),alumno.getName(),alumno.getBirthdate(),alumno.getGroupId());
+                    profilePanel.setDatos(alumno.getUserName(),alumno.getName(),alumno.getBirthdate(),alumno.getGroupId(),alumno.getCorrectQuestions(),alumno.getIncorrectQuestions());
                     System.out.println("Setting nombre: " + alumno.getUserName());
                     mostrarPanel(profilePanel);
             });
