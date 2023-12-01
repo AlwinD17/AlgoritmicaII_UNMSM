@@ -54,6 +54,11 @@ public class Preguntas_MiniPanel extends javax.swing.JPanel {
         jRadioPregunta3.setText("jRadioButton3");
 
         jRadioPregunta4.setText("jRadioButton4");
+        jRadioPregunta4.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jRadioPregunta4ActionPerformed(evt);
+            }
+        });
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
         this.setLayout(layout);
@@ -68,14 +73,23 @@ public class Preguntas_MiniPanel extends javax.swing.JPanel {
                         .addComponent(jButton2))
                     .addGroup(layout.createSequentialGroup()
                         .addGap(28, 28, 28)
+                        .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, 297, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, 297, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                                .addComponent(jRadioPregunta2)
-                                .addComponent(jRadioPregunta1))
-                            .addComponent(jRadioPregunta3)
-                            .addComponent(jRadioPregunta4))))
-                .addContainerGap(75, Short.MAX_VALUE))
+                            .addGroup(layout.createSequentialGroup()
+                                .addContainerGap()
+                                .addComponent(jRadioPregunta4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                            .addGroup(layout.createSequentialGroup()
+                                .addContainerGap()
+                                .addComponent(jRadioPregunta3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                            .addGroup(layout.createSequentialGroup()
+                                .addContainerGap()
+                                .addComponent(jRadioPregunta2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                            .addGroup(layout.createSequentialGroup()
+                                .addContainerGap()
+                                .addComponent(jRadioPregunta1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
+                        .addGap(220, 220, 220)))
+                .addGap(75, 75, 75))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -86,15 +100,15 @@ public class Preguntas_MiniPanel extends javax.swing.JPanel {
                     .addComponent(jButton2))
                 .addGap(18, 18, 18)
                 .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGap(12, 12, 12)
                 .addComponent(jRadioPregunta1)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jRadioPregunta2)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(jRadioPregunta2)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jRadioPregunta3)
-                .addGap(18, 18, 18)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jRadioPregunta4)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(24, Short.MAX_VALUE))
         );
     }// </editor-fold>//GEN-END:initComponents
 
@@ -105,6 +119,10 @@ public class Preguntas_MiniPanel extends javax.swing.JPanel {
     modificarPregunta(jRadioPregunta4, "Pregunta 4");
 
     }//GEN-LAST:event_jButton1ActionPerformed
+
+    private void jRadioPregunta4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jRadioPregunta4ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jRadioPregunta4ActionPerformed
 
     private void modificarPregunta(JRadioButton radioButton, String pregunta) {
     String nuevoValor = JOptionPane.showInputDialog(pregunta + ":");
