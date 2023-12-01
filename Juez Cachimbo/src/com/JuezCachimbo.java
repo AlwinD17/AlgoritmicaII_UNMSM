@@ -164,7 +164,7 @@ public class JuezCachimbo implements Conexion{
         File[] archivos = carpeta.listFiles();
         int numTextos = archivos.length;
         
-        for(int i = 1; i<numTextos;i++){
+        for(int i = 1; i<=numTextos;i++){
             Text text = new Text();
             ArrayList<Question> questions = new ArrayList<>();
             String rutaText = ruta+"/"+Integer.toString(i)+".txt";
@@ -263,7 +263,7 @@ public class JuezCachimbo implements Conexion{
         File[] archivos = carpeta.listFiles();
         int numTextos = archivos.length;
         
-        for(int i = 1; i<numTextos;i++){
+        for(int i = 1; i<=numTextos;i++){
             Text text = new Text();
             ArrayList<Question> questions = new ArrayList<>();
             String rutaText = ruta+"/"+Integer.toString(i)+".txt";
