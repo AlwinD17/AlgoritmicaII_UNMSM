@@ -163,27 +163,9 @@ public class CrearGrupo extends javax.swing.JPanel {
 
     private void jButtonAgregarGrupoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonAgregarGrupoActionPerformed
         
-        String ruta = "src/data/Grupos/";
-        String rutaCompleta = ruta + generarNombre()+".bin";
-        int cantIntegrantes = Integer.parseInt(jTextFieldCantIntegrantes.getText());
-        String codigoGrupo = jTextFieldCodigoGrupo.getText();
-        String nomGrupo = jTextFieldNomGrupo.getText();
-
-        Group grupo = new Group();
-        grupo.setId(codigoGrupo);
-        grupo.setName(nomGrupo);
-        grupo.setNumestudiantes(cantIntegrantes);
-        ShowJPanel(new GrupoCreado());
-        Manage.serializarObjeto(rutaCompleta, grupo);
     }//GEN-LAST:event_jButtonAgregarGrupoActionPerformed
     
-    private static String generarNombre() {
-        String ruta = "src/data/Grupos";
-        File carpeta = new File(ruta);
-        File[] archivos = carpeta.listFiles();
-        int numGrupos = archivos.length;
-        return "grupo_" + (numGrupos+1); 
-    }
+    
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButtonAgregarGrupo;

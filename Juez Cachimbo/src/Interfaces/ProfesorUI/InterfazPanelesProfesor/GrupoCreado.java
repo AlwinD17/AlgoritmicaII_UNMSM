@@ -6,6 +6,7 @@ package Interfaces.ProfesorUI.InterfazPanelesProfesor;
 
 
 import com.usuarios.Group;
+import data.Manage;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
@@ -13,6 +14,7 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.LayoutManager;
 import java.awt.RenderingHints;
+import java.io.File;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
@@ -135,33 +137,45 @@ public class GrupoCreado extends CrearGrupo {
             .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, 156, javax.swing.GroupLayout.PREFERRED_SIZE)
         );
     }// </editor-fold>//GEN-END:initComponents
-
+    
+    private static String generarNombre() {
+        String ruta = "src/data/Grupos";
+        File carpeta = new File(ruta);
+        File[] archivos = carpeta.listFiles();
+        int numGrupos = archivos.length;
+        return "grupo_" + (numGrupos+1); 
+    }
+    
     private void jButtonEditarPanelActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonEditarPanelActionPerformed
-           String nuevoCodigo = JOptionPane.showInputDialog("Código:");
+        String ruta = "src/data/Grupos/";
+        String rutaCompleta = ruta + generarNombre()+".bin";
+        Group grupo = new Group(); 
+        
+        String nuevoCodigo = JOptionPane.showInputDialog("Código:");
             if (nuevoCodigo == null) {
-                // Se canceló la operación
                 return;
             }
-
-            // Obtener el nuevo grupo
-            String nuevoGrupo = obtenerNumero("Grupo:");
-            if (nuevoGrupo == null) {
-                // Se canceló la operación
+         
+       String nuevoGrupo = JOptionPane.showInputDialog("Grupo:");
+       if (nuevoGrupo == null) {
                 return;
-            }
+       }
 
-            // Obtener el nuevo número de integrantes
-            String nuevosIntegrantes = obtenerNumero("Integrantes:");
-            if (nuevosIntegrantes == null) {
-                // Se canceló la operación
-                return;
-            }
+        String nuevosIntegrantes = obtenerNumero("Integrantes:");
+        if (nuevosIntegrantes == null) {
+            return;
+        }
+        grupo.setName(nuevoGrupo);
+        grupo.setId(nuevoCodigo);
+        grupo.setNumestudiantes(Integer.parseInt(nuevosIntegrantes));
+        
+        Manage.serializarObjeto(rutaCompleta, grupo);
 
-            // Actualizar los JLabels con los nuevos valores
-            jLabelCodigo.setText("Código: " + nuevoCodigo);
-            jLabelGrupo.setText("Grupo: " + nuevoGrupo);
-            jLabelIntegrantes.setText("Integrantes: " + nuevosIntegrantes);
-            }
+        // Actualizar los JLabels con los nuevos valores
+        jLabelCodigo.setText("Código: " + nuevoCodigo);
+        jLabelGrupo.setText("Grupo: " + nuevoGrupo);
+        jLabelIntegrantes.setText("Integrantes: " + nuevosIntegrantes);
+        }
     
     
             private String obtenerNumero(String mensaje) {
@@ -174,7 +188,7 @@ public class GrupoCreado extends CrearGrupo {
                         }
 
                         // Intentar convertir el valor a un número
-                        Double.parseDouble(valor);
+                        Integer.parseInt(valor);
                         return valor;  // Si la conversión fue exitosa, devolver el valor
 
                     } catch (NumberFormatException e) {
