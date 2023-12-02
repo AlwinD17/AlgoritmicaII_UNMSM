@@ -4,6 +4,8 @@ package Interfaces.LoginUI;
 
 import com.JuezCachimbo;
 import java.awt.BorderLayout;
+import java.awt.event.WindowAdapter;
+import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 public class frmLogin extends javax.swing.JFrame {
@@ -109,8 +111,9 @@ public class frmLogin extends javax.swing.JFrame {
     }//GEN-LAST:event_jTextusuarioActionPerformed
  
     private void jButtonregistrarseActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonregistrarseActionPerformed
-                frmRegistro fr=new frmRegistro();
-        fr.setVisible(true);// TODO add your handling code here:
+        frmRegistro fr = new frmRegistro();
+        fr.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+        fr.setVisible(true); 
     }//GEN-LAST:event_jButtonregistrarseActionPerformed
 
     private void contraseñaFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_contraseñaFieldActionPerformed

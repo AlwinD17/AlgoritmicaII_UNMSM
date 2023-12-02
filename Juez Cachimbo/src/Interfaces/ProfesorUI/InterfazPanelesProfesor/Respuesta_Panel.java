@@ -78,7 +78,7 @@ public class Respuesta_Panel extends javax.swing.JInternalFrame {
                 .addComponent(jLabel1)
                 .addGap(135, 135, 135)
                 .addComponent(jButtonAñadirRespuesta)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(69, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -88,7 +88,7 @@ public class Respuesta_Panel extends javax.swing.JInternalFrame {
                     .addComponent(jLabel1)
                     .addComponent(jButtonAñadirRespuesta))
                 .addGap(18, 18, 18)
-                .addComponent(jScrollPane1)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 460, Short.MAX_VALUE)
                 .addContainerGap())
         );
 

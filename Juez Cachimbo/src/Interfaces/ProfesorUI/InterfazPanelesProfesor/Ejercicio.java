@@ -10,6 +10,7 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.LayoutManager;
 import java.awt.RenderingHints;
+import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 /**
@@ -86,8 +87,9 @@ public class Ejercicio extends javax.swing.JPanel {
 
     private void jButtonCrearGrupoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonCrearGrupoActionPerformed
 
-        CrearEjercicio ce=new CrearEjercicio();
-        ce.setVisible(true);
+            CrearEjercicio ce = new CrearEjercicio();
+            ce.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE); // Configurar el comportamiento de cierre
+            ce.setVisible(true);
     }//GEN-LAST:event_jButtonCrearGrupoActionPerformed
 
 
