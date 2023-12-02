@@ -165,17 +165,31 @@ public class JuezCachimbo implements Conexion{
     }
    
 
-    public void procesarTextosStudent(){
+    public void procesarTextosStudent() {
         String ruta = "src/data/textos";
         File carpeta = new File(ruta);
         File[] archivos = carpeta.listFiles();
+
+        if (archivos == null) {
+            System.out.println("La carpeta de textos no existe o está vacía.");
+            return;
+        }
+
         int numTextos = archivos.length;
-        
-        for(int i = 1; i<=numTextos;i++){
+
+        for (int i = 1; i <= numTextos; i++) {
             Text text = new Text();
             ArrayList<Question> questions = new ArrayList<>();
-            String rutaText = ruta+"/"+Integer.toString(i)+".txt";
-            String nuevaRuta = "src/data/textosActivos/"+Integer.toString(i)+".ser";
+            String rutaText = ruta + "/" + Integer.toString(i) + ".txt";
+            String nuevaRuta = "src/data/textosActivos/" + Integer.toString(i) + ".ser";
+
+            // Añadir esta comprobación para verificar la existencia del archivo
+            File file = new File(rutaText);
+            if (!file.exists()) {
+                System.out.println("No se encontró el archivo: " + file.getAbsolutePath());
+                continue; // Saltar a la siguiente iteración si el archivo no existe
+            }
+
             try (BufferedReader br = new BufferedReader(new FileReader(rutaText))) {
                 String line;
                 String id = null;
@@ -246,35 +260,49 @@ public class JuezCachimbo implements Conexion{
                     text.setContent(textContent.toString().trim());
                     text.setId(id);
                     text.setQuestions(questions);
-                }
-            } catch (IOException e) {
+                }} catch (IOException e) {
                 e.printStackTrace();
             }
-            if(alumno.numReadTexts != 0){
-                for(int j=0;i<alumno.numReadTexts;i++){
-                    if(alumno.readTexts.get(j).equals(text.getId())){
+
+            if (alumno.numReadTexts != 0) {
+                for (int j = 0; j < alumno.numReadTexts; j++) {
+                    if (alumno.readTexts.get(j).equals(text.getId())) {
                         textosActivos.add(text);
                         continue;
                     }
-                    text=null;
+                    text = null;
                 }
             }
             textosActivos.add(text);
         }
         System.out.println(textosActivos.size());
     }
+
     
-    public void procesarTextos(){
+    public void procesarTextos() {
         String ruta = "src/data/textos";
         File carpeta = new File(ruta);
         File[] archivos = carpeta.listFiles();
+
+        if (archivos == null) {
+            System.out.println("La carpeta de textos no existe o está vacía.");
+            return;
+        }
+
         int numTextos = archivos.length;
-        
-        for(int i = 1; i<=numTextos;i++){
+
+        for (int i = 1; i <= numTextos; i++) {
             Text text = new Text();
             ArrayList<Question> questions = new ArrayList<>();
-            String rutaText = ruta+"/"+Integer.toString(i)+".txt";
-            String nuevaRuta = "src/data/textosActivos/"+Integer.toString(i)+".ser";
+            String rutaText = ruta + "/" + Integer.toString(i) + ".txt";
+
+            // Añadir esta comprobación para verificar la existencia del archivo
+            File file = new File(rutaText);
+            if (!file.exists()) {
+                System.out.println("No se encontró el archivo: " + file.getAbsolutePath());
+                continue; // Saltar a la siguiente iteración si el archivo no existe
+            }
+
             try (BufferedReader br = new BufferedReader(new FileReader(rutaText))) {
                 String line;
                 String id = null;
@@ -345,8 +373,7 @@ public class JuezCachimbo implements Conexion{
                     text.setContent(textContent.toString().trim());
                     text.setId(id);
                     text.setQuestions(questions);
-                }
-            } catch (IOException e) {
+            }} catch (IOException e) {
                 e.printStackTrace();
             }
             textosActivos.add(text);

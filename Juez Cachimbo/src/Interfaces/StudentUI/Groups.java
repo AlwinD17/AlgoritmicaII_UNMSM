@@ -161,7 +161,6 @@ public class Groups extends javax.swing.JPanel {
     }//GEN-LAST:event_jButton1ActionPerformed
     
     public void mostrarGruposCreados(ArrayList<Group> gruposCreados) {
-        // Elimina todos los componentes existentes en el panel de textos
         jPanel1.removeAll();
 
        if (gruposCreados != null) {
@@ -172,7 +171,7 @@ public class Groups extends javax.swing.JPanel {
        }else{
                  System.out.println("La lista de grupos es nula");   
                     }
-        // Revalida y repinta el panel de textos para reflejar los cambios
+        
         jPanel1.revalidate();
         jPanel1.repaint();
     }
