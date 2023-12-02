@@ -16,6 +16,7 @@ import static Interfaces.StudentUI.StudentMenu.panelPrincipal;
 
 import com.ejercicios.Question;
 import com.ejercicios.Text;
+import com.usuarios.Group;
 
 import com.usuarios.Student;
 import com.usuarios.teacher;
@@ -40,12 +41,16 @@ public class JuezCachimbo implements Conexion{
     private String tipo;
     private ArrayList<Text> textosActivos;
     private final Exercises exercisesPanel;
+    private ArrayList<Group> gruposCreados;
+    private final Groups groupPanel;
 
     public JuezCachimbo() {
         this.loginView = new frmLogin(this);
         textosActivos = new ArrayList<>();
+        gruposCreados = new ArrayList<>();
         this.manage = new Manage();
         this.exercisesPanel = new Exercises();
+        this.groupPanel = new Groups();
     }
 
     public void handleLogin(String username, String password) {
@@ -65,6 +70,7 @@ public class JuezCachimbo implements Conexion{
                     System.out.println("Nombre del profesor: " + profesor.getName());
 
                     procesarTextos();
+                    procesarGrupos();
                     loginView.dispose();
                     new MenuProfesores(this).setVisible(true);
                     return;
@@ -82,6 +88,7 @@ public class JuezCachimbo implements Conexion{
                     System.out.println("Nombre del estudiante: " + alumno.getUserName());
 
                     procesarTextosStudent();
+                    procesarGrupos();
                     loginView.dispose();
                     new StudentMenu(this).setVisible(true);
                     return;
@@ -371,6 +378,13 @@ public class JuezCachimbo implements Conexion{
                 break;
             case "Groups":
                 mostrarPanel(new Groups());
+                SwingUtilities.invokeLater(() -> {
+
+                    // Mostrar los textos activos en el panel de ejercicios
+                    groupPanel.mostrarGruposCreados(gruposCreados);
+                    mostrarPanel(groupPanel);
+
+                });
                 break;
 
         }
@@ -418,6 +432,24 @@ public class JuezCachimbo implements Conexion{
         panelPrincipal.add(panel, BorderLayout.CENTER);
         panelPrincipal.revalidate();
         panelPrincipal.repaint();
+    }
+    
+    private void procesarGrupos(){
+        String ruta = "src/data/Grupos";
+        File carpeta = new File(ruta);
+        File[] archivos = carpeta.listFiles();
+        int numGrupos = archivos.length;
+        
+        for(int i=1;i<=numGrupos;i++){
+            String rutaCompleta = ruta+"/grupo_"+Integer.toString(i)+".bin";
+             try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(rutaCompleta))) {
+                    Group grupo = (Group) ois.readObject();
+                    gruposCreados.add(grupo);
+             } catch (IOException | ClassNotFoundException e) {
+                e.printStackTrace();
+             }
+
+        }
     }
 }
 

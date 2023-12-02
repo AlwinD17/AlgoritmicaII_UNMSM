@@ -1,5 +1,6 @@
 package com.usuarios;
 
+import java.io.Serial;
 import java.io.Serializable;
 import java.util.ArrayList;
 
@@ -9,11 +10,17 @@ public class Group implements Serializable{
     private String name;
     private int numestudiantes;
     private ArrayList<Student> students;
-
+    
     
     public Group() {
-        
+        this.id=null;
+        this.name=null;
+        this.numestudiantes=0;
+        students = new ArrayList<>();
     }
+    
+    @Serial
+    private static final long serialVersionUID = 1L;
     
     public int getNumestudiantes() {
         return numestudiantes;
@@ -51,4 +58,10 @@ public class Group implements Serializable{
     public void addStudent(Student student){
         students.add(student);
     }
+    
+    public int getCantidadIntegrantes(){
+        return students.size();
+    }
 }
+
+    
