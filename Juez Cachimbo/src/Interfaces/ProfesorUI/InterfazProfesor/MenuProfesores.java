@@ -113,7 +113,7 @@ public class MenuProfesores extends javax.swing.JFrame {
         jButton1.setText("Cerrar Sesión");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
+                
             }
         });
 
@@ -318,7 +318,7 @@ public class MenuProfesores extends javax.swing.JFrame {
     private javax.swing.JButton jButtonPerfil;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JPanel jPanel1;
-    private javax.swing.JPanel jPanel2;
+    public static javax.swing.JPanel jPanel2;
     private javax.swing.JPanel jPanelEjercicio;
     private javax.swing.JPanel jPanelGrupo;
     private javax.swing.JPanel jPanelPerfil;
